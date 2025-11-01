@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 10:39 UTC
-# Version: 2025.1101.1039.09
+# Last modified: 01 Nov 2025 18:40 UTC
+# Version: 2025.1101.1840.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6434
+# Number of entries: 6429
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -152,7 +152,6 @@ local=/4everproxy.com/
 local=/ns1.4netguides.org/
 local=/ns2.4netguides.org/
 local=/4proxy.de/
-local=/4youproxyweb.com/
 local=/51576162.ru/
 local=/adh.51st.top/
 local=/alidns.51top.info/
@@ -173,9 +172,6 @@ local=/dns.5ososea.com/
 local=/family.5ososea.com/
 local=/kids.5ososea.com/
 local=/dns.688447.xyz/
-local=/blacknig-ger.69.mu/
-local=/chickenzestyhawktuahbigblacknigfattass.69.mu/
-local=/i-ready.69.mu/
 local=/dns.6level.net/
 local=/agh.710523.xyz/
 local=/71745718.online/
@@ -185,7 +181,6 @@ local=/7713.info/
 local=/777schoolutilities.website/
 local=/777surfer.info/
 local=/ns.77ll.ru/
-local=/tr1-dns.7leecher.ir/
 local=/dns.7vpn.com/
 local=/ad.800801.xyz/
 local=/dns.853852.xyz/

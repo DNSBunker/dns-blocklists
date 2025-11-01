@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Oct 2025 23:29 UTC
-# Version: 2025.1022.2329.53
+# Last modified: 01 Nov 2025 18:39 UTC
+# Version: 2025.1101.1839.20
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1468
+# Number of entries: 1467
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -50,7 +50,6 @@
 *.64-b.it
 *.6600.org
 *.688.org
-*.69.mu
 *.7766.org
 *.77qac.com
 *.77uam.com

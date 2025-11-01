@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761989280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762018200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,8 +16,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Nov 2025 09:28 UTC
-; Version: 2025.1101.0928.36
+; Last modified: 01 Nov 2025 17:30 UTC
+; Version: 2025.1101.1730.03
 ; Syntax: RPZ
 ; Number of entries: 17842
 ;
@@ -6347,6 +6347,8 @@ urlshor.com CNAME .
 *.urlshor.com CNAME .
 urlshort3x.com CNAME .
 *.urlshort3x.com CNAME .
+urlshort4.com CNAME .
+*.urlshort4.com CNAME .
 urlshortenerapi.com CNAME .
 *.urlshortenerapi.com CNAME .
 urlshortenerking.com CNAME .
@@ -14081,8 +14083,6 @@ yuk.nu CNAME .
 *.yuk.nu CNAME .
 13k.nz CNAME .
 *.13k.nz CNAME .
-301.nz CNAME .
-*.301.nz CNAME .
 ierp.co.nz CNAME .
 *.ierp.co.nz CNAME .
 xx.co.nz CNAME .
@@ -14273,8 +14273,6 @@ sah.ooo CNAME .
 *.1wrd.org CNAME .
 3dsecure.org CNAME .
 *.3dsecure.org CNAME .
-6ct.org CNAME .
-*.6ct.org CNAME .
 a.6mqw.org CNAME .
 *.a.6mqw.org CNAME .
 9g9.org CNAME .
@@ -14633,6 +14631,8 @@ urcode.org CNAME .
 *.urcode.org CNAME .
 url5.org CNAME .
 *.url5.org CNAME .
+urldirect21-1.org CNAME .
+*.urldirect21-1.org CNAME .
 urlexpander.org CNAME .
 *.urlexpander.org CNAME .
 urlshortner.org CNAME .

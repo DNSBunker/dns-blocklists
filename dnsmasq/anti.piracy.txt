@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 02:23 UTC
-# Version: 2025.1101.0223.03
+# Last modified: 01 Nov 2025 18:33 UTC
+# Version: 2025.1101.1833.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11212
+# Number of entries: 11238
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -247,7 +247,6 @@ local=/321n.net/
 local=/337hhh.xyz/
 local=/33filmstreaming.com/
 local=/33rapfr.com/
-local=/33series-stream.com/
 local=/33seriestreaming.rip/
 local=/33seriestreaming.site/
 local=/pcd.345.pl/
@@ -2056,6 +2055,7 @@ local=/seriezloaded.com.ng/
 local=/skynet.com.bd/
 local=/slnisp.com.bd/
 local=/soap2day.com.co/
+local=/starflix.com.br/
 local=/streamm4u.com.co/
 local=/strimki.com.pl/
 local=/thepiratebays.com.se/
@@ -3604,8 +3604,15 @@ local=/flashfilms-hd.com/
 local=/flashfilms-hd.top/
 local=/flashnetbd.com/
 local=/flashtorrents.org/
+local=/flemmix.cam/
+local=/flemmix.cc/
 local=/flemmix.mom/
+local=/flemmix.monster/
+local=/flemmix.my/
 local=/flemmix.sbs/
+local=/flemmix.space/
+local=/flemmix.town/
+local=/flemmix.wiki/
 local=/flenix.net/
 local=/flextorrents.com/
 local=/flibustier64.com/
@@ -3859,6 +3866,9 @@ local=/bittorrent.frozen-layer.net/
 local=/tracker.frozen-layer.net/
 local=/frozengust85.pro/
 local=/fruitytuts.com/
+local=/fs4.lol/
+local=/fs6.lol/
+local=/fs8.lol/
 local=/fsapi.xyz/
 local=/fsave.net/
 local=/fshare.vn/
@@ -4386,6 +4396,7 @@ local=/tracker.hddolby.com/
 local=/hdencode.com/
 local=/hdencode.org/
 local=/hdf.world/
+local=/hdfilme.blog/
 local=/hdfilme.cloud/
 local=/hdfilme.cx/
 local=/hdfilme.food/
@@ -4843,6 +4854,7 @@ local=/iartbot.ru/
 local=/movies.iatout.fr/
 local=/ibdplex.net/
 local=/ibit.to/
+local=/ibooks.bz/
 local=/ibooks.to/
 local=/iboxbd.online/
 local=/trackers.ibzu.me/
@@ -5463,6 +5475,7 @@ local=/knaben.org/
 local=/knaben.ru/
 local=/knaben.xyz/
 local=/knapsu.eu/
+local=/knigaudio.online/
 local=/kodiapps.com/
 local=/kokodayo.site/
 local=/kolompc.com/
@@ -5840,6 +5853,7 @@ local=/mangafire.to/
 local=/mangakakalot.tv/
 local=/mangamura.org/
 local=/manganelo.tv/
+local=/manganime.digital/
 local=/mangaokusana.com/
 local=/mangapark.net/
 local=/mangapoisk.io/
@@ -6217,6 +6231,7 @@ local=/movieajip.online/
 local=/moviebazar.net/
 local=/moviebb.net/
 local=/moviebeamz.com/
+local=/moviebite.cc/
 local=/movieblogarea.com/
 local=/movieboxbd.com/
 local=/moviecluphd.store/
@@ -9779,8 +9794,18 @@ local=/uakino.club/
 local=/uakino.me/
 local=/uakino-bay.net/
 local=/uakino-lu.com/
+local=/uakinogo.art/
+local=/uakinogo.co/
 local=/uakinogo.com/
+local=/uakinogo.day/
+local=/uakinogo.ec/
+local=/uakinogo.io/
+local=/uakinogo.nl/
 local=/uakinogo.online/
+local=/uakinogo.org/
+local=/uakinogo.top/
+local=/uakinogo.tv/
+local=/uakinogo.vip/
 local=/uapkpro.com/
 local=/uaserial.club/
 local=/uaserial.tv/
@@ -10388,6 +10413,7 @@ local=/videzz.net/
 local=/vidhog.com/
 local=/vidics.com/
 local=/vidics.to/
+local=/vidify.top/
 local=/vidjoy.pro/
 local=/vidlink.org/
 local=/vidlox.me/

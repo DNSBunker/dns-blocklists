@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761993540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762022400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Nov 2025 10:39 UTC
-; Version: 2025.1101.1039.09
+; Last modified: 01 Nov 2025 18:40 UTC
+; Version: 2025.1101.1840.34
 ; Syntax: RPZ
-; Number of entries: 12868
+; Number of entries: 12858
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1081,8 +1081,6 @@ dns.2poi.com CNAME .
 *.2r34.com CNAME .
 4everproxy.com CNAME .
 *.4everproxy.com CNAME .
-4youproxyweb.com CNAME .
-*.4youproxyweb.com CNAME .
 www-vpn.52oupa.com CNAME .
 *.www-vpn.52oupa.com CNAME .
 57824.com CNAME .
@@ -7129,8 +7127,6 @@ net01.youcef.io CNAME .
 *.net01.youcef.io CNAME .
 zorrovpn.io CNAME .
 *.zorrovpn.io CNAME .
-tr1-dns.7leecher.ir CNAME .
-*.tr1-dns.7leecher.ir CNAME .
 grgrgrkeepcalmkeepcalm.asatid12.ir CNAME .
 *.grgrgrkeepcalmkeepcalm.asatid12.ir CNAME .
 ougonokaze.cheftayebeh.ir CNAME .
@@ -7813,12 +7809,6 @@ kavkaz.monster CNAME .
 *.kavkaz.monster CNAME .
 dns.sev.monster CNAME .
 *.dns.sev.monster CNAME .
-blacknig-ger.69.mu CNAME .
-*.blacknig-ger.69.mu CNAME .
-chickenzestyhawktuahbigblacknigfattass.69.mu CNAME .
-*.chickenzestyhawktuahbigblacknigfattass.69.mu CNAME .
-i-ready.69.mu CNAME .
-*.i-ready.69.mu CNAME .
 dns.vaguthu.mv CNAME .
 *.dns.vaguthu.mv CNAME .
 btg.go4it.com.mx CNAME .

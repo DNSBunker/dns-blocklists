@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 09:26 UTC
-# Version: 2025.1101.0926.50
+# Last modified: 01 Nov 2025 17:28 UTC
+# Version: 2025.1101.1728.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14205
+# Number of entries: 14204
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -57,7 +57,6 @@ local=/6-drugs.com/
 local=/66new-bike.com/
 local=/7-drugs.com/
 local=/7-order.com/
-local=/746fr228.com/
 local=/746fr229.com/
 local=/74days.com/
 local=/74invest.com/

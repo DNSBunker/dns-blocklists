@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 10:38 UTC
-# Version: 2025.1101.1038.35
+# Last modified: 01 Nov 2025 18:39 UTC
+# Version: 2025.1101.1839.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3402
+# Number of entries: 3401
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -110,7 +110,6 @@ local=/agh.710523.xyz/
 local=/ayman-dns.731my.com/
 local=/dns.73zls.com/
 local=/ns.77ll.ru/
-local=/tr1-dns.7leecher.ir/
 local=/dns.7vpn.com/
 local=/ad.800801.xyz/
 local=/dns.853852.xyz/

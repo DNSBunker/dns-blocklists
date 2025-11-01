@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Oct 2025 23:29 UTC
-# Version: 2025.1022.2329.53
+# Last modified: 01 Nov 2025 18:39 UTC
+# Version: 2025.1101.1839.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1468
+# Number of entries: 1467
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -50,7 +50,6 @@ local=/4twenty.us/
 local=/64-b.it/
 local=/6600.org/
 local=/688.org/
-local=/69.mu/
 local=/7766.org/
 local=/77qac.com/
 local=/77uam.com/

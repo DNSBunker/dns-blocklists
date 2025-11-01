@@ -12,8 +12,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Nov 2025 09:28 UTC
-# Version: 2025.1101.0928.36
+# Last modified: 01 Nov 2025 17:30 UTC
+# Version: 2025.1101.1730.03
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 8921
 #
@@ -199,7 +199,6 @@ local=/2ya.com/
 local=/3.cn/
 local=/3.ly/
 local=/301.link/
-local=/301.nz/
 local=/301.tv/
 local=/301l.ir/
 local=/30na.ma/
@@ -307,7 +306,6 @@ local=/66biolinks.com/
 local=/69run.fun/
 local=/6b.cz/
 local=/6bit.in/
-local=/6ct.org/
 local=/6du.in/
 local=/6g6.eu/
 local=/6mm.in/
@@ -7836,6 +7834,7 @@ local=/urlcut.com/
 local=/urlcut.cv/
 local=/urlcut.in/
 local=/urlday.com/
+local=/urldirect21-1.org/
 local=/urldn.com/
 local=/urle.me/
 local=/urlenco.de/
@@ -7924,6 +7923,7 @@ local=/urlshort.dev/
 local=/urlshort.rest/
 local=/urlshort.xyz/
 local=/urlshort3x.com/
+local=/urlshort4.com/
 local=/urlshorten.link/
 local=/urlshortener.at/
 local=/urlshortener.best/
