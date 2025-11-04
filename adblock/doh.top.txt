@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Nov 2025 02:33 UTC
-! Version: 2025.1104.0233.58
+! Last modified: 04 Nov 2025 10:31 UTC
+! Version: 2025.1104.1031.50
 ! Syntax: AdBlock
-! Number of entries: 506
+! Number of entries: 501
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -21,7 +21,6 @@
 ||233py.com^
 ||dns.240527.xyz^
 ||doh.360.cn^
-||dot.360.cn^
 ||3dns.eu^
 ||dns.3wv.de^
 ||vpn.4-the.win^
@@ -45,7 +44,6 @@
 ||ahadns.net^
 ||blitz-setup.ahadns.com^
 ||dns.akbxr.com^
-||dnsnl.alekberg.net^
 ||httpdns.alicdn.com^
 ||alidns.com^
 ||resolvers-cn.httpdns.aliyuncs.com^
@@ -59,8 +57,6 @@
 ||dns.artikel10.org^
 ||dandelionsprout.asuscomm.com^
 ||dohtrial.att.net^
-||doh1.b-cdn.net^
-||doh2.b-cdn.net^
 ||httpsdns.baidu.com^
 ||httpdns.baidubce.com^
 ||bazooki-infra.dev^
@@ -80,8 +76,6 @@
 ||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
 ||doh-sg.blahdns.com^
-||dot-de.blahdns.com^
-||dot-sg.blahdns.com^
 ||example.doh.blockerdns.com^
 ||bluemood.me^
 ||d.bod.lol^
@@ -114,13 +108,13 @@
 ||sbdns.co.in^
 ||dns.7sec.com.br^
 ||dns.weixin.qq.com.cn^
+||dns.redhosting.com.ar^
 ||commons.host^
 ||comss.one^
 ||dns1.conne.net^
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
-||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptroute.com^
 ||cubedns.com^
@@ -132,12 +126,9 @@
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
 ||dns.decloudus.com^
-||doh.defaultroutes.de^
 ||digitale-gesellschaft.ch^
 ||dns.digitalsize.net^
 ||doh.disconnect.app^
-||fdns1.dismail.de^
-||fdns2.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -168,15 +159,10 @@
 ||dnsguard.pub^
 ||dns.dnshome.de^
 ||doh.dnslify.com^
-||a.ns.dnslify.com^
-||b.ns.dnslify.com^
-||b.family.ns.dnslify.com^
-||a.safe.ns.dnslify.com^
 ||dnslow.me^
 ||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||dns.dnswarden.com^
-||doh.dnswarden.com^
 ||doh.beauty^
 ||doh.buzz^
 ||doh.li^
@@ -203,8 +189,6 @@
 ||dns.eliv.kr^
 ||eth.link^
 ||opennic1.eth-services.de^
-||pdns.faelix.net^
-||rdns.faelix.net^
 ||dns.faked.org^
 ||dnsvps.familiamv.net^
 ||dns.fancyorg.at^
@@ -212,7 +196,6 @@
 ||ns0.fdn.fr^
 ||ns1.fdn.fr^
 ||doh.ffmuc.net^
-||dot.ffmuc.net^
 ||fidelius.top^
 ||doh.flashstart.com^
 ||dns01.flm9.net^
@@ -234,22 +217,18 @@
 ||dns.gamban.com^
 ||getdnsapi.net^
 ||gibblets.top^
-||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||moph.go.th^
-||privacydns.go6lab.si^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||dns.guard.io^
 ||gztech.me^
-||query.hdns.io^
 ||httpdns.ocloud.heytapmobi.com^
 ||httpdns.push.heytapmobi.com^
 ||httpdns-push.heytapmobile.com^
 ||hitian.me^
 ||pihole4.hoerli.net^
-||dns.hostux.net^
 ||hshh.org^
 ||httpdns.pro^
 ||httpdns.huaweicloud.com^
@@ -284,11 +263,9 @@
 ||landerbrauver.ru^
 ||lastentarvike.fi^
 ||eu1.dns.lavate.ch^
-||us1.dns.lavate.ch^
 ||leecurrylawfirm.com^
 ||lelux.fi^
 ||doh.libredns.gr^
-||dot.libredns.gr^
 ||loadlow.me^
 ||maqgie.xyz^
 ||masters-of-cloud.de^
@@ -304,10 +281,11 @@
 ||dns.mullvad.net^
 ||doh.mullvad.net^
 ||muxyuji.ru^
+||dns.pnh.my.id^
+||dns.repinger.my.id^
 ||dns.velyn.my.id^
 ||dns.vmath.my.id^
 ||myadg.ru^
-||adblock.mydns.network^
 ||chungocoai.name.vn^
 ||de-fra-w-p-1.nashkan.net^
 ||de-fsn-w-p-1.nashkan.net^
@@ -318,10 +296,10 @@
 ||httpdns.n.netease.com^
 ||httpdns-sdk.n.netease.com^
 ||cube.neubsi.at^
+||dns.neutopia.org^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
 ||dns2.nextdns.io^
-||edge.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^
@@ -329,6 +307,7 @@
 ||nicsezcheckfbi.gov^
 ||dns.njal.la^
 ||sink.nolo.ltd^
+||dns.paulo.nom.za^
 ||dns1.nordvpn.com^
 ||dns.notjakob.com^
 ||ns3.com^
@@ -357,17 +336,25 @@
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
 ||resolver.dnsprivacy.org.uk^
-||rpz-public-resolver1.rrdns.pch.net^
+||dns.pccoach.nl^
+||dns.peb-schmidt.de^
+||dns.pernika.net^
 ||darya.persiannit.net^
+||dns.petqa.ru^
+||dns.pierzchlewicz.pl^
 ||pluton.plan9-dns.com^
 ||pm7051-br.xyz^
 ||pm9352-bd.xyz^
+||dns.porteii.com^
 ||doh.powerdns.org^
 ||sundalandia.pp.ua^
+||dns.pragmasec.nl^
 ||de.dns.privex.io^
 ||nl.dns.privex.io^
 ||project-evoex.de^
+||dns.psociety.de^
 ||publicdnsserver.com^
+||dns.pumpkinvrar.com^
 ||puredns.org^
 ||dns-privacy.puregeni.us^
 ||dns.qq.com^
@@ -376,42 +363,52 @@
 ||paydns.weixin.qq.com^
 ||udns.weixin.qq.com^
 ||ns1.qquack.org^
+||dns.qrtz.club^
 ||dns.quad9.net^
 ||dns-nosec.quad9.net^
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
-||dns13.quad9.net^
 ||dns9.quad9.net^
-||dns.quickline.ch^
 ||doh.quickline.ch^
+||dns.quiet.rocks^
 ||r1bnc.com^
+||dns.rabbitdns.org^
 ||ns.ral9005.org^
 ||rayneau.fr^
 ||dns.rbn.gr^
+||dns.reckoningslug.name^
+||dns.redvau.lt^
+||dns.reitmeier.me^
+||dns.renardyre.com^
+||dns.repinger.com^
+||dns.repressoh.it^
 ||dnspub.restena.lu^
+||dns.retakecs.com^
 ||rethinkdns.com^
 ||revelio.top^
 ||newd.rezyro.com^
 ||ricko.is^
+||dns.rin.sh^
+||dns.roedel.cloud^
+||dns.ronc.ru^
+||dns.rotunneling.net^
 ||dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
 ||rumpelsepp.org^
 ||dns1.ryan-palmer.com^
 ||safeservedns.com^
 ||doh.safesurfer.io^
+||dns.sarak.as^
+||dns.sarakas.net^
 ||ns1.sc-lezhi.com^
 ||schimtar.com^
-||doh.seby.io^
+||2.dnscrypt-cert.dns.seby.io^
 ||doh-2.seby.io^
 ||dns.seia.io^
 ||dns1.serdcebolit.ru^
 ||d2.shabi.icu^
 ||shalenkov.dev^
-||free.shecan.ir^
-||dnsovertls.sinodun.com^
-||dnsovertls1.sinodun.com^
-||dnsovertls3.sinodun.com^
 ||sitdns.com^
 ||clientdns3.softcom.net^
 ||solaxy.live^
@@ -429,7 +426,6 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
-||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^
@@ -497,7 +493,6 @@
 ||xbcpb668.com^
 ||xenergy.cc^
 ||doh.xfinity.com^
-||dot.xfinity.com^
 ||doh2.gslb2.xfinity.com^
 ||dns.xlion.tw^
 ||xn--durhre-yxa.de^

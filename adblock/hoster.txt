@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Nov 2025 01:55 UTC
-! Version: 2025.1104.0155.23
+! Last modified: 04 Nov 2025 09:54 UTC
+! Version: 2025.1104.0954.19
 ! Syntax: AdBlock
-! Number of entries: 1327
+! Number of entries: 1325
 !
 ||000a.de^
 ||000space.com^
@@ -1329,8 +1329,6 @@
 ||za.com^
 ||za.gp^
 ||za.net^
-||zapacesauto.shop^
-||zepatifcommerce.shop^
 ||zohosites.com^
 ||zoomshare.com^
 ||zustimmen.de^

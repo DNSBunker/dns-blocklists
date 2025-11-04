@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762219680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762248420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Nov 2025 01:28 UTC
-; Version: 2025.1104.0128.10
+; Last modified: 04 Nov 2025 09:27 UTC
+; Version: 2025.1104.0927.39
 ; Syntax: RPZ
-; Number of entries: 18502
+; Number of entries: 18444
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -8671,8 +8671,6 @@ brx.im CNAME .
 *.brx.im CNAME .
 ccj.im CNAME .
 *.ccj.im CNAME .
-ctc.im CNAME .
-*.ctc.im CNAME .
 curl.im CNAME .
 *.curl.im CNAME .
 due.im CNAME .
@@ -10957,18 +10955,6 @@ slink.lat CNAME .
 *.slink.lat CNAME .
 tvt.lat CNAME .
 *.tvt.lat CNAME .
-whatsapp2.lat CNAME .
-*.whatsapp2.lat CNAME .
-whatsapp2d.lat CNAME .
-*.whatsapp2d.lat CNAME .
-whatsapp3a.lat CNAME .
-*.whatsapp3a.lat CNAME .
-whatsapp3h.lat CNAME .
-*.whatsapp3h.lat CNAME .
-whatsapp4e.lat CNAME .
-*.whatsapp4e.lat CNAME .
-whatsapp9.lat CNAME .
-*.whatsapp9.lat CNAME .
 whcs.law CNAME .
 *.whcs.law CNAME .
 1z.lc CNAME .
@@ -12327,18 +12313,6 @@ webprotech.live CNAME .
 *.webprotech.live CNAME .
 webyank4d.live CNAME .
 *.webyank4d.live CNAME .
-whatsapp2g.live CNAME .
-*.whatsapp2g.live CNAME .
-whatsapp3d.live CNAME .
-*.whatsapp3d.live CNAME .
-whatsapp4a.live CNAME .
-*.whatsapp4a.live CNAME .
-whatsapp4h.live CNAME .
-*.whatsapp4h.live CNAME .
-whatsapp5.live CNAME .
-*.whatsapp5.live CNAME .
-wishct.live CNAME .
-*.wishct.live CNAME .
 wns-academy.live CNAME .
 *.wns-academy.live CNAME .
 wolftravels.live CNAME .
@@ -12415,16 +12389,6 @@ tdy.lol CNAME .
 *.tdy.lol CNAME .
 tik.lol CNAME .
 *.tik.lol CNAME .
-whatsapp2c.lol CNAME .
-*.whatsapp2c.lol CNAME .
-whatsapp2j.lol CNAME .
-*.whatsapp2j.lol CNAME .
-whatsapp3g.lol CNAME .
-*.whatsapp3g.lol CNAME .
-whatsapp4d.lol CNAME .
-*.whatsapp4d.lol CNAME .
-whatsapp8.lol CNAME .
-*.whatsapp8.lol CNAME .
 xfwht.lol CNAME .
 *.xfwht.lol CNAME .
 your.ls CNAME .
@@ -16707,16 +16671,6 @@ kutt.this.team CNAME .
 *.kutt.this.team CNAME .
 victoryworship.team CNAME .
 *.victoryworship.team CNAME .
-whatsapp2f.team CNAME .
-*.whatsapp2f.team CNAME .
-whatsapp3c.team CNAME .
-*.whatsapp3c.team CNAME .
-whatsapp3j.team CNAME .
-*.whatsapp3j.team CNAME .
-whatsapp4.team CNAME .
-*.whatsapp4.team CNAME .
-whatsapp4g.team CNAME .
-*.whatsapp4g.team CNAME .
 1xfn.tech CNAME .
 *.1xfn.tech CNAME .
 b2g.tech CNAME .
@@ -16753,8 +16707,6 @@ techwizards.tech CNAME .
 *.techwizards.tech CNAME .
 thenews24h.tech CNAME .
 *.thenews24h.tech CNAME .
-tmat.tech CNAME .
-*.tmat.tech CNAME .
 vndr.tech CNAME .
 *.vndr.tech CNAME .
 b7.tel CNAME .
@@ -18201,16 +18153,6 @@ s0.world CNAME .
 *.s0.world CNAME .
 shorten.world CNAME .
 *.shorten.world CNAME .
-whatsapp2e.world CNAME .
-*.whatsapp2e.world CNAME .
-whatsapp3.world CNAME .
-*.whatsapp3.world CNAME .
-whatsapp3b.world CNAME .
-*.whatsapp3b.world CNAME .
-whatsapp3i.world CNAME .
-*.whatsapp3i.world CNAME .
-whatsapp4f.world CNAME .
-*.whatsapp4f.world CNAME .
 12ne.ws CNAME .
 *.12ne.ws CNAME .
 abc7.ws CNAME .

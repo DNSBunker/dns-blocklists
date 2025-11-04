@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Nov 2025 09:15 UTC
-! Version: 2025.1103.0915.18
+! Last modified: 04 Nov 2025 09:14 UTC
+! Version: 2025.1104.0914.43
 ! Syntax: AdBlock
-! Number of entries: 1249
+! Number of entries: 1252
 !
 ||1-aclk.net^
 ||1aurl.io^
@@ -336,6 +336,7 @@
 ||crm-measure.com^
 ||links.email.crunchbase.com^
 ||bcp.crwdcntrl.net^
+||m-fqlpo.custobar.com^
 ||m-gzmk5.custobar.com^
 ||track.customer.io^
 ||track-eu.customer.io^
@@ -727,6 +728,7 @@
 ||mkto-ab060134.com^
 ||mkto-ab060210.com^
 ||mkto-ab070017.com^
+||mkto-ab090057.com^
 ||mkto-ab100157.com^
 ||mkto-ab110171.com^
 ||mkto-ab150224.com^
@@ -799,6 +801,7 @@
 ||mkto-sj070259.com^
 ||mkto-sj090132.com^
 ||mkto-sj100138.com^
+||mkto-sj130243.com^
 ||mkto-sj140007.com^
 ||mkto-sj140163.com^
 ||mkto-sj180011.com^

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Nov 2025 02:33 UTC
-# Version: 2025.1104.0233.30
+# Last modified: 04 Nov 2025 10:31 UTC
+# Version: 2025.1104.1031.23
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3847
+# Number of entries: 3843
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3630,7 +3630,6 @@
 0.0.0.0 dns.voyager2.space
 0.0.0.0 adguard.vozersky.com
 0.0.0.0 killads.vpms.xyz
-0.0.0.0 vpndns.ru
 0.0.0.0 vpnhellings.nl
 0.0.0.0 www.vpnhellings.nl
 0.0.0.0 adguard.vpnkitakitsune.com
@@ -3692,7 +3691,6 @@
 0.0.0.0 bwh.why4free.top
 0.0.0.0 dns.wibenson.cloud
 0.0.0.0 dns1-secure.wifire.it
-0.0.0.0 dns2-secure.wifire.it
 0.0.0.0 adguard.wifri.space
 0.0.0.0 wikimedia-dns.org
 0.0.0.0 wikimediadns.org
@@ -3716,8 +3714,6 @@
 0.0.0.0 dds.wpme.pl
 0.0.0.0 home.wriedts.de
 0.0.0.0 dns.wryhf.com
-0.0.0.0 wuyou.pw
-0.0.0.0 www.wuyou.pw
 0.0.0.0 ns2.wuyouss.com
 0.0.0.0 ns3.wuyouss.com
 0.0.0.0 usatwo.wuyouss.com

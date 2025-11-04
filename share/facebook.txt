@@ -13,17 +13,16 @@ z-m-graph.facebook.com
 web.facebook.com
 web-fallback.facebook.com
 
-# Other Facebook functions, unblocking may not be needed
+# Exact function unknown, unblocking may not be needed!
+# Used for third party tracking
 connect.facebook.com
 connect.facebook.net
 mqtt-mini.facebook.com
+ep2.facebook.com
 
 # Unblock if you use Whatsapp avatar creator, helpcenter or video effects
 graph.whatsapp.com
 graph.whatsapp.net
-
-# Exact function unknown - calls predominantly from third parties, used for tracking?
-ep2.facebook.com
 
 # AR
 graph.meta.com

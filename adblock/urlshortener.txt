@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Nov 2025 01:28 UTC
-! Version: 2025.1104.0128.10
+! Last modified: 04 Nov 2025 09:27 UTC
+! Version: 2025.1104.0927.39
 ! Syntax: AdBlock
-! Number of entries: 9251
+! Number of entries: 9222
 !
 ||0.gp^
 ||00m.in^
@@ -1861,7 +1861,6 @@
 ||cta.careers^
 ||ctahire.com^
 ||ctbc.tw^
-||ctc.im^
 ||cte.li^
 ||ctfl.io^
 ||ctfn.cc^
@@ -7650,7 +7649,6 @@
 ||tlx.kr^
 ||tlyurl.com^
 ||tlz.li^
-||tmat.tech^
 ||tmblr.co^
 ||tmidao.com^
 ||tmidaos.com^
@@ -8741,32 +8739,6 @@
 ||wfryer.me^
 ||whatconverts.com^
 ||whatel.se^
-||whatsapp2.lat^
-||whatsapp2c.lol^
-||whatsapp2d.lat^
-||whatsapp2e.world^
-||whatsapp2f.team^
-||whatsapp2g.live^
-||whatsapp2j.lol^
-||whatsapp3.world^
-||whatsapp3a.lat^
-||whatsapp3b.world^
-||whatsapp3c.team^
-||whatsapp3d.live^
-||whatsapp3g.lol^
-||whatsapp3h.lat^
-||whatsapp3i.world^
-||whatsapp3j.team^
-||whatsapp4.team^
-||whatsapp4a.live^
-||whatsapp4d.lol^
-||whatsapp4e.lat^
-||whatsapp4f.world^
-||whatsapp4g.team^
-||whatsapp4h.live^
-||whatsapp5.live^
-||whatsapp8.lol^
-||whatsapp9.lat^
 ||whatsappconsulta.com^
 ||whbk.io^
 ||whcs.law^
@@ -8801,7 +8773,6 @@
 ||shortener.winplaybox.in^
 ||wipp.me^
 ||wisestamp.link^
-||wishct.live^
 ||wishew.app^
 ||wisilinks.com^
 ||wispi.ly^
