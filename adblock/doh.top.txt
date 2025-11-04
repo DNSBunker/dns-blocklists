@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Nov 2025 18:35 UTC
-! Version: 2025.1103.1835.30
+! Last modified: 04 Nov 2025 02:33 UTC
+! Version: 2025.1104.0233.58
 ! Syntax: AdBlock
-! Number of entries: 507
+! Number of entries: 506
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -458,7 +458,6 @@
 ||nsc.torgues.net^
 ||tri-dns.net^
 ||tributh.net^
-||tujenasnaszato.xyz^
 ||tuskythehusky.tech^
 ||dns.twnic.tw^
 ||dns.txq.life^

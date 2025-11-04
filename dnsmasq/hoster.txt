@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 17:56 UTC
-# Version: 2025.1103.1756.09
+# Last modified: 04 Nov 2025 01:55 UTC
+# Version: 2025.1104.0155.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1333
+# Number of entries: 1327
 #
 local=/000a.de/
 local=/000space.com/
@@ -690,7 +690,6 @@ local=/hinerava.com/
 local=/hkearth.xyz/
 local=/hklevel.club/
 local=/home.lc/
-local=/home.pl/
 local=/homemarker.com/
 local=/homepage.cx/
 local=/homepage.lc/
@@ -1108,7 +1107,6 @@ local=/suchtis.de/
 local=/superweb.ws/
 local=/surge.sh/
 local=/sv.gp/
-local=/sv-whatsapp.top/
 local=/svsy.my/
 local=/sweb.cz/
 local=/sxx.in/
@@ -1118,7 +1116,6 @@ local=/szm.sk/
 local=/t.gp/
 local=/t35.com/
 local=/talk4fun.net/
-local=/taselavmy.shop/
 local=/te4m.de/
 local=/team.cx/
 local=/team.tl/
@@ -1129,12 +1126,10 @@ local=/teleporthq.app/
 local=/tempisite.com/
 local=/temporary.site/
 local=/temporary-demo.site/
-local=/temu-jp.shop/
 local=/tentbuildingservices.eu/
 local=/test.lc/
 local=/testingnow.me/
 local=/tggame.xyz/
-local=/tgpropower.top/
 local=/th.gp/
 local=/thisistap.com/
 local=/tiiny.host/
@@ -1183,7 +1178,6 @@ local=/uk.nu/
 local=/uk.st/
 local=/ukit.me/
 local=/ultimatefreehost.in/
-local=/ultimatescrubsmore.shop/
 local=/umbler.net/
 local=/unaux.com/
 local=/unblog.fr/

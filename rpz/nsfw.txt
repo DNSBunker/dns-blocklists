@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762194660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762223400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Nov 2025 18:31 UTC
-; Version: 2025.1103.1831.31
+; Last modified: 04 Nov 2025 02:30 UTC
+; Version: 2025.1104.0230.04
 ; Syntax: RPZ
-; Number of entries: 152864
+; Number of entries: 152488
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -3070,8 +3070,6 @@ taboozoo.biz CNAME .
 *.taboozoo.biz CNAME .
 teenerotica.biz CNAME .
 *.teenerotica.biz CNAME .
-teenpornclub.biz CNAME .
-*.teenpornclub.biz CNAME .
 teenssex.biz CNAME .
 *.teenssex.biz CNAME .
 telsexserver.biz CNAME .
@@ -3284,6 +3282,8 @@ fimsex.blog CNAME .
 *.fimsex.blog CNAME .
 finance.blog CNAME .
 *.finance.blog CNAME .
+fitness.blog CNAME .
+*.fitness.blog CNAME .
 fotosdepenis.blog CNAME .
 *.fotosdepenis.blog CNAME .
 fotosporno.blog CNAME .
@@ -3434,8 +3434,6 @@ sexgaixinhs.blog CNAME .
 *.sexgaixinhs.blog CNAME .
 sexhay18.blog CNAME .
 *.sexhay18.blog CNAME .
-sexhd.blog CNAME .
-*.sexhd.blog CNAME .
 sexhd88.blog CNAME .
 *.sexhd88.blog CNAME .
 sexhdd.blog CNAME .
@@ -3476,8 +3474,6 @@ sexrobot.blog CNAME .
 *.sexrobot.blog CNAME .
 sexsub69.blog CNAME .
 *.sexsub69.blog CNAME .
-sexthai.blog CNAME .
-*.sexthai.blog CNAME .
 sextop.blog CNAME .
 *.sextop.blog CNAME .
 sextop18.blog CNAME .
@@ -5448,8 +5444,6 @@ sextingfinder.cam CNAME .
 *.sextingfinder.cam CNAME .
 sexuality.cam CNAME .
 *.sexuality.cam CNAME .
-sexvideochat.cam CNAME .
-*.sexvideochat.cam CNAME .
 sexvn.cam CNAME .
 *.sexvn.cam CNAME .
 sexvntop1.cam CNAME .
@@ -9180,8 +9174,6 @@ sexs-foto.click CNAME .
 *.sexs-foto.click CNAME .
 sextelugu.click CNAME .
 *.sextelugu.click CNAME .
-sexthai.click CNAME .
-*.sexthai.click CNAME .
 sexthu.click CNAME .
 *.sexthu.click CNAME .
 sexvedios.click CNAME .
@@ -9404,16 +9396,10 @@ ruporno.cloud CNAME .
 *.ruporno.cloud CNAME .
 serviceworksexternal.cloud CNAME .
 *.serviceworksexternal.cloud CNAME .
-sex-hologram.cloud CNAME .
-*.sex-hologram.cloud CNAME .
 sex-movie.cloud CNAME .
 *.sex-movie.cloud CNAME .
 sexchatalmati.cloud CNAME .
 *.sexchatalmati.cloud CNAME .
-sexhan.cloud CNAME .
-*.sexhan.cloud CNAME .
-sexhd.cloud CNAME .
-*.sexhd.cloud CNAME .
 sexindustry.cloud CNAME .
 *.sexindustry.cloud CNAME .
 sexyaf.cloud CNAME .
@@ -9478,8 +9464,6 @@ adultcams.club CNAME .
 *.adultcams.club CNAME .
 adultmult.club CNAME .
 *.adultmult.club CNAME .
-adultplayground.club CNAME .
-*.adultplayground.club CNAME .
 adultscontent18.club CNAME .
 *.adultscontent18.club CNAME .
 adulttoymart.club CNAME .
@@ -10048,8 +10032,6 @@ sex-videochat.club CNAME .
 *.sex-videochat.club CNAME .
 sex20.club CNAME .
 *.sex20.club CNAME .
-sexblag.club CNAME .
-*.sexblag.club CNAME .
 sexcams.club CNAME .
 *.sexcams.club CNAME .
 sexcelebrity.club CNAME .
@@ -10070,8 +10052,6 @@ sexflix.club CNAME .
 *.sexflix.club CNAME .
 sexgeschichten.club CNAME .
 *.sexgeschichten.club CNAME .
-sexhan.club CNAME .
-*.sexhan.club CNAME .
 sexhot.club CNAME .
 *.sexhot.club CNAME .
 sexibounty.club CNAME .
@@ -10080,8 +10060,6 @@ sexkras.club CNAME .
 *.sexkras.club CNAME .
 sexkursk.club CNAME .
 *.sexkursk.club CNAME .
-sexlife.club CNAME .
-*.sexlife.club CNAME .
 sexmodel.club CNAME .
 *.sexmodel.club CNAME .
 sexmoskow.club CNAME .
@@ -10090,8 +10068,6 @@ sexmovies.club CNAME .
 *.sexmovies.club CNAME .
 sexngon.club CNAME .
 *.sexngon.club CNAME .
-sexnhat.club CNAME .
-*.sexnhat.club CNAME .
 sexoabudhabi.club CNAME .
 *.sexoabudhabi.club CNAME .
 sexohimki.club CNAME .
@@ -10170,8 +10146,6 @@ spycamsex.club CNAME .
 *.spycamsex.club CNAME .
 sslkn.club CNAME .
 *.sslkn.club CNAME .
-starporn.club CNAME .
-*.starporn.club CNAME .
 strip-chat.club CNAME .
 *.strip-chat.club CNAME .
 strip2.club CNAME .
@@ -10452,8 +10426,6 @@ sexiangwei.cn CNAME .
 *.sexiangwei.cn CNAME .
 sexkit.cn CNAME .
 *.sexkit.cn CNAME .
-sexpal.cn CNAME .
-*.sexpal.cn CNAME .
 sexrr.cn CNAME .
 *.sexrr.cn CNAME .
 sexx2001.cn CNAME .
@@ -25396,6 +25368,8 @@ ddfporn.com CNAME .
 *.ddfporn.com CNAME .
 ddfscenes.com CNAME .
 *.ddfscenes.com CNAME .
+ddose007.com CNAME .
+*.ddose007.com CNAME .
 ddyxxx.com CNAME .
 *.ddyxxx.com CNAME .
 chaturbate.de.com CNAME .
@@ -28522,6 +28496,8 @@ en-hornyspot.com CNAME .
 *.en-hornyspot.com CNAME .
 en-us-adulttime.com CNAME .
 *.en-us-adulttime.com CNAME .
+encantadabaltimore.com CNAME .
+*.encantadabaltimore.com CNAME .
 enchantingessex.com CNAME .
 *.enchantingessex.com CNAME .
 encomendasexpress.com CNAME .
@@ -39538,6 +39514,8 @@ hotoctopuss.com CNAME .
 *.hotoctopuss.com CNAME .
 hotoldermale.com CNAME .
 *.hotoldermale.com CNAME .
+hotornot.com CNAME .
+*.hotornot.com CNAME .
 hotpartystripper.com CNAME .
 *.hotpartystripper.com CNAME .
 hotpcollection.com CNAME .
@@ -55958,8 +55936,6 @@ pnonolet.com CNAME .
 *.pnonolet.com CNAME .
 po-kaki-to.com CNAME .
 *.po-kaki-to.com CNAME .
-pobrecitas.com CNAME .
-*.pobrecitas.com CNAME .
 pocketfetish.com CNAME .
 *.pocketfetish.com CNAME .
 pocketpussyreview.com CNAME .
@@ -61076,6 +61052,8 @@ realgfxxx.com CNAME .
 *.realgfxxx.com CNAME .
 realgranny.com CNAME .
 *.realgranny.com CNAME .
+realgymessentials.com CNAME .
+*.realgymessentials.com CNAME .
 realincesttube.com CNAME .
 *.realincesttube.com CNAME .
 realindiangfs.com CNAME .
@@ -63472,8 +63450,6 @@ sesso69.com CNAME .
 *.sesso69.com CNAME .
 sessogratis.com CNAME .
 *.sessogratis.com CNAME .
-sessoplanet.com CNAME .
-*.sessoplanet.com CNAME .
 set-freeporn.com CNAME .
 *.set-freeporn.com CNAME .
 setagaya-journal.com CNAME .
@@ -63556,8 +63532,6 @@ sex-comixxx.com CNAME .
 *.sex-comixxx.com CNAME .
 sex-comixxx2.com CNAME .
 *.sex-comixxx2.com CNAME .
-sex-cz.com CNAME .
-*.sex-cz.com CNAME .
 sex-dnr-lnr.com CNAME .
 *.sex-dnr-lnr.com CNAME .
 sex-drink.com CNAME .
@@ -63610,8 +63584,6 @@ sex-only-sex.com CNAME .
 *.sex-only-sex.com CNAME .
 sex-plzen.com CNAME .
 *.sex-plzen.com CNAME .
-sex-porn-comics.com CNAME .
-*.sex-porn-comics.com CNAME .
 sex-pornpics.com CNAME .
 *.sex-pornpics.com CNAME .
 sex-porns.com CNAME .
@@ -63658,8 +63630,6 @@ sex-vlxx.com CNAME .
 *.sex-vlxx.com CNAME .
 sex-vn.com CNAME .
 *.sex-vn.com CNAME .
-sex-with-mom.com CNAME .
-*.sex-with-mom.com CNAME .
 sex-wow.com CNAME .
 *.sex-wow.com CNAME .
 sex-xtube.com CNAME .
@@ -63782,8 +63752,6 @@ sexafeel.com CNAME .
 *.sexafeel.com CNAME .
 sexaflam.com CNAME .
 *.sexaflam.com CNAME .
-sexagesima.com CNAME .
-*.sexagesima.com CNAME .
 sexahava.com CNAME .
 *.sexahava.com CNAME .
 sexahqjo.com CNAME .
@@ -63810,8 +63778,6 @@ sexanadu.com CNAME .
 *.sexanadu.com CNAME .
 sexandass.com CNAME .
 *.sexandass.com CNAME .
-sexandcandystore.com CNAME .
-*.sexandcandystore.com CNAME .
 sexandchatonline.com CNAME .
 *.sexandchatonline.com CNAME .
 sexandcocktails.com CNAME .
@@ -63840,8 +63806,6 @@ sexandthecityscripts.com CNAME .
 *.sexandthecityscripts.com CNAME .
 sexandthesouthernbelle.com CNAME .
 *.sexandthesouthernbelle.com CNAME .
-sexang.com CNAME .
-*.sexang.com CNAME .
 sexanimalvideos.com CNAME .
 *.sexanimalvideos.com CNAME .
 sexanol.com CNAME .
@@ -63852,8 +63816,6 @@ sexarab-xnxx.com CNAME .
 *.sexarab-xnxx.com CNAME .
 sexarab8.com CNAME .
 *.sexarab8.com CNAME .
-sexarabawy.com CNAME .
-*.sexarabawy.com CNAME .
 sexarabee.com CNAME .
 *.sexarabee.com CNAME .
 sexarabhd.com CNAME .
@@ -63978,8 +63940,6 @@ sexcadr.com CNAME .
 *.sexcadr.com CNAME .
 sexcallie.com CNAME .
 *.sexcallie.com CNAME .
-sexcam-fun.com CNAME .
-*.sexcam-fun.com CNAME .
 sexcam-milf.com CNAME .
 *.sexcam-milf.com CNAME .
 sexcam-shows.com CNAME .
@@ -63994,8 +63954,6 @@ sexcamdb.com CNAME .
 *.sexcamdb.com CNAME .
 sexcameralive.com CNAME .
 *.sexcameralive.com CNAME .
-sexcamfk.com CNAME .
-*.sexcamfk.com CNAME .
 sexcamly.com CNAME .
 *.sexcamly.com CNAME .
 sexcamnow.com CNAME .
@@ -64216,8 +64174,6 @@ sexeey.com CNAME .
 *.sexeey.com CNAME .
 sexefashion.com CNAME .
 *.sexefashion.com CNAME .
-sexefasion.com CNAME .
-*.sexefasion.com CNAME .
 sexefelin.com CNAME .
 *.sexefelin.com CNAME .
 sexegays.com CNAME .
@@ -64336,8 +64292,6 @@ sexfrisk.com CNAME .
 *.sexfrisk.com CNAME .
 sexfuk.com CNAME .
 *.sexfuk.com CNAME .
-sexgaixinhdam.com CNAME .
-*.sexgaixinhdam.com CNAME .
 sexgaixinhx.com CNAME .
 *.sexgaixinhx.com CNAME .
 sexgameforcouples.com CNAME .
@@ -64362,8 +64316,6 @@ sexgaz.com CNAME .
 *.sexgaz.com CNAME .
 sexgazer.com CNAME .
 *.sexgazer.com CNAME .
-sexgeizkragen.com CNAME .
-*.sexgeizkragen.com CNAME .
 sexgene.com CNAME .
 *.sexgene.com CNAME .
 sexgent.com CNAME .
@@ -64546,8 +64498,6 @@ sexinthecityjapan.com CNAME .
 *.sexinthecityjapan.com CNAME .
 sexinthehouse.com CNAME .
 *.sexinthehouse.com CNAME .
-sexinvideogames.com CNAME .
-*.sexinvideogames.com CNAME .
 sexinvienna.com CNAME .
 *.sexinvienna.com CNAME .
 sexinyour60s.com CNAME .
@@ -64642,8 +64592,6 @@ sexleakedviral.com CNAME .
 *.sexleakedviral.com CNAME .
 sexleave.com CNAME .
 *.sexleave.com CNAME .
-sexlecture.com CNAME .
-*.sexlecture.com CNAME .
 sexlegend.com CNAME .
 *.sexlegend.com CNAME .
 sexleila.com CNAME .
@@ -64696,8 +64644,6 @@ sexmangapics.com CNAME .
 *.sexmangapics.com CNAME .
 sexmarried.com CNAME .
 *.sexmarried.com CNAME .
-sexmaturemilf.com CNAME .
-*.sexmaturemilf.com CNAME .
 sexmaybay.com CNAME .
 *.sexmaybay.com CNAME .
 sexmazahd.com CNAME .
@@ -64718,8 +64664,6 @@ sexmex-france.com CNAME .
 *.sexmex-france.com CNAME .
 sexmexcoupons.com CNAME .
 *.sexmexcoupons.com CNAME .
-sexmii.com CNAME .
-*.sexmii.com CNAME .
 sexmilfshow.com CNAME .
 *.sexmilfshow.com CNAME .
 sexmint.com CNAME .
@@ -64792,8 +64736,6 @@ sexnhatbankhongche.com CNAME .
 *.sexnhatbankhongche.com CNAME .
 sexnick.com CNAME .
 *.sexnick.com CNAME .
-sexnoi.com CNAME .
-*.sexnoi.com CNAME .
 sexnovellen.com CNAME .
 *.sexnovellen.com CNAME .
 sexnrace.com CNAME .
@@ -64820,8 +64762,6 @@ sexo9.com CNAME .
 *.sexo9.com CNAME .
 sexoasis.com CNAME .
 *.sexoasis.com CNAME .
-sexoborrachas.com CNAME .
-*.sexoborrachas.com CNAME .
 sexocean.com CNAME .
 *.sexocean.com CNAME .
 sexochita.com CNAME .
@@ -64954,8 +64894,6 @@ sexoservidoras.com CNAME .
 *.sexoservidoras.com CNAME .
 sexosintabues30.com CNAME .
 *.sexosintabues30.com CNAME .
-sexosochi.com CNAME .
-*.sexosochi.com CNAME .
 sexostav.com CNAME .
 *.sexostav.com CNAME .
 sexosterlitamak.com CNAME .
@@ -65026,8 +64964,6 @@ sexperu69.com CNAME .
 *.sexperu69.com CNAME .
 sexpester.com CNAME .
 *.sexpester.com CNAME .
-sexphotos4free.com CNAME .
-*.sexphotos4free.com CNAME .
 sexpickup.com CNAME .
 *.sexpickup.com CNAME .
 sexpics24.com CNAME .
@@ -65144,8 +65080,6 @@ sexrey.com CNAME .
 *.sexrey.com CNAME .
 sexrez.com CNAME .
 *.sexrez.com CNAME .
-sexrezaerotica.com CNAME .
-*.sexrezaerotica.com CNAME .
 sexrosa.com CNAME .
 *.sexrosa.com CNAME .
 sexrose.com CNAME .
@@ -65240,8 +65174,6 @@ sexshopelixir.com CNAME .
 *.sexshopelixir.com CNAME .
 sexshopetoys.com CNAME .
 *.sexshopetoys.com CNAME .
-sexshoplook.com CNAME .
-*.sexshoplook.com CNAME .
 sexshopluanda.com CNAME .
 *.sexshopluanda.com CNAME .
 sexshopmerida.com CNAME .
@@ -65630,14 +65562,8 @@ sextubeall.com CNAME .
 *.sextubeall.com CNAME .
 sextubecam.com CNAME .
 *.sextubecam.com CNAME .
-sextubeclub.com CNAME .
-*.sextubeclub.com CNAME .
-sextubedaily.com CNAME .
-*.sextubedaily.com CNAME .
 sextubelove.com CNAME .
 *.sextubelove.com CNAME .
-sextubent.com CNAME .
-*.sextubent.com CNAME .
 sextubeporno.com CNAME .
 *.sextubeporno.com CNAME .
 sextubes2u.com CNAME .
@@ -65762,8 +65688,6 @@ sexualityreclaimed.com CNAME .
 *.sexualityreclaimed.com CNAME .
 sexualizados.com CNAME .
 *.sexualizados.com CNAME .
-sexualizese.com CNAME .
-*.sexualizese.com CNAME .
 sexualkingdom.com CNAME .
 *.sexualkingdom.com CNAME .
 sexuallib.com CNAME .
@@ -66070,8 +65994,6 @@ sexxyskin.com CNAME .
 *.sexxyskin.com CNAME .
 sexxytelky.com CNAME .
 *.sexxytelky.com CNAME .
-sexy-adult-blogs.com CNAME .
-*.sexy-adult-blogs.com CNAME .
 sexy-americans.com CNAME .
 *.sexy-americans.com CNAME .
 sexy-casino-online.com CNAME .
@@ -66244,10 +66166,6 @@ sexybluefilm.com CNAME .
 *.sexybluefilm.com CNAME .
 sexyblvd.com CNAME .
 *.sexyblvd.com CNAME .
-sexybodyfitness.com CNAME .
-*.sexybodyfitness.com CNAME .
-sexybokep.com CNAME .
-*.sexybokep.com CNAME .
 sexybole.com CNAME .
 *.sexybole.com CNAME .
 sexybolt.com CNAME .
@@ -66284,8 +66202,6 @@ sexycandidteens.com CNAME .
 *.sexycandidteens.com CNAME .
 sexycaracas.com CNAME .
 *.sexycaracas.com CNAME .
-sexycassia.com CNAME .
-*.sexycassia.com CNAME .
 sexychat4u.com CNAME .
 *.sexychat4u.com CNAME .
 sexychatlive.com CNAME .
@@ -66298,8 +66214,6 @@ sexychennaiescort.com CNAME .
 *.sexychennaiescort.com CNAME .
 sexychickfinder.com CNAME .
 *.sexychickfinder.com CNAME .
-sexyclassicporn.com CNAME .
-*.sexyclassicporn.com CNAME .
 sexyclipstv.com CNAME .
 *.sexyclipstv.com CNAME .
 sexyclubx.com CNAME .
@@ -66452,8 +66366,6 @@ sexyguapa.com CNAME .
 *.sexyguapa.com CNAME .
 sexyguidaitalia.com CNAME .
 *.sexyguidaitalia.com CNAME .
-sexyh94.com CNAME .
-*.sexyh94.com CNAME .
 sexyhairypussies.com CNAME .
 *.sexyhairypussies.com CNAME .
 sexyhairyvagina.com CNAME .
@@ -66470,8 +66382,6 @@ sexyhomewife.com CNAME .
 *.sexyhomewife.com CNAME .
 sexyhomewives.com CNAME .
 *.sexyhomewives.com CNAME .
-sexyhotgirlz.com CNAME .
-*.sexyhotgirlz.com CNAME .
 sexyhotmilf.com CNAME .
 *.sexyhotmilf.com CNAME .
 sexyhouseeats.com CNAME .
@@ -66504,8 +66414,6 @@ sexyjm.com CNAME .
 *.sexyjm.com CNAME .
 sexyjobs.com CNAME .
 *.sexyjobs.com CNAME .
-sexyjocs.com CNAME .
-*.sexyjocs.com CNAME .
 sexyjuara.com CNAME .
 *.sexyjuara.com CNAME .
 sexyjulietv.com CNAME .
@@ -66756,8 +66664,6 @@ sexysquirt.com CNAME .
 *.sexysquirt.com CNAME .
 sexyssgirl.com CNAME .
 *.sexyssgirl.com CNAME .
-sexystarimages.com CNAME .
-*.sexystarimages.com CNAME .
 sexystarsmanagement.com CNAME .
 *.sexystarsmanagement.com CNAME .
 sexystuffforsexypeople.com CNAME .
@@ -66774,14 +66680,10 @@ sexytalkonline.com CNAME .
 *.sexytalkonline.com CNAME .
 sexytamilvideos.com CNAME .
 *.sexytamilvideos.com CNAME .
-sexyteencuties.com CNAME .
-*.sexyteencuties.com CNAME .
 sexyteengfs.com CNAME .
 *.sexyteengfs.com CNAME .
 sexyteenheat.com CNAME .
 *.sexyteenheat.com CNAME .
-sexyteenhive.com CNAME .
-*.sexyteenhive.com CNAME .
 sexyteensonline.com CNAME .
 *.sexyteensonline.com CNAME .
 sexyth123.com CNAME .
@@ -66814,8 +66716,6 @@ sexytrippyhippy.com CNAME .
 *.sexytrippyhippy.com CNAME .
 sexytrunk.com CNAME .
 *.sexytrunk.com CNAME .
-sexyttama.com CNAME .
-*.sexyttama.com CNAME .
 sexytube.com CNAME .
 *.sexytube.com CNAME .
 sexyupload.com CNAME .
@@ -66834,8 +66734,6 @@ sexyvideoindian.com CNAME .
 *.sexyvideoindian.com CNAME .
 sexyvideotube.com CNAME .
 *.sexyvideotube.com CNAME .
-sexyvintageporn.com CNAME .
-*.sexyvintageporn.com CNAME .
 sexyvip-1.com CNAME .
 *.sexyvip-1.com CNAME .
 sexyvip9.com CNAME .
@@ -67056,8 +66954,6 @@ shelovesblack.com CNAME .
 *.shelovesblack.com CNAME .
 shemale-amateurs.com CNAME .
 *.shemale-amateurs.com CNAME .
-shemale-demon.com CNAME .
-*.shemale-demon.com CNAME .
 shemale-hentai-comics.com CNAME .
 *.shemale-hentai-comics.com CNAME .
 shemale-japan.com CNAME .
@@ -67122,8 +67018,6 @@ shemaleflick.com CNAME .
 *.shemaleflick.com CNAME .
 shemalefplace.com CNAME .
 *.shemalefplace.com CNAME .
-shemalegallys.com CNAME .
-*.shemalegallys.com CNAME .
 shemaleguns.com CNAME .
 *.shemaleguns.com CNAME .
 shemalehere.com CNAME .
@@ -67372,8 +67266,6 @@ shopofertasexpress.com CNAME .
 *.shopofertasexpress.com CNAME .
 shopperotic.com CNAME .
 *.shopperotic.com CNAME .
-shopping-libertin.com CNAME .
-*.shopping-libertin.com CNAME .
 shoppingay.com CNAME .
 *.shoppingay.com CNAME .
 shoppingoffersexpress.com CNAME .
@@ -67388,8 +67280,6 @@ shopsocrazysexycool.com CNAME .
 *.shopsocrazysexycool.com CNAME .
 shopxtc.com CNAME .
 *.shopxtc.com CNAME .
-shopxxxvopulence.com CNAME .
-*.shopxxxvopulence.com CNAME .
 shoshannaevers.com CNAME .
 *.shoshannaevers.com CNAME .
 shotaworld.com CNAME .
@@ -67468,8 +67358,6 @@ sicflics.com CNAME .
 *.sicflics.com CNAME .
 sichuanjinzheng.com CNAME .
 *.sichuanjinzheng.com CNAME .
-siciliafoodporn.com CNAME .
-*.siciliafoodporn.com CNAME .
 sicilyfoodporn.com CNAME .
 *.sicilyfoodporn.com CNAME .
 sick-r.com CNAME .
@@ -67538,8 +67426,6 @@ silkensteel.com CNAME .
 *.silkensteel.com CNAME .
 silkygupta.com CNAME .
 *.silkygupta.com CNAME .
-silkyporn.com CNAME .
-*.silkyporn.com CNAME .
 silloka.com CNAME .
 *.silloka.com CNAME .
 sillysexual.com CNAME .
@@ -67666,8 +67552,6 @@ sinfulporn.com CNAME .
 *.sinfulporn.com CNAME .
 sinfulselections.com CNAME .
 *.sinfulselections.com CNAME .
-sinfulslut.com CNAME .
-*.sinfulslut.com CNAME .
 singaporesextoy.com CNAME .
 *.singaporesextoy.com CNAME .
 singeporno.com CNAME .
@@ -67798,8 +67682,6 @@ sissyville.com CNAME .
 *.sissyville.com CNAME .
 sistemantalya.com CNAME .
 *.sistemantalya.com CNAME .
-sisterpornhub.com CNAME .
-*.sisterpornhub.com CNAME .
 sistrichkaporno.com CNAME .
 *.sistrichkaporno.com CNAME .
 sitalagrwal.com CNAME .
@@ -67872,8 +67754,6 @@ skinnyslutz.com CNAME .
 *.skinnyslutz.com CNAME .
 skinnysupergirl.com CNAME .
 *.skinnysupergirl.com CNAME .
-skinsolutionsbygayla.com CNAME .
-*.skinsolutionsbygayla.com CNAME .
 skipthegames.com CNAME .
 *.skipthegames.com CNAME .
 skkoker.com CNAME .
@@ -67894,8 +67774,6 @@ skynfeel.com CNAME .
 *.skynfeel.com CNAME .
 skyprivate.com CNAME .
 *.skyprivate.com CNAME .
-skysexcams.com CNAME .
-*.skysexcams.com CNAME .
 slackholes.com CNAME .
 *.slackholes.com CNAME .
 slapibf.com CNAME .
@@ -67914,8 +67792,6 @@ slayed.com CNAME .
 *.slayed.com CNAME .
 sleazemovies.com CNAME .
 *.sleazemovies.com CNAME .
-sleazyland.com CNAME .
-*.sleazyland.com CNAME .
 sleazyneasy.com CNAME .
 *.sleazyneasy.com CNAME .
 sleekcams.com CNAME .
@@ -67998,8 +67874,6 @@ slutcharge.com CNAME .
 *.slutcharge.com CNAME .
 slutcop.com CNAME .
 *.slutcop.com CNAME .
-slutday.com CNAME .
-*.slutday.com CNAME .
 slutdesi.com CNAME .
 *.slutdesi.com CNAME .
 slutdiego.com CNAME .
@@ -68044,8 +67918,6 @@ slutmegle.com CNAME .
 *.slutmegle.com CNAME .
 slutmommyporn.com CNAME .
 *.slutmommyporn.com CNAME .
-slutnear.com CNAME .
-*.slutnear.com CNAME .
 slutoday.com CNAME .
 *.slutoday.com CNAME .
 slutomegel.com CNAME .
@@ -68338,10 +68210,6 @@ smokva.com CNAME .
 *.smokva.com CNAME .
 smooci.com CNAME .
 *.smooci.com CNAME .
-smoothlesbianporn.com CNAME .
-*.smoothlesbianporn.com CNAME .
-smothermovies.com CNAME .
-*.smothermovies.com CNAME .
 smotri.com CNAME .
 *.smotri.com CNAME .
 smotricams.com CNAME .
@@ -68360,8 +68228,6 @@ smssapp.com CNAME .
 *.smssapp.com CNAME .
 smut.com CNAME .
 *.smut.com CNAME .
-smut-planet.com CNAME .
-*.smut-planet.com CNAME .
 smutbookjunkie.com CNAME .
 *.smutbookjunkie.com CNAME .
 smutcam.com CNAME .
@@ -68390,8 +68256,6 @@ smutstone.com CNAME .
 *.smutstone.com CNAME .
 smutty.com CNAME .
 *.smutty.com CNAME .
-smutty-pages.com CNAME .
-*.smutty-pages.com CNAME .
 smutvid.com CNAME .
 *.smutvid.com CNAME .
 smv2011.com CNAME .
@@ -68422,8 +68286,6 @@ snatchamilf.com CNAME .
 *.snatchamilf.com CNAME .
 snatchlist.com CNAME .
 *.snatchlist.com CNAME .
-snaxxxfoods.com CNAME .
-*.snaxxxfoods.com CNAME .
 sneakyporn.com CNAME .
 *.sneakyporn.com CNAME .
 snehabasu.com CNAME .
@@ -68514,8 +68376,6 @@ softcore69xxx.com CNAME .
 *.softcore69xxx.com CNAME .
 softcorehdtube.com CNAME .
 *.softcorehdtube.com CNAME .
-softcorexxxporn.com CNAME .
-*.softcorexxxporn.com CNAME .
 softerotic.com CNAME .
 *.softerotic.com CNAME .
 softgay.com CNAME .
@@ -68614,8 +68474,6 @@ somexxxtubes.com CNAME .
 *.somexxxtubes.com CNAME .
 somosexclama.com CNAME .
 *.somosexclama.com CNAME .
-somosexecutta.com CNAME .
-*.somosexecutta.com CNAME .
 somosexpuestas.com CNAME .
 *.somosexpuestas.com CNAME .
 somoslilit.com CNAME .
@@ -69112,8 +68970,6 @@ spunkynymphos.com CNAME .
 *.spunkynymphos.com CNAME .
 spunkysex.com CNAME .
 *.spunkysex.com CNAME .
-spursexpress.com CNAME .
-*.spursexpress.com CNAME .
 spveenergiesexpert.com CNAME .
 *.spveenergiesexpert.com CNAME .
 spxxxtube.com CNAME .
@@ -69244,8 +69100,6 @@ stargayze.com CNAME .
 *.stargayze.com CNAME .
 starhotelescorts.com CNAME .
 *.starhotelescorts.com CNAME .
-starletz.com CNAME .
-*.starletz.com CNAME .
 starpery.com CNAME .
 *.starpery.com CNAME .
 starray-p.com CNAME .
@@ -69398,8 +69252,6 @@ stocking-tease.com CNAME .
 *.stocking-tease.com CNAME .
 stockinghome.com CNAME .
 *.stockinghome.com CNAME .
-stockings-deluxe.com CNAME .
-*.stockings-deluxe.com CNAME .
 stockingstv.com CNAME .
 *.stockingstv.com CNAME .
 stockingsvr.com CNAME .
@@ -69420,14 +69272,10 @@ stopostosex.com CNAME .
 *.stopostosex.com CNAME .
 stoppornsteps.com CNAME .
 *.stoppornsteps.com CNAME .
-stopthecamera.com CNAME .
-*.stopthecamera.com CNAME .
 storiesdesired.com CNAME .
 *.storiesdesired.com CNAME .
 storiesporn.com CNAME .
 *.storiesporn.com CNAME .
-stormbringerenterprises.com CNAME .
-*.stormbringerenterprises.com CNAME .
 stormynightpublications.com CNAME .
 *.stormynightpublications.com CNAME .
 storymirror.com CNAME .
@@ -69454,10 +69302,6 @@ strangercamchat.com CNAME .
 *.strangercamchat.com CNAME .
 strangercamgirls.com CNAME .
 *.strangercamgirls.com CNAME .
-strangexxx.com CNAME .
-*.strangexxx.com CNAME .
-strap-on-movies.com CNAME .
-*.strap-on-movies.com CNAME .
 strapcams.com CNAME .
 *.strapcams.com CNAME .
 straplez.com CNAME .
@@ -69468,8 +69312,6 @@ straponlesbianbondage.com CNAME .
 *.straponlesbianbondage.com CNAME .
 straponmyman.com CNAME .
 *.straponmyman.com CNAME .
-straponrecording.com CNAME .
-*.straponrecording.com CNAME .
 straponscreen.com CNAME .
 *.straponscreen.com CNAME .
 straponsfemdom.com CNAME .
@@ -69486,8 +69328,6 @@ straticoreanalyticsexperts.com CNAME .
 *.straticoreanalyticsexperts.com CNAME .
 stratosexchange.com CNAME .
 *.stratosexchange.com CNAME .
-stratosexpress.com CNAME .
-*.stratosexpress.com CNAME .
 strayadultwrites.com CNAME .
 *.strayadultwrites.com CNAME .
 stream-69.com CNAME .
@@ -69564,8 +69404,6 @@ stripclublist.com CNAME .
 *.stripclublist.com CNAME .
 stripeachat.com CNAME .
 *.stripeachat.com CNAME .
-stripesexteriors.com CNAME .
-*.stripesexteriors.com CNAME .
 stripgirlschats.com CNAME .
 *.stripgirlschats.com CNAME .
 striphours.com CNAME .
@@ -69584,8 +69422,6 @@ stripol.com CNAME .
 *.stripol.com CNAME .
 strippay.com CNAME .
 *.strippay.com CNAME .
-strippedasians.com CNAME .
-*.strippedasians.com CNAME .
 strippedgoddess.com CNAME .
 *.strippedgoddess.com CNAME .
 strippers-society.com CNAME .
@@ -69878,8 +69714,6 @@ sunporno.com CNAME .
 *.sunporno.com CNAME .
 sunrisemilford.com CNAME .
 *.sunrisemilford.com CNAME .
-sunsexbeach.com CNAME .
-*.sunsexbeach.com CNAME .
 sunxxx.com CNAME .
 *.sunxxx.com CNAME .
 suoireo.com CNAME .
@@ -70376,8 +70210,6 @@ taboo-game.com CNAME .
 *.taboo-game.com CNAME .
 taboodaddy.com CNAME .
 *.taboodaddy.com CNAME .
-taboodiva.com CNAME .
-*.taboodiva.com CNAME .
 taboodude.com CNAME .
 *.taboodude.com CNAME .
 tabooescorts.com CNAME .
@@ -70844,8 +70676,6 @@ teen-pussy-tube.com CNAME .
 *.teen-pussy-tube.com CNAME .
 teen-scandal.com CNAME .
 *.teen-scandal.com CNAME .
-teen-schlampen.com CNAME .
-*.teen-schlampen.com CNAME .
 teen-sex-pictures.com CNAME .
 *.teen-sex-pictures.com CNAME .
 teen-solo.com CNAME .
@@ -70920,8 +70750,6 @@ teencamx.com CNAME .
 *.teencamx.com CNAME .
 teencelebscoopblog.com CNAME .
 *.teencelebscoopblog.com CNAME .
-teencoedpics.com CNAME .
-*.teencoedpics.com CNAME .
 teencoin.com CNAME .
 *.teencoin.com CNAME .
 teencoreclub.com CNAME .
@@ -70960,8 +70788,6 @@ teenfuckyeah.com CNAME .
 *.teenfuckyeah.com CNAME .
 teengayhardcore.com CNAME .
 *.teengayhardcore.com CNAME .
-teengirlerotic.com CNAME .
-*.teengirlerotic.com CNAME .
 teenhdpussy.com CNAME .
 *.teenhdpussy.com CNAME .
 teenhollasex.com CNAME .
@@ -70984,8 +70810,6 @@ teenlesbianporn.com CNAME .
 *.teenlesbianporn.com CNAME .
 teenlittle.com CNAME .
 *.teenlittle.com CNAME .
-teenloveporn.com CNAME .
-*.teenloveporn.com CNAME .
 teenloverclub.com CNAME .
 *.teenloverclub.com CNAME .
 teenminitits.com CNAME .
@@ -71012,24 +70836,18 @@ teenpies.com CNAME .
 *.teenpies.com CNAME .
 teenporn-xxx.com CNAME .
 *.teenporn-xxx.com CNAME .
-teenporn-yes.com CNAME .
-*.teenporn-yes.com CNAME .
 teenporn19.com CNAME .
 *.teenporn19.com CNAME .
 teenpornb.com CNAME .
 *.teenpornb.com CNAME .
 teenpornbox.com CNAME .
 *.teenpornbox.com CNAME .
-teenporncity.com CNAME .
-*.teenporncity.com CNAME .
 teenporncum.com CNAME .
 *.teenporncum.com CNAME .
 teenpornface.com CNAME .
 *.teenpornface.com CNAME .
 teenporngf.com CNAME .
 *.teenporngf.com CNAME .
-teenpornhits.com CNAME .
-*.teenpornhits.com CNAME .
 teenpornjpg.com CNAME .
 *.teenpornjpg.com CNAME .
 teenpornjunkie.com CNAME .
@@ -71078,14 +70896,10 @@ teensdoporn.com CNAME .
 *.teensdoporn.com CNAME .
 teenseks.com CNAME .
 *.teenseks.com CNAME .
-teensex19.com CNAME .
-*.teensex19.com CNAME .
 teensex4u.com CNAME .
 *.teensex4u.com CNAME .
 teensexadd.com CNAME .
 *.teensexadd.com CNAME .
-teensexart.com CNAME .
-*.teensexart.com CNAME .
 teensexdolls.com CNAME .
 *.teensexdolls.com CNAME .
 teensexgold.com CNAME .
@@ -71130,8 +70944,6 @@ teensnaturalway.com CNAME .
 *.teensnaturalway.com CNAME .
 teensnow.com CNAME .
 *.teensnow.com CNAME .
-teensnow18.com CNAME .
-*.teensnow18.com CNAME .
 teensporner.com CNAME .
 *.teensporner.com CNAME .
 teenspresso.com CNAME .
@@ -71340,8 +71152,6 @@ tennmeg.com CNAME .
 *.tennmeg.com CNAME .
 tenshigao.com CNAME .
 *.tenshigao.com CNAME .
-tensikunsexy.com CNAME .
-*.tensikunsexy.com CNAME .
 tentacionesgdl.com CNAME .
 *.tentacionesgdl.com CNAME .
 tentadis.com CNAME .
@@ -71466,8 +71276,6 @@ thaihdsex.com CNAME .
 *.thaihdsex.com CNAME .
 thaihdxxx.com CNAME .
 *.thaihdxxx.com CNAME .
-thailadyboytube.com CNAME .
-*.thailadyboytube.com CNAME .
 thailandredcat.com CNAME .
 *.thailandredcat.com CNAME .
 thailivesex.com CNAME .
@@ -71502,8 +71310,6 @@ thatjuniperjack.com CNAME .
 *.thatjuniperjack.com CNAME .
 thatpervert.com CNAME .
 *.thatpervert.com CNAME .
-thats-fucked-up.com CNAME .
-*.thats-fucked-up.com CNAME .
 thatsexquiz.com CNAME .
 *.thatsexquiz.com CNAME .
 thatsitcomshow.com CNAME .
@@ -71554,8 +71360,6 @@ theadultcult.com CNAME .
 *.theadultcult.com CNAME .
 theadultemporium.com CNAME .
 *.theadultemporium.com CNAME .
-theadultentertainmentcoach.com CNAME .
-*.theadultentertainmentcoach.com CNAME .
 theadulthub.com CNAME .
 *.theadulthub.com CNAME .
 theadultingtheory.com CNAME .
@@ -71570,8 +71374,6 @@ theadulttoysstore.com CNAME .
 *.theadulttoysstore.com CNAME .
 theadultvibe.com CNAME .
 *.theadultvibe.com CNAME .
-theadultwork.com CNAME .
-*.theadultwork.com CNAME .
 theagencysd.com CNAME .
 *.theagencysd.com CNAME .
 theanimalporn.com CNAME .
@@ -71630,8 +71432,6 @@ thebenefitsexpo.com CNAME .
 *.thebenefitsexpo.com CNAME .
 thebenshi.com CNAME .
 *.thebenshi.com CNAME .
-thebestfetish.com CNAME .
-*.thebestfetish.com CNAME .
 thebestfetishsites.com CNAME .
 *.thebestfetishsites.com CNAME .
 thebestflex.com CNAME .
@@ -71668,8 +71468,6 @@ theblackandsexymovie.com CNAME .
 *.theblackandsexymovie.com CNAME .
 theblackbutt.com CNAME .
 *.theblackbutt.com CNAME .
-theblackporn.com CNAME .
-*.theblackporn.com CNAME .
 theblackravens.com CNAME .
 *.theblackravens.com CNAME .
 thebloggess.com CNAME .
@@ -71686,8 +71484,6 @@ thebobsburgerexperiment.com CNAME .
 *.thebobsburgerexperiment.com CNAME .
 thebondagefiles.com CNAME .
 *.thebondagefiles.com CNAME .
-thebonerguide.com CNAME .
-*.thebonerguide.com CNAME .
 thebonobowaybook.com CNAME .
 *.thebonobowaybook.com CNAME .
 theboobsblog.com CNAME .
@@ -72072,8 +71868,6 @@ thejackchronicles.com CNAME .
 *.thejackchronicles.com CNAME .
 thejapaneseav.com CNAME .
 *.thejapaneseav.com CNAME .
-thejapanesegirls.com CNAME .
-*.thejapanesegirls.com CNAME .
 thejasminlive.com CNAME .
 *.thejasminlive.com CNAME .
 thejessicastarling.com CNAME .
@@ -72086,8 +71880,6 @@ thekarups.com CNAME .
 *.thekarups.com CNAME .
 thekenschlampe.com CNAME .
 *.thekenschlampe.com CNAME .
-thekingsexhibtion.com CNAME .
-*.thekingsexhibtion.com CNAME .
 thekinkykingdom.com CNAME .
 *.thekinkykingdom.com CNAME .
 theleaksbay.com CNAME .
@@ -72370,8 +72162,6 @@ thesexflix.com CNAME .
 *.thesexflix.com CNAME .
 thesexfree.com CNAME .
 *.thesexfree.com CNAME .
-thesexgeeks.com CNAME .
-*.thesexgeeks.com CNAME .
 thesexhome.com CNAME .
 *.thesexhome.com CNAME .
 thesexindex.com CNAME .
@@ -72532,8 +72322,6 @@ theworldseeds.com CNAME .
 *.theworldseeds.com CNAME .
 theworldwatch.com CNAME .
 *.theworldwatch.com CNAME .
-thexgay.com CNAME .
-*.thexgay.com CNAME .
 theyarehuge.com CNAME .
 *.theyarehuge.com CNAME .
 theyiffgallery.com CNAME .
@@ -72874,22 +72662,16 @@ tiny-k.com CNAME .
 *.tiny-k.com CNAME .
 tiny4k.com CNAME .
 *.tiny4k.com CNAME .
-tinyanalteens.com CNAME .
-*.tinyanalteens.com CNAME .
 tinychat.com CNAME .
 *.tinychat.com CNAME .
 tinylesbians.com CNAME .
 *.tinylesbians.com CNAME .
-tinypornhub.com CNAME .
-*.tinypornhub.com CNAME .
 tinypussypics.com CNAME .
 *.tinypussypics.com CNAME .
 tinysextube.com CNAME .
 *.tinysextube.com CNAME .
 tinysolo.com CNAME .
 *.tinysolo.com CNAME .
-tinyteenmodels.com CNAME .
-*.tinyteenmodels.com CNAME .
 tinyteens-tube.com CNAME .
 *.tinyteens-tube.com CNAME .
 tinytyler.com CNAME .
@@ -72978,8 +72760,6 @@ tixxxtok.com CNAME .
 *.tixxxtok.com CNAME .
 tiyagill.com CNAME .
 *.tiyagill.com CNAME .
-tjacobsexpress.com CNAME .
-*.tjacobsexpress.com CNAME .
 tjgaydql.com CNAME .
 *.tjgaydql.com CNAME .
 tjsexcavationservice.com CNAME .
@@ -73036,8 +72816,6 @@ todayinmadonnahistory.com CNAME .
 *.todayinmadonnahistory.com CNAME .
 todaysadult.com CNAME .
 *.todaysadult.com CNAME .
-todaysvids.com CNAME .
-*.todaysvids.com CNAME .
 todayxxx.com CNAME .
 *.todayxxx.com CNAME .
 toddskaggswrites.com CNAME .
@@ -73154,8 +72932,6 @@ tonsofcock.com CNAME .
 *.tonsofcock.com CNAME .
 tonygilfillan.com CNAME .
 *.tonygilfillan.com CNAME .
-tonziegay.com CNAME .
-*.tonziegay.com CNAME .
 too-toys.com CNAME .
 *.too-toys.com CNAME .
 tooerotic.com CNAME .
@@ -73242,8 +73018,6 @@ topbangaloreescorts.com CNAME .
 *.topbangaloreescorts.com CNAME .
 topbangaloreescortservice.com CNAME .
 *.topbangaloreescortservice.com CNAME .
-topbbwporn.com CNAME .
-*.topbbwporn.com CNAME .
 topbiki.com CNAME .
 *.topbiki.com CNAME .
 topblackporn.com CNAME .
@@ -73448,8 +73222,6 @@ totalfreeporn.com CNAME .
 *.totalfreeporn.com CNAME .
 totalfucktube.com CNAME .
 *.totalfucktube.com CNAME .
-totallychristy.com CNAME .
-*.totallychristy.com CNAME .
 totallyfreecam.com CNAME .
 *.totallyfreecam.com CNAME .
 totallynsfw.com CNAME .
@@ -73706,8 +73478,6 @@ transexporno.com CNAME .
 *.transexporno.com CNAME .
 transfemme.com CNAME .
 *.transfemme.com CNAME .
-transfercataratasexpress.com CNAME .
-*.transfercataratasexpress.com CNAME .
 transfixed.com CNAME .
 *.transfixed.com CNAME .
 transfur.com CNAME .
@@ -73786,8 +73556,6 @@ travelingtickletrunk.com CNAME .
 *.travelingtickletrunk.com CNAME .
 travelsexlife.com CNAME .
 *.travelsexlife.com CNAME .
-travelsexplore.com CNAME .
-*.travelsexplore.com CNAME .
 travelwithdirtyfeet.com CNAME .
 *.travelwithdirtyfeet.com CNAME .
 travelxxx.com CNAME .
@@ -73942,8 +73710,6 @@ truebeachporn.com CNAME .
 *.truebeachporn.com CNAME .
 truebigtits.com CNAME .
 *.truebigtits.com CNAME .
-truecomprasexpress.com CNAME .
-*.truecomprasexpress.com CNAME .
 truefucktube.com CNAME .
 *.truefucktube.com CNAME .
 truegayporn.com CNAME .
@@ -74214,8 +73980,6 @@ tube2019.com CNAME .
 *.tube2019.com CNAME .
 tube3.com CNAME .
 *.tube3.com CNAME .
-tube4a.com CNAME .
-*.tube4a.com CNAME .
 tube4ace.com CNAME .
 *.tube4ace.com CNAME .
 4.tube4cum.com CNAME .
@@ -74390,8 +74154,6 @@ tubepornnude.com CNAME .
 *.tubepornnude.com CNAME .
 tubepornohd.com CNAME .
 *.tubepornohd.com CNAME .
-tubepornpussy.com CNAME .
-*.tubepornpussy.com CNAME .
 tubepornsars.com CNAME .
 *.tubepornsars.com CNAME .
 tubepornsearch.com CNAME .
@@ -74598,8 +74360,6 @@ turgaylarperdetasarim.com CNAME .
 *.turgaylarperdetasarim.com CNAME .
 turgaysahtiyan.com CNAME .
 *.turgaysahtiyan.com CNAME .
-turgayyagmuroglu.com CNAME .
-*.turgayyagmuroglu.com CNAME .
 turkcealtyaziliporno.com CNAME .
 *.turkcealtyaziliporno.com CNAME .
 turkcedublajporno.com CNAME .
@@ -74672,8 +74432,6 @@ tvporntube.com CNAME .
 *.tvporntube.com CNAME .
 tvsexe.com CNAME .
 *.tvsexe.com CNAME .
-tvshemalesex.com CNAME .
-*.tvshemalesex.com CNAME .
 tvversex.com CNAME .
 *.tvversex.com CNAME .
 tw3838.com CNAME .
@@ -74716,8 +74474,6 @@ twinklounge.com CNAME .
 *.twinklounge.com CNAME .
 twinkmodel.com CNAME .
 *.twinkmodel.com CNAME .
-twinkpornvideos2cn.com CNAME .
-*.twinkpornvideos2cn.com CNAME .
 twinkptv.com CNAME .
 *.twinkptv.com CNAME .
 twinkrough.com CNAME .
@@ -74756,8 +74512,6 @@ twistedvisual.com CNAME .
 *.twistedvisual.com CNAME .
 twistys.com CNAME .
 *.twistys.com CNAME .
-twistys-babes.com CNAME .
-*.twistys-babes.com CNAME .
 twistysnetwork.com CNAME .
 *.twistysnetwork.com CNAME .
 twmilf.com CNAME .
@@ -75034,8 +74788,6 @@ ultrahorny.com CNAME .
 *.ultrahorny.com CNAME .
 ultrahqporn.com CNAME .
 *.ultrahqporn.com CNAME .
-ultraindiansex.com CNAME .
-*.ultraindiansex.com CNAME .
 ultramilfhookup.com CNAME .
 *.ultramilfhookup.com CNAME .
 ultrampg.com CNAME .
@@ -75052,14 +74804,10 @@ ultratoon4you.com CNAME .
 *.ultratoon4you.com CNAME .
 ultratubehd.com CNAME .
 *.ultratubehd.com CNAME .
-ulusalofisgayrimenkul.com CNAME .
-*.ulusalofisgayrimenkul.com CNAME .
 ulust.com CNAME .
 *.ulust.com CNAME .
 uma-rai.com CNAME .
 *.uma-rai.com CNAME .
-umakeitdirtyimakeitclean.com CNAME .
-*.umakeitdirtyimakeitclean.com CNAME .
 umakinoshita.com CNAME .
 *.umakinoshita.com CNAME .
 umaturepussy.com CNAME .
@@ -75200,8 +74948,6 @@ unisexnails.com CNAME .
 *.unisexnails.com CNAME .
 unisextimes.com CNAME .
 *.unisextimes.com CNAME .
-unissexcare.com CNAME .
-*.unissexcare.com CNAME .
 unite.com CNAME .
 *.unite.com CNAME .
 unitedflings.com CNAME .
@@ -75422,8 +75168,6 @@ usamailorderbrides.com CNAME .
 *.usamailorderbrides.com CNAME .
 usandbath.com CNAME .
 *.usandbath.com CNAME .
-usanudist.com CNAME .
-*.usanudist.com CNAME .
 usaporntv.com CNAME .
 *.usaporntv.com CNAME .
 usarecruitersexperts.com CNAME .
@@ -75678,8 +75422,6 @@ vapornomad.com CNAME .
 *.vapornomad.com CNAME .
 variations.com CNAME .
 *.variations.com CNAME .
-varietiesexpresss.com CNAME .
-*.varietiesexpresss.com CNAME .
 varshachowdary.com CNAME .
 *.varshachowdary.com CNAME .
 varshaservice.com CNAME .
@@ -75706,8 +75448,6 @@ vavasexdoll.com CNAME .
 *.vavasexdoll.com CNAME .
 vavasextoy.com CNAME .
 *.vavasextoy.com CNAME .
-vaytiengopngay24h.com CNAME .
-*.vaytiengopngay24h.com CNAME .
 vazadosporno.com CNAME .
 *.vazadosporno.com CNAME .
 vazaramporno.com CNAME .
@@ -75734,8 +75474,6 @@ vdelhiescorts.com CNAME .
 *.vdelhiescorts.com CNAME .
 vdmporn.com CNAME .
 *.vdmporn.com CNAME .
-vdmporns.com CNAME .
-*.vdmporns.com CNAME .
 vdsxxx.com CNAME .
 *.vdsxxx.com CNAME .
 veazieit.com CNAME .
@@ -75780,8 +75518,6 @@ vends-ta-culotte.com CNAME .
 *.vends-ta-culotte.com CNAME .
 venom-ch.com CNAME .
 *.venom-ch.com CNAME .
-ventsexperts.com CNAME .
-*.ventsexperts.com CNAME .
 venus-adult-news.com CNAME .
 *.venus-adult-news.com CNAME .
 venus-camgirls.com CNAME .
@@ -75824,16 +75560,12 @@ verified-support.com CNAME .
 *.verified-support.com CNAME .
 veritasexpertservices.com CNAME .
 *.veritasexpertservices.com CNAME .
-verktygsexperten.com CNAME .
-*.verktygsexperten.com CNAME .
 vermangaspornl.com CNAME .
 *.vermangaspornl.com CNAME .
 vermangasporno.com CNAME .
 *.vermangasporno.com CNAME .
 vermanhwa.com CNAME .
 *.vermanhwa.com CNAME .
-vermontwomensexpo.com CNAME .
-*.vermontwomensexpo.com CNAME .
 veronafriends.com CNAME .
 *.veronafriends.com CNAME .
 veronicasnow.com CNAME .
@@ -75882,8 +75614,6 @@ vestredu.com CNAME .
 *.vestredu.com CNAME .
 vestsexperts.com CNAME .
 *.vestsexperts.com CNAME .
-vestsexydistribuidora.com CNAME .
-*.vestsexydistribuidora.com CNAME .
 vetrimatrimony.com CNAME .
 *.vetrimatrimony.com CNAME .
 vetsessex.com CNAME .
@@ -84336,8 +84066,6 @@ tatuadas.es CNAME .
 *.tatuadas.es CNAME .
 tejidosexclusivoslaine.es CNAME .
 *.tejidosexclusivoslaine.es CNAME .
-thaispamassage.es CNAME .
-*.thaispamassage.es CNAME .
 therottenappl.es CNAME .
 *.therottenappl.es CNAME .
 torbe.es CNAME .
@@ -85990,6 +85718,8 @@ lady3.fun CNAME .
 *.lady3.fun CNAME .
 lovesex.fun CNAME .
 *.lovesex.fun CNAME .
+lsdh.fun CNAME .
+*.lsdh.fun CNAME .
 luxuretv.fun CNAME .
 *.luxuretv.fun CNAME .
 mangafox.fun CNAME .
@@ -86120,8 +85850,6 @@ sexymzbotai.fun CNAME .
 *.sexymzbotai.fun CNAME .
 sexypump.fun CNAME .
 *.sexypump.fun CNAME .
-sexyvideochat.fun CNAME .
-*.sexyvideochat.fun CNAME .
 slutoween.fun CNAME .
 *.slutoween.fun CNAME .
 slutvault.fun CNAME .
@@ -88182,16 +87910,12 @@ skylermcginn.gay CNAME .
 *.skylermcginn.gay CNAME .
 slayit.gay CNAME .
 *.slayit.gay CNAME .
-slovak.gay CNAME .
-*.slovak.gay CNAME .
 smartypromo.gay CNAME .
 *.smartypromo.gay CNAME .
 smf.gay CNAME .
 *.smf.gay CNAME .
 smiley.gay CNAME .
 *.smiley.gay CNAME .
-sneps.gay CNAME .
-*.sneps.gay CNAME .
 snom.gay CNAME .
 *.snom.gay CNAME .
 snozzly.gay CNAME .
@@ -88430,8 +88154,6 @@ umit.gay CNAME .
 *.umit.gay CNAME .
 unitesstateds.gay CNAME .
 *.unitesstateds.gay CNAME .
-universe.gay CNAME .
-*.universe.gay CNAME .
 untd.gay CNAME .
 *.untd.gay CNAME .
 upnorth.gay CNAME .
@@ -92418,8 +92140,6 @@ sextoyss.in CNAME .
 *.sextoyss.in CNAME .
 sexvibrators.in CNAME .
 *.sexvibrators.in CNAME .
-sexycallgirlsjaipur.in CNAME .
-*.sexycallgirlsjaipur.in CNAME .
 sexyescorts.in CNAME .
 *.sexyescorts.in CNAME .
 sexyhema.in CNAME .
@@ -93988,8 +93708,6 @@ sexgaigoi.info CNAME .
 *.sexgaigoi.info CNAME .
 sexhay.info CNAME .
 *.sexhay.info CNAME .
-sexhd.info CNAME .
-*.sexhd.info CNAME .
 sexhelper.info CNAME .
 *.sexhelper.info CNAME .
 sexhocsinh.info CNAME .
@@ -94012,8 +93730,6 @@ sexorenburg.info CNAME .
 *.sexorenburg.info CNAME .
 sexotube2.info CNAME .
 *.sexotube2.info CNAME .
-sexphim69.info CNAME .
-*.sexphim69.info CNAME .
 sexpic.info CNAME .
 *.sexpic.info CNAME .
 sexquat.info CNAME .
@@ -94028,8 +93744,6 @@ sexstudio.info CNAME .
 *.sexstudio.info CNAME .
 sextgateln.info CNAME .
 *.sextgateln.info CNAME .
-sexthai.info CNAME .
-*.sexthai.info CNAME .
 sextrungquoc.info CNAME .
 *.sextrungquoc.info CNAME .
 sextubeporn.info CNAME .
@@ -94498,8 +94212,6 @@ primeporn.ink CNAME .
 *.primeporn.ink CNAME .
 sayhentai.ink CNAME .
 *.sayhentai.ink CNAME .
-sex-xxx-latina.ink CNAME .
-*.sex-xxx-latina.ink CNAME .
 sexhd.ink CNAME .
 *.sexhd.ink CNAME .
 sexl.ink CNAME .
@@ -94628,6 +94340,8 @@ hussy.io CNAME .
 *.hussy.io CNAME .
 incestflix.io CNAME .
 *.incestflix.io CNAME .
+also123kimo.itch.io CNAME .
+*.also123kimo.itch.io CNAME .
 anduogames.itch.io CNAME .
 *.anduogames.itch.io CNAME .
 animefanka.itch.io CNAME .
@@ -94638,6 +94352,8 @@ baldhamster.itch.io CNAME .
 *.baldhamster.itch.io CNAME .
 barragames.itch.io CNAME .
 *.barragames.itch.io CNAME .
+belgerum.itch.io CNAME .
+*.belgerum.itch.io CNAME .
 boundbynight.itch.io CNAME .
 *.boundbynight.itch.io CNAME .
 burst-out-games.itch.io CNAME .
@@ -94890,6 +94606,8 @@ phracassado.itch.io CNAME .
 *.phracassado.itch.io CNAME .
 pinktea-games.itch.io CNAME .
 *.pinktea-games.itch.io CNAME .
+pixelmiho.itch.io CNAME .
+*.pixelmiho.itch.io CNAME .
 ponporio.itch.io CNAME .
 *.ponporio.itch.io CNAME .
 profdegenerate.itch.io CNAME .
@@ -96824,8 +96542,6 @@ sexdiary.live CNAME .
 *.sexdiary.live CNAME .
 sexdiaryx.live CNAME .
 *.sexdiaryx.live CNAME .
-sexhay69.live CNAME .
-*.sexhay69.live CNAME .
 sexhd88.live CNAME .
 *.sexhd88.live CNAME .
 sexjav69.live CNAME .
@@ -96834,8 +96550,6 @@ sexnsk.live CNAME .
 *.sexnsk.live CNAME .
 sexnsk2.live CNAME .
 *.sexnsk2.live CNAME .
-sexonsk.live CNAME .
-*.sexonsk.live CNAME .
 sexotv.live CNAME .
 *.sexotv.live CNAME .
 sexrockets3.live CNAME .
@@ -96894,8 +96608,6 @@ stripzone.live CNAME .
 *.stripzone.live CNAME .
 superawesomexxxtr.live CNAME .
 *.superawesomexxxtr.live CNAME .
-supxxx.live CNAME .
-*.supxxx.live CNAME .
 susi.live CNAME .
 *.susi.live CNAME .
 swag.live CNAME .
@@ -96912,8 +96624,6 @@ tindrforsex.live CNAME .
 *.tindrforsex.live CNAME .
 tooldream.live CNAME .
 *.tooldream.live CNAME .
-trannyporn.live CNAME .
-*.trannyporn.live CNAME .
 travelcraftersexperts.live CNAME .
 *.travelcraftersexperts.live CNAME .
 travelethosexperts.live CNAME .
@@ -97254,8 +96964,6 @@ sexkhongche.lol CNAME .
 *.sexkhongche.lol CNAME .
 sexsub5.lol CNAME .
 *.sexsub5.lol CNAME .
-sexthai.lol CNAME .
-*.sexthai.lol CNAME .
 sextop18.lol CNAME .
 *.sextop18.lol CNAME .
 sextuquay.lol CNAME .
@@ -98362,8 +98070,6 @@ sex-foto.me CNAME .
 *.sex-foto.me CNAME .
 sex-s-krasotkoy.me CNAME .
 *.sex-s-krasotkoy.me CNAME .
-sex-toys.me CNAME .
-*.sex-toys.me CNAME .
 sex-videochat.me CNAME .
 *.sex-videochat.me CNAME .
 sex-vip.me CNAME .
@@ -98424,8 +98130,6 @@ sexweek.me CNAME .
 *.sexweek.me CNAME .
 sexycity.me CNAME .
 *.sexycity.me CNAME .
-sexyporn.me CNAME .
-*.sexyporn.me CNAME .
 sexyvideo.me CNAME .
 *.sexyvideo.me CNAME .
 shahvani.me CNAME .
@@ -98684,8 +98388,6 @@ xh.media CNAME .
 *.xh.media CNAME .
 xnxxx.media CNAME .
 *.xnxxx.media CNAME .
-xxxplus.media CNAME .
-*.xxxplus.media CNAME .
 91porn.meme CNAME .
 *.91porn.meme CNAME .
 fap-guru.meme CNAME .
@@ -99374,8 +99076,6 @@ sexalarab.mom CNAME .
 *.sexalarab.mom CNAME .
 sexme.mom CNAME .
 *.sexme.mom CNAME .
-sexting.mom CNAME .
-*.sexting.mom CNAME .
 sextop1.mom CNAME .
 *.sextop1.mom CNAME .
 sexymom.mom CNAME .
@@ -99718,8 +99418,6 @@ mmsdose.my CNAME .
 *.mmsdose.my CNAME .
 naughtyblog.my CNAME .
 *.naughtyblog.my CNAME .
-uncutmasti.my CNAME .
-*.uncutmasti.my CNAME .
 vlxx88.my CNAME .
 *.vlxx88.my CNAME .
 www-xnxx-com.my CNAME .
@@ -106162,8 +105860,6 @@ sextorrent.net CNAME .
 *.sextorrent.net CNAME .
 sextoyforum.net CNAME .
 *.sextoyforum.net CNAME .
-sextoyorgasm.net CNAME .
-*.sextoyorgasm.net CNAME .
 sextoysduabai.net CNAME .
 *.sextoysduabai.net CNAME .
 sextoysdubai.net CNAME .
@@ -106172,8 +105868,6 @@ sextreffen-portale.net CNAME .
 *.sextreffen-portale.net CNAME .
 sextrung.net CNAME .
 *.sextrung.net CNAME .
-sextrung22.net CNAME .
-*.sextrung22.net CNAME .
 sextrunghd.net CNAME .
 *.sextrunghd.net CNAME .
 sextubehd.net CNAME .
@@ -106522,8 +106216,6 @@ stripzone.net CNAME .
 *.stripzone.net CNAME .
 stulzer.net CNAME .
 *.stulzer.net CNAME .
-suckingpics.net CNAME .
-*.suckingpics.net CNAME .
 sugarbutch.net CNAME .
 *.sugarbutch.net CNAME .
 sugayrimenkul.net CNAME .
@@ -108790,8 +108482,6 @@ slapenindemolen.nl CNAME .
 *.slapenindemolen.nl CNAME .
 sletcams.nl CNAME .
 *.sletcams.nl CNAME .
-snap2sex.nl CNAME .
-*.snap2sex.nl CNAME .
 spaansen.nl CNAME .
 *.spaansen.nl CNAME .
 speedlinq.nl CNAME .
@@ -109452,12 +109142,8 @@ sexprm.one CNAME .
 *.sexprm.one CNAME .
 sexreals.one CNAME .
 *.sexreals.one CNAME .
-sexs.one CNAME .
-*.sexs.one CNAME .
 sexsev.one CNAME .
 *.sexsev.one CNAME .
-sexthai.one CNAME .
-*.sexthai.one CNAME .
 sexvid.one CNAME .
 *.sexvid.one CNAME .
 sexvideo.one CNAME .
@@ -110360,8 +110046,6 @@ sexeduforall.online CNAME .
 *.sexeduforall.online CNAME .
 sexefashion.online CNAME .
 *.sexefashion.online CNAME .
-sexexpert.online CNAME .
-*.sexexpert.online CNAME .
 sexgirl.online CNAME .
 *.sexgirl.online CNAME .
 sexhdxxx.online CNAME .
@@ -110450,8 +110134,6 @@ sunporn.online CNAME .
 *.sunporn.online CNAME .
 sussexcounty.online CNAME .
 *.sussexcounty.online CNAME .
-sv388sabungayam.online CNAME .
-*.sv388sabungayam.online CNAME .
 swiftsexpresses.online CNAME .
 *.swiftsexpresses.online CNAME .
 swissexpatplanning.online CNAME .
@@ -110476,8 +110158,6 @@ theinternetisaslut.online CNAME .
 *.theinternetisaslut.online CNAME .
 theporn.online CNAME .
 *.theporn.online CNAME .
-theporndude.online CNAME .
-*.theporndude.online CNAME .
 thirstycallgirls.online CNAME .
 *.thirstycallgirls.online CNAME .
 tiadultktok18.online CNAME .
@@ -113838,8 +113518,6 @@ sex-cells.org CNAME .
 *.sex-cells.org CNAME .
 sex-empire.org CNAME .
 *.sex-empire.org CNAME .
-sex-hologram.org CNAME .
-*.sex-hologram.org CNAME .
 sex-hookup.org CNAME .
 *.sex-hookup.org CNAME .
 sex-matters-news.org CNAME .
@@ -113914,8 +113592,6 @@ sexhookups.org CNAME .
 *.sexhookups.org CNAME .
 sexia.org CNAME .
 *.sexia.org CNAME .
-sexicelebs.org CNAME .
-*.sexicelebs.org CNAME .
 sexiluna.org CNAME .
 *.sexiluna.org CNAME .
 sexinsex.org CNAME .
@@ -114092,8 +113768,6 @@ sexzone88.org CNAME .
 *.sexzone88.org CNAME .
 sexzones88.org CNAME .
 *.sexzones88.org CNAME .
-shangmeng.org CNAME .
-*.shangmeng.org CNAME .
 sharingissexy.org CNAME .
 *.sharingissexy.org CNAME .
 shemaledatingsites.org CNAME .
@@ -114162,8 +113836,6 @@ soleyleveadultdayhealth.org CNAME .
 *.soleyleveadultdayhealth.org CNAME .
 soloporno.org CNAME .
 *.soloporno.org CNAME .
-sosexclusionparentale.org CNAME .
-*.sosexclusionparentale.org CNAME .
 soski.org CNAME .
 *.soski.org CNAME .
 sosporn.org CNAME .
@@ -114434,8 +114106,6 @@ truyendam.org CNAME .
 *.truyendam.org CNAME .
 truyenhentaiz.org CNAME .
 *.truyenhentaiz.org CNAME .
-truyensex.org CNAME .
-*.truyensex.org CNAME .
 tryhotporn.org CNAME .
 *.tryhotporn.org CNAME .
 tsvideos.org CNAME .
@@ -114452,8 +114122,6 @@ tucsongaymuseum.org CNAME .
 *.tucsongaymuseum.org CNAME .
 tuoilontv.org CNAME .
 *.tuoilontv.org CNAME .
-turkpornotelegram.org CNAME .
-*.turkpornotelegram.org CNAME .
 tvtuga.org CNAME .
 *.tvtuga.org CNAME .
 twinkvideos.org CNAME .
@@ -117356,8 +117024,6 @@ sexyvideo.pro CNAME .
 *.sexyvideo.pro CNAME .
 sexywyy6.pro CNAME .
 *.sexywyy6.pro CNAME .
-sexyxyo2.pro CNAME .
-*.sexyxyo2.pro CNAME .
 sexzone88.pro CNAME .
 *.sexzone88.pro CNAME .
 shemalemovies.pro CNAME .
@@ -117480,8 +117146,6 @@ ufym.pro CNAME .
 *.ufym.pro CNAME .
 ulluhotseries.pro CNAME .
 *.ulluhotseries.pro CNAME .
-uzbxxx.pro CNAME .
-*.uzbxxx.pro CNAME .
 vedsex.pro CNAME .
 *.vedsex.pro CNAME .
 vergewaltigungporno.pro CNAME .
@@ -120222,8 +119886,6 @@ sex-inside.ru CNAME .
 *.sex-inside.ru CNAME .
 sex-news.ru CNAME .
 *.sex-news.ru CNAME .
-sex-nsk.ru CNAME .
-*.sex-nsk.ru CNAME .
 sex-pics.ru CNAME .
 *.sex-pics.ru CNAME .
 sex-planet.ru CNAME .
@@ -120308,8 +119970,6 @@ sexrussian.ru CNAME .
 *.sexrussian.ru CNAME .
 sexserver.ru CNAME .
 *.sexserver.ru CNAME .
-sexservicespb.ru CNAME .
-*.sexservicespb.ru CNAME .
 sexshop-novosibirsk.ru CNAME .
 *.sexshop-novosibirsk.ru CNAME .
 sexshop-privat.ru CNAME .
@@ -121154,8 +120814,6 @@ rusex.sbs CNAME .
 *.rusex.sbs CNAME .
 sanxxxiangowjsks.sbs CNAME .
 *.sanxxxiangowjsks.sbs CNAME .
-sexav1.sbs CNAME .
-*.sexav1.sbs CNAME .
 sexcaydrk.sbs CNAME .
 *.sexcaydrk.sbs CNAME .
 sexgay.sbs CNAME .
@@ -121180,16 +120838,12 @@ sexymeets.sbs CNAME .
 *.sexymeets.sbs CNAME .
 sikisme.sbs CNAME .
 *.sikisme.sbs CNAME .
-siroongay.sbs CNAME .
-*.siroongay.sbs CNAME .
 slutbbcedn.sbs CNAME .
 *.slutbbcedn.sbs CNAME .
 smotreti-porno-online.sbs CNAME .
 *.smotreti-porno-online.sbs CNAME .
 spermpiecesbarely83.sbs CNAME .
 *.spermpiecesbarely83.sbs CNAME .
-sxxxpeespx-about2.sbs CNAME .
-*.sxxxpeespx-about2.sbs CNAME .
 taribada.sbs CNAME .
 *.taribada.sbs CNAME .
 teencumpot.sbs CNAME .
@@ -121198,8 +120852,6 @@ teensex.sbs CNAME .
 *.teensex.sbs CNAME .
 telegram-cambodiasex.sbs CNAME .
 *.telegram-cambodiasex.sbs CNAME .
-telegramxxx.sbs CNAME .
-*.telegramxxx.sbs CNAME .
 tencentsexi.sbs CNAME .
 *.tencentsexi.sbs CNAME .
 thaiporn.sbs CNAME .
@@ -121634,8 +121286,6 @@ shemalehd.sex CNAME .
 *.shemalehd.sex CNAME .
 sky.sex CNAME .
 *.sky.sex CNAME .
-softkorb.sex CNAME .
-*.softkorb.sex CNAME .
 spy.sex CNAME .
 *.spy.sex CNAME .
 tana.sex CNAME .
@@ -123578,6 +123228,8 @@ web71small.shop CNAME .
 *.web71small.shop CNAME .
 web71sound.shop CNAME .
 *.web71sound.shop CNAME .
+web71staff.shop CNAME .
+*.web71staff.shop CNAME .
 web86actually.shop CNAME .
 *.web86actually.shop CNAME .
 web86and.shop CNAME .
@@ -124054,6 +123706,8 @@ dumpsterrentalmassanutten.site CNAME .
 *.dumpsterrentalmassanutten.site CNAME .
 easyporn.site CNAME .
 *.easyporn.site CNAME .
+ebig.site CNAME .
+*.ebig.site CNAME .
 ebooksexpress.site CNAME .
 *.ebooksexpress.site CNAME .
 eliasporno.site CNAME .
@@ -124834,8 +124488,6 @@ sex-studentki.site CNAME .
 *.sex-studentki.site CNAME .
 sex789.site CNAME .
 *.sex789.site CNAME .
-sexang.site CNAME .
-*.sexang.site CNAME .
 sexanimalporn.site CNAME .
 *.sexanimalporn.site CNAME .
 sexblog.site CNAME .
@@ -124928,8 +124580,6 @@ shemale-dating.site CNAME .
 *.shemale-dating.site CNAME .
 shemaletube.site CNAME .
 *.shemaletube.site CNAME .
-shopthanggay.site CNAME .
-*.shopthanggay.site CNAME .
 sikispornoseks.site CNAME .
 *.sikispornoseks.site CNAME .
 skyhomesgayrimenkul.site CNAME .
@@ -124972,8 +124622,6 @@ theinteres.site CNAME .
 *.theinteres.site CNAME .
 thisav.site CNAME .
 *.thisav.site CNAME .
-threelinesexecutive.site CNAME .
-*.threelinesexecutive.site CNAME .
 threesomeporn.site CNAME .
 *.threesomeporn.site CNAME .
 threesomesex.site CNAME .
@@ -126778,8 +126426,6 @@ sexshop24.space CNAME .
 *.sexshop24.space CNAME .
 sexycollection.space CNAME .
 *.sexycollection.space CNAME .
-sexyflirt.space CNAME .
-*.sexyflirt.space CNAME .
 sexygame1688.space CNAME .
 *.sexygame1688.space CNAME .
 sexyrate.space CNAME .
@@ -128796,8 +128442,6 @@ sweporn.store CNAME .
 *.sweporn.store CNAME .
 sxxxeeeeabout3.store CNAME .
 *.sxxxeeeeabout3.store CNAME .
-sxxxxee-ab0ut.store CNAME .
-*.sxxxxee-ab0ut.store CNAME .
 talk2pornstars.store CNAME .
 *.talk2pornstars.store CNAME .
 teenporn.store CNAME .
@@ -129660,8 +129304,6 @@ nox.to CNAME .
 *.nox.to CNAME .
 nsfw247.to CNAME .
 *.nsfw247.to CNAME .
-num.to CNAME .
-*.num.to CNAME .
 nurgay.to CNAME .
 *.nurgay.to CNAME .
 omegleporn.to CNAME .
@@ -138140,8 +137782,6 @@ sexeducation.website CNAME .
 *.sexeducation.website CNAME .
 sexiporno.website CNAME .
 *.sexiporno.website CNAME .
-sexpornizle.website CNAME .
-*.sexpornizle.website CNAME .
 sexporns.website CNAME .
 *.sexporns.website CNAME .
 sexpornvideo.website CNAME .
@@ -139058,16 +138698,12 @@ sex-party.wtf CNAME .
 *.sex-party.wtf CNAME .
 sex-pg.wtf CNAME .
 *.sex-pg.wtf CNAME .
-sex-pov.wtf CNAME .
-*.sex-pov.wtf CNAME .
 sex-studentki.wtf CNAME .
 *.sex-studentki.wtf CNAME .
 sex-tube.wtf CNAME .
 *.sex-tube.wtf CNAME .
 sex-vid.wtf CNAME .
 *.sex-vid.wtf CNAME .
-sex-vr.wtf CNAME .
-*.sex-vr.wtf CNAME .
 sex-xxx.wtf CNAME .
 *.sex-xxx.wtf CNAME .
 sexcams.wtf CNAME .
@@ -149626,8 +149262,6 @@ sex-whale.xyz CNAME .
 *.sex-whale.xyz CNAME .
 sex-y.xyz CNAME .
 *.sex-y.xyz CNAME .
-sex05.xyz CNAME .
-*.sex05.xyz CNAME .
 sex0x.xyz CNAME .
 *.sex0x.xyz CNAME .
 sex100.xyz CNAME .
@@ -149808,8 +149442,6 @@ sexbeads.xyz CNAME .
 *.sexbeads.xyz CNAME .
 sexbeats.xyz CNAME .
 *.sexbeats.xyz CNAME .
-sexbee4.xyz CNAME .
-*.sexbee4.xyz CNAME .
 sexbermuda.xyz CNAME .
 *.sexbermuda.xyz CNAME .
 sexbid.xyz CNAME .
@@ -150124,12 +149756,6 @@ sexiaohai182.xyz CNAME .
 *.sexiaohai182.xyz CNAME .
 sexiaohai183.xyz CNAME .
 *.sexiaohai183.xyz CNAME .
-sexiaohai56.xyz CNAME .
-*.sexiaohai56.xyz CNAME .
-sexiaohai6.xyz CNAME .
-*.sexiaohai6.xyz CNAME .
-sexiaohai69.xyz CNAME .
-*.sexiaohai69.xyz CNAME .
 sexice.xyz CNAME .
 *.sexice.xyz CNAME .
 sexideal.xyz CNAME .
@@ -150568,8 +150194,6 @@ sexthunder.xyz CNAME .
 *.sexthunder.xyz CNAME .
 sexties.xyz CNAME .
 *.sexties.xyz CNAME .
-sextile.xyz CNAME .
-*.sextile.xyz CNAME .
 sextillions.xyz CNAME .
 *.sextillions.xyz CNAME .
 sextime.xyz CNAME .

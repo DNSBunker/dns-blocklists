@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Nov 2025 18:35 UTC
-! Version: 2025.1103.1835.36
+! Last modified: 04 Nov 2025 02:34 UTC
+! Version: 2025.1104.0234.04
 ! Syntax: AdBlock
-! Number of entries: 6102
+! Number of entries: 6105
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -662,6 +662,7 @@
 ||dot-fi.blahdns.com^
 ||dot-jp.blahdns.com^
 ||dot-sg.blahdns.com^
+||calm-tree-976.blanktext.net^
 ||dns.blaumer.dev^
 ||blewpass.com^
 ||us1.blissdns.net^
@@ -1432,6 +1433,7 @@
 ||disbish.com^
 ||disconnect.me^
 ||doh.disconnect.app^
+||smart-tiger-985.discovergeographics.com^
 ||blackdragon6699.diskstation.me^
 ||ebpmc.diskstation.me^
 ||fdns1.dismail.de^
@@ -2408,6 +2410,7 @@
 ||dns.guardmydns.com^
 ||guardster.com^
 ||guavi.com^
+||kind-soul-873.guesstheanimal.org^
 ||guestappearance.us^
 ||guidetoworld.link^
 ||dns2.guidocioni.it^
@@ -2964,6 +2967,9 @@
 ||yanglini.justlearning.net^
 ||uto1.k.vu^
 ||adguard.k-likhachev.ru^
+||great-spirit-267.k12biography.com^
+||large-wind-274.k12biography.com^
+||first-air-246.k12biology.com^
 ||kind-fox-975.k12biology.com^
 ||proteomics.k12biology.com^
 ||pure-cloud-838.k12biology.com^
@@ -3754,6 +3760,7 @@
 ||nsocks.net^
 ||bright-storm-767.nstabiology.org^
 ||deep-lake-819.nstabiology.org^
+||fair-bear-832.nstabiology.org^
 ||kind-bear-286.nstabiology.org^
 ||quick-tiger-997.nstabiology.org^
 ||nsv4w.com^
@@ -4616,10 +4623,12 @@
 ||schoology.college^
 ||schoology.help^
 ||schoolooks.com^
+||bold-power-788.schoolsprepared.org^
 ||schoolwebproxy.com^
 ||schooxy.com^
 ||sciencesimplified.pro^
 ||gravity.sciencevictory.org^
+||brave-moon-374.scientificsense.org^
 ||bright-storm-707.scientificsense.org^
 ||dns.scott.ovh^
 ||dns.scott-smith.us^
@@ -4723,10 +4732,13 @@
 ||adguard.shoupperuser.com^
 ||dns.shrike.ru^
 ||adguard.shutgaming.net^
+||kind-wolf-912.shuttle.lol^
 ||calm-wolf-401.shuttlemath.com^
 ||fair-hawk-609.shuttlemath.com^
 ||fair-lake-387.shuttlemath.com^
 ||deep-hawk-892.shuttleproxy.com^
+||kind-tiger-205.shuttleproxy.com^
+||old-soul-492.shuttleproxy.com^
 ||nl.dns.shx.su^
 ||doh.sidnlabs.nl^
 ||signsservers.ru^
@@ -4823,7 +4835,6 @@
 ||adguardhome.softcloud.pe^
 ||clientdns3.softcom.net^
 ||myprivityvpn.softether.net^
-||anothaone.softify-link.ro^
 ||free-vpn.en.softonic.com^
 ||solaxy.live^
 ||soleilvpn-app.com^
@@ -4835,7 +4846,6 @@
 ||adguard.som-it.net^
 ||somelikeitproxy.com^
 ||bwg.sooda.moe^
-||konata-ice.soon.it^
 ||r.soraapp.gq^
 ||admin1.sotna.org^
 ||cms.sotna.org^
@@ -4881,7 +4891,6 @@
 ||doh.srv00.com^
 ||adbox-v8.srv64.de^
 ||adguard.sscw.win^
-||darius-doh-nl.sserver.org^
 ||ssh-free.com^
 ||ssh-storage.ru^
 ||sshagan.net^
@@ -4947,7 +4956,6 @@
 ||adguard.strafer.dk^
 ||strangerandomdomain1.space^
 ||67818-bro.strangled.net^
-||whatisfunanymore.com.strangled.net^
 ||gyaaat.strangled.net^
 ||squidward.strangled.net^
 ||strassmair.org^
@@ -4989,7 +4997,6 @@
 ||superunlimited.com^
 ||supervpn.best^
 ||supervpn.im^
-||supervpn.net^
 ||suredns.nl^
 ||surf-for-free.com^
 ||surf100.com^
@@ -5066,6 +5073,7 @@
 ||nsnacho.sytes.net^
 ||virmamp33.sytes.net^
 ||bold-river-186.sz.games^
+||large-dark-576.sz.games^
 ||wild-moon-986.sz.games^
 ||doh.sz-dns.com^
 ||dns.szpadel.ovh^
@@ -5276,7 +5284,6 @@
 ||ngk81hc.tplinkdns.com^
 ||dns.tracker.ink^
 ||tradeadspace.info^
-||linewize.tradekinginternational.com^
 ||trafflink.xyz^
 ||traffmonetizer.com^
 ||resolv1.trash.net^
@@ -5315,7 +5322,6 @@
 ||tubeprox.com^
 ||tubeunblock.me^
 ||tubeunblock.net^
-||tujenasnaszato.xyz^
 ||freodore.tulanerw.org^
 ||tunnelbear.com^
 ||turbohide.org^
@@ -5375,14 +5381,12 @@
 ||unblock-it.com^
 ||unblock-me.org^
 ||unblock-proxy.com^
-||unblock-sites.com^
 ||unblock-us.com^
 ||unblock-websites.com^
 ||unblock123.com^
 ||unblock2.pw^
 ||unblock2.site^
 ||unblock2.space^
-||unblock2.website^
 ||unblock2.xyz^
 ||unblock2d.com^
 ||unblock3d.biz^
@@ -5508,7 +5512,6 @@
 ||galileo.math.unipd.it^
 ||dns.unitech.company^
 ||universityproxy.net^
-||unkn0wngb.lol^
 ||unknownproxy.com^
 ||unlimitedvpn.net^
 ||unlimitedvpnapp.com^
@@ -5553,6 +5556,7 @@
 ||uproxy2.net^
 ||uproxy2.org^
 ||uproxy2.xyz^
+||ur.io^
 ||ur-browser.com^
 ||urban-vpn.com^
 ||url10.org^
@@ -5595,7 +5599,6 @@
 ||vasilykumaev.ru^
 ||dns.vault81.de^
 ||server01.vboekel.nl^
-||ranamaddadaaaadjka.ve3.info^
 ||dns.vectorsigma.ru^
 ||vectroproxy.com^
 ||veepn.com^

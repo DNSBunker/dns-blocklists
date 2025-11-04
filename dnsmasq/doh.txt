@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Nov 2025 18:35 UTC
-# Version: 2025.1103.1835.03
+# Last modified: 04 Nov 2025 02:33 UTC
+# Version: 2025.1104.0233.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3372
+# Number of entries: 3370
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2896,7 +2896,6 @@ local=/resolve02.srv-pro.de/
 local=/resolve2.srv-pro.de/
 local=/doh.srv00.com/
 local=/adguard.sscw.win/
-local=/darius-doh-nl.sserver.org/
 local=/ssh-storage.ru/
 local=/dns.sshub.win/
 local=/doh.ntu.ssooss.win/
@@ -3092,7 +3091,6 @@ local=/net.tt6.net/
 local=/doh.ibr.cs.tu-bs.de/
 local=/dns.tuankhaiit.com/
 local=/tuantran.cloud/
-local=/tujenasnaszato.xyz/
 local=/tuskythehusky.tech/
 local=/nat64.tuxis.nl/
 local=/dns.twnic.tw/

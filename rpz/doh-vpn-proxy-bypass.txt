@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762194900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762223640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Nov 2025 18:35 UTC
-; Version: 2025.1103.1835.36
+; Last modified: 04 Nov 2025 02:34 UTC
+; Version: 2025.1104.0234.04
 ; Syntax: RPZ
-; Number of entries: 12204
+; Number of entries: 12210
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1789,6 +1789,8 @@ dirtyworkproxy.com CNAME .
 *.dirtyworkproxy.com CNAME .
 disbish.com CNAME .
 *.disbish.com CNAME .
+smart-tiger-985.discovergeographics.com CNAME .
+*.smart-tiger-985.discovergeographics.com CNAME .
 districtnewyork.com CNAME .
 *.districtnewyork.com CNAME .
 divalane.com CNAME .
@@ -2683,6 +2685,12 @@ ad.justincounts.com CNAME .
 *.ad.justincounts.com CNAME .
 dns.justinnetworkingsolutions.com CNAME .
 *.dns.justinnetworkingsolutions.com CNAME .
+great-spirit-267.k12biography.com CNAME .
+*.great-spirit-267.k12biography.com CNAME .
+large-wind-274.k12biography.com CNAME .
+*.large-wind-274.k12biography.com CNAME .
+first-air-246.k12biology.com CNAME .
+*.first-air-246.k12biology.com CNAME .
 kind-fox-975.k12biology.com CNAME .
 *.kind-fox-975.k12biology.com CNAME .
 proteomics.k12biology.com CNAME .
@@ -3703,6 +3711,10 @@ fair-lake-387.shuttlemath.com CNAME .
 *.fair-lake-387.shuttlemath.com CNAME .
 deep-hawk-892.shuttleproxy.com CNAME .
 *.deep-hawk-892.shuttleproxy.com CNAME .
+kind-tiger-205.shuttleproxy.com CNAME .
+*.kind-tiger-205.shuttleproxy.com CNAME .
+old-soul-492.shuttleproxy.com CNAME .
+*.old-soul-492.shuttleproxy.com CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
 dnsovertls.sinodun.com CNAME .
@@ -4059,8 +4071,6 @@ ebpmc.tplinkdns.com CNAME .
 *.ebpmc.tplinkdns.com CNAME .
 ngk81hc.tplinkdns.com CNAME .
 *.ngk81hc.tplinkdns.com CNAME .
-linewize.tradekinginternational.com CNAME .
-*.linewize.tradekinginternational.com CNAME .
 traffmonetizer.com CNAME .
 *.traffmonetizer.com CNAME .
 consumervpn.trendmicro.com CNAME .
@@ -4133,8 +4143,6 @@ unblock-it.com CNAME .
 *.unblock-it.com CNAME .
 unblock-proxy.com CNAME .
 *.unblock-proxy.com CNAME .
-unblock-sites.com CNAME .
-*.unblock-sites.com CNAME .
 unblock-us.com CNAME .
 *.unblock-us.com CNAME .
 unblock-websites.com CNAME .
@@ -5685,6 +5693,8 @@ cloud.198.games CNAME .
 *.cloud.198.games CNAME .
 bold-river-186.sz.games CNAME .
 *.bold-river-186.sz.games CNAME .
+large-dark-576.sz.games CNAME .
+*.large-dark-576.sz.games CNAME .
 wild-moon-986.sz.games CNAME .
 *.wild-moon-986.sz.games CNAME .
 proxy.gd CNAME .
@@ -6293,8 +6303,6 @@ usafastproxy.info CNAME .
 *.usafastproxy.info CNAME .
 usproxies.info CNAME .
 *.usproxies.info CNAME .
-ranamaddadaaaadjka.ve3.info CNAME .
-*.ranamaddadaaaadjka.ve3.info CNAME .
 vpnanonym.info CNAME .
 *.vpnanonym.info CNAME .
 vpnapp.info CNAME .
@@ -6521,6 +6529,8 @@ dns.unx.io CNAME .
 *.dns.unx.io CNAME .
 uproxy.io CNAME .
 *.uproxy.io CNAME .
+ur.io CNAME .
+*.ur.io CNAME .
 utunnel.io CNAME .
 *.utunnel.io CNAME .
 dns.wargan.io CNAME .
@@ -6615,8 +6625,6 @@ dns.repressoh.it CNAME .
 *.dns.repressoh.it CNAME .
 dns.servizimv.it CNAME .
 *.dns.servizimv.it CNAME .
-konata-ice.soon.it CNAME .
-*.konata-ice.soon.it CNAME .
 nas.stefanoperna.it CNAME .
 *.nas.stefanoperna.it CNAME .
 homenet.telecomitalia.it CNAME .
@@ -6803,6 +6811,8 @@ proxyduke.lol CNAME .
 *.proxyduke.lol CNAME .
 quic.lol CNAME .
 *.quic.lol CNAME .
+kind-wolf-912.shuttle.lol CNAME .
+*.kind-wolf-912.shuttle.lol CNAME .
 siteunblocked.lol CNAME .
 *.siteunblocked.lol CNAME .
 themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
@@ -6813,8 +6823,6 @@ toaster.lol CNAME .
 *.toaster.lol CNAME .
 unbl4you.lol CNAME .
 *.unbl4you.lol CNAME .
-unkn0wngb.lol CNAME .
-*.unkn0wngb.lol CNAME .
 uproxy.lol CNAME .
 *.uproxy.lol CNAME .
 www-bruh.xenon.lol CNAME .
@@ -7405,6 +7413,8 @@ dns-tls.bitwiseshift.net CNAME .
 *.dns-tls.bitwiseshift.net CNAME .
 fennec.blackyfox.net CNAME .
 *.fennec.blackyfox.net CNAME .
+calm-tree-976.blanktext.net CNAME .
+*.calm-tree-976.blanktext.net CNAME .
 us1.blissdns.net CNAME .
 *.us1.blissdns.net CNAME .
 blocka.net CNAME .
@@ -8489,8 +8499,6 @@ dns.stevenz.net CNAME .
 *.dns.stevenz.net CNAME .
 67818-bro.strangled.net CNAME .
 *.67818-bro.strangled.net CNAME .
-whatisfunanymore.com.strangled.net CNAME .
-*.whatisfunanymore.com.strangled.net CNAME .
 gyaaat.strangled.net CNAME .
 *.gyaaat.strangled.net CNAME .
 squidward.strangled.net CNAME .
@@ -8501,8 +8509,6 @@ sunvpn.net CNAME .
 *.sunvpn.net CNAME .
 superunblocked.net CNAME .
 *.superunblocked.net CNAME .
-supervpn.net CNAME .
-*.supervpn.net CNAME .
 surfall.net CNAME .
 *.surfall.net CNAME .
 surfshark.net CNAME .
@@ -9399,6 +9405,8 @@ dns.goldplate.org CNAME .
 *.dns.goldplate.org CNAME .
 doh.fatucloud.gosprout.org CNAME .
 *.doh.fatucloud.gosprout.org CNAME .
+kind-soul-873.guesstheanimal.org CNAME .
+*.kind-soul-873.guesstheanimal.org CNAME .
 gumm.org CNAME .
 *.gumm.org CNAME .
 h-vpn.org CNAME .
@@ -9527,6 +9535,8 @@ bright-storm-767.nstabiology.org CNAME .
 *.bright-storm-767.nstabiology.org CNAME .
 deep-lake-819.nstabiology.org CNAME .
 *.deep-lake-819.nstabiology.org CNAME .
+fair-bear-832.nstabiology.org CNAME .
+*.fair-bear-832.nstabiology.org CNAME .
 kind-bear-286.nstabiology.org CNAME .
 *.kind-bear-286.nstabiology.org CNAME .
 quick-tiger-997.nstabiology.org CNAME .
@@ -9619,8 +9629,12 @@ dns2.saferbfc.org CNAME .
 *.dns2.saferbfc.org CNAME .
 moise-et-maurice-gardent-la-maison.schneiderus.org CNAME .
 *.moise-et-maurice-gardent-la-maison.schneiderus.org CNAME .
+bold-power-788.schoolsprepared.org CNAME .
+*.bold-power-788.schoolsprepared.org CNAME .
 gravity.sciencevictory.org CNAME .
 *.gravity.sciencevictory.org CNAME .
+brave-moon-374.scientificsense.org CNAME .
+*.brave-moon-374.scientificsense.org CNAME .
 bright-storm-707.scientificsense.org CNAME .
 *.bright-storm-707.scientificsense.org CNAME .
 dns.scuola.org CNAME .
@@ -9661,8 +9675,6 @@ spidervpn.org CNAME .
 *.spidervpn.org CNAME .
 physicaleducation.sportseducationinstructors.org CNAME .
 *.physicaleducation.sportseducationinstructors.org CNAME .
-darius-doh-nl.sserver.org CNAME .
-*.darius-doh-nl.sserver.org CNAME .
 sslpro.org CNAME .
 *.sslpro.org CNAME .
 sslproxies.org CNAME .
@@ -10421,8 +10433,6 @@ dns1.slowb.ro CNAME .
 *.dns1.slowb.ro CNAME .
 dns2.slowb.ro CNAME .
 *.dns2.slowb.ro CNAME .
-anothaone.softify-link.ro CNAME .
-*.anothaone.softify-link.ro CNAME .
 vik.ro CNAME .
 *.vik.ro CNAME .
 zdn.ro CNAME .
@@ -11691,8 +11701,6 @@ rockwell.website CNAME .
 *.rockwell.website CNAME .
 siteunblocked.website CNAME .
 *.siteunblocked.website CNAME .
-unblock2.website CNAME .
-*.unblock2.website CNAME .
 unblocksite.website CNAME .
 *.unblocksite.website CNAME .
 yuvelirtut.website CNAME .
@@ -12145,8 +12153,6 @@ tinfoil-is-ass.xyz CNAME .
 *.tinfoil-is-ass.xyz CNAME .
 trafflink.xyz CNAME .
 *.trafflink.xyz CNAME .
-tujenasnaszato.xyz CNAME .
-*.tujenasnaszato.xyz CNAME .
 adguard.twotigers.xyz CNAME .
 *.adguard.twotigers.xyz CNAME .
 unblock2.xyz CNAME .

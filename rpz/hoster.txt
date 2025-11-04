@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762192560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762221300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Nov 2025 17:56 UTC
-; Version: 2025.1103.1756.09
+; Last modified: 04 Nov 2025 01:55 UTC
+; Version: 2025.1104.0155.23
 ; Syntax: RPZ
-; Number of entries: 2666
+; Number of entries: 2654
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2232,8 +2232,6 @@ de.pl CNAME .
 *.de.pl CNAME .
 e-kei.pl CNAME .
 *.e-kei.pl CNAME .
-home.pl CNAME .
-*.home.pl CNAME .
 prv.pl CNAME .
 *.prv.pl CNAME .
 ucoz.pl CNAME .
@@ -2436,18 +2434,12 @@ shohu.shop CNAME .
 *.shohu.shop CNAME .
 spaintrade.shop CNAME .
 *.spaintrade.shop CNAME .
-taselavmy.shop CNAME .
-*.taselavmy.shop CNAME .
 teenradio.shop CNAME .
 *.teenradio.shop CNAME .
-temu-jp.shop CNAME .
-*.temu-jp.shop CNAME .
 tokusi.shop CNAME .
 *.tokusi.shop CNAME .
 tsure.shop CNAME .
 *.tsure.shop CNAME .
-ultimatescrubsmore.shop CNAME .
-*.ultimatescrubsmore.shop CNAME .
 videopaul.shop CNAME .
 *.videopaul.shop CNAME .
 xinei.shop CNAME .
@@ -2572,10 +2564,6 @@ safwhatsapp.top CNAME .
 *.safwhatsapp.top CNAME .
 spaceplay.top CNAME .
 *.spaceplay.top CNAME .
-sv-whatsapp.top CNAME .
-*.sv-whatsapp.top CNAME .
-tgpropower.top CNAME .
-*.tgpropower.top CNAME .
 tokyoca.top CNAME .
 *.tokyoca.top CNAME .
 wapka.top CNAME .
