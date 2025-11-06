@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 01:27 UTC
-# Version: 2025.1106.0127.25
+# Last modified: 06 Nov 2025 09:28 UTC
+# Version: 2025.1106.0928.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9255
+# Number of entries: 9256
 #
 *.0.gp
 *.00m.in
@@ -6520,6 +6520,7 @@
 *.shope.ee
 *.shopgo.live
 *.shopifie.com
+*.shoptapkich.site
 *.shor.td
 *.shorix.ru
 *.shorkit.com

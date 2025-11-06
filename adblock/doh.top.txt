@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Nov 2025 10:31 UTC
-! Version: 2025.1105.1031.52
+! Last modified: 06 Nov 2025 10:33 UTC
+! Version: 2025.1106.1033.55
 ! Syntax: AdBlock
-! Number of entries: 492
+! Number of entries: 519
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -20,16 +20,20 @@
 ||1and1-dns.de^
 ||233py.com^
 ||dns.240527.xyz^
+||dns.354688.xyz^
 ||doh.360.cn^
 ||3dns.eu^
 ||dns.3wv.de^
+||dns.4-the.win^
 ||vpn.4-the.win^
 ||ns2.4netguides.org^
 ||dns.7vpn.com^
 ||dns.853852.xyz^
 ||dns.886886886.xyz^
+||dns.888654.xyz^
 ||8888.google^
 ||dns.9999.sg^
+||dns.a47.me^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.abdullahabas.de^
 ||adl.adfilter.net^
@@ -75,6 +79,7 @@
 ||doh-jp.blahdns.com^
 ||doh-sg.blahdns.com^
 ||example.doh.blockerdns.com^
+||dns.blokada.org^
 ||bluemood.me^
 ||d.bod.lol^
 ||cloudns.bosco.ovh^
@@ -128,6 +133,7 @@
 ||dns.pub^
 ||dns.sb^
 ||dns.watch^
+||dns-free.link^
 ||dns1.dns-ga.de^
 ||dns.dns-over-https.com^
 ||dns0.eu^
@@ -136,11 +142,13 @@
 ||dnsbunker.org^
 ||ns1.recursive.dnsbycomodo.com^
 ||ns2.recursive.dnsbycomodo.com^
+||ams02.dnscry.pt^
 ||bog01.dnscry.pt^
 ||coe01.dnscry.pt^
 ||cph01.dnscry.pt^
 ||cvt01.dnscry.pt^
 ||den01.dnscry.pt^
+||muc01.dnscry.pt^
 ||sin03.dnscry.pt^
 ||sof01.dnscry.pt^
 ||syd02.dnscry.pt^
@@ -219,36 +227,56 @@
 ||dns.guard.io^
 ||gztech.me^
 ||httpdns.ocloud.heytapmobi.com^
-||httpdns.push.heytapmobi.com^
-||httpdns-push.heytapmobile.com^
+||dns.hinet.net^
 ||hitian.me^
 ||pihole4.hoerli.net^
+||dns.horcrux.vip^
+||dns.internal.hosmatic.com^
+||dns.hostux.net^
+||dns.hotta.page^
 ||hshh.org^
 ||httpdns.pro^
+||dns.huas.me^
 ||httpdns.huaweicloud.com^
+||dns.huseynov.work^
+||dns.iamanuragh.in^
+||dns.iamninja.ru^
 ||mask.icloud.com^
 ||mask-canary.icloud.com^
 ||mask-h2.icloud.com^
+||dns.ihaveacloud.com^
 ||iij.jp^
+||dns.ikataruto.com^
 ||noads.imbuffering.com^
+||dns.immanuelschaffer.de^
 ||http-dns.imoim.net^
 ||imperio.top^
+||dns.inforlogia.com^
 ||apidns.kwd.inkuai.com^
 ||httpdns.kwd.inkuai.com^
 ||intertop.link^
 ||dns.iqiyi.com^
 ||doh.iqiyi.com^
 ||dns1.irumatech.com^
+||dns.is0mino.com^
+||dns.ishan.pw^
 ||jabber-germany.de^
 ||jackyes.ovh^
 ||jcdns.fun^
 ||dns.jd.com^
+||dns.jinwoo.dev^
+||dns.joey01245.nl^
 ||child.joindns4.eu^
 ||noads.joindns4.eu^
 ||protective.joindns4.eu^
 ||opencdn.jomodns.com^
 ||joouddo.ru^
+||dns.jundev.org^
 ||dns.jupitrdns.com^
+||dns.kapite.in^
+||dns.karadag.me^
+||dns.kastner-online.de^
+||dns.kawa.tf^
 ||dns.keweon.center^
 ||dns1.klcd.eu^
 ||korzhov.dev^
@@ -396,7 +424,6 @@
 ||ns1.sc-lezhi.com^
 ||schimtar.com^
 ||2.dnscrypt-cert.dns.seby.io^
-||doh-2.seby.io^
 ||dns.seia.io^
 ||dns1.serdcebolit.ru^
 ||d2.shabi.icu^

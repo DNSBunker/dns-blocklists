@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 02:24 UTC
-# Version: 2025.1106.0224.27
+# Last modified: 06 Nov 2025 10:27 UTC
+# Version: 2025.1106.1027.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11240
+# Number of entries: 11253
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -743,6 +743,7 @@ local=/animeforever.org/
 local=/animefox.org/
 local=/animefreak.tv/
 local=/animeglare.xyz/
+local=/animegoo.life/
 local=/animehd47.com/
 local=/animeheaven.ru/
 local=/animeholics.org/
@@ -1765,6 +1766,7 @@ local=/tracker.ccc.de/
 local=/ccfbits.org/
 local=/ccmixter.org/
 local=/ccracks.com/
+local=/cctv.army/
 local=/cda-hd.cc/
 local=/cdcovers.cc/
 local=/cddownloadeasy.org/
@@ -2641,6 +2643,7 @@ local=/donevideo.com/
 local=/donkey.asia/
 local=/donkey.to/
 local=/dontorrent.org/
+local=/dontorrent.phd/
 local=/dontorrents.com/
 local=/dontorrents.org/
 local=/dood.ac/
@@ -3085,6 +3088,7 @@ local=/erotixxx.net/
 local=/retracker.nn.ertelecom.ru/
 local=/retracker.perm.ertelecom.ru/
 local=/elmellowebmaster.es.tl/
+local=/kinox.escapethefog.com/
 local=/eshiel.com/
 local=/espnv2.online/
 local=/estrenoslatinos.com/
@@ -5240,6 +5244,7 @@ local=/kat.rip/
 local=/kat.to/
 local=/katcr.co/
 local=/katcr.to/
+local=/katdrama.net/
 local=/katfile.com/
 local=/kati3kat.tube/
 local=/katmoviehd.ac/
@@ -5416,6 +5421,7 @@ local=/kinox.cool/
 local=/kinox.day/
 local=/kinox.deals/
 local=/kinox.dog/
+local=/kinox.farm/
 local=/kinox.film/
 local=/kinox.foo/
 local=/kinox.food/
@@ -5427,12 +5433,15 @@ local=/kinox.homes/
 local=/kinox.id/
 local=/kinox.ink/
 local=/kinox.io/
+local=/kinox.it/
 local=/kinox.lat/
 local=/kinox.lol/
 local=/kinox.love/
 local=/kinox.me/
 local=/kinox.navy/
+local=/kinox.news/
 local=/kinox.now/
+local=/kinox.parts/
 local=/kinox.prof/
 local=/kinox.ru/
 local=/kinox.run/
@@ -7967,6 +7976,9 @@ local=/root-warez.com/
 local=/rootsofts.com/
 local=/roshy.tv/
 local=/rotorrent.ro/
+local=/roxiestreams.cc/
+local=/roxiestreams.live/
+local=/roxiestreams.pro/
 local=/royal-orleans.com/
 local=/royalbooter.de/
 local=/rpgmaker.net/
@@ -10423,6 +10435,7 @@ local=/vidnext.net/
 local=/vidnow.tv/
 local=/vidoy.fit/
 local=/vidoy.ink/
+local=/vidoy.live/
 local=/vidoy.store/
 local=/vidoza.co/
 local=/vidoza.com/

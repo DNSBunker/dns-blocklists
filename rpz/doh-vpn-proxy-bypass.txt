@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762338660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762425240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Nov 2025 10:31 UTC
-; Version: 2025.1105.1031.58
+; Last modified: 06 Nov 2025 10:34 UTC
+; Version: 2025.1106.1034.03
 ; Syntax: RPZ
-; Number of entries: 13528
+; Number of entries: 13524
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2353,10 +2353,6 @@ hexxitcompany.com CNAME .
 *.hexxitcompany.com CNAME .
 httpdns.ocloud.heytapmobi.com CNAME .
 *.httpdns.ocloud.heytapmobi.com CNAME .
-httpdns.push.heytapmobi.com CNAME .
-*.httpdns.push.heytapmobi.com CNAME .
-httpdns-push.heytapmobile.com CNAME .
-*.httpdns-push.heytapmobile.com CNAME .
 hide-my-ip.com CNAME .
 *.hide-my-ip.com CNAME .
 hideallip.com CNAME .

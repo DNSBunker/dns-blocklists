@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762395840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762424820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Nov 2025 02:24 UTC
-; Version: 2025.1106.0224.27
+; Last modified: 06 Nov 2025 10:27 UTC
+; Version: 2025.1106.1027.56
 ; Syntax: RPZ
-; Number of entries: 22480
+; Number of entries: 22506
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -354,6 +354,8 @@ aaa.army CNAME .
 *.aaa.army CNAME .
 bollyflix.army CNAME .
 *.bollyflix.army CNAME .
+cctv.army CNAME .
+*.cctv.army CNAME .
 guardaserie.army CNAME .
 *.guardaserie.army CNAME .
 hdmovie2.army CNAME .
@@ -1540,6 +1542,8 @@ romsmania.cc CNAME .
 *.romsmania.cc CNAME .
 romspure.cc CNAME .
 *.romspure.cc CNAME .
+roxiestreams.cc CNAME .
+*.roxiestreams.cc CNAME .
 s2dfree.cc CNAME .
 *.s2dfree.cc CNAME .
 seedboxes.cc CNAME .
@@ -4184,6 +4188,8 @@ eprojectfreetv.com CNAME .
 *.eprojectfreetv.com CNAME .
 erdoflix.com CNAME .
 *.erdoflix.com CNAME .
+kinox.escapethefog.com CNAME .
+*.kinox.escapethefog.com CNAME .
 eshiel.com CNAME .
 *.eshiel.com CNAME .
 estrenoslatinos.com CNAME .
@@ -9048,6 +9054,8 @@ cb01.farm CNAME .
 *.cb01.farm CNAME .
 cineblog01.farm CNAME .
 *.cineblog01.farm CNAME .
+kinox.farm CNAME .
+*.kinox.farm CNAME .
 megakino.farm CNAME .
 *.megakino.farm CNAME .
 usenet.farm CNAME .
@@ -10896,6 +10904,8 @@ isuggeriti.it CNAME .
 *.isuggeriti.it CNAME .
 tracker.justseed.it CNAME .
 *.tracker.justseed.it CNAME .
+kinox.it CNAME .
+*.kinox.it CNAME .
 live-sport-tv.it CNAME .
 *.live-sport-tv.it CNAME .
 myflixer.it CNAME .
@@ -11132,6 +11142,8 @@ altadefinizione.life CNAME .
 *.altadefinizione.life CNAME .
 altadefinizione01.life CNAME .
 *.altadefinizione01.life CNAME .
+animegoo.life CNAME .
+*.animegoo.life CNAME .
 bypassed.life CNAME .
 *.bypassed.life CNAME .
 casacinema.life CNAME .
@@ -11368,6 +11380,8 @@ rivestream.live CNAME .
 *.rivestream.live CNAME .
 rojadirectaenhd.live CNAME .
 *.rojadirectaenhd.live CNAME .
+roxiestreams.live CNAME .
+*.roxiestreams.live CNAME .
 fs.satrong.live CNAME .
 *.fs.satrong.live CNAME .
 soaper.live CNAME .
@@ -11412,6 +11426,8 @@ ultracine.live CNAME .
 *.ultracine.live CNAME .
 videypro.live CNAME .
 *.videypro.live CNAME .
+vidoy.live CNAME .
+*.vidoy.live CNAME .
 vipbox.live CNAME .
 *.vipbox.live CNAME .
 watchmovierulz.live CNAME .
@@ -13294,6 +13310,8 @@ kanjiku.net CNAME .
 *.kanjiku.net CNAME .
 karagarga.net CNAME .
 *.karagarga.net CNAME .
+katdrama.net CNAME .
+*.katdrama.net CNAME .
 katushka.net CNAME .
 *.katushka.net CNAME .
 katworld.net CNAME .
@@ -14450,6 +14468,8 @@ hdmovie2.news CNAME .
 *.hdmovie2.news CNAME .
 italia-film.news CNAME .
 *.italia-film.news CNAME .
+kinox.news CNAME .
+*.kinox.news CNAME .
 vegamovies.nexus CNAME .
 *.vegamovies.nexus CNAME .
 warez-mania.fr.nf CNAME .
@@ -16710,6 +16730,8 @@ guardaserie.parts CNAME .
 *.guardaserie.parts CNAME .
 hdmovie2.parts CNAME .
 *.hdmovie2.parts CNAME .
+kinox.parts CNAME .
+*.kinox.parts CNAME .
 torrent.parts CNAME .
 *.torrent.parts CNAME .
 tracker.ducks.party CNAME .
@@ -16788,6 +16810,8 @@ torrent9.ph CNAME .
 *.torrent9.ph CNAME .
 vegamovies.ph CNAME .
 *.vegamovies.ph CNAME .
+dontorrent.phd CNAME .
+*.dontorrent.phd CNAME .
 hdmovie2.phd CNAME .
 *.hdmovie2.phd CNAME .
 vegamovies.phd CNAME .
@@ -17272,6 +17296,8 @@ pseudo-flix.pro CNAME .
 *.pseudo-flix.pro CNAME .
 tracker.qingwa.pro CNAME .
 *.tracker.qingwa.pro CNAME .
+roxiestreams.pro CNAME .
+*.roxiestreams.pro CNAME .
 seehd.pro CNAME .
 *.seehd.pro CNAME .
 series9mx.pro CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Nov 2025 09:54 UTC
-# Version: 2025.1104.0954.19
+# Last modified: 06 Nov 2025 09:54 UTC
+# Version: 2025.1106.0954.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1325
+# Number of entries: 1324
 #
 local=/000a.de/
 local=/000space.com/
@@ -739,7 +739,6 @@ local=/inbox24.eu/
 local=/inbox24.net/
 local=/inbox24.org/
 local=/indexcm-t.com/
-local=/infinityfree.net/
 local=/infinityfreeapp.com/
 local=/info.cm/
 local=/info.nu/

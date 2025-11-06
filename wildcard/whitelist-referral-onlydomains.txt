@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Nov 2025 09:14 UTC
-# Version: 2025.1105.0914.49
+# Last modified: 06 Nov 2025 09:14 UTC
+# Version: 2025.1106.0914.57
 # Syntax: Domains (without subdomains)
-# Number of entries: 1255
+# Number of entries: 1260
 #
 1-aclk.net
 1aurl.io
@@ -401,6 +401,7 @@ list-unsubscribe.eservice.emarsys.net
 redirector.eservice.emarsys.net
 suite-dashboard.gservice.emarsys.net
 suite.emarsys.net
+suite1.emarsys.net
 suite10.emarsys.net
 suite11.emarsys.net
 suite12.emarsys.net
@@ -492,6 +493,7 @@ click.e.usa.experian.com
 cdn.exponea.com
 dgl-cdn.exponea.com
 cdn.eu1.exponea.com
+fis-royalcopenhagen-cdn.exponea.com
 cdn.ftspecialist.exponea.com
 lner-cdn.exponea.com
 cdn.network.exponea.com
@@ -726,6 +728,7 @@ mkto-ab010088.com
 mkto-ab020242.com
 mkto-ab040115.com
 mkto-ab060134.com
+mkto-ab060144.com
 mkto-ab060210.com
 mkto-ab070017.com
 mkto-ab090057.com
@@ -757,6 +760,7 @@ mkto-ab430114.com
 mkto-ab430187.com
 mkto-ab440025.com
 mkto-ab440098.com
+mkto-ab450015.com
 mkto-ab470148.com
 mkto-ab480059.com
 mkto-ab500174.com
@@ -806,6 +810,7 @@ mkto-sj100138.com
 mkto-sj130243.com
 mkto-sj140007.com
 mkto-sj140163.com
+mkto-sj170094.com
 mkto-sj180011.com
 mkto-sj190104.com
 mkto-sj190237.com
