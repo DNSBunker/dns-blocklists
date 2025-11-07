@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 17:26 UTC
-# Version: 2025.1107.1726.56
+# Last modified: 07 Nov 2025 21:28 UTC
+# Version: 2025.1107.2128.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14042
+# Number of entries: 14047
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -81,8 +81,6 @@ local=/abbagirlz.com/
 local=/abbiattiuk.com/
 local=/abbigliamentoscarpe.com/
 local=/abcbinaire.com/
-local=/agebob.abcsaved.rest/
-local=/befast.abcsaved.rest/
 local=/abdeckplanenmotor.com/
 local=/abeautybuffet.com/
 local=/abelia-tech.de/
@@ -2311,7 +2309,9 @@ local=/chrisclavelli.com/
 local=/chrisgfornevada.com/
 local=/chriskkfishing.com/
 local=/chrisneuman.shop/
+local=/chrissie.at/
 local=/christmann-partner.com/
+local=/christmasdecorusa.com/
 local=/chrom-kultur.de/
 local=/chubunnews.com/
 local=/chytah.com/
@@ -2329,6 +2329,7 @@ local=/cioachespect.com/
 local=/circulatem.com/
 local=/circumstancen.com/
 local=/cirkuldeutschland.de/
+local=/citizensm.com/
 local=/citmarkets.com/
 local=/citrades.com/
 local=/city-herrenraeder.com/
@@ -2545,6 +2546,7 @@ local=/gabor.com.se/
 local=/geloparc.com.br/
 local=/gordaoautopecasexclusivo.com.br/
 local=/goussve.com.br/
+local=/green-shop.com.ua/
 local=/guterkauf.com.de/
 local=/gym-sharkmexico.com.mx/
 local=/gzcor.com.br/
@@ -2661,6 +2663,7 @@ local=/conawaydrums.com/
 local=/concept-frankfurt.de/
 local=/conceptionp.com/
 local=/conceptmarkets.pro/
+local=/concepty.co/
 local=/condutbarn.com/
 local=/confidentp.com/
 local=/confiemm.com/
@@ -2689,6 +2692,7 @@ local=/containercompany.shop/
 local=/containerhaus-anhanger.de/
 local=/containersparks.com/
 local=/containert.com/
+local=/containerwelt24.com/
 local=/contiflexv.com/
 local=/continentm.com/
 local=/convergek.com/
@@ -2842,6 +2846,7 @@ local=/csm-maker.com/
 local=/csunbox.com/
 local=/spotiifyprimesnova.ct.ws/
 local=/ctbike.pl/
+local=/cthesky.com/
 local=/ctoption.com/
 local=/ctxholdings.com/
 local=/cubeu.de/

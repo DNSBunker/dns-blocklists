@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762540380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762554840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 18:33 UTC
-; Version: 2025.1107.1833.03
+; Last modified: 07 Nov 2025 22:34 UTC
+; Version: 2025.1107.2234.55
 ; Syntax: RPZ
-; Number of entries: 22574
+; Number of entries: 22586
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3674,6 +3674,8 @@ crack-cd.com CNAME .
 *.crack-cd.com CNAME .
 crack4patch.com CNAME .
 *.crack4patch.com CNAME .
+crack55.com CNAME .
+*.crack55.com CNAME .
 crack81.com CNAME .
 *.crack81.com CNAME .
 crackaio.com CNAME .
@@ -9994,6 +9996,8 @@ apk4all.co.in CNAME .
 *.apk4all.co.in CNAME .
 apkpure.co.in CNAME .
 *.apkpure.co.in CNAME .
+onstream.com.in CNAME .
+*.onstream.com.in CNAME .
 comix-load.in CNAME .
 *.comix-load.in CNAME .
 crystal-warez.in CNAME .
@@ -18778,6 +18782,8 @@ awtdg.site CNAME .
 *.awtdg.site CNAME .
 bxks.site CNAME .
 *.bxks.site CNAME .
+tracker.coppersurfer.site CNAME .
+*.tracker.coppersurfer.site CNAME .
 cpasbien.site CNAME .
 *.cpasbien.site CNAME .
 crackhub.site CNAME .
@@ -19644,6 +19650,8 @@ cataz.to CNAME .
 *.cataz.to CNAME .
 tracker.cgpeers.to CNAME .
 *.tracker.cgpeers.to CNAME .
+cine.to CNAME .
+*.cine.to CNAME .
 tracker.cinemaz.to CNAME .
 *.tracker.cinemaz.to CNAME .
 comicmafia.to CNAME .
@@ -20668,6 +20676,8 @@ convert2mp3.tv CNAME .
 *.convert2mp3.tv CNAME .
 crackedstream.tv CNAME .
 *.crackedstream.tv CNAME .
+cricfree.tv CNAME .
+*.cricfree.tv CNAME .
 crichd.tv CNAME .
 *.crichd.tv CNAME .
 cricstream.tv CNAME .
@@ -22248,6 +22258,8 @@ cb01.xyz CNAME .
 *.cb01.xyz CNAME .
 cestrm.xyz CNAME .
 *.cestrm.xyz CNAME .
+cinebook.xyz CNAME .
+*.cinebook.xyz CNAME .
 cinemagratis.xyz CNAME .
 *.cinemagratis.xyz CNAME .
 cloudblink91.xyz CNAME .

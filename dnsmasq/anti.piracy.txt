@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 18:33 UTC
-# Version: 2025.1107.1833.03
+# Last modified: 07 Nov 2025 22:34 UTC
+# Version: 2025.1107.2234.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11287
+# Number of entries: 11293
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1844,6 +1844,7 @@ local=/chronologicallylost.com/
 local=/cikava-ideya.top/
 local=/cili001.com/
 local=/ciligou0.com/
+local=/cine.to/
 local=/cineb.net/
 local=/cineb.rs/
 local=/cinebay.org/
@@ -1931,6 +1932,7 @@ local=/cineblog01.wtf/
 local=/cineblog01.zip/
 local=/cinebloom.com/
 local=/cinebloom.org/
+local=/cinebook.xyz/
 local=/cineby.app/
 local=/cinecalidad.is/
 local=/cineez.com/
@@ -2115,6 +2117,7 @@ local=/nis.com.bd/
 local=/tracker.novage.com.ua/
 local=/nowhdtime.com.bd/
 local=/smtp-relay.odysseylabel.com.au/
+local=/onstream.com.in/
 local=/www.opnsports.com.pk/
 local=/r1a.com.pl/
 local=/salamonline.com.bd/
@@ -2177,6 +2180,7 @@ local=/coolrom.com/
 local=/coolwarez.com/
 local=/coolwareznik.net/
 local=/coppersurfer.tk/
+local=/tracker.coppersurfer.site/
 local=/copycase.com/
 local=/retracker01-msk-virt.corbina.net/
 local=/corkmac.app/
@@ -2213,6 +2217,7 @@ local=/crack.ms/
 local=/crack-cd.com/
 local=/crack-cd.net/
 local=/crack4patch.com/
+local=/crack55.com/
 local=/crack81.com/
 local=/crackaio.com/
 local=/crackcrew.com/
@@ -2285,6 +2290,7 @@ local=/cricfree.pw/
 local=/cricfree.sc/
 local=/cricfree.stream/
 local=/cricfree.sx/
+local=/cricfree.tv/
 local=/cricfrees.com/
 local=/crichd.ac/
 local=/crichd.at/

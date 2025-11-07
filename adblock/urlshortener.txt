@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Nov 2025 17:28 UTC
-! Version: 2025.1107.1728.38
+! Last modified: 07 Nov 2025 21:30 UTC
+! Version: 2025.1107.2130.29
 ! Syntax: AdBlock
-! Number of entries: 9296
+! Number of entries: 9297
 !
 ||0.gp^
 ||00m.in^
@@ -1664,6 +1664,7 @@
 ||clotplaynews.live^
 ||r.cloud8.eu^
 ||cloudku.click^
+||cloudshrinker.com^
 ||cloudtechlinks.com^
 ||clourls.com^
 ||clpr.tn^
