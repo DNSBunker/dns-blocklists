@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762509120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762536480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 09:52 UTC
-; Version: 2025.1107.0952.41
+; Last modified: 07 Nov 2025 17:28 UTC
+; Version: 2025.1107.1728.38
 ; Syntax: RPZ
-; Number of entries: 18574
+; Number of entries: 18592
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -307,6 +307,8 @@ azipurl.app CNAME .
 *.azipurl.app CNAME .
 beurl.app CNAME .
 *.beurl.app CNAME .
+bitl.app CNAME .
+*.bitl.app CNAME .
 capmetro.app CNAME .
 *.capmetro.app CNAME .
 clps.app CNAME .
@@ -1035,6 +1037,10 @@ zqq.bio CNAME .
 *.zqq.bio CNAME .
 zulu.bio CNAME .
 *.zulu.bio CNAME .
+ad7.biz CNAME .
+*.ad7.biz CNAME .
+anmeld.biz CNAME .
+*.anmeld.biz CNAME .
 asharq.biz CNAME .
 *.asharq.biz CNAME .
 bee4.biz CNAME .
@@ -1483,10 +1489,14 @@ bidly.cc CNAME .
 *.bidly.cc CNAME .
 bigcc.cc CNAME .
 *.bigcc.cc CNAME .
+bitfy.cc CNAME .
+*.bitfy.cc CNAME .
 bitlz.cc CNAME .
 *.bitlz.cc CNAME .
 bmai.cc CNAME .
 *.bmai.cc CNAME .
+boudoirads.cc CNAME .
+*.boudoirads.cc CNAME .
 btly.cc CNAME .
 *.btly.cc CNAME .
 calcol.cc CNAME .
@@ -12899,6 +12909,8 @@ bslm.me CNAME .
 *.bslm.me CNAME .
 bstk.me CNAME .
 *.bstk.me CNAME .
+btly.me CNAME .
+*.btly.me CNAME .
 buk.me CNAME .
 *.buk.me CNAME .
 burl.me CNAME .
@@ -16409,10 +16421,14 @@ yx.si CNAME .
 *.yx.si CNAME .
 138beo.site CNAME .
 *.138beo.site CNAME .
+abbr.site CNAME .
+*.abbr.site CNAME .
 abdn.site CNAME .
 *.abdn.site CNAME .
 alturl.site CNAME .
 *.alturl.site CNAME .
+as1ansl0t88.site CNAME .
+*.as1ansl0t88.site CNAME .
 bitlee.site CNAME .
 *.bitlee.site CNAME .
 bprl.site CNAME .
@@ -17723,6 +17739,8 @@ beif.us CNAME .
 *.beif.us CNAME .
 bitnew.us CNAME .
 *.bitnew.us CNAME .
+bn8.us CNAME .
+*.bn8.us CNAME .
 bofh.us CNAME .
 *.bofh.us CNAME .
 bwlf.us CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762509120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762540800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 09:52 UTC
-; Version: 2025.1107.0952.07
+; Last modified: 07 Nov 2025 18:40 UTC
+; Version: 2025.1107.1840.28
 ; Syntax: RPZ
-; Number of entries: 13574
+; Number of entries: 13576
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1235,6 +1235,8 @@ dsl-app.s3.us-east-2.amazonaws.com CNAME .
 *.dsl-app.s3.us-east-2.amazonaws.com CNAME .
 american-proxy.com CNAME .
 *.american-proxy.com CNAME .
+ananoos.com CNAME .
+*.ananoos.com CNAME .
 oradns.anbitech.com CNAME .
 *.oradns.anbitech.com CNAME .
 dns.andreykiv.com CNAME .
@@ -3311,8 +3313,6 @@ draco.plan9-ns2.com CNAME .
 *.draco.plan9-ns2.com CNAME .
 play5r.com CNAME .
 *.play5r.com CNAME .
-edu.playariviera.com CNAME .
-*.edu.playariviera.com CNAME .
 secure-dns.pleumkungz.com CNAME .
 *.secure-dns.pleumkungz.com CNAME .
 thanos.pleumkungz.com CNAME .
@@ -11261,6 +11261,8 @@ ngrok.pizza CNAME .
 *.ngrok.pizza CNAME .
 antycenzor.pl CNAME .
 *.antycenzor.pl CNAME .
+bramka-proxy.pl CNAME .
+*.bramka-proxy.pl CNAME .
 cloud.graphicpoint.pl CNAME .
 *.cloud.graphicpoint.pl CNAME .
 kjmserwis.pl CNAME .

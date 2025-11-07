@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 09:54 UTC
-# Version: 2025.1106.0954.27
+# Last modified: 07 Nov 2025 17:55 UTC
+# Version: 2025.1107.1755.32
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1324
+# Number of entries: 1325
 #
 *.000a.de
 *.000space.com
@@ -314,6 +314,7 @@
 *.bravenet.com
 *.bravepages.com
 *.bravesites.com
+*.brazilbill.shop
 *.brizy.site
 *.bugs3.com
 *.builderall.net

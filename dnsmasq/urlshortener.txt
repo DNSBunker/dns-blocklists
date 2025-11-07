@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 09:52 UTC
-# Version: 2025.1107.0952.41
+# Last modified: 07 Nov 2025 17:28 UTC
+# Version: 2025.1107.1728.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9287
+# Number of entries: 9296
 #
 local=/0.gp/
 local=/00m.in/
@@ -415,6 +415,7 @@ local=/aarp.info/
 local=/aawsat.news/
 local=/ab.co/
 local=/abar.in/
+local=/abbr.site/
 local=/abbreurl.com/
 local=/abbriv.com/
 local=/abbriv.info/
@@ -484,6 +485,7 @@ local=/acus.org/
 local=/ad.cr/
 local=/ad-med.cz/
 local=/ad5.eu/
+local=/ad7.biz/
 local=/ada2.in/
 local=/adabook.cloud/
 local=/dbf.adalaj.org/
@@ -706,6 +708,7 @@ local=/anh.to/
 local=/anizam.ru/
 local=/url.ankur-kumar.in/
 local=/anlink.eu/
+local=/anmeld.biz/
 local=/annabelparr.com/
 local=/annah.ar/
 local=/anon.to/
@@ -792,6 +795,7 @@ local=/artmo.app/
 local=/arurl.us/
 local=/arus.cc/
 local=/aryenmotors.com/
+local=/as1ansl0t88.site/
 local=/asap.to/
 local=/asc.cool/
 local=/ase.ink/
@@ -1096,8 +1100,10 @@ local=/bit-ely.com/
 local=/bit24.live/
 local=/go.bitcomma.com/
 local=/bitesli.com/
+local=/bitfy.cc/
 local=/bitgg.co/
 local=/bitigee.com/
+local=/bitl.app/
 local=/bitl.to/
 local=/bitlee.site/
 local=/bitley.in/
@@ -1200,6 +1206,7 @@ local=/blynkn.com/
 local=/blyto.com/
 local=/bmai.cc/
 local=/bmr.li/
+local=/bn8.us/
 local=/bnds.in/
 local=/bnetwhk.com/
 local=/bnidigital.com/
@@ -1246,6 +1253,7 @@ local=/bot.fi/
 local=/botelink.com/
 local=/botemoda.com/
 local=/boudie.link/
+local=/boudoirads.cc/
 local=/app.box.com/
 local=/bp.cool/
 local=/on.bp.com/
@@ -1313,6 +1321,7 @@ local=/btf.st/
 local=/bti.ninja/
 local=/btiliy.com/
 local=/btly.cc/
+local=/btly.me/
 local=/btm.li/
 local=/s.bts-ev.de/
 local=/btty.in/
