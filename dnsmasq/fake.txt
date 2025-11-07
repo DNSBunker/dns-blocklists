@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 09:26 UTC
-# Version: 2025.1106.0926.26
+# Last modified: 07 Nov 2025 01:26 UTC
+# Version: 2025.1107.0126.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13952
+# Number of entries: 13954
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2947,6 +2947,7 @@ local=/de-upwork.online/
 local=/de-vivobarefoots.com/
 local=/de4teslaava.shop/
 local=/deaddictedtohandbagsapp.com/
+local=/deairecru.com/
 local=/dealfundus.de/
 local=/dealira.com/
 local=/dealit-quick-nl.com/
@@ -12983,6 +12984,7 @@ local=/vejasneakerswien.at/
 local=/vejatenis.com/
 local=/vejavienna.at/
 local=/vejazapatoscolombia.net/
+local=/velander-beratung.de/
 local=/velanoshop.com/
 local=/velaro-plus.com/
 local=/vellamia.de/

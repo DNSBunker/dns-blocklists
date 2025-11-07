@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 18:31 UTC
-# Version: 2025.1106.1831.54
+# Last modified: 07 Nov 2025 02:45 UTC
+# Version: 2025.1107.0245.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6772
+# Number of entries: 6770
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3301,7 +3301,6 @@ local=/doh.maskab.com/
 local=/maskedip.com/
 local=/master-clock.us/
 local=/mastergad.me/
-local=/media.level.mastergolfworld.com/
 local=/masters-of-cloud.de/
 local=/masterssh.com/
 local=/dns.mateo.ovh/
@@ -3822,7 +3821,6 @@ local=/dns.omee4.ru/
 local=/omegaproxy.com/
 local=/adguard.oms-ctr.ru/
 local=/onconnect.info/
-local=/idea.guide.dns1.one.pl/
 local=/one.one.one.one/
 local=/doh.onedns.net/
 local=/doh-pure.onedns.net/

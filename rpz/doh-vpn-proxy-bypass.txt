@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762453860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762483500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Nov 2025 18:31 UTC
-; Version: 2025.1106.1831.54
+; Last modified: 07 Nov 2025 02:45 UTC
+; Version: 2025.1107.0245.53
 ; Syntax: RPZ
-; Number of entries: 13544
+; Number of entries: 13540
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2853,8 +2853,6 @@ doh.maskab.com CNAME .
 *.doh.maskab.com CNAME .
 maskedip.com CNAME .
 *.maskedip.com CNAME .
-media.level.mastergolfworld.com CNAME .
-*.media.level.mastergolfworld.com CNAME .
 masterssh.com CNAME .
 *.masterssh.com CNAME .
 dns.matthias-prost.com CNAME .
@@ -11239,8 +11237,6 @@ dns.kzrz.pl CNAME .
 *.dns.kzrz.pl CNAME .
 dns.multi30.pl CNAME .
 *.dns.multi30.pl CNAME .
-idea.guide.dns1.one.pl CNAME .
-*.idea.guide.dns1.one.pl CNAME .
 noads.api.org.pl CNAME .
 *.noads.api.org.pl CNAME .
 dns.panszelescik.pl CNAME .

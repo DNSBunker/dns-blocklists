@@ -3,6 +3,7 @@
 ```
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt
 https://big.oisd.nl
 https://bl.ossmalta.eu/malta.txt
 https://botvrij.eu/data/ioclist.domain

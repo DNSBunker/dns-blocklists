@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Nov 2025 18:26 UTC
-# Version: 2025.1106.1826.06
+# Last modified: 07 Nov 2025 02:40 UTC
+# Version: 2025.1107.0240.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11254
+# Number of entries: 11252
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -243,7 +243,6 @@ local=/2-lib.org/
 local=/20090910.xyz/
 local=/20links.com/
 local=/t.213891.xyz/
-local=/t-backup.213891.xyz/
 local=/22-hd.com/
 local=/226272.xyz/
 local=/tracker.23794.top/
@@ -5503,7 +5502,6 @@ local=/klon.tv/
 local=/kludd.com/
 local=/kmnbd.net/
 local=/kmsautoplus.su/
-local=/tracker.home.kmzs123.cn/
 local=/tracker.kmzs123.cn/
 local=/tracker.kmzs123.top/
 local=/knaben.eu/

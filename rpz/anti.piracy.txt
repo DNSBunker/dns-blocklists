@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762453560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762483200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Nov 2025 18:26 UTC
-; Version: 2025.1106.1826.06
+; Last modified: 07 Nov 2025 02:40 UTC
+; Version: 2025.1107.0240.02
 ; Syntax: RPZ
-; Number of entries: 22508
+; Number of entries: 22504
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2116,8 +2116,6 @@ tracker.hiyj.cn CNAME .
 *.tracker.hiyj.cn CNAME .
 jshdtv.cn CNAME .
 *.jshdtv.cn CNAME .
-tracker.home.kmzs123.cn CNAME .
-*.tracker.home.kmzs123.cn CNAME .
 tracker.kmzs123.cn CNAME .
 *.tracker.kmzs123.cn CNAME .
 tracker.loligirl.cn CNAME .
@@ -22092,8 +22090,6 @@ chihaya-heroku.120181311.xyz CNAME .
 *.20090910.xyz CNAME .
 t.213891.xyz CNAME .
 *.t.213891.xyz CNAME .
-t-backup.213891.xyz CNAME .
-*.t-backup.213891.xyz CNAME .
 226272.xyz CNAME .
 *.226272.xyz CNAME .
 2381280.xyz CNAME .
