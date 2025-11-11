@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762828320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1762842840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Nov 2025 02:32 UTC
-; Version: 2025.1111.0232.03
+; Last modified: 11 Nov 2025 06:34 UTC
+; Version: 2025.1111.0634.13
 ; Syntax: RPZ
-; Number of entries: 12412
+; Number of entries: 12450
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -37,6 +37,8 @@ nodepay.ai CNAME .
 *.nodepay.ai CNAME .
 dns.ho.al CNAME .
 *.dns.ho.al CNAME .
+itrsa.sic.al CNAME .
+*.itrsa.sic.al CNAME .
 onion.am CNAME .
 *.onion.am CNAME .
 zealginjoka.periodico.am CNAME .
@@ -709,6 +711,8 @@ katherine-dns.newcore.cl CNAME .
 *.katherine-dns.newcore.cl CNAME .
 dnsotls.lab.nic.cl CNAME .
 *.dnsotls.lab.nic.cl CNAME .
+rammerheadblackholenetwork.omniscien.cl CNAME .
+*.rammerheadblackholenetwork.omniscien.cl CNAME .
 172.96.141.252doge.quipasur.cl CNAME .
 *.172.96.141.252doge.quipasur.cl CNAME .
 epicgrammar.quipasur.cl CNAME .
@@ -717,10 +721,14 @@ vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
 *.vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
 topwriting.redalameda.cl CNAME .
 *.topwriting.redalameda.cl CNAME .
+rammerhead-by-itrsa.rima.cl CNAME .
+*.rammerhead-by-itrsa.rima.cl CNAME .
 pteryla.solicituddemateriales.cl CNAME .
 *.pteryla.solicituddemateriales.cl CNAME .
 start.succeed.cl CNAME .
 *.start.succeed.cl CNAME .
+math.swift.cl CNAME .
+*.math.swift.cl CNAME .
 owens-chemistry-tutor-info.topcargoteam.cl CNAME .
 *.owens-chemistry-tutor-info.topcargoteam.cl CNAME .
 shop.woodworker.cl CNAME .
@@ -2071,6 +2079,8 @@ fpn.firefox.com CNAME .
 *.fpn.firefox.com CNAME .
 testpilot.firefox.com CNAME .
 *.testpilot.firefox.com CNAME .
+itrsa-rammer.fishfx.com CNAME .
+*.itrsa-rammer.fishfx.com CNAME .
 fishproxy.com CNAME .
 *.fishproxy.com CNAME .
 fitnessdepotprices.com CNAME .
@@ -3081,6 +3091,8 @@ httpdns-sdk.n.netease.com CNAME .
 *.httpdns-sdk.n.netease.com CNAME .
 netsneak.com CNAME .
 *.netsneak.com CNAME .
+scienceisfun11.networkguru.com CNAME .
+*.scienceisfun11.networkguru.com CNAME .
 newipnow.com CNAME .
 *.newipnow.com CNAME .
 ngrok.com CNAME .
@@ -4291,6 +4303,8 @@ unblockytproxy.com CNAME .
 *.unblockytproxy.com CNAME .
 undofilters.com CNAME .
 *.undofilters.com CNAME .
+pleasedontblockthis.unids.com CNAME .
+*.pleasedontblockthis.unids.com CNAME .
 unifiedvpn.com CNAME .
 *.unifiedvpn.com CNAME .
 unknownproxy.com CNAME .
@@ -5201,6 +5215,8 @@ ejaysss.dev CNAME .
 *.ejaysss.dev CNAME .
 emeraldeyex.dev CNAME .
 *.emeraldeyex.dev CNAME .
+sixseven67.errorrail.dev CNAME .
+*.sixseven67.errorrail.dev CNAME .
 dns.hanahira.dev CNAME .
 *.dns.hanahira.dev CNAME .
 adg.herry.dev CNAME .
@@ -5445,6 +5461,8 @@ hideway.eu CNAME .
 *.hideway.eu CNAME .
 homevpn.eu CNAME .
 *.homevpn.eu CNAME .
+skibiditoilet.jake.eu CNAME .
+*.skibiditoilet.jake.eu CNAME .
 sm6.jake.eu CNAME .
 *.sm6.jake.eu CNAME .
 dns.jiyi.eu CNAME .
@@ -6329,6 +6347,8 @@ onweb.info CNAME .
 *.onweb.info CNAME .
 papervpn.info CNAME .
 *.papervpn.info CNAME .
+securly.com.pbdjarum.info CNAME .
+*.securly.com.pbdjarum.info CNAME .
 pkproxy.info CNAME .
 *.pkproxy.info CNAME .
 primeproxy23.info CNAME .
@@ -7285,6 +7305,8 @@ unblockit.meme CNAME .
 *.unblockit.meme CNAME .
 adultproxy.men CNAME .
 *.adultproxy.men CNAME .
+hellopeople.dyn.mk CNAME .
+*.hellopeople.dyn.mk CNAME .
 br.servers.legat.ml CNAME .
 *.br.servers.legat.ml CNAME .
 notfound-google.404.mn CNAME .
@@ -7369,6 +7391,8 @@ cloud.securifi.com.my CNAME .
 *.cloud.securifi.com.my CNAME .
 edu.ts-me.com.my CNAME .
 *.edu.ts-me.com.my CNAME .
+math.nass.my CNAME .
+*.math.nass.my CNAME .
 advanced.name CNAME .
 *.advanced.name CNAME .
 domain.name CNAME .
@@ -7515,6 +7539,8 @@ shadownxirby.baselinux.net CNAME .
 *.shadownxirby.baselinux.net CNAME .
 solmariknein.baselinux.net CNAME .
 *.solmariknein.baselinux.net CNAME .
+studyeasy.baselinux.net CNAME .
+*.studyeasy.baselinux.net CNAME .
 bestssh.net CNAME .
 *.bestssh.net CNAME .
 betterproxy.net CNAME .
@@ -8595,6 +8621,8 @@ test3.adg.siudzinski.net CNAME .
 *.test3.adg.siudzinski.net CNAME .
 test4.adg.siudzinski.net CNAME .
 *.test4.adg.siudzinski.net CNAME .
+made-by-itrsa.sjno.net CNAME .
+*.made-by-itrsa.sjno.net CNAME .
 skyvpn.net CNAME .
 *.skyvpn.net CNAME .
 dns.slinkyman.net CNAME .
@@ -9429,6 +9457,8 @@ x861g.duckdns.org CNAME .
 *.x861g.duckdns.org CNAME .
 test.zkwg.duckdns.org CNAME .
 *.test.zkwg.duckdns.org CNAME .
+67godpromaxultra61isbettersorry.dylix.org CNAME .
+*.67godpromaxultra61isbettersorry.dylix.org CNAME .
 akhilkalwakurthy.dyndns.org CNAME .
 *.akhilkalwakurthy.dyndns.org CNAME .
 ueni.dyndns.org CNAME .
@@ -10057,6 +10087,8 @@ unblocked2.party CNAME .
 *.unblocked2.party CNAME .
 doh.kel.pe CNAME .
 *.doh.kel.pe CNAME .
+schoolismid.reno.pe CNAME .
+*.schoolismid.reno.pe CNAME .
 adguardhome.softcloud.pe CNAME .
 *.adguardhome.softcloud.pe CNAME .
 surfshark.ph CNAME .
@@ -10093,6 +10125,8 @@ adguard.piekacz.pl CNAME .
 *.adguard.piekacz.pl CNAME .
 dns.pierzchlewicz.pl CNAME .
 *.dns.pierzchlewicz.pl CNAME .
+joo.polishmc.pl CNAME .
+*.joo.polishmc.pl CNAME .
 poxy.pl CNAME .
 *.poxy.pl CNAME .
 ad.r60.pl CNAME .
@@ -10965,6 +10999,10 @@ aicx99.shop CNAME .
 *.aicx99.shop CNAME .
 amopython.shop CNAME .
 *.amopython.shop CNAME .
+slammpstudysfr.cxhzegpg.shop CNAME .
+*.slammpstudysfr.cxhzegpg.shop CNAME .
+spongebob.cxhzegpg.shop CNAME .
+*.spongebob.cxhzegpg.shop CNAME .
 osqcsmm.shop CNAME .
 *.osqcsmm.shop CNAME .
 paradise-human.shop CNAME .
