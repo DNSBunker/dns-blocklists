@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763058660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763073060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Nov 2025 18:31 UTC
-; Version: 2025.1113.1831.25
+; Last modified: 13 Nov 2025 22:31 UTC
+; Version: 2025.1113.2231.03
 ; Syntax: RPZ
-; Number of entries: 155318
+; Number of entries: 155312
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -22742,8 +22742,6 @@ castingcouch-x.com CNAME .
 *.castingcouch-x.com CNAME .
 ticouples.castingcrane.com CNAME .
 *.ticouples.castingcrane.com CNAME .
-castingdom.com CNAME .
-*.castingdom.com CNAME .
 castingporntube.com CNAME .
 *.castingporntube.com CNAME .
 castingx-adultes.com CNAME .
@@ -94956,8 +94954,6 @@ ravina.in CNAME .
 *.ravina.in CNAME .
 reallifecams.in CNAME .
 *.reallifecams.in CNAME .
-red-lips.in CNAME .
-*.red-lips.in CNAME .
 redqueen.in CNAME .
 *.redqueen.in CNAME .
 remli.in CNAME .
@@ -97886,6 +97882,8 @@ sophieartemigi.itch.io CNAME .
 *.sophieartemigi.itch.io CNAME .
 spacerock99.itch.io CNAME .
 *.spacerock99.itch.io CNAME .
+spodvohom-games.itch.io CNAME .
+*.spodvohom-games.itch.io CNAME .
 squirclegames.itch.io CNAME .
 *.squirclegames.itch.io CNAME .
 stick4luck.itch.io CNAME .
@@ -115456,8 +115454,6 @@ cityoflafayettega.org CNAME .
 *.cityoflafayettega.org CNAME .
 cityporno.org CNAME .
 *.cityporno.org CNAME .
-clamshell-tvs.org CNAME .
-*.clamshell-tvs.org CNAME .
 clasporno.org CNAME .
 *.clasporno.org CNAME .
 clevelandpride.org CNAME .
@@ -135976,8 +135972,6 @@ sexy-video-calls.top CNAME .
 *.sexy-video-calls.top CNAME .
 sexy-video-chat.top CNAME .
 *.sexy-video-chat.top CNAME .
-sexy6688.top CNAME .
-*.sexy6688.top CNAME .
 sexy6dre38.top CNAME .
 *.sexy6dre38.top CNAME .
 sexyai.top CNAME .
