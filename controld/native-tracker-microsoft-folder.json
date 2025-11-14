@@ -358,6 +358,20 @@
       }
     },
     {
+      "PK": "azurewatson.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "azurewatsontest.microsoft.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "bat.bing.com",
       "action": {
         "do": 0,

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Nov 2025 10:34 UTC
-# Version: 2025.1111.1034.04
+# Last modified: 14 Nov 2025 17:50 UTC
+# Version: 2025.1114.1750.20
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3862
+# Number of entries: 3863
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -118,7 +118,6 @@
 0.0.0.0 dns.5ososea.com
 0.0.0.0 family.5ososea.com
 0.0.0.0 kids.5ososea.com
-0.0.0.0 dns.688447.xyz
 0.0.0.0 dns.6level.net
 0.0.0.0 agh.710523.xyz
 0.0.0.0 ayman-dns.731my.com
@@ -254,6 +253,7 @@
 0.0.0.0 doh.aipps.vip
 0.0.0.0 dns.airmaxcloud.uk
 0.0.0.0 dns.airns.net
+0.0.0.0 adguard.ajinga.net
 0.0.0.0 rdjdns.ajraspi.xyz
 0.0.0.0 dns.akbxr.com
 0.0.0.0 dns.alanpearce.eu
@@ -1773,6 +1773,7 @@
 0.0.0.0 dns.msk.hexagon1736.com
 0.0.0.0 hexxitcompany.com
 0.0.0.0 httpdns.ocloud.heytapmobi.com
+0.0.0.0 hfgx.shop
 0.0.0.0 hg8.asia
 0.0.0.0 hgrps.eu
 0.0.0.0 www.hgrps.eu

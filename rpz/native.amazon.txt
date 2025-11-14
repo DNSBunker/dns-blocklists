@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762509540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763143020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Amazon Tracker DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 09:59 UTC
-; Version: 2025.1107.0959.29
+; Last modified: 14 Nov 2025 17:57 UTC
+; Version: 2025.1114.1757.59
 ; Syntax: RPZ
 ; Number of entries: 622
 ;

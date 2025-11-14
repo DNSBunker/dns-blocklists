@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 09:57 UTC
-# Version: 2025.1107.0957.53
+# Last modified: 14 Nov 2025 17:56 UTC
+# Version: 2025.1114.1756.22
 # Syntax: Domains (without subdomains)
-# Number of entries: 883
+# Number of entries: 884
 #
 2ch.org
 4cdn.org
@@ -43,6 +43,7 @@ atlasonepoint.com
 atscaleconference.com
 aus.social
 awscommunity.social
+bdurl.com
 bigbeans.solutions
 bizographics.com
 bookstagram.com
@@ -679,7 +680,6 @@ p16-tiktok-ls-merchant-sign-sg.ibyteimg.com
 p16-tiktok-ls-product-sign-sg.ibyteimg.com
 p16-tiktok-poi-picture-sign-sg.ibyteimg.com
 p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com
-p16-tiktok-web-ads-sg.ibyteimg.com
 p16-tiktokcdn-com.akamaized.net
 parse.com
 periscope.tv
@@ -858,6 +858,7 @@ vk.design
 vk.link
 vk.me
 vk.ru
+vkcache.com
 vkgo.app
 vklive.app
 vkmessenger.app

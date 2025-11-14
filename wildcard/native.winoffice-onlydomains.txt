@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 10:00 UTC
-# Version: 2025.1107.1000.12
+# Last modified: 14 Nov 2025 17:58 UTC
+# Version: 2025.1114.1758.40
 # Syntax: Domains (without subdomains)
-# Number of entries: 375
+# Number of entries: 377
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
@@ -154,6 +154,8 @@ applicationinsights.microsoft.com
 pipe.aria.microsoft.com
 collector.azure.microsoft.cloud
 collector.azure.microsoft.scloud
+azurewatson.microsoft.com
+azurewatsontest.microsoft.com
 bingads.microsoft.com
 c1.microsoft.com
 track.notif.careersppe.microsoft.com

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 09:28 UTC
-# Version: 2025.1114.0928.07
+# Last modified: 14 Nov 2025 18:06 UTC
+# Version: 2025.1114.1806.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14358
+# Number of entries: 14361
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -7382,6 +7382,7 @@ local=/lackeauftragen.com/
 local=/lackvomprofi.de/
 local=/lacostes.de/
 local=/lacrosseabout.com/
+local=/lacrossegummistiefel.com/
 local=/lacuni-kauf.de/
 local=/ladders-sale.com/
 local=/ladegeratebillig.com/
@@ -11832,6 +11833,7 @@ local=/spieluniversum.com/
 local=/spielzeug-ente.com/
 local=/spielzeug-traum.com/
 local=/spielzeug-wunderwelt.com/
+local=/spielzeugautosrabatt.com/
 local=/spielzeugeneu.de/
 local=/spielzeugopapop.shop/
 local=/spielzeugsde.com/
@@ -13882,6 +13884,7 @@ local=/werkzeugangebot.shop/
 local=/werkzeugausrustung.com/
 local=/werkzeugbauladen.com/
 local=/werkzeugebefestigung.com/
+local=/werkzeugebillig.com/
 local=/werkzeugebohrer.de/
 local=/werkzeugeersatzteile.com/
 local=/werkzeugegartenarbeit.de/

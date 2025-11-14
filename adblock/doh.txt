@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Nov 2025 10:34 UTC
-! Version: 2025.1111.1034.04
+! Last modified: 14 Nov 2025 17:50 UTC
+! Version: 2025.1114.1750.20
 ! Syntax: AdBlock
-! Number of entries: 3386
+! Number of entries: 3387
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -105,7 +105,6 @@
 ||dns.5ososea.com^
 ||family.5ososea.com^
 ||kids.5ososea.com^
-||dns.688447.xyz^
 ||dns.6level.net^
 ||agh.710523.xyz^
 ||ayman-dns.731my.com^
@@ -215,6 +214,7 @@
 ||doh.aipps.vip^
 ||dns.airmaxcloud.uk^
 ||dns.airns.net^
+||adguard.ajinga.net^
 ||rdjdns.ajraspi.xyz^
 ||dns.akbxr.com^
 ||dns.alanpearce.eu^
@@ -1533,6 +1533,7 @@
 ||dns.msk.hexagon1736.com^
 ||hexxitcompany.com^
 ||httpdns.ocloud.heytapmobi.com^
+||hfgx.shop^
 ||hg8.asia^
 ||hgrps.eu^
 ||dns.sgp.hicn.site^

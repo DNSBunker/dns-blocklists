@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1762509420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763142960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Social Networks DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Nov 2025 09:57 UTC
-; Version: 2025.1107.0957.53
+; Last modified: 14 Nov 2025 17:56 UTC
+; Version: 2025.1114.1756.22
 ; Syntax: RPZ
-; Number of entries: 1766
+; Number of entries: 1768
 ;
 masto.ai CNAME .
 *.masto.ai CNAME .
@@ -156,6 +156,8 @@ atlasonepoint.com CNAME .
 *.atlasonepoint.com CNAME .
 atscaleconference.com CNAME .
 *.atscaleconference.com CNAME .
+bdurl.com CNAME .
+*.bdurl.com CNAME .
 bizographics.com CNAME .
 *.bizographics.com CNAME .
 bookstagram.com CNAME .
@@ -784,8 +786,6 @@ p16-tiktok-poi-picture-sign-sg.ibyteimg.com CNAME .
 *.p16-tiktok-poi-picture-sign-sg.ibyteimg.com CNAME .
 p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com CNAME .
 *.p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com CNAME .
-p16-tiktok-web-ads-sg.ibyteimg.com CNAME .
-*.p16-tiktok-web-ads-sg.ibyteimg.com CNAME .
 igsonar.com CNAME .
 *.igsonar.com CNAME .
 imstagram.com CNAME .
@@ -1062,6 +1062,8 @@ viewpointsfromfacebook.com CNAME .
 *.viewpointsfromfacebook.com CNAME .
 vk.com CNAME .
 *.vk.com CNAME .
+vkcache.com CNAME .
+*.vkcache.com CNAME .
 vkmessenger.com CNAME .
 *.vkmessenger.com CNAME .
 vkuseraudio.com CNAME .

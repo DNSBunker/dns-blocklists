@@ -1057,6 +1057,13 @@
       }
     },
     {
+      "PK": "chillx.top",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "chinaq.club",
       "action": {
         "do": 1,
@@ -1844,13 +1851,6 @@
       "PK": "*.eco",
       "action": {
         "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ecopulse.sbs",
-      "action": {
-        "do": 1,
         "status": 1
       }
     },

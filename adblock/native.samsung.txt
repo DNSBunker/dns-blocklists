@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Nov 2025 10:06 UTC
-! Version: 2025.1107.1006.34
+! Last modified: 14 Nov 2025 18:05 UTC
+! Version: 2025.1114.1805.13
 ! Syntax: AdBlock
-! Number of entries: 200
+! Number of entries: 199
 !
 ||samsung-com.112.2o7.net^
 ||metric.account-samsung.com^
@@ -93,7 +93,6 @@
 ||dls-account.di.atlas.samsung.com^
 ||dqa-auth.di.atlas.samsung.com^
 ||regi.di.atlas.samsung.com^
-||images.b2bindia.samsung.com^
 ||analytics.bigdata.samsung.com^
 ||lp.americas.business.samsung.com^
 ||tracking.americas.business.samsung.com^

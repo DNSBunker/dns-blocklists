@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763116680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763142600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Nov 2025 10:38 UTC
-; Version: 2025.1114.1038.40
+; Last modified: 14 Nov 2025 17:50 UTC
+; Version: 2025.1114.1750.51
 ; Syntax: RPZ
-; Number of entries: 13848
+; Number of entries: 13850
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -8853,6 +8853,8 @@ ahadns.net CNAME .
 *.ahadns.net CNAME .
 dns.airns.net CNAME .
 *.dns.airns.net CNAME .
+adguard.ajinga.net CNAME .
+*.adguard.ajinga.net CNAME .
 akunssh.net CNAME .
 *.akunssh.net CNAME .
 dnsnl.alekberg.net CNAME .
@@ -12397,6 +12399,8 @@ slammpstudysfr.cxhzegpg.shop CNAME .
 *.slammpstudysfr.cxhzegpg.shop CNAME .
 spongebob.cxhzegpg.shop CNAME .
 *.spongebob.cxhzegpg.shop CNAME .
+hfgx.shop CNAME .
+*.hfgx.shop CNAME .
 osqcsmm.shop CNAME .
 *.osqcsmm.shop CNAME .
 paradise-human.shop CNAME .
@@ -13525,8 +13529,6 @@ tokyo.559299366.xyz CNAME .
 *.tokyo.559299366.xyz CNAME .
 vps.559299366.xyz CNAME .
 *.vps.559299366.xyz CNAME .
-dns.688447.xyz CNAME .
-*.dns.688447.xyz CNAME .
 agh.710523.xyz CNAME .
 *.agh.710523.xyz CNAME .
 ad.800801.xyz CNAME .

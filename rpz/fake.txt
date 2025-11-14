@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763112480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763143560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Nov 2025 09:28 UTC
-; Version: 2025.1114.0928.07
+; Last modified: 14 Nov 2025 18:06 UTC
+; Version: 2025.1114.1806.09
 ; Syntax: RPZ
-; Number of entries: 28716
+; Number of entries: 28722
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -9756,6 +9756,8 @@ lackeauftragen.com CNAME .
 *.lackeauftragen.com CNAME .
 lacrosseabout.com CNAME .
 *.lacrosseabout.com CNAME .
+lacrossegummistiefel.com CNAME .
+*.lacrossegummistiefel.com CNAME .
 ladders-sale.com CNAME .
 *.ladders-sale.com CNAME .
 ladegeratebillig.com CNAME .
@@ -14762,6 +14764,8 @@ spielzeug-traum.com CNAME .
 *.spielzeug-traum.com CNAME .
 spielzeug-wunderwelt.com CNAME .
 *.spielzeug-wunderwelt.com CNAME .
+spielzeugautosrabatt.com CNAME .
+*.spielzeugautosrabatt.com CNAME .
 spielzeugsde.com CNAME .
 *.spielzeugsde.com CNAME .
 spielzeugsport.com CNAME .
@@ -17150,6 +17154,8 @@ werkzeugbauladen.com CNAME .
 *.werkzeugbauladen.com CNAME .
 werkzeugebefestigung.com CNAME .
 *.werkzeugebefestigung.com CNAME .
+werkzeugebillig.com CNAME .
+*.werkzeugebillig.com CNAME .
 werkzeugeersatzteile.com CNAME .
 *.werkzeugeersatzteile.com CNAME .
 werkzeugeneu.com CNAME .

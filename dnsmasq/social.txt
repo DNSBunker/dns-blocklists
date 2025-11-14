@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 09:57 UTC
-# Version: 2025.1107.0957.53
+# Last modified: 14 Nov 2025 17:56 UTC
+# Version: 2025.1114.1756.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 883
+# Number of entries: 884
 #
 local=/2ch.org/
 local=/4cdn.org/
@@ -43,6 +43,7 @@ local=/atlasonepoint.com/
 local=/atscaleconference.com/
 local=/aus.social/
 local=/awscommunity.social/
+local=/bdurl.com/
 local=/bigbeans.solutions/
 local=/bizographics.com/
 local=/bookstagram.com/
@@ -679,7 +680,6 @@ local=/p16-tiktok-ls-merchant-sign-sg.ibyteimg.com/
 local=/p16-tiktok-ls-product-sign-sg.ibyteimg.com/
 local=/p16-tiktok-poi-picture-sign-sg.ibyteimg.com/
 local=/p16-tiktok-poi-picture-sign-useast2a.ibyteimg.com/
-local=/p16-tiktok-web-ads-sg.ibyteimg.com/
 local=/p16-tiktokcdn-com.akamaized.net/
 local=/parse.com/
 local=/periscope.tv/
@@ -858,6 +858,7 @@ local=/vk.design/
 local=/vk.link/
 local=/vk.me/
 local=/vk.ru/
+local=/vkcache.com/
 local=/vkgo.app/
 local=/vklive.app/
 local=/vkmessenger.app/

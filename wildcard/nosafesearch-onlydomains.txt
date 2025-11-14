@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 23:00 UTC
-# Version: 2025.1010.2300.28
+# Last modified: 14 Nov 2025 17:49 UTC
+# Version: 2025.1114.1749.31
 # Syntax: Domains (without subdomains)
-# Number of entries: 182
+# Number of entries: 183
 #
 search.0xcb.dev
 search.0xgingi.com
@@ -87,6 +87,7 @@ search.kokomo.cloud
 trovu.komun.org
 search.laksith.dev
 searx.lavatech.top
+librex.me
 searx.linux.pizza
 lukol.com
 whoogle.lunar.icu

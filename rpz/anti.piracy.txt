@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763116320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763142660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Nov 2025 10:32 UTC
-; Version: 2025.1114.1032.14
+; Last modified: 14 Nov 2025 17:51 UTC
+; Version: 2025.1114.1751.50
 ; Syntax: RPZ
-; Number of entries: 23228
+; Number of entries: 23224
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -12888,8 +12888,6 @@ planetdl.0fees.net CNAME .
 *.345movie.net CNAME .
 456movie.net CNAME .
 *.456movie.net CNAME .
-4allprograms.net CNAME .
-*.4allprograms.net CNAME .
 4files.net CNAME .
 *.4files.net CNAME .
 4watch.net CNAME .
@@ -15446,8 +15444,6 @@ streamingcommunity.ooo CNAME .
 *.3dsroms.org CNAME .
 420project.org CNAME .
 *.420project.org CNAME .
-4players.org CNAME .
-*.4players.org CNAME .
 5play.org CNAME .
 *.5play.org CNAME .
 60-fps.org CNAME .

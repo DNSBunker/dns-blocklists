@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 10:02 UTC
-# Version: 2025.1107.1002.56
+# Last modified: 14 Nov 2025 18:01 UTC
+# Version: 2025.1114.1801.26
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1260
+# Number of entries: 1267
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 acpwdoni13.alphonso.tv
@@ -70,6 +70,7 @@
 0.0.0.0 efovduk59.alphonso.tv
 0.0.0.0 egmfuqki23.alphonso.tv
 0.0.0.0 ennef96.alphonso.tv
+0.0.0.0 eoydhe10.alphonso.tv
 0.0.0.0 eqdrews7.alphonso.tv
 0.0.0.0 erafukhaie3.alphonso.tv
 0.0.0.0 eu-acr-gpu1.alphonso.tv
@@ -224,6 +225,7 @@
 0.0.0.0 eu-bl-server.alphonso.tv
 0.0.0.0 eu-clockskew.alphonso.tv
 0.0.0.0 eu-prov-lb.alphonso.tv
+0.0.0.0 eu-prov2.alphonso.tv
 0.0.0.0 eyndphse57.alphonso.tv
 0.0.0.0 fdaobvh8.alphonso.tv
 0.0.0.0 fddan03.alphonso.tv
@@ -294,8 +296,10 @@
 0.0.0.0 krishnaw261.alphonso.tv
 0.0.0.0 krishnaw262.alphonso.tv
 0.0.0.0 krishnaw263.alphonso.tv
+0.0.0.0 krishnaw264.alphonso.tv
 0.0.0.0 krishnaw265.alphonso.tv
 0.0.0.0 krishnaw266.alphonso.tv
+0.0.0.0 krishnaw267.alphonso.tv
 0.0.0.0 krishnaw268.alphonso.tv
 0.0.0.0 krishnaw269.alphonso.tv
 0.0.0.0 krishnaw270.alphonso.tv
@@ -401,6 +405,7 @@
 0.0.0.0 krishnaw374.alphonso.tv
 0.0.0.0 krishnaw375.alphonso.tv
 0.0.0.0 krishnaw376.alphonso.tv
+0.0.0.0 krishnaw378.alphonso.tv
 0.0.0.0 krishnaw379.alphonso.tv
 0.0.0.0 krishnaw380.alphonso.tv
 0.0.0.0 krishnaw381.alphonso.tv
@@ -411,6 +416,7 @@
 0.0.0.0 krishnaw386.alphonso.tv
 0.0.0.0 krishnaw387.alphonso.tv
 0.0.0.0 krishnaw388.alphonso.tv
+0.0.0.0 krishnaw389.alphonso.tv
 0.0.0.0 krishnaw390.alphonso.tv
 0.0.0.0 krishnaw391.alphonso.tv
 0.0.0.0 krishnaw392.alphonso.tv
@@ -451,6 +457,7 @@
 0.0.0.0 krishnaw428.alphonso.tv
 0.0.0.0 krishnaw429.alphonso.tv
 0.0.0.0 krishnaw430.alphonso.tv
+0.0.0.0 krishnaw431.alphonso.tv
 0.0.0.0 krishnaw432.alphonso.tv
 0.0.0.0 krishnaw434.alphonso.tv
 0.0.0.0 krishnaw435.alphonso.tv

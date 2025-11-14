@@ -4,7 +4,6 @@
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://big.oisd.nl
-https://bl.ossmalta.eu/malta.txt
 https://botvrij.eu/data/ioclist.domain
 https://botvrij.eu/data/ioclist.hostname
 https://cdn.jsdelivr.net/gh/geekdada/surge-list/domain-set/chinese-filter.txt
@@ -56,7 +55,6 @@ https://hosts.tweedge.net/malicious.txt
 https://lists.cyberhost.uk/malware.txt
 https://nsfw.oisd.nl
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
-https://phish.co.za/latest/phishing-domains-ACTIVE.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://phish.sinking.yachts/v2/text

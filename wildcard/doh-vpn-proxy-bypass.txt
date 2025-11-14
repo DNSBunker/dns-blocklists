@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 10:38 UTC
-# Version: 2025.1114.1038.40
+# Last modified: 14 Nov 2025 17:50 UTC
+# Version: 2025.1114.1750.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6924
+# Number of entries: 6925
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -171,7 +171,6 @@
 *.dns.5ososea.com
 *.family.5ososea.com
 *.kids.5ososea.com
-*.dns.688447.xyz
 *.dns.6level.net
 *.agh.710523.xyz
 *.71745718.online
@@ -316,6 +315,7 @@
 *.dns.airmaxcloud.uk
 *.dns.airns.net
 *.airvpn.org
+*.adguard.ajinga.net
 *.rdjdns.ajraspi.xyz
 *.dns.akbxr.com
 *.akunssh.net
@@ -2554,6 +2554,7 @@
 *.dns.msk.hexagon1736.com
 *.hexxitcompany.com
 *.httpdns.ocloud.heytapmobi.com
+*.hfgx.shop
 *.hg8.asia
 *.hgrps.eu
 *.dns.sgp.hicn.site

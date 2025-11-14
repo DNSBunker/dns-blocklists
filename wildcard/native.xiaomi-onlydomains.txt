@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Nov 2025 10:05 UTC
-# Version: 2025.1107.1005.37
+# Last modified: 14 Nov 2025 18:04 UTC
+# Version: 2025.1114.1804.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 357
+# Number of entries: 356
 #
 traffic-media.co.uk
 mistat.india.xiaomi.com.edgesuite.net
@@ -242,8 +242,7 @@ ruvideo.cdn.pandora.intl.xiaomi.com
 in-miuilog.sms.intl.xiaomi.com
 sec-cdn.static.intl.xiaomi.net
 sys.intl.xiaomi.com
-h5-ru.video.intl.xiaomi.com
-ru.video.intl.xiaomi.com
+video.intl.xiaomi.com
 secure.report.iss.xiaomi.com
 a.market.xiaomi.com
 drm.market.xiaomi.com

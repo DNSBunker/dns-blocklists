@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 10:32 UTC
-# Version: 2025.1114.1032.14
+# Last modified: 14 Nov 2025 17:51 UTC
+# Version: 2025.1114.1751.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11614
+# Number of entries: 11612
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -304,7 +304,6 @@ local=/441001.xyz/
 local=/456movie.com/
 local=/456movie.net/
 local=/480mkv.com/
-local=/4allprograms.net/
 local=/4anime.to/
 local=/4files.net/
 local=/4k-hd.club/
@@ -315,7 +314,6 @@ local=/4megaupload.com/
 local=/4mirrorlink.com/
 local=/4movierulz.mn/
 local=/4pda.to/
-local=/4players.org/
 local=/4realtorrentz.com/
 local=/4shared.com/
 local=/4stream.gg/
