@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763044080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763101800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Nov 2025 14:28 UTC
-; Version: 2025.1113.1428.21
+; Last modified: 14 Nov 2025 06:30 UTC
+; Version: 2025.1114.0630.57
 ; Syntax: RPZ
-; Number of entries: 90798
+; Number of entries: 90806
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -14650,8 +14650,12 @@ images.6929183.com CNAME .
 *.8vulkanvegas.com CNAME .
 8x0544.com CNAME .
 *.8x0544.com CNAME .
+8x6799.com CNAME .
+*.8x6799.com CNAME .
 8x6850.com CNAME .
 *.8x6850.com CNAME .
+8x7837.com CNAME .
+*.8x7837.com CNAME .
 8xbet.com CNAME .
 *.8xbet.com CNAME .
 8xbet-vi.com CNAME .
@@ -42028,6 +42032,8 @@ playgemslots.com CNAME .
 *.playgemslots.com CNAME .
 playgoogle33.com CNAME .
 *.playgoogle33.com CNAME .
+playgowd.com CNAME .
+*.playgowd.com CNAME .
 playgrand.com CNAME .
 *.playgrand.com CNAME .
 playgrandcasino.com CNAME .
@@ -73876,6 +73882,8 @@ casino-en-mostbet.site CNAME .
 *.casino-en-mostbet.site CNAME .
 casino-evo.site CNAME .
 *.casino-evo.site CNAME .
+casino-game.site CNAME .
+*.casino-game.site CNAME .
 casino-idn.site CNAME .
 *.casino-idn.site CNAME .
 casino-mellstroy.site CNAME .

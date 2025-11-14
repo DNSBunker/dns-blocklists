@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 02:35 UTC
-# Version: 2025.1109.0235.56
+# Last modified: 14 Nov 2025 06:36 UTC
+# Version: 2025.1114.0636.33
 # Syntax: Domains (without subdomains)
-# Number of entries: 1470
+# Number of entries: 1471
 #
 0000000000000000000000.com
 0rg.us
@@ -1134,6 +1134,7 @@ port0.org
 port25.biz
 portfwd.com
 portmap.host
+portrelay.com
 prettyweak.com
 priamaakcia.sk
 privatedns.com

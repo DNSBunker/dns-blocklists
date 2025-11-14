@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Nov 2025 14:28 UTC
-# Version: 2025.1113.1428.21
+# Last modified: 14 Nov 2025 06:30 UTC
+# Version: 2025.1114.0630.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 45399
+# Number of entries: 45403
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -3900,7 +3900,9 @@ local=/8ttt.casino/
 local=/8ty1.com/
 local=/8vulkanvegas.com/
 local=/8x0544.com/
+local=/8x6799.com/
 local=/8x6850.com/
+local=/8x7837.com/
 local=/8xbet.blog/
 local=/8xbet.casino/
 local=/8xbet.ceo/
@@ -10301,6 +10303,7 @@ local=/casino-fridayroll.pl/
 local=/casino-gama.net/
 local=/casino-gama-lhd.top/
 local=/casino-game.eu/
+local=/casino-game.site/
 local=/casino-games.biz/
 local=/casino-games-i.com/
 local=/casino-gaming-guide.com/
@@ -33569,6 +33572,7 @@ local=/playgemslots.com/
 local=/playgg.ro/
 local=/playgg-best.xyz/
 local=/playgoogle33.com/
+local=/playgowd.com/
 local=/playgrand.com/
 local=/playgrandcasino.com/
 local=/playgrandcasino-online.com/

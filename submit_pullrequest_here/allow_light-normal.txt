@@ -94,8 +94,8 @@ mediasetitalia01.wt-eu02.net
 # These errors are not reproducible and occur very rarely.
 # This Tiktoktupus app is the absolute privacy plague!
 # The domains will remain blocked in the native and aggressive lists for the time being.
-log*-applog*.tiktok*.*
-log*-checkout*.tiktok*.*
-log*-normal*.tiktok*.*
-log*-platform*.tiktok*.*
-log*-tmp*.tiktok*.*
+#log*-applog*.tiktok*.*
+#log*-checkout*.tiktok*.*
+#log*-normal*.tiktok*.*
+#log*-platform*.tiktok*.*
+#log*-tmp*.tiktok*.*
