@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Nov 2025 10:34 UTC
-! Version: 2025.1115.1034.55
+! Last modified: 15 Nov 2025 22:36 UTC
+! Version: 2025.1115.2236.49
 ! Syntax: AdBlock
-! Number of entries: 3386
+! Number of entries: 3384
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1241,7 +1241,6 @@
 ||beautifulthings.eu.org^
 ||jp.dns.bliod.eu.org^
 ||clic.eu.org^
-||resolver.dns.eban.eu.org^
 ||doh.excdn.eu.org^
 ||doh.greenwood.eu.org^
 ||sweethome.in.eu.org^
@@ -1400,7 +1399,6 @@
 ||dns.beta.gandi.net^
 ||adguard.gattow.com^
 ||gclouddns.com^
-||dns1.gdie.top^
 ||adg.geili.me^
 ||genscorp.es^
 ||adguard.georgev22.com^

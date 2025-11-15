@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Nov 2025 14:37 UTC
-! Version: 2025.1115.1437.04
+! Last modified: 15 Nov 2025 22:37 UTC
+! Version: 2025.1115.2237.21
 ! Syntax: AdBlock
-! Number of entries: 6928
+! Number of entries: 6921
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1950,7 +1950,6 @@
 ||beautifulthings.eu.org^
 ||jp.dns.bliod.eu.org^
 ||clic.eu.org^
-||resolver.dns.eban.eu.org^
 ||doh.excdn.eu.org^
 ||doh.greenwood.eu.org^
 ||sweethome.in.eu.org^
@@ -2053,7 +2052,6 @@
 ||ns1.fdn.fr^
 ||dns.fdue.de^
 ||agh.feblab.click^
-||feeproxy.com^
 ||dns.fehlsprache.de^
 ||ag.felixf.eu^
 ||home.fendya.com^
@@ -2089,7 +2087,6 @@
 ||fireprox.net^
 ||vm3421302.firstbyte.club^
 ||firstcontact.site^
-||itrsa-rammer.fishfx.com^
 ||fishproxy.com^
 ||fitnessdepotprices.com^
 ||fixproxy.com^
@@ -2131,7 +2128,6 @@
 ||forestvpn.com^
 ||proxy.forkbomb.xyz^
 ||www-proxy.formen.cc^
-||fortniters.info^
 ||disturbing-the-peace.foxgateway.com^
 ||get-out-of-my-head-get-out-of-my-head.foxgateway.com^
 ||i-understand-it-now.foxgateway.com^
@@ -2215,7 +2211,6 @@
 ||freeproxylist.online^
 ||freeproxylist.ru^
 ||freeproxyserver.co^
-||freeproxysites.co^
 ||freeproxyunblockyoutube.com^
 ||freeproxyupdate.com^
 ||freeproxyweb.net^
@@ -2246,7 +2241,6 @@
 ||dns.freopc.fr^
 ||dns.freyja.pw^
 ||frkn.frkn.cloud^
-||frlolyt.site^
 ||ivica-vulas.from.hr^
 ||frootvpn.com^
 ||dns.froth.zone^
@@ -2286,7 +2280,6 @@
 ||gatcha.org^
 ||adguard.gattow.com^
 ||gclouddns.com^
-||dns1.gdie.top^
 ||gecko.fun^
 ||geckovpn.xyz^
 ||geekproxy.com^

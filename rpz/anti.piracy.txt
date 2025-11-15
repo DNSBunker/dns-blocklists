@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763217000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763245800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 14:30 UTC
-; Version: 2025.1115.1430.29
+; Last modified: 15 Nov 2025 22:30 UTC
+; Version: 2025.1115.2230.57
 ; Syntax: RPZ
-; Number of entries: 23202
+; Number of entries: 23190
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -824,8 +824,6 @@ europix.biz CNAME .
 *.europix.biz CNAME .
 eurostreaming.biz CNAME .
 *.eurostreaming.biz CNAME .
-ffmovies.biz CNAME .
-*.ffmovies.biz CNAME .
 filmesviatorrents.biz CNAME .
 *.filmesviatorrents.biz CNAME .
 filmix.biz CNAME .
@@ -4622,8 +4620,6 @@ freeroms.com CNAME .
 *.freeroms.com CNAME .
 freeserials.com CNAME .
 *.freeserials.com CNAME .
-freesportstime.com CNAME .
-*.freesportstime.com CNAME .
 freestreams-live1.com CNAME .
 *.freestreams-live1.com CNAME .
 freetmd.com CNAME .
@@ -4740,8 +4736,6 @@ gamer-torrent.com CNAME .
 *.gamer-torrent.com CNAME .
 gamersmaze.com CNAME .
 *.gamersmaze.com CNAME .
-gamesrouter.com CNAME .
-*.gamesrouter.com CNAME .
 gamestorrents.com CNAME .
 *.gamestorrents.com CNAME .
 gametechwiki.com CNAME .
@@ -10814,8 +10808,6 @@ filmstreaming.io CNAME .
 *.filmstreaming.io CNAME .
 fireship.io CNAME .
 *.fireship.io CNAME .
-fmoviesio.io CNAME .
-*.fmoviesio.io CNAME .
 footybite.io CNAME .
 *.footybite.io CNAME .
 tracker.fortu.io CNAME .
@@ -20256,8 +20248,6 @@ free-movies.to CNAME .
 *.free-movies.to CNAME .
 freehdmovies.to CNAME .
 *.freehdmovies.to CNAME .
-freek.to CNAME .
-*.freek.to CNAME .
 freeky.to CNAME .
 *.freeky.to CNAME .
 freesoft-board.to CNAME .
@@ -22260,8 +22250,6 @@ dramaqu.website CNAME .
 *.dramaqu.website CNAME .
 fitgirl-repacks.website CNAME .
 *.fitgirl-repacks.website CNAME .
-fmovies.website CNAME .
-*.fmovies.website CNAME .
 fzmovies.website CNAME .
 *.fzmovies.website CNAME .
 guardaserie.website CNAME .

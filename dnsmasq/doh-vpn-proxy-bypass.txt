@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 14:37 UTC
-# Version: 2025.1115.1437.04
+# Last modified: 15 Nov 2025 22:37 UTC
+# Version: 2025.1115.2237.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6928
+# Number of entries: 6921
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1949,7 +1949,6 @@ local=/beautifullife.eu.org/
 local=/beautifulthings.eu.org/
 local=/jp.dns.bliod.eu.org/
 local=/clic.eu.org/
-local=/resolver.dns.eban.eu.org/
 local=/doh.excdn.eu.org/
 local=/doh.greenwood.eu.org/
 local=/sweethome.in.eu.org/
@@ -2052,7 +2051,6 @@ local=/ns0.fdn.fr/
 local=/ns1.fdn.fr/
 local=/dns.fdue.de/
 local=/agh.feblab.click/
-local=/feeproxy.com/
 local=/dns.fehlsprache.de/
 local=/ag.felixf.eu/
 local=/home.fendya.com/
@@ -2088,7 +2086,6 @@ local=/testpilot.firefox.com/
 local=/fireprox.net/
 local=/vm3421302.firstbyte.club/
 local=/firstcontact.site/
-local=/itrsa-rammer.fishfx.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
@@ -2130,7 +2127,6 @@ local=/www-rf4.forestberrypi.com/
 local=/forestvpn.com/
 local=/proxy.forkbomb.xyz/
 local=/www-proxy.formen.cc/
-local=/fortniters.info/
 local=/disturbing-the-peace.foxgateway.com/
 local=/get-out-of-my-head-get-out-of-my-head.foxgateway.com/
 local=/i-understand-it-now.foxgateway.com/
@@ -2214,7 +2210,6 @@ local=/freeproxydb.com/
 local=/freeproxylist.online/
 local=/freeproxylist.ru/
 local=/freeproxyserver.co/
-local=/freeproxysites.co/
 local=/freeproxyunblockyoutube.com/
 local=/freeproxyupdate.com/
 local=/freeproxyweb.net/
@@ -2245,7 +2240,6 @@ local=/french-vpn.com/
 local=/dns.freopc.fr/
 local=/dns.freyja.pw/
 local=/frkn.frkn.cloud/
-local=/frlolyt.site/
 local=/ivica-vulas.from.hr/
 local=/frootvpn.com/
 local=/dns.froth.zone/
@@ -2285,7 +2279,6 @@ local=/dns.beta.gandi.net/
 local=/gatcha.org/
 local=/adguard.gattow.com/
 local=/gclouddns.com/
-local=/dns1.gdie.top/
 local=/gecko.fun/
 local=/geckovpn.xyz/
 local=/geekproxy.com/

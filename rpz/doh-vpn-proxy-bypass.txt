@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763217420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763246220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 14:37 UTC
-; Version: 2025.1115.1437.04
+; Last modified: 15 Nov 2025 22:37 UTC
+; Version: 2025.1115.2237.21
 ; Syntax: RPZ
-; Number of entries: 13856
+; Number of entries: 13842
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -983,8 +983,6 @@ enclosr.co CNAME .
 *.enclosr.co CNAME .
 freeproxyserver.co CNAME .
 *.freeproxyserver.co CNAME .
-freeproxysites.co CNAME .
-*.freeproxysites.co CNAME .
 dohsg.goitoi.co CNAME .
 *.dohsg.goitoi.co CNAME .
 hideip.co CNAME .
@@ -2053,8 +2051,6 @@ fastvpn.com CNAME .
 *.fastvpn.com CNAME .
 clevercoding.fatibara.com CNAME .
 *.clevercoding.fatibara.com CNAME .
-feeproxy.com CNAME .
-*.feeproxy.com CNAME .
 home.fendya.com CNAME .
 *.home.fendya.com CNAME .
 fiberprox.com CNAME .
@@ -2071,8 +2067,6 @@ fpn.firefox.com CNAME .
 *.fpn.firefox.com CNAME .
 testpilot.firefox.com CNAME .
 *.testpilot.firefox.com CNAME .
-itrsa-rammer.fishfx.com CNAME .
-*.itrsa-rammer.fishfx.com CNAME .
 fishproxy.com CNAME .
 *.fishproxy.com CNAME .
 fitnessdepotprices.com CNAME .
@@ -7661,8 +7655,6 @@ fasttime.info CNAME .
 *.fasttime.info CNAME .
 fbproxies.info CNAME .
 *.fbproxies.info CNAME .
-fortniters.info CNAME .
-*.fortniters.info CNAME .
 freeplace.info CNAME .
 *.freeplace.info CNAME .
 dns.api.integration.globuscs.info CNAME .
@@ -10887,8 +10879,6 @@ jp.dns.bliod.eu.org CNAME .
 *.jp.dns.bliod.eu.org CNAME .
 clic.eu.org CNAME .
 *.clic.eu.org CNAME .
-resolver.dns.eban.eu.org CNAME .
-*.resolver.dns.eban.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 *.doh.excdn.eu.org CNAME .
 doh.greenwood.eu.org CNAME .
@@ -12451,8 +12441,6 @@ firstcontact.site CNAME .
 *.firstcontact.site CNAME .
 fptdns.site CNAME .
 *.fptdns.site CNAME .
-frlolyt.site CNAME .
-*.frlolyt.site CNAME .
 www-croxy.ghgi.site CNAME .
 *.www-croxy.ghgi.site CNAME .
 ms.gswsfh2021.site CNAME .
@@ -12781,8 +12769,6 @@ fidelius.top CNAME .
 *.fidelius.top CNAME .
 freeproxy.top CNAME .
 *.freeproxy.top CNAME .
-dns1.gdie.top CNAME .
-*.dns1.gdie.top CNAME .
 gibblets.top CNAME .
 *.gibblets.top CNAME .
 gigatapbot.top CNAME .

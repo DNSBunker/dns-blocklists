@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 10:34 UTC
-# Version: 2025.1115.1034.55
+# Last modified: 15 Nov 2025 22:36 UTC
+# Version: 2025.1115.2236.49
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3862
+# Number of entries: 3860
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1469,7 +1469,6 @@
 0.0.0.0 www.beautifulthings.eu.org
 0.0.0.0 jp.dns.bliod.eu.org
 0.0.0.0 clic.eu.org
-0.0.0.0 resolver.dns.eban.eu.org
 0.0.0.0 doh.excdn.eu.org
 0.0.0.0 doh.greenwood.eu.org
 0.0.0.0 sweethome.in.eu.org
@@ -1633,7 +1632,6 @@
 0.0.0.0 dns.beta.gandi.net
 0.0.0.0 adguard.gattow.com
 0.0.0.0 gclouddns.com
-0.0.0.0 dns1.gdie.top
 0.0.0.0 adg.geili.me
 0.0.0.0 genscorp.es
 0.0.0.0 adguard.georgev22.com

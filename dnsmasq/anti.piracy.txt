@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 14:30 UTC
-# Version: 2025.1115.1430.29
+# Last modified: 15 Nov 2025 22:30 UTC
+# Version: 2025.1115.2230.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11601
+# Number of entries: 11595
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3402,7 +3402,6 @@ local=/ffbox.org/
 local=/ffh4xapks.com/
 local=/ffilms.club/
 local=/ffmovie.fun/
-local=/ffmovies.biz/
 local=/ffmovies.ru/
 local=/ffmovies.ws/
 local=/fiberlink.eu/
@@ -3807,7 +3806,6 @@ local=/fmovies.se/
 local=/fmovies.taxi/
 local=/fmovies.to/
 local=/fmovies.today/
-local=/fmovies.website/
 local=/fmovies.world/
 local=/fmovies.wtf/
 local=/fmovies-hd.to/
@@ -3818,7 +3816,6 @@ local=/fmovies3.com/
 local=/fmoviesf.co/
 local=/fmoviesgo.net/
 local=/fmovieshd.vip/
-local=/fmoviesio.io/
 local=/fmoviesto.site/
 local=/fmoviestv.site/
 local=/fmoviesz.to/
@@ -3934,7 +3931,6 @@ local=/freeintertv.com/
 local=/freeipstress.com/
 local=/freeipstresser.net/
 local=/freeiptvserver.com/
-local=/freek.to/
 local=/freeky.to/
 local=/freeline.ws/
 local=/freemediabd.com/
@@ -3950,7 +3946,6 @@ local=/freeroms.com/
 local=/freerus.ru/
 local=/freeserials.com/
 local=/freesoft-board.to/
-local=/freesportstime.com/
 local=/freestreams-live.top/
 local=/freestreams-live1.com/
 local=/freestresser.to/
@@ -4118,7 +4113,6 @@ local=/games4u.org/
 local=/games4u.ws/
 local=/gamesdrive.net/
 local=/gameslay.net/
-local=/gamesrouter.com/
 local=/gamestorrent.co/
 local=/gamestorrents.com/
 local=/gamestorrents.fm/

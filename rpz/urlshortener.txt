@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763213340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763242140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 13:29 UTC
-; Version: 2025.1115.1329.17
+; Last modified: 15 Nov 2025 21:29 UTC
+; Version: 2025.1115.2129.56
 ; Syntax: RPZ
-; Number of entries: 19086
+; Number of entries: 19080
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3345,6 +3345,8 @@ baixeapk.com CNAME .
 *.baixeapk.com CNAME .
 it.baltgroup.com CNAME .
 *.it.baltgroup.com CNAME .
+bamaccoin.com CNAME .
+*.bamaccoin.com CNAME .
 banaccroblox.com CNAME .
 *.banaccroblox.com CNAME .
 bannercho.com CNAME .
@@ -3943,8 +3945,6 @@ dpba2404.com CNAME .
 *.dpba2404.com CNAME .
 dpessm.com CNAME .
 *.dpessm.com CNAME .
-drifturl.com CNAME .
-*.drifturl.com CNAME .
 dripurl.com CNAME .
 *.dripurl.com CNAME .
 go.drnima.com CNAME .
@@ -10719,8 +10719,6 @@ ebbco.ir CNAME .
 *.ebbco.ir CNAME .
 ee9.ir CNAME .
 *.ee9.ir CNAME .
-fi9.ir CNAME .
-*.fi9.ir CNAME .
 fna.ir CNAME .
 *.fna.ir CNAME .
 go2l.ir CNAME .
@@ -15387,8 +15385,6 @@ kutt.druidry.org CNAME .
 *.kutt.druidry.org CNAME .
 efraising.org CNAME .
 *.efraising.org CNAME .
-elsextosol.org CNAME .
-*.elsextosol.org CNAME .
 go.enlace.org CNAME .
 *.go.enlace.org CNAME .
 link.entrust4.org CNAME .
@@ -17239,8 +17235,6 @@ bitly.team CNAME .
 *.bitly.team CNAME .
 douyin.team CNAME .
 *.douyin.team CNAME .
-flaait.team CNAME .
-*.flaait.team CNAME .
 url.odds.team CNAME .
 *.url.odds.team CNAME .
 lk.riki.team CNAME .

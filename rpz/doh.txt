@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763202840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763246160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 10:34 UTC
-; Version: 2025.1115.1034.55
+; Last modified: 15 Nov 2025 22:36 UTC
+; Version: 2025.1115.2236.49
 ; Syntax: RPZ
-; Number of entries: 6772
+; Number of entries: 6768
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -4813,8 +4813,6 @@ jp.dns.bliod.eu.org CNAME .
 *.jp.dns.bliod.eu.org CNAME .
 clic.eu.org CNAME .
 *.clic.eu.org CNAME .
-resolver.dns.eban.eu.org CNAME .
-*.resolver.dns.eban.eu.org CNAME .
 doh.excdn.eu.org CNAME .
 *.doh.excdn.eu.org CNAME .
 doh.greenwood.eu.org CNAME .
@@ -6083,8 +6081,6 @@ ad.fai001.top CNAME .
 *.ad.fai001.top CNAME .
 fidelius.top CNAME .
 *.fidelius.top CNAME .
-dns1.gdie.top CNAME .
-*.dns1.gdie.top CNAME .
 gibblets.top CNAME .
 *.gibblets.top CNAME .
 gigatapbot.top CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 10:34 UTC
-# Version: 2025.1115.1034.55
+# Last modified: 15 Nov 2025 22:36 UTC
+# Version: 2025.1115.2236.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3386
+# Number of entries: 3384
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1240,7 +1240,6 @@ local=/beautifullife.eu.org/
 local=/beautifulthings.eu.org/
 local=/jp.dns.bliod.eu.org/
 local=/clic.eu.org/
-local=/resolver.dns.eban.eu.org/
 local=/doh.excdn.eu.org/
 local=/doh.greenwood.eu.org/
 local=/sweethome.in.eu.org/
@@ -1399,7 +1398,6 @@ local=/dns.api.gandi.net/
 local=/dns.beta.gandi.net/
 local=/adguard.gattow.com/
 local=/gclouddns.com/
-local=/dns1.gdie.top/
 local=/adg.geili.me/
 local=/genscorp.es/
 local=/adguard.georgev22.com/

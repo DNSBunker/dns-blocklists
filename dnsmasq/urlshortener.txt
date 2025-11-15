@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 13:29 UTC
-# Version: 2025.1115.1329.17
+# Last modified: 15 Nov 2025 21:29 UTC
+# Version: 2025.1115.2129.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9543
+# Number of entries: 9540
 #
 local=/0.gp/
 local=/00m.in/
@@ -945,6 +945,7 @@ local=/baixeapk.com/
 local=/baktifranchise.live/
 local=/balls.no/
 local=/it.baltgroup.com/
+local=/bamaccoin.com/
 local=/bamerus.top/
 local=/banaccroblox.com/
 local=/bankua.xyz/
@@ -2273,7 +2274,6 @@ local=/drag.li/
 local=/dre.li/
 local=/dreamshigh.life/
 local=/drect.net/
-local=/drifturl.com/
 local=/drinks.me/
 local=/dripurl.com/
 local=/go.drnima.com/
@@ -2460,7 +2460,6 @@ local=/ellemag.co/
 local=/elokapina.link/
 local=/link.elos.vc/
 local=/elrsx.com/
-local=/elsextosol.org/
 local=/elu.gr/
 local=/elx.site/
 local=/ely.re/
@@ -2644,7 +2643,6 @@ local=/ffm.to/
 local=/ffxiv.link/
 local=/fgurl.net/
 local=/fhurl.com/
-local=/fi9.ir/
 local=/fiatconnect.app/
 local=/fibr.ai/
 local=/ficken.ws/
@@ -2672,7 +2670,6 @@ local=/fitz.ms/
 local=/hon.fiu.edu/
 local=/fiy.no/
 local=/fl-y.com/
-local=/flaait.team/
 local=/flameurl.com/
 local=/flashsc.re/
 local=/flashwombat.com/
