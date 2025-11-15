@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Nov 2025 17:50 UTC
-! Version: 2025.1114.1750.20
+! Last modified: 15 Nov 2025 10:34 UTC
+! Version: 2025.1115.1034.55
 ! Syntax: AdBlock
-! Number of entries: 3387
+! Number of entries: 3386
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -662,7 +662,6 @@
 ||lothuscorp.com.br^
 ||dns.netraptor.com.au^
 ||dns.oceanprint.com.br^
-||dns02.oceanprint.com.br^
 ||dns.polatarasan.com.tr^
 ||dns.weixin.qq.com.cn^
 ||dns.redhosting.com.ar^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763184540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763198880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 05:29 UTC
-; Version: 2025.1115.0529.37
+; Last modified: 15 Nov 2025 09:28 UTC
+; Version: 2025.1115.0928.38
 ; Syntax: RPZ
-; Number of entries: 19094
+; Number of entries: 19090
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -12563,8 +12563,6 @@ bit24.live CNAME .
 *.bit24.live CNAME .
 builthow.live CNAME .
 *.builthow.live CNAME .
-casashort.live CNAME .
-*.casashort.live CNAME .
 cgvoice.live CNAME .
 *.cgvoice.live CNAME .
 clotplaynews.live CNAME .
@@ -18097,8 +18095,6 @@ parsu.co.uk CNAME .
 *.parsu.co.uk CNAME .
 go.sbws.co.uk CNAME .
 *.go.sbws.co.uk CNAME .
-sex4fun.co.uk CNAME .
-*.sex4fun.co.uk CNAME .
 shortlinks.co.uk CNAME .
 *.shortlinks.co.uk CNAME .
 shorturls.co.uk CNAME .

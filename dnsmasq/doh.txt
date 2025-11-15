@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 17:50 UTC
-# Version: 2025.1114.1750.20
+# Last modified: 15 Nov 2025 10:34 UTC
+# Version: 2025.1115.1034.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3387
+# Number of entries: 3386
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -661,7 +661,6 @@ local=/arrakis.korolyzer.com.br/
 local=/lothuscorp.com.br/
 local=/dns.netraptor.com.au/
 local=/dns.oceanprint.com.br/
-local=/dns02.oceanprint.com.br/
 local=/dns.polatarasan.com.tr/
 local=/dns.weixin.qq.com.cn/
 local=/dns.redhosting.com.ar/

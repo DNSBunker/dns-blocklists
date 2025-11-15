@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 05:29 UTC
-# Version: 2025.1115.0529.37
+# Last modified: 15 Nov 2025 09:28 UTC
+# Version: 2025.1115.0928.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9547
+# Number of entries: 9545
 #
 local=/0.gp/
 local=/00m.in/
@@ -1451,7 +1451,6 @@ local=/carnalflicks.online/
 local=/caro.sl/
 local=/cart.mn/
 local=/cartisbikur.com/
-local=/casashort.live/
 local=/cash4share.com/
 local=/link.cashcard.id/
 local=/cashurl.win/
@@ -1739,7 +1738,6 @@ local=/p-it.co.uk/
 local=/parsu.co.uk/
 local=/qtn.co.il/
 local=/go.sbws.co.uk/
-local=/sex4fun.co.uk/
 local=/shortlink.co.za/
 local=/shortlinks.co.uk/
 local=/shorturls.co.uk/

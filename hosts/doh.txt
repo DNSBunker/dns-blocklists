@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Nov 2025 17:50 UTC
-# Version: 2025.1114.1750.20
+# Last modified: 15 Nov 2025 10:34 UTC
+# Version: 2025.1115.1034.55
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3863
+# Number of entries: 3862
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -781,7 +781,6 @@
 0.0.0.0 lothuscorp.com.br
 0.0.0.0 dns.netraptor.com.au
 0.0.0.0 dns.oceanprint.com.br
-0.0.0.0 dns02.oceanprint.com.br
 0.0.0.0 dns.polatarasan.com.tr
 0.0.0.0 dns.weixin.qq.com.cn
 0.0.0.0 dns.redhosting.com.ar

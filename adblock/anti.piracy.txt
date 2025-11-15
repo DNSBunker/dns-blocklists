@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Nov 2025 06:30 UTC
-! Version: 2025.1115.0630.58
+! Last modified: 15 Nov 2025 10:29 UTC
+! Version: 2025.1115.1029.14
 ! Syntax: AdBlock
-! Number of entries: 11604
+! Number of entries: 11603
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -2095,7 +2095,6 @@
 ||crichd.com.co^
 ||crichd.com.ua^
 ||cueclub.com.bd^
-||digitalbroadband.com.bd^
 ||www.e24.com.bd^
 ||ekino.com.ua^
 ||feniks-site.com.pl^
