@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 22:37 UTC
-# Version: 2025.1115.2237.21
+# Last modified: 16 Nov 2025 02:36 UTC
+# Version: 2025.1116.0236.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6921
+# Number of entries: 6914
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2491,7 +2491,6 @@ local=/dns.hanmey.de/
 local=/dns.hannielzhang.com/
 local=/d.hansj.cc/
 local=/classroom.haoqiw.com/
-local=/dns.haoxuan.me/
 local=/happy-vpn.com/
 local=/happy365.me/
 local=/happydata.info/
@@ -2500,16 +2499,12 @@ local=/skibidiparkergoon.happyforever.com/
 local=/turtle.happyforever.com/
 local=/yessir.happyforever.com/
 local=/harbaletsstudy.com/
-local=/monkeydoo.hardsoft.nu/
 local=/resolver.haringstad.com/
 local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/
 local=/cn-dns.hashtable.io/
 local=/hauxcore.de/
-local=/hayadns.online/
-local=/hayadns.site/
 local=/gw1.dns.haynetwork.id/
-local=/dylanigotchu.hbmc.net/
 local=/mq.hd440.de/
 local=/s.hd440.de/
 local=/query.hdns.io/
@@ -2638,7 +2633,6 @@ local=/homeproxy.net/
 local=/homevpn.eu/
 local=/homevpn.info/
 local=/homevpn.org/
-local=/homeworkhelp.click/
 local=/honeygain.me/
 local=/dns.hoody.com/
 local=/schoolmath.hop.sh/
@@ -2668,7 +2662,6 @@ local=/purchase-some.hotglue.click/
 local=/hotspotshield.com/
 local=/hotspotvpn.com/
 local=/dns.hotta.page/
-local=/doh.hottis.de/
 local=/hotvpn.info/
 local=/dns.housedenolf.be/
 local=/howdy.id/

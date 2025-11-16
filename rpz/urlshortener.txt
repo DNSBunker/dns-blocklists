@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763242140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763256540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 21:29 UTC
-; Version: 2025.1115.2129.56
+; Last modified: 16 Nov 2025 01:29 UTC
+; Version: 2025.1116.0129.30
 ; Syntax: RPZ
-; Number of entries: 19080
+; Number of entries: 19074
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -8059,8 +8059,6 @@ fwme.eu CNAME .
 *.fwme.eu CNAME .
 golnk.eu CNAME .
 *.golnk.eu CNAME .
-kutt.h4it.eu CNAME .
-*.kutt.h4it.eu CNAME .
 hepsipay.eu CNAME .
 *.hepsipay.eu CNAME .
 url.hilberg.eu CNAME .
@@ -13447,8 +13445,6 @@ hlaueriksson.me CNAME .
 *.hlaueriksson.me CNAME .
 hmp.me CNAME .
 *.hmp.me CNAME .
-hola2.me CNAME .
-*.hola2.me CNAME .
 hops.me CNAME .
 *.hops.me CNAME .
 housga.me CNAME .
@@ -16815,8 +16811,6 @@ djarum88.shop CNAME .
 *.djarum88.shop CNAME .
 eapk.shop CNAME .
 *.eapk.shop CNAME .
-hoki108.shop CNAME .
-*.hoki108.shop CNAME .
 imo-call.shop CNAME .
 *.imo-call.shop CNAME .
 indahnyaberbagi.shop CNAME .

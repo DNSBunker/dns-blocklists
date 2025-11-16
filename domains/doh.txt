@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 22:36 UTC
-# Version: 2025.1115.2236.49
+# Last modified: 16 Nov 2025 02:36 UTC
+# Version: 2025.1116.0236.06
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3860
+# Number of entries: 3856
 #
 ss.0001.xyz
 003153.xyz
@@ -1744,14 +1744,11 @@ adguard.haneulo.com
 dns.hanmey.de
 dns.hannielzhang.com
 d.hansj.cc
-dns.haoxuan.me
 happy365.me
 resolver.haringstad.com
 resolver-eu.haringstad.com
 adguard.hartley.cloud
 cn-dns.hashtable.io
-hayadns.online
-hayadns.site
 gw1.dns.haynetwork.id
 mq.hd440.de
 s.hd440.de
@@ -1823,7 +1820,6 @@ adg.hostingab.ru
 dns.hostingim.com
 dns.hostux.net
 dns.hotta.page
-doh.hottis.de
 dns.housedenolf.be
 hshh.org
 ns2.hshh.org

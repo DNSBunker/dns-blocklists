@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Nov 2025 09:15 UTC
-# Version: 2025.1115.0915.35
+# Last modified: 16 Nov 2025 01:15 UTC
+# Version: 2025.1116.0115.54
 # Syntax: Domains (without subdomains)
-# Number of entries: 1275
+# Number of entries: 1277
 #
 1-aclk.net
 1aurl.io
@@ -1036,6 +1036,8 @@ click.e.sees.com
 sctrack.sendcloud.net
 track2.sendcloud.net
 ct.sendgrid.net
+track.sendlane.com
+track.sendlanedelivery.com
 track.m2.sendlayer.net
 app.sephora.com
 services.dental

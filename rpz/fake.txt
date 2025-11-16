@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763242080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763256420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 21:28 UTC
-; Version: 2025.1115.2128.11
+; Last modified: 16 Nov 2025 01:27 UTC
+; Version: 2025.1116.0127.50
 ; Syntax: RPZ
-; Number of entries: 28660
+; Number of entries: 28608
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -7622,8 +7622,6 @@ goldhandel-degussa.com CNAME .
 *.goldhandel-degussa.com CNAME .
 goldmedalmotopartsbase.com CNAME .
 *.goldmedalmotopartsbase.com CNAME .
-goldofficemaster.com CNAME .
-*.goldofficemaster.com CNAME .
 goldpromocoes.com CNAME .
 *.goldpromocoes.com CNAME .
 golfapparelsale.com CNAME .
@@ -7832,8 +7830,6 @@ guckfahrrad.com CNAME .
 *.guckfahrrad.com CNAME .
 gudrunsjodens-eu.com CNAME .
 *.gudrunsjodens-eu.com CNAME .
-guenstig-heizoel.com CNAME .
-*.guenstig-heizoel.com CNAME .
 guessfinland.com CNAME .
 *.guessfinland.com CNAME .
 guesso.com CNAME .
@@ -7880,8 +7876,6 @@ gymsharkdublin.com CNAME .
 *.gymsharkdublin.com CNAME .
 gymsharkfinland.com CNAME .
 *.gymsharkfinland.com CNAME .
-gymsharkhungarystore.com CNAME .
-*.gymsharkhungarystore.com CNAME .
 gymsharkrea.com CNAME .
 *.gymsharkrea.com CNAME .
 gymsharkslovenijaeu.com CNAME .
@@ -7988,8 +7982,6 @@ hanwagoutletstore.com CNAME .
 *.hanwagoutletstore.com CNAME .
 happytotsshop.com CNAME .
 *.happytotsshop.com CNAME .
-hardwareein.com CNAME .
-*.hardwareein.com CNAME .
 hardwarewerkzeugshop.com CNAME .
 *.hardwarewerkzeugshop.com CNAME .
 harleysaleoutlets.com CNAME .
@@ -8102,8 +8094,6 @@ heidi-meyer.com CNAME .
 *.heidi-meyer.com CNAME .
 heike-store.com CNAME .
 *.heike-store.com CNAME .
-heimatrabatt.com CNAME .
-*.heimatrabatt.com CNAME .
 heimdekoration.com CNAME .
 *.heimdekoration.com CNAME .
 heimgruee.com CNAME .
@@ -8356,8 +8346,6 @@ hofinger-modehaus.com CNAME .
 *.hofinger-modehaus.com CNAME .
 hofsicherung.com CNAME .
 *.hofsicherung.com CNAME .
-hogl-es.com CNAME .
-*.hogl-es.com CNAME .
 hoglpolska.com CNAME .
 *.hoglpolska.com CNAME .
 hoglschuhe.com CNAME .
@@ -8490,8 +8478,6 @@ horizon-markt.com CNAME .
 *.horizon-markt.com CNAME .
 horizon-patrimoine.com CNAME .
 *.horizon-patrimoine.com CNAME .
-horizonhobbyeu.com CNAME .
-*.horizonhobbyeu.com CNAME .
 horizons28.com CNAME .
 *.horizons28.com CNAME .
 horizontaln.com CNAME .
@@ -8642,8 +8628,6 @@ iancheer.com CNAME .
 *.iancheer.com CNAME .
 iauvon.com CNAME .
 *.iauvon.com CNAME .
-iayhsa.com CNAME .
-*.iayhsa.com CNAME .
 ibcfx.com CNAME .
 *.ibcfx.com CNAME .
 ibid-events.com CNAME .
@@ -20052,8 +20036,6 @@ golaberlin.de CNAME .
 *.golaberlin.de CNAME .
 golaschuheswebsite.de CNAME .
 *.golaschuheswebsite.de CNAME .
-golaschuhewebsite.de CNAME .
-*.golaschuhewebsite.de CNAME .
 gold-handel-24.de CNAME .
 *.gold-handel-24.de CNAME .
 goldengoosesale.de CNAME .
@@ -20134,8 +20116,6 @@ grund-markt.de CNAME .
 *.grund-markt.de CNAME .
 grunsamen.de CNAME .
 *.grunsamen.de CNAME .
-guardedgrowth-cm.de CNAME .
-*.guardedgrowth-cm.de CNAME .
 guckeisen-garten.de CNAME .
 *.guckeisen-garten.de CNAME .
 guckflix.de CNAME .
@@ -20250,8 +20230,6 @@ harz-welt.de CNAME .
 *.harz-welt.de CNAME .
 hatme.de CNAME .
 *.hatme.de CNAME .
-haus-elektro.de CNAME .
-*.haus-elektro.de CNAME .
 haus-stmartin.de CNAME .
 *.haus-stmartin.de CNAME .
 hausermodehaus.de CNAME .
@@ -20382,8 +20360,6 @@ heiznow.de CNAME .
 *.heiznow.de CNAME .
 heizoase.de CNAME .
 *.heizoase.de CNAME .
-heizoel-best.de CNAME .
-*.heizoel-best.de CNAME .
 heizoel-check.de CNAME .
 *.heizoel-check.de CNAME .
 heizoel-checker.de CNAME .
@@ -20420,16 +20396,10 @@ heizoelblitz.de CNAME .
 *.heizoelblitz.de CNAME .
 heizoelbp.de CNAME .
 *.heizoelbp.de CNAME .
-heizoelconnect.de CNAME .
-*.heizoelconnect.de CNAME .
 heizoelfit.de CNAME .
 *.heizoelfit.de CNAME .
 heizoelgo.de CNAME .
 *.heizoelgo.de CNAME .
-heizoelhilfe.de CNAME .
-*.heizoelhilfe.de CNAME .
-heizoelikone.de CNAME .
-*.heizoelikone.de CNAME .
 heizoelit.de CNAME .
 *.heizoelit.de CNAME .
 heizoelitx.de CNAME .
@@ -20440,10 +20410,6 @@ heizoeljet.de CNAME .
 *.heizoeljet.de CNAME .
 heizoellieferung.de CNAME .
 *.heizoellieferung.de CNAME .
-heizoelmax.de CNAME .
-*.heizoelmax.de CNAME .
-heizoelnow.de CNAME .
-*.heizoelnow.de CNAME .
 heizoelo.de CNAME .
 *.heizoelo.de CNAME .
 heizoelport.de CNAME .
@@ -20454,20 +20420,12 @@ heizoelpro.de CNAME .
 *.heizoelpro.de CNAME .
 heizoelprofi.de CNAME .
 *.heizoelprofi.de CNAME .
-heizoelprofit.de CNAME .
-*.heizoelprofit.de CNAME .
 heizoelpunkt.de CNAME .
 *.heizoelpunkt.de CNAME .
 heizoelsofort.de CNAME .
 *.heizoelsofort.de CNAME .
 heizoelsolutions.de CNAME .
 *.heizoelsolutions.de CNAME .
-heizoelteam.de CNAME .
-*.heizoelteam.de CNAME .
-heizoelversand.de CNAME .
-*.heizoelversand.de CNAME .
-heizoelwerk.de CNAME .
-*.heizoelwerk.de CNAME .
 heizoil-24.de CNAME .
 *.heizoil-24.de CNAME .
 heizoil-vergleich.de CNAME .
@@ -20684,8 +20642,6 @@ hypulse.de CNAME .
 *.hypulse.de CNAME .
 iamkamu.de CNAME .
 *.iamkamu.de CNAME .
-ibler-elektronik.de CNAME .
-*.ibler-elektronik.de CNAME .
 icarus-berlin.de CNAME .
 *.icarus-berlin.de CNAME .
 ichferkens.de CNAME .
@@ -21352,6 +21308,8 @@ livingluxe.de CNAME .
 *.livingluxe.de CNAME .
 livsy.de CNAME .
 *.livsy.de CNAME .
+lm-heizoel.de CNAME .
+*.lm-heizoel.de CNAME .
 loakedeutschland.de CNAME .
 *.loakedeutschland.de CNAME .
 lockpickingstore.de CNAME .
@@ -22140,6 +22098,8 @@ nur-uhren.de CNAME .
 *.nur-uhren.de CNAME .
 nvgtndeutschland.de CNAME .
 *.nvgtndeutschland.de CNAME .
+nw-heizoel.de CNAME .
+*.nw-heizoel.de CNAME .
 obilero.de CNAME .
 *.obilero.de CNAME .
 obindo.de CNAME .
@@ -24480,8 +24440,6 @@ holzexpress24.eu CNAME .
 *.holzexpress24.eu CNAME .
 house-book.eu CNAME .
 *.house-book.eu CNAME .
-hp-yachting-consult.eu CNAME .
-*.hp-yachting-consult.eu CNAME .
 industrie-moebel.eu CNAME .
 *.industrie-moebel.eu CNAME .
 io-ny.eu CNAME .
@@ -26778,8 +26736,6 @@ goldstoneindica.shop CNAME .
 *.goldstoneindica.shop CNAME .
 gomehut.shop CNAME .
 *.gomehut.shop CNAME .
-graubner-concept.shop CNAME .
-*.graubner-concept.shop CNAME .
 greeninpieces.shop CNAME .
 *.greeninpieces.shop CNAME .
 greenmah.shop CNAME .
@@ -26826,8 +26782,6 @@ heimkino-partner.shop CNAME .
 *.heimkino-partner.shop CNAME .
 helleklevendeeur.shop CNAME .
 *.helleklevendeeur.shop CNAME .
-hemia.shop CNAME .
-*.hemia.shop CNAME .
 hensphere.shop CNAME .
 *.hensphere.shop CNAME .
 henworld.shop CNAME .
@@ -26878,12 +26832,8 @@ hpdcrw.shop CNAME .
 *.hpdcrw.shop CNAME .
 huiiltn.shop CNAME .
 *.huiiltn.shop CNAME .
-hundvonedenstoreava.shop CNAME .
-*.hundvonedenstoreava.shop CNAME .
 hxuenb.shop CNAME .
 *.hxuenb.shop CNAME .
-hypexstore.shop CNAME .
-*.hypexstore.shop CNAME .
 icelandichorse.shop CNAME .
 *.icelandichorse.shop CNAME .
 ideabeautydepotz.shop CNAME .
@@ -28012,8 +27962,6 @@ hallfua.store CNAME .
 *.hallfua.store CNAME .
 haushalts.store CNAME .
 *.haushalts.store CNAME .
-hausprodukte.store CNAME .
-*.hausprodukte.store CNAME .
 hectore.store CNAME .
 *.hectore.store CNAME .
 hyperstore-de.store CNAME .

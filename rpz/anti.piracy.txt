@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763245800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763260200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 22:30 UTC
-; Version: 2025.1115.2230.57
+; Last modified: 16 Nov 2025 02:30 UTC
+; Version: 2025.1116.0230.19
 ; Syntax: RPZ
-; Number of entries: 23190
+; Number of entries: 23170
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1010,8 +1010,6 @@ ilgeniodellostreaming.boo CNAME .
 *.ilgeniodellostreaming.boo CNAME .
 vegamovies.boo CNAME .
 *.vegamovies.boo CNAME .
-hdmovie2.boston CNAME .
-*.hdmovie2.boston CNAME .
 streamingcommunity.boston CNAME .
 *.streamingcommunity.boston CNAME .
 vegamovies.bot CNAME .
@@ -1206,8 +1204,6 @@ gophie.cam CNAME .
 *.gophie.cam CNAME .
 guardaserie.cam CNAME .
 *.guardaserie.cam CNAME .
-hdmovie2.cam CNAME .
-*.hdmovie2.cam CNAME .
 ilgeniodellostreaming.cam CNAME .
 *.ilgeniodellostreaming.cam CNAME .
 megastream.cam CNAME .
@@ -4834,8 +4830,6 @@ gogo-stream.com CNAME .
 *.gogo-stream.com CNAME .
 gogunlocked.com CNAME .
 *.gogunlocked.com CNAME .
-golden-ddl.com CNAME .
-*.golden-ddl.com CNAME .
 goldenshara.com CNAME .
 *.goldenshara.com CNAME .
 golkoralive.com CNAME .
@@ -8416,8 +8410,6 @@ hdmovie2.cricket CNAME .
 *.hdmovie2.cricket CNAME .
 vegamovies.cricket CNAME .
 *.vegamovies.cricket CNAME .
-hdmovie2.cv CNAME .
-*.hdmovie2.cv CNAME .
 tracker.startwork.cv CNAME .
 *.tracker.startwork.cv CNAME .
 allin1.cx CNAME .
@@ -8714,8 +8706,6 @@ vegamovies.deal CNAME .
 *.vegamovies.deal CNAME .
 filmyfly.deals CNAME .
 *.filmyfly.deals CNAME .
-hdmovie2.deals CNAME .
-*.hdmovie2.deals CNAME .
 kinox.deals CNAME .
 *.kinox.deals CNAME .
 megakino.deals CNAME .
@@ -8860,8 +8850,6 @@ streamingcommunity.discount CNAME .
 *.streamingcommunity.discount CNAME .
 dood.diy CNAME .
 *.dood.diy CNAME .
-hdmovie2.diy CNAME .
-*.hdmovie2.diy CNAME .
 tantifilm.diy CNAME .
 *.tantifilm.diy CNAME .
 zone-telechargement.diy CNAME .
@@ -8936,8 +8924,6 @@ rlsbb.unblockit.download CNAME .
 *.rlsbb.unblockit.download CNAME .
 vegamovies.durban CNAME .
 *.vegamovies.durban CNAME .
-hdmovie2.earth CNAME .
-*.hdmovie2.earth CNAME .
 kinogo.ec CNAME .
 *.kinogo.ec CNAME .
 streameast.ec CNAME .
@@ -9256,8 +9242,6 @@ filmpertutti.fan CNAME .
 *.filmpertutti.fan CNAME .
 guardaserie.fan CNAME .
 *.guardaserie.fan CNAME .
-hdmovie2.fan CNAME .
-*.hdmovie2.fan CNAME .
 kinokrad.fan CNAME .
 *.kinokrad.fan CNAME .
 watchmovies.fan CNAME .
@@ -10070,6 +10054,8 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
+tracker-zhuqiy.dgj055.icu CNAME .
+*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
@@ -10996,6 +10982,8 @@ hdmovie2.irish CNAME .
 *.1337x.is CNAME .
 1377x.is CNAME .
 *.1377x.is CNAME .
+tracker.1h.is CNAME .
+*.tracker.1h.is CNAME .
 1movies.is CNAME .
 *.1movies.is CNAME .
 open.8a.is CNAME .
@@ -11500,8 +11488,6 @@ altadefinizione.limo CNAME .
 *.altadefinizione.limo CNAME .
 liber3.eth.limo CNAME .
 *.liber3.eth.limo CNAME .
-hdmovie2.limo CNAME .
-*.hdmovie2.limo CNAME .
 vegamovies.limo CNAME .
 *.vegamovies.limo CNAME .
 123movies.link CNAME .
@@ -11520,8 +11506,6 @@ filesearch.link CNAME .
 *.filesearch.link CNAME .
 gomovies-online.link CNAME .
 *.gomovies-online.link CNAME .
-hdmatch.link CNAME .
-*.hdmatch.link CNAME .
 hdmovie2.link CNAME .
 *.hdmovie2.link CNAME .
 ilcorsaronero.link CNAME .
@@ -13594,8 +13578,6 @@ haxnode.net CNAME .
 *.haxnode.net CNAME .
 haxoff.net CNAME .
 *.haxoff.net CNAME .
-haxpc.net CNAME .
-*.haxpc.net CNAME .
 haxxx.net CNAME .
 *.haxxx.net CNAME .
 hdaudiobooks.net CNAME .
@@ -16840,6 +16822,8 @@ swetracker.org CNAME .
 *.swetracker.org CNAME .
 swetv.org CNAME .
 *.swetv.org CNAME .
+tracker.t-1.org CNAME .
+*.tracker.t-1.org CNAME .
 t-pb.org CNAME .
 *.t-pb.org CNAME .
 t-rb.org CNAME .
@@ -19454,8 +19438,6 @@ vegamovies.sl CNAME .
 *.vegamovies.sl CNAME .
 vegamovies.sm CNAME .
 *.vegamovies.sm CNAME .
-hdmovie2.sn CNAME .
-*.hdmovie2.sn CNAME .
 amedia.so CNAME .
 *.amedia.so CNAME .
 animeworld.so CNAME .
@@ -19986,8 +19968,6 @@ eurostreaming.tel CNAME .
 *.eurostreaming.tel CNAME .
 fansubcar.tel CNAME .
 *.fansubcar.tel CNAME .
-hdmovie2.tel CNAME .
-*.hdmovie2.tel CNAME .
 kinox.tel CNAME .
 *.kinox.tel CNAME .
 streamingcommunity.tel CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763246160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763260560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 22:36 UTC
-; Version: 2025.1115.2236.49
+; Last modified: 16 Nov 2025 02:36 UTC
+; Version: 2025.1116.0236.06
 ; Syntax: RPZ
-; Number of entries: 6768
+; Number of entries: 6760
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2129,8 +2129,6 @@ cloud2.holzmannclouddns.de CNAME .
 *.cloud2.holzmannclouddns.de CNAME .
 adguard01.homepeter.de CNAME .
 *.adguard01.homepeter.de CNAME .
-doh.hottis.de CNAME .
-*.doh.hottis.de CNAME .
 dns.imchristian.de CNAME .
 *.dns.imchristian.de CNAME .
 dns.immanuelschaffer.de CNAME .
@@ -3489,8 +3487,6 @@ dns.griffioen.me CNAME .
 *.dns.griffioen.me CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
-dns.haoxuan.me CNAME .
-*.dns.haoxuan.me CNAME .
 happy365.me CNAME .
 *.happy365.me CNAME .
 hdnsadguardhome.me CNAME .
@@ -4601,8 +4597,6 @@ vm.delfini.online CNAME .
 *.vm.delfini.online CNAME .
 dns4eu.online CNAME .
 *.dns4eu.online CNAME .
-hayadns.online CNAME .
-*.hayadns.online CNAME .
 herkes.online CNAME .
 *.herkes.online CNAME .
 ingenmannsland.online CNAME .
@@ -5879,8 +5873,6 @@ fptdns.site CNAME .
 *.fptdns.site CNAME .
 ms.gswsfh2021.site CNAME .
 *.ms.gswsfh2021.site CNAME .
-hayadns.site CNAME .
-*.hayadns.site CNAME .
 dns.sgp.hicn.site CNAME .
 *.dns.sgp.hicn.site CNAME .
 dns.indraarsana.site CNAME .

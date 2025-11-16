@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763246220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763260560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Nov 2025 22:37 UTC
-; Version: 2025.1115.2237.21
+; Last modified: 16 Nov 2025 02:36 UTC
+; Version: 2025.1116.0236.40
 ; Syntax: RPZ
-; Number of entries: 13842
+; Number of entries: 13828
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -737,8 +737,6 @@ farewellkou.click CNAME .
 *.farewellkou.click CNAME .
 agh.feblab.click CNAME .
 *.agh.feblab.click CNAME .
-homeworkhelp.click CNAME .
-*.homeworkhelp.click CNAME .
 purchase-some.hotglue.click CNAME .
 *.purchase-some.hotglue.click CNAME .
 dns.listo.click CNAME .
@@ -6373,8 +6371,6 @@ cloud2.holzmannclouddns.de CNAME .
 *.cloud2.holzmannclouddns.de CNAME .
 adguard01.homepeter.de CNAME .
 *.adguard01.homepeter.de CNAME .
-doh.hottis.de CNAME .
-*.doh.hottis.de CNAME .
 i2p-projekt.de CNAME .
 *.i2p-projekt.de CNAME .
 webproxy.ich-war-hier.de CNAME .
@@ -8509,8 +8505,6 @@ dns.griffioen.me CNAME .
 *.dns.griffioen.me CNAME .
 gztech.me CNAME .
 *.gztech.me CNAME .
-dns.haoxuan.me CNAME .
-*.dns.haoxuan.me CNAME .
 happy365.me CNAME .
 *.happy365.me CNAME .
 hdnsadguardhome.me CNAME .
@@ -9487,8 +9481,6 @@ potatojuice.h0stname.net CNAME .
 *.potatojuice.h0stname.net CNAME .
 artiom.made.this.h0stname.net CNAME .
 *.artiom.made.this.h0stname.net CNAME .
-dylanigotchu.hbmc.net CNAME .
-*.dylanigotchu.hbmc.net CNAME .
 ordns.he.net CNAME .
 *.ordns.he.net CNAME .
 carolinareaper.heeremans.net CNAME .
@@ -10439,8 +10431,6 @@ unicast.censurfridns.nu CNAME .
 *.unicast.censurfridns.nu CNAME .
 exns1.exalto.nu CNAME .
 *.exns1.exalto.nu CNAME .
-monkeydoo.hardsoft.nu CNAME .
-*.monkeydoo.hardsoft.nu CNAME .
 dns.huth.nu CNAME .
 *.dns.huth.nu CNAME .
 onion.nu CNAME .
@@ -10553,8 +10543,6 @@ shameless-plug-for.geometry-games.online CNAME .
 *.shameless-plug-for.geometry-games.online CNAME .
 unblocked-games-at.geometry-games.online CNAME .
 *.unblocked-games-at.geometry-games.online CNAME .
-hayadns.online CNAME .
-*.hayadns.online CNAME .
 herkes.online CNAME .
 *.herkes.online CNAME .
 ingenmannsland.online CNAME .
@@ -12445,8 +12433,6 @@ www-croxy.ghgi.site CNAME .
 *.www-croxy.ghgi.site CNAME .
 ms.gswsfh2021.site CNAME .
 *.ms.gswsfh2021.site CNAME .
-hayadns.site CNAME .
-*.hayadns.site CNAME .
 dns.sgp.hicn.site CNAME .
 *.dns.sgp.hicn.site CNAME .
 hiddendragon.site CNAME .

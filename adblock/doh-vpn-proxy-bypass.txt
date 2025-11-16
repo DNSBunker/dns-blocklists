@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Nov 2025 22:37 UTC
-! Version: 2025.1115.2237.21
+! Last modified: 16 Nov 2025 02:36 UTC
+! Version: 2025.1116.0236.40
 ! Syntax: AdBlock
-! Number of entries: 6921
+! Number of entries: 6914
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -2492,7 +2492,6 @@
 ||dns.hannielzhang.com^
 ||d.hansj.cc^
 ||classroom.haoqiw.com^
-||dns.haoxuan.me^
 ||happy-vpn.com^
 ||happy365.me^
 ||happydata.info^
@@ -2501,16 +2500,12 @@
 ||turtle.happyforever.com^
 ||yessir.happyforever.com^
 ||harbaletsstudy.com^
-||monkeydoo.hardsoft.nu^
 ||resolver.haringstad.com^
 ||resolver-eu.haringstad.com^
 ||adguard.hartley.cloud^
 ||cn-dns.hashtable.io^
 ||hauxcore.de^
-||hayadns.online^
-||hayadns.site^
 ||gw1.dns.haynetwork.id^
-||dylanigotchu.hbmc.net^
 ||mq.hd440.de^
 ||s.hd440.de^
 ||query.hdns.io^
@@ -2639,7 +2634,6 @@
 ||homevpn.eu^
 ||homevpn.info^
 ||homevpn.org^
-||homeworkhelp.click^
 ||honeygain.me^
 ||dns.hoody.com^
 ||schoolmath.hop.sh^
@@ -2669,7 +2663,6 @@
 ||hotspotshield.com^
 ||hotspotvpn.com^
 ||dns.hotta.page^
-||doh.hottis.de^
 ||hotvpn.info^
 ||dns.housedenolf.be^
 ||howdy.id^

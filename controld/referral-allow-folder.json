@@ -5734,6 +5734,20 @@
       }
     },
     {
+      "PK": "track.sendlane.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "track.sendlanedelivery.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "track.*.sendlayer.net",
       "action": {
         "do": 1,

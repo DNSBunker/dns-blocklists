@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Nov 2025 17:37 UTC
-! Version: 2025.1114.1737.31
+! Last modified: 16 Nov 2025 02:37 UTC
+! Version: 2025.1116.0237.23
 ! Syntax: uBlock
 ! Number of latin TLDs: 282 - non-latin TLDs: 151
 !
@@ -241,7 +241,7 @@
 ||shop^$doc,domain=~11ts.shop|~30grad.shop|~4id.shop|~chessvibes.shop|~domainname.shop|~domene.shop|~durst.shop|~epicdesk.shop|~eventix.shop|~freshtorge.shop|~frontiers.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~kalypso.shop|~majblomman.shop|~munu.shop|~music-merchant.shop|~myshopline.shop|~nocut.shop|~nordland.shop|~owl-dampfer.shop|~prohibited.shop|~schweden.shop|~scorpions.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop|~xn--dnemark-5wa.shop
 ||shopping^$doc
 ||show^$doc,domain=~camz.show|~j.show
-||site^$doc,domain=~7mb.site|~additive-apps.site|~aftermath.site|~anonimayzer.site|~bio.site|~canva.site|~claude.site|~edgeone.site|~fbsmarthome.site|~gov-img.site|~heyflow.site|~i5i.site|~kaylees.site|~miteru.site|~notion.site|~onrocket.site|~platformsh.site|~privacy-test-pages.site|~reddit-doesnt-like-this.site|~shopapps.site|~srht.site|~toast.site|~tst.site|~wishonly.site|~wolow.site|~wpdns.site
+||site^$doc,domain=~7mb.site|~additive-apps.site|~aftermath.site|~anonimayzer.site|~bio.site|~canva.site|~claude.site|~edgeone.site|~fbsmarthome.site|~gov-img.site|~heyflow.site|~i5i.site|~kaylees.site|~miteru.site|~notion.site|~onrocket.site|~platformsh.site|~privacy-test-pages.site|~reddit-doesnt-like-this.site|~shopapps.site|~srht.site|~toast.site|~tst.site|~turkvetka.site|~wishonly.site|~wolow.site|~wpdns.site
 ||skin^$doc
 ||solar^$doc,domain=~forecast.solar|~optimizer.solar
 ||soy^$doc
