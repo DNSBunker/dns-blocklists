@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763371620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763386020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 09:27 UTC
-; Version: 2025.1117.0927.17
+; Last modified: 17 Nov 2025 13:27 UTC
+; Version: 2025.1117.1327.54
 ; Syntax: RPZ
-; Number of entries: 28378
+; Number of entries: 28336
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -16866,8 +16866,6 @@ vrraifkredit-de.com CNAME .
 *.vrraifkredit-de.com CNAME .
 vrtil.com CNAME .
 *.vrtil.com CNAME .
-vsmeestore.com CNAME .
-*.vsmeestore.com CNAME .
 trk.vta-gmz.com CNAME .
 *.trk.vta-gmz.com CNAME .
 eu.vtmarkets.com CNAME .
@@ -17144,8 +17142,6 @@ wilkobigsale.com CNAME .
 *.wilkobigsale.com CNAME .
 wilsonsquare.com CNAME .
 *.wilsonsquare.com CNAME .
-wiltecc.com CNAME .
-*.wiltecc.com CNAME .
 wiltonsale.com CNAME .
 *.wiltonsale.com CNAME .
 winandwine.com CNAME .
@@ -17178,8 +17174,6 @@ wisecapitalx.com CNAME .
 *.wisecapitalx.com CNAME .
 wisevests.com CNAME .
 *.wisevests.com CNAME .
-witeanerly.com CNAME .
-*.witeanerly.com CNAME .
 withstndridg.com CNAME .
 *.withstndridg.com CNAME .
 wittelsheimholz.com CNAME .
@@ -17196,8 +17190,6 @@ wneedshop.com CNAME .
 *.wneedshop.com CNAME .
 wobeg.com CNAME .
 *.wobeg.com CNAME .
-quantumai2-fr.wocomii.com CNAME .
-*.quantumai2-fr.wocomii.com CNAME .
 wohndekode.com CNAME .
 *.wohndekode.com CNAME .
 wohnkuchede.com CNAME .
@@ -17214,8 +17206,6 @@ wolant.com CNAME .
 *.wolant.com CNAME .
 wolffashiondeutschland.com CNAME .
 *.wolffashiondeutschland.com CNAME .
-wolfgardenshop.com CNAME .
-*.wolfgardenshop.com CNAME .
 wolverinebootsde.com CNAME .
 *.wolverinebootsde.com CNAME .
 womenfarmsale.com CNAME .
@@ -23836,8 +23826,6 @@ vonauto.de CNAME .
 *.vonauto.de CNAME .
 vondaro.de CNAME .
 *.vondaro.de CNAME .
-vontompower.de CNAME .
-*.vontompower.de CNAME .
 vorano.de CNAME .
 *.vorano.de CNAME .
 vorase.de CNAME .
@@ -23852,8 +23840,6 @@ voroda.de CNAME .
 *.voroda.de CNAME .
 vorodaa.de CNAME .
 *.vorodaa.de CNAME .
-voroly.de CNAME .
-*.voroly.de CNAME .
 vortehair.de CNAME .
 *.vortehair.de CNAME .
 vorwerk-com.de CNAME .
@@ -23882,8 +23868,6 @@ waldfeuerholz.de CNAME .
 *.waldfeuerholz.de CNAME .
 waldgewandt.de CNAME .
 *.waldgewandt.de CNAME .
-walk-23.de CNAME .
-*.walk-23.de CNAME .
 wanduhru.de CNAME .
 *.wanduhru.de CNAME .
 wapo-shop.de CNAME .
@@ -23970,8 +23954,6 @@ werkzeugegartenarbeit.de CNAME .
 *.werkzeugegartenarbeit.de CNAME .
 werkzeugheld24.de CNAME .
 *.werkzeugheld24.de CNAME .
-werkzeugmesser.de CNAME .
-*.werkzeugmesser.de CNAME .
 werkzeugtrailer.de CNAME .
 *.werkzeugtrailer.de CNAME .
 werner-lederer.de CNAME .
@@ -23998,8 +23980,6 @@ wiesmann-mode.de CNAME .
 *.wiesmann-mode.de CNAME .
 wievano.de CNAME .
 *.wievano.de CNAME .
-wika-shop.de CNAME .
-*.wika-shop.de CNAME .
 wilax.de CNAME .
 *.wilax.de CNAME .
 windelnschritte.de CNAME .
@@ -24118,8 +24098,6 @@ yahalom.de CNAME .
 *.yahalom.de CNAME .
 yali24.de CNAME .
 *.yali24.de CNAME .
-yangzhi.de CNAME .
-*.yangzhi.de CNAME .
 yeezyadidas.de CNAME .
 *.yeezyadidas.de CNAME .
 yinga-vital.de CNAME .
@@ -25566,14 +25544,10 @@ waldholz.net CNAME .
 *.waldholz.net CNAME .
 webhubtest.net CNAME .
 *.webhubtest.net CNAME .
-wefashion.net CNAME .
-*.wefashion.net CNAME .
 wheelix.net CNAME .
 *.wheelix.net CNAME .
 wmshoe.net CNAME .
 *.wmshoe.net CNAME .
-xeviet.net CNAME .
-*.xeviet.net CNAME .
 yannelli.net CNAME .
 *.yannelli.net CNAME .
 zardos.net CNAME .
@@ -27436,14 +27410,8 @@ vlizo-modehaus.shop CNAME .
 *.vlizo-modehaus.shop CNAME .
 vollytools.shop CNAME .
 *.vollytools.shop CNAME .
-vonkoeck.shop CNAME .
-*.vonkoeck.shop CNAME .
 vzbuch.shop CNAME .
 *.vzbuch.shop CNAME .
-wachsmannbilder.shop CNAME .
-*.wachsmannbilder.shop CNAME .
-wachstuchshop24.shop CNAME .
-*.wachstuchshop24.shop CNAME .
 waffenteile.shop CNAME .
 *.waffenteile.shop CNAME .
 walm.shop CNAME .
@@ -27458,14 +27426,10 @@ wasserhaus.shop CNAME .
 *.wasserhaus.shop CNAME .
 waterkant.shop CNAME .
 *.waterkant.shop CNAME .
-wein-musketieroutlet.shop CNAME .
-*.wein-musketieroutlet.shop CNAME .
 wein-svip.shop CNAME .
 *.wein-svip.shop CNAME .
 weingut-erbeldinger.shop CNAME .
 *.weingut-erbeldinger.shop CNAME .
-weinnatursale.shop CNAME .
-*.weinnatursale.shop CNAME .
 weinskandal.shop CNAME .
 *.weinskandal.shop CNAME .
 wellsana.shop CNAME .
@@ -27482,12 +27446,8 @@ wildanimal.shop CNAME .
 *.wildanimal.shop CNAME .
 wilteck.shop CNAME .
 *.wilteck.shop CNAME .
-wimpanistaeu.shop CNAME .
-*.wimpanistaeu.shop CNAME .
 windelwissendeava.shop CNAME .
 *.windelwissendeava.shop CNAME .
-windelwissendepop.shop CNAME .
-*.windelwissendepop.shop CNAME .
 wizzers.shop CNAME .
 *.wizzers.shop CNAME .
 wodnationgearava.shop CNAME .
@@ -27500,8 +27460,6 @@ workstatt.shop CNAME .
 *.workstatt.shop CNAME .
 adllwyj67.wuhlzk.shop CNAME .
 *.adllwyj67.wuhlzk.shop CNAME .
-xaviercabrita.shop CNAME .
-*.xaviercabrita.shop CNAME .
 xenstream.shop CNAME .
 *.xenstream.shop CNAME .
 xqojgt.shop CNAME .

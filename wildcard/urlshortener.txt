@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 09:28 UTC
-# Version: 2025.1117.0928.57
+# Last modified: 17 Nov 2025 13:29 UTC
+# Version: 2025.1117.1329.37
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9508
+# Number of entries: 9507
 #
 *.0.gp
 *.00m.in
@@ -9170,7 +9170,6 @@
 *.xfin.tv
 *.xfl.ag
 *.xfru.it
-*.xfwht.lol
 *.xgam.es
 *.xgd.in
 *.xi.ht

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 10:32 UTC
-# Version: 2025.1117.1032.52
+# Last modified: 17 Nov 2025 14:36 UTC
+# Version: 2025.1117.1436.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6182
+# Number of entries: 6193
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -517,6 +517,7 @@ local=/awebproxy.com/
 local=/awhoer.net/
 local=/axaxa.fun/
 local=/dnstx.axhy.cc/
+local=/chris-liu-lovesgooning.axiomait.pro/
 local=/axistechsupport.com/
 local=/dns.axto.me/
 local=/dns.aykanbacaksoy.de/
@@ -2267,6 +2268,7 @@ local=/gabstorm.com/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/sd.galaxysoft.ro/
+local=/myapps.instructure.com.galitec.es/
 local=/dns.gamban.com/
 local=/adguard.gambini.org/
 local=/proxy.gamecove.net/
@@ -2989,6 +2991,7 @@ local=/everyonewantstocrackshawnp.jumpingcrab.com/
 local=/skoolisawsom76.nien.jumpingcrab.com/
 local=/qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com/
 local=/dns.jundev.org/
+local=/ashleykipo.jundy.org/
 local=/dns.jungle-im.ir/
 local=/brighthistory.juniorjobs.ro/
 local=/jupitervpn.ninja/
@@ -3090,6 +3093,7 @@ local=/kocapb.ru/
 local=/doh.koduarve.ee/
 local=/www-proxy.kokecoco.me/
 local=/kokesh.se/
+local=/idk.komanda.cl/
 local=/lorc17-dns.komeho.info/
 local=/komo4ek.ru/
 local=/kondrcloud.ru/
@@ -3263,6 +3267,7 @@ local=/lslnyjq.uk/
 local=/ltlxvxjjmvhn.me/
 local=/dns1.luan.contact/
 local=/btg.ludopop.cl/
+local=/e.luismedeiros.pt/
 local=/dns.luismm2311.com/
 local=/doh.lujiacai.top/
 local=/lukscasino-479-tr.xyz/
@@ -3690,6 +3695,8 @@ local=/scienceisfun11.networkguru.com/
 local=/cube.neubsi.at/
 local=/dns.neubsi.at/
 local=/dns.neutopia.org/
+local=/itrsa.nevuer.com/
+local=/study-math.nevuer.com/
 local=/katherine-dns.newcore.cl/
 local=/newipnow.com/
 local=/newproxylist.net/
@@ -4136,6 +4143,7 @@ local=/portssh.com/
 local=/adguard.poster.place/
 local=/media.logic.postie.org/
 local=/potatovpn.io/
+local=/itrsa.poteica.com/
 local=/dns.powerbs.net/
 local=/doh.powerdns.org/
 local=/poxy.pl/
@@ -4700,6 +4708,7 @@ local=/se3v5tjfff3aet.me/
 local=/adguard.sealyserver.com/
 local=/dns.seaotter.cc/
 local=/proxy.searchfiles.de/
+local=/geo.searchgpy.com/
 local=/searchproxy.info/
 local=/adguard.searom.ovh/
 local=/dns.searom.ovh/
@@ -5075,6 +5084,7 @@ local=/surfcovertly.com/
 local=/surfdoge.pro/
 local=/surfeasy.com/
 local=/surfeasy.mobi/
+local=/thisisagreat.surfiesta.cl/
 local=/surfly.com/
 local=/surfmenow.com/
 local=/surfmo.com/
@@ -5319,6 +5329,8 @@ local=/dot.tooli.ca/
 local=/proxy.toolur.com/
 local=/top-proxy.site/
 local=/top10vpn.com/
+local=/kailovegooning.topazgrid.xyz/
+local=/trentonlovesmen.topazgrid.xyz/
 local=/owens-chemistry-tutor-info.topcargoteam.cl/
 local=/toppal.tech/
 local=/topsecure.info/
@@ -5864,6 +5876,7 @@ local=/darkness.is.my.waifu.cz/
 local=/megumin.is.my.waifu.cz/
 local=/yunyun.is.my.waifu.cz/
 local=/waitfree.us/
+local=/kailovefurries.wakemeup.ru/
 local=/walln.com/
 local=/wallpap.eu/
 local=/adguard.wallura.eu/
@@ -5878,7 +5891,6 @@ local=/dns.warpnine.de/
 local=/warpproxy.com/
 local=/dns.warrior.fr/
 local=/waselpro.com/
-local=/waters888.com/
 local=/domeq.waw.pl/
 local=/waydnes.ru/
 local=/dns.wdnts.eu/
@@ -5891,7 +5903,6 @@ local=/s.rafiadinata.web.id/
 local=/doh.this.web.id/
 local=/1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com/
 local=/web-rated.ie/
-local=/webbrowser.live/
 local=/quadrogramma.vps.webdock.cloud/
 local=/webevade.com/
 local=/dns.webfork.in/

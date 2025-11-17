@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763375160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763389800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 10:26 UTC
-; Version: 2025.1117.1026.23
+; Last modified: 17 Nov 2025 14:30 UTC
+; Version: 2025.1117.1430.15
 ; Syntax: RPZ
-; Number of entries: 23066
+; Number of entries: 23062
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -18198,8 +18198,6 @@ yts.rs CNAME .
 *.yts.rs CNAME .
 unblockit.rsvp CNAME .
 *.unblockit.rsvp CNAME .
-wawacity.rsvp CNAME .
-*.wawacity.rsvp CNAME .
 10-windows.ru CNAME .
 *.10-windows.ru CNAME .
 101enfj.ru CNAME .
@@ -20848,8 +20846,6 @@ veranime.top CNAME .
 *.veranime.top CNAME .
 vidify.top CNAME .
 *.vidify.top CNAME .
-we-lib.top CNAME .
-*.we-lib.top CNAME .
 wideiptv.top CNAME .
 *.wideiptv.top CNAME .
 share.xfapi.top CNAME .
@@ -20858,8 +20854,6 @@ tracker.xfapi.top CNAME .
 *.tracker.xfapi.top CNAME .
 xx-xsx.top CNAME .
 *.xx-xsx.top CNAME .
-yashuo.top CNAME .
-*.yashuo.top CNAME .
 tr3.ysagin.top CNAME .
 *.tr3.ysagin.top CNAME .
 ytmp3.top CNAME .
@@ -21592,6 +21586,8 @@ flixflux.co.uk CNAME .
 *.flixflux.co.uk CNAME .
 karaoke-world.co.uk CNAME .
 *.karaoke-world.co.uk CNAME .
+bittracker.nekosunevr.co.uk CNAME .
+*.bittracker.nekosunevr.co.uk CNAME .
 nhltorrents.co.uk CNAME .
 *.nhltorrents.co.uk CNAME .
 nibl.co.uk CNAME .

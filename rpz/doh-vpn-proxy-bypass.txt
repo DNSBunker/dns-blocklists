@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763375520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763390160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 10:32 UTC
-; Version: 2025.1117.1032.52
+; Last modified: 17 Nov 2025 14:36 UTC
+; Version: 2025.1117.1436.27
 ; Syntax: RPZ
-; Number of entries: 12364
+; Number of entries: 12386
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -693,6 +693,8 @@ deepcs.estiloescencial.cl CNAME .
 *.deepcs.estiloescencial.cl CNAME .
 us-east-production-36887.jpleventos.cl CNAME .
 *.us-east-production-36887.jpleventos.cl CNAME .
+idk.komanda.cl CNAME .
+*.idk.komanda.cl CNAME .
 orxwaicjss.laboratoriosdavis.cl CNAME .
 *.orxwaicjss.laboratoriosdavis.cl CNAME .
 btg.ludopop.cl CNAME .
@@ -717,6 +719,8 @@ pteryla.solicituddemateriales.cl CNAME .
 *.pteryla.solicituddemateriales.cl CNAME .
 start.succeed.cl CNAME .
 *.start.succeed.cl CNAME .
+thisisagreat.surfiesta.cl CNAME .
+*.thisisagreat.surfiesta.cl CNAME .
 math.swift.cl CNAME .
 *.math.swift.cl CNAME .
 owens-chemistry-tutor-info.topcargoteam.cl CNAME .
@@ -3069,6 +3073,10 @@ netsneak.com CNAME .
 *.netsneak.com CNAME .
 scienceisfun11.networkguru.com CNAME .
 *.scienceisfun11.networkguru.com CNAME .
+itrsa.nevuer.com CNAME .
+*.itrsa.nevuer.com CNAME .
+study-math.nevuer.com CNAME .
+*.study-math.nevuer.com CNAME .
 newipnow.com CNAME .
 *.newipnow.com CNAME .
 ngrok.com CNAME .
@@ -3371,6 +3379,8 @@ dns2.porteii.com CNAME .
 *.dns2.porteii.com CNAME .
 portssh.com CNAME .
 *.portssh.com CNAME .
+itrsa.poteica.com CNAME .
+*.itrsa.poteica.com CNAME .
 ppira.com CNAME .
 *.ppira.com CNAME .
 pq7hdf.com CNAME .
@@ -3711,6 +3721,8 @@ scottdylewski.com CNAME .
 *.scottdylewski.com CNAME .
 adguard.sealyserver.com CNAME .
 *.adguard.sealyserver.com CNAME .
+geo.searchgpy.com CNAME .
+*.geo.searchgpy.com CNAME .
 sec-tunnel.com CNAME .
 *.sec-tunnel.com CNAME .
 dns.sec511.com CNAME .
@@ -4501,8 +4513,6 @@ warpproxy.com CNAME .
 *.warpproxy.com CNAME .
 waselpro.com CNAME .
 *.waselpro.com CNAME .
-waters888.com CNAME .
-*.waters888.com CNAME .
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
 *.1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com CNAME .
 webevade.com CNAME .
@@ -5339,6 +5349,8 @@ proxyweb.com.es CNAME .
 *.proxyweb.com.es CNAME .
 dns.esnube.es CNAME .
 *.dns.esnube.es CNAME .
+myapps.instructure.com.galitec.es CNAME .
+*.myapps.instructure.com.galitec.es CNAME .
 genscorp.es CNAME .
 *.genscorp.es CNAME .
 getproxi.es CNAME .
@@ -6859,8 +6871,6 @@ lifeisa.live CNAME .
 *.lifeisa.live CNAME .
 solaxy.live CNAME .
 *.solaxy.live CNAME .
-webbrowser.live CNAME .
-*.webbrowser.live CNAME .
 xins.live CNAME .
 *.xins.live CNAME .
 v2.xx3210766.live CNAME .
@@ -9591,6 +9601,8 @@ joshberg.org CNAME .
 *.joshberg.org CNAME .
 dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
+ashleykipo.jundy.org CNAME .
+*.ashleykipo.jundy.org CNAME .
 dns.kempkens.org CNAME .
 *.dns.kempkens.org CNAME .
 kevinai.org CNAME .
@@ -10097,6 +10109,8 @@ anura.pro CNAME .
 *.anura.pro CNAME .
 doh.apad.pro CNAME .
 *.doh.apad.pro CNAME .
+chris-liu-lovesgooning.axiomait.pro CNAME .
+*.chris-liu-lovesgooning.axiomait.pro CNAME .
 bdns.pro CNAME .
 *.bdns.pro CNAME .
 dns.burgas.pro CNAME .
@@ -10449,6 +10463,8 @@ yyz01.dnscry.pt CNAME .
 *.yyz01.dnscry.pt CNAME .
 zal01.dnscry.pt CNAME .
 *.zal01.dnscry.pt CNAME .
+e.luismedeiros.pt CNAME .
+*.e.luismedeiros.pt CNAME .
 bore.pub CNAME .
 *.bore.pub CNAME .
 dns.pub CNAME .
@@ -10865,6 +10881,8 @@ vpnmonster.ru CNAME .
 *.vpnmonster.ru CNAME .
 vpnonelove.ru CNAME .
 *.vpnonelove.ru CNAME .
+kailovefurries.wakemeup.ru CNAME .
+*.kailovefurries.wakemeup.ru CNAME .
 waydnes.ru CNAME .
 *.waydnes.ru CNAME .
 dns.xcapenet.ru CNAME .
@@ -12301,6 +12319,10 @@ dns.thezudrive.xyz CNAME .
 *.dns.thezudrive.xyz CNAME .
 tinfoil-is-ass.xyz CNAME .
 *.tinfoil-is-ass.xyz CNAME .
+kailovegooning.topazgrid.xyz CNAME .
+*.kailovegooning.topazgrid.xyz CNAME .
+trentonlovesmen.topazgrid.xyz CNAME .
+*.trentonlovesmen.topazgrid.xyz CNAME .
 trafflink.xyz CNAME .
 *.trafflink.xyz CNAME .
 adguard.twotigers.xyz CNAME .

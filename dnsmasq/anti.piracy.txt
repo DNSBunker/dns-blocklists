@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 10:26 UTC
-# Version: 2025.1117.1026.23
+# Last modified: 17 Nov 2025 14:30 UTC
+# Version: 2025.1117.1430.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11533
+# Number of entries: 11531
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2060,6 +2060,7 @@ local=/master-torrents-tracker.co.cc/
 local=/mega.co.nz/
 local=/tracker1.bt.moack.co.kr/
 local=/multimovies.co.in/
+local=/bittracker.nekosunevr.co.uk/
 local=/nhltorrents.co.uk/
 local=/nibl.co.uk/
 local=/piratebae.co.uk/
@@ -10971,7 +10972,6 @@ local=/wawacity.blue/
 local=/wawacity.ninja/
 local=/wawacity.one/
 local=/wawacity.red/
-local=/wawacity.rsvp/
 local=/wawacity.su/
 local=/wawacity.tech/
 local=/wawacity.tv/
@@ -10988,7 +10988,6 @@ local=/wcostream.com/
 local=/wcostream.net/
 local=/wcostream.tv/
 local=/wdupload.com/
-local=/we-lib.top/
 local=/weakstreams.com/
 local=/wearechecking.live/
 local=/wearethereal.ninja/
@@ -11235,7 +11234,6 @@ local=/yams.tf/
 local=/yaplukon.org/
 local=/yaps.cc/
 local=/yasdl.com/
-local=/yashuo.top/
 local=/yasir252.com/
 local=/yassflix.live/
 local=/yassflix.net/
