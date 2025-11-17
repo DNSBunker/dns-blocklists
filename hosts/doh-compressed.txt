@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 02:34 UTC
-# Version: 2025.1117.0234.01
+# Last modified: 17 Nov 2025 10:32 UTC
+# Version: 2025.1117.1032.18
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 427
 #
@@ -394,47 +394,47 @@
 0.0.0.0 sg.teradns.org apne1.dns.terumi.club dns.soldier.terumi.club dns.tesem.dog adguard.tetnet.net cloud.tezoi.com dns.thebuckners.org thefamilypuls.com guard.thefather.cloud
 0.0.0.0 beta.thegodfatheriam.shop dns.thegoodsource.net adguard.theil.dev yh.themcgoughs.org thenotionplus.top www.thenotionplus.top dns.therifleman.name ads.therman.eu blocker.thethorsens.org
 0.0.0.0 dns.thezudrive.xyz doh.thio.me dns.thiz.top dns.thore.cloud thxvv.ru doh.tiar.app dot.tiar.app jp.tiar.app doh.tiarap.org
-0.0.0.0 jp.tiarap.org adguard.tigrex.net tigrons.ru dns.timboeh.me timedns.net ad.timefine.org dns.timkevin.us timmes.nl adb.timnichollsphotography.com
-0.0.0.0 dns1.timothy-dev.com dns.tipsy.coffee adguard.titov.es dns.titov.cz tk31z.com dns.tkhome.nl sdkconfig.tlivedns.com dns.tls-data.de tlz.asia
-0.0.0.0 adguard.tmdproject.nl d.toairs.com toaster.lol agathe.tobkar.net edgar.tobkar.net kr.tomgirl.top dns.tomitomix.net dns.tooizi.eu dot.tooli.ca
-0.0.0.0 nsc.torgues.net doh.totoro.pub chronicle14.tplinkdns.com ebpmc.tplinkdns.com ngk81hc.tplinkdns.com dns.tracker.ink resolv1.trash.net resolv2.trash.net resolv3.trash.net
-0.0.0.0 ns.trcnet.fi adguard.treexhd.me adguard.trevorpease.me tri-dns.net asia.tri-dns.net eu.tri-dns.net tributh.net dns.trifanov-online.ru sq.trin.icu
-0.0.0.0 trovs.ru www.trovs.ru nebula.tru.io yuno.truckbel.com dns.truong.fi dns.trust404.win truta.org swe.try-dns.com dns.tryk.app
-0.0.0.0 adg.tshost.no net.tt6.net doh.ibr.cs.tu-bs.de dns.tuankhaiit.com tuantran.cloud tuskythehusky.tech nat64.tuxis.nl dns.twnic.tw adguard.twotigers.xyz
-0.0.0.0 dns.txq.life typaza.com ad.tzockt.beer v1.ufamax.eu vless-service.ufodns.com darkhole.uint64.dev blokuj.ujwie.co nitter.ujwie.co rb750gr3.ulfhednar.ru
-0.0.0.0 doh.ultradns.com dns.umbrella.com doh.umbrella.com unasw.eu www.unasw.eu uncensoreddns.org anycast.uncensoreddns.dk anycast.uncensoreddns.org deic-lgb.anycast.uncensoreddns.dk
-0.0.0.0 deic-lgb.anycast.uncensoreddns.org deic-ore.anycast.uncensoreddns.org kracon.anycast.uncensoreddns.dk kracon.anycast.uncensoreddns.org rgnet-iad.anycast.uncensoreddns.dk rgnet-iad.anycast.uncensoreddns.org unicast.uncensoreddns.dk unicast.uncensoreddns.org dns.unerror.network
-0.0.0.0 ines.zfn.uni-bremen.de galileo.math.unipd.it dns.unitech.company unp.im resolver.unstoppable.io dns.unx.io dns.uplenk.com urology.wiki www.urology.wiki
-0.0.0.0 dns.koala.us.to mcore.us.to us44nas.top adfree.usableprivacy.net usascoot.com www.usascoot.com dns.usualposts.xyz v.recipes cc2.v8er.net
-0.0.0.0 vadim.online dns.vaguthu.mv dns.vaioswolke.xyz doh.valscosmos.com dns.vancrafter.click adguard.vape.ong tor.vasi.li vasiliysoldatkin.ru www.vasiliysoldatkin.ru
-0.0.0.0 vasilykumaev.ru dns.vault81.de server01.vboekel.nl dns.vectorsigma.ru adguard.vegann.space dns.veikus.com dns.vemo.cc securedns.vendorvista.xyz venum.space
-0.0.0.0 dns.vietdns.vn kids.vietdns.vn tls.vietguards.cloud adsl.viettel.vn vik.ro adguard.vik.ro adi.adguard.vik.ro vik-ios.adguard.vik.ro mail.vik.ro
-0.0.0.0 ns.vik.ro www.vik.ro villalazza.stream dns2.vinc.me dns.vinnyp.xyz dns.vinokurov.tk dns.vip-kingstore.xyz z.vipit.one dns.virtual-qr.ir
-0.0.0.0 ad.visbran.fr dns.vk09.ru dns.vkhudyakov.ru vladpro.ru dns.vladpro.ru family.dns.vladpro.ru matvey.dns.vladpro.ru nastya.dns.vladpro.ru noads.dns.vladpro.ru
-0.0.0.0 vlad.dns.vladpro.ru dns.vlo.cc dns.vmisch.tech dns.vod11.xyz httpdns.volcengineapi.com dns.volsap.ovh vpn0109.voodonline.fr vorlif.org dns.voronin.uk
-0.0.0.0 vpn.vosjes.cloud dns.voyager2.space adguard.vozersky.com killads.vpms.xyz vpnhellings.nl www.vpnhellings.nl adguard.vpnkitakitsune.com dns.vps.pw vrehm.fr
-0.0.0.0 adguard.vrehm.fr vtcuong.site vuivn.site ns1.vuivn.site ns2.vuivn.site 45.32.17.58.vultrusercontent.com solution.w10.life dns.w3ctag.org bh.wael.name
-0.0.0.0 dns.wael.name aqua.is.my.waifu.cz darkness.is.my.waifu.cz megumin.is.my.waifu.cz yunyun.is.my.waifu.cz wallpap.eu adguard.wallura.eu lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr dns.wang.art
-0.0.0.0 dmit.wangjiaqi.store wantaquddin.com dns.wargan.io abel.waringer-atg.de dns.warma.me dns.warpnine.de dns.warrior.fr waters888.com domeq.waw.pl
-0.0.0.0 waydnes.ru dns.wdnts.eu dns.engineer.web.id h4g3z1-doh.web.app dns.jsd.web.id panser.web.id s.rafiadinata.web.id doh.this.web.id web-rated.ie
-0.0.0.0 pg.web-rated.ie quadrogramma.vps.webdock.cloud dns.webfork.in doh.webnmail.de zuhause.webteufel.net webteufel-it.solutions nyx.webteufel-it.solutions dns.wechat.com paydns.wechatpay.cn
-0.0.0.0 resov.wehao.net dns.weibo.cn home.weisbrod.me dns.wellstsai.com zhang.wenru.xyz doh.wewitro.net doh-rs.whalebone.io whatcaniplay.com bwh.why4free.top
-0.0.0.0 dns.wibenson.cloud dns1-secure.wifire.it adguard.wifri.space wikimedia-dns.org wikimediadns.org dns-1.wil.cloud dns-2.wil.cloud adguard.willhotard.com dns.wincservices.com
-0.0.0.0 tls.windyvale.net wiqi.app wiqi.top ad.wiqi.app www.wiqi.top adguard.wirimij.nl dns3.wistarip.com vserv.wkind.de dns.wns.watch
-0.0.0.0 dnsbk.wns.watch ag.wntrmute.net woodbridge.club dns.woodyli.dev dds.wpme.pl home.wriedts.de dns.wryhf.com ns2.wuyouss.com ns3.wuyouss.com
-0.0.0.0 usatwo.wuyouss.com adguard.rn.wwb1215.com dns1.wyss.network wyx.cloud ads.x88.in adguard.x88x.xyz adguard.xandersalarie.com adb-home.xaoimoon.fr adb-wan.xaoimoon.fr
-0.0.0.0 xbcpb668.com dns.xcapenet.ru dns2.xcapenet.ru doh.xcom.pro xenergy.cc vsrv15195.customer.xenway.de xfer.au doh.xfinity.com dot.xfinity.com
-0.0.0.0 doh2.gslb2.xfinity.com xiaoxinhui.cn dns.xiaoxinhui.cn mail.xiaoxinhui.cn xie.ke agh.xinfeng16m.top xins.live dns.xins.live dns.xinwujiang.cn
-0.0.0.0 dns.xivilay.dev dns.xlion.tw xmr.land xn--80aecoigf4aatn.xn--p1ai xn--durhre-yxa.de xomadns.com xorbiadns.com doh.xorlet.ru look.xshentx.org
-0.0.0.0 dns.xuming.studio dns.xusqui.com dns.xv.fi dns.xwdmw.xyz v2.xx3210766.live dns.xydustc.me v1.xylto.com dns.y2f.xyz dns.yameenassotally.com
-0.0.0.0 2.dnscrypt-cert.browser.yandex.net dns.yandex.ru common.dot.dns.yandex.net family.dot.dns.yandex.net safe.dot.dns.yandex.net family.dns.yandex.ru secondary.family.dns.yandex.ru safe.dns.yandex.ru secondary.safe.dns.yandex.ru
-0.0.0.0 secondary.dns.yandex.ru adguard.yare.hk agh-hetzner.yasirafique.com dns.yatima.tv adguardhome.yavuztutcu.net lion.yazilimatolye.com ychen.cf ychen.gq adsfysdfgiuy.ydns.eu
-0.0.0.0 vdska-pl.ydns.eu sg.yepdns.com yeralin.net dns.ygonline.de dns.yingroad.top appart.yoannchappaz.best hk.yoosoo.cc com.you-seen.fr net01.youcef.io
-0.0.0.0 adguard.youler.com dns.youni.win your-dns.run yovbak.com guard.yps.tw ys4.de dus.ysbs.uk dns2.ytpom.ru dns.yu.dev
-0.0.0.0 yujunwanwu.cn www.yujunwanwu.cn adguard.yuki2th.xyz httpdns.yunxindns.com dns.yuu-g.net yuvelirtut.website dns.yuyz.net dns.yuzia.cc httpdns.gslb.yy.com
-0.0.0.0 dns.yyaan.com dns.yyaan.top adg.yybyy.wiki dns.daemon.za.net zabolotskikh.dev dns.zachbosh.com adguard.zachitect.com zakaria.website sdns.zakaria.website
-0.0.0.0 akylah.zapto.org dns.zarchbox.fr zburger.top zdn.ro dns.zemows.industries adguard-kartoffel.zernico.de oraclejp01.zerotorez.com dns.zfsystem.tech d.zhanchuraevv.ru
-0.0.0.0 zhengkaiyun.top dns140.zhhz.cc dns168.zhhz.cc httpdns.zhihu.com doh.zhongbr.uk res.zijji.com adguard01.zitronen-server.de doh.zknt.org dns.zky666.fun
-0.0.0.0 xyz2.zmjflow.com xyz3.zmjflow.com dot-dns.zmy.cloud dns.zoogle.cn online.zotio.ru zougloub.eu d.zscale.gq ztv.su lookup.zucx.net
-0.0.0.0 dns.zui.lol zulkas.top httpdns.zybang.com ams.core.access.zznet.fun hkg.core.access.zznet.fun lax.core.access.zznet.fun nrt.core.access.zznet.fun sin.core.access.zznet.fun syd.core.access.zznet.fun
-0.0.0.0 hkg2.edge.access.zznet.fun sin2.edge.access.zznet.fun dns.zzuhacker.cn 
+0.0.0.0 jp.tiarap.org adguard.tigrex.net dns.timboeh.me timedns.net ad.timefine.org dns.timkevin.us timmes.nl adb.timnichollsphotography.com dns1.timothy-dev.com
+0.0.0.0 dns.tipsy.coffee adguard.titov.es dns.titov.cz tk31z.com dns.tkhome.nl sdkconfig.tlivedns.com dns.tls-data.de tlz.asia adguard.tmdproject.nl
+0.0.0.0 d.toairs.com toaster.lol agathe.tobkar.net edgar.tobkar.net kr.tomgirl.top dns.tomitomix.net dns.tooizi.eu dot.tooli.ca nsc.torgues.net
+0.0.0.0 doh.totoro.pub chronicle14.tplinkdns.com ebpmc.tplinkdns.com ngk81hc.tplinkdns.com dns.tracker.ink resolv1.trash.net resolv2.trash.net resolv3.trash.net ns.trcnet.fi
+0.0.0.0 adguard.treexhd.me adguard.trevorpease.me tri-dns.net asia.tri-dns.net eu.tri-dns.net tributh.net dns.trifanov-online.ru sq.trin.icu trovs.ru
+0.0.0.0 www.trovs.ru nebula.tru.io yuno.truckbel.com dns.truong.fi dns.trust404.win truta.org swe.try-dns.com dns.tryk.app adg.tshost.no
+0.0.0.0 net.tt6.net doh.ibr.cs.tu-bs.de dns.tuankhaiit.com tuantran.cloud tuskythehusky.tech nat64.tuxis.nl dns.twnic.tw adguard.twotigers.xyz dns.txq.life
+0.0.0.0 typaza.com ad.tzockt.beer v1.ufamax.eu vless-service.ufodns.com darkhole.uint64.dev blokuj.ujwie.co nitter.ujwie.co rb750gr3.ulfhednar.ru doh.ultradns.com
+0.0.0.0 dns.umbrella.com doh.umbrella.com unasw.eu www.unasw.eu uncensoreddns.org anycast.uncensoreddns.dk anycast.uncensoreddns.org deic-lgb.anycast.uncensoreddns.dk deic-lgb.anycast.uncensoreddns.org
+0.0.0.0 deic-ore.anycast.uncensoreddns.org kracon.anycast.uncensoreddns.dk kracon.anycast.uncensoreddns.org rgnet-iad.anycast.uncensoreddns.dk rgnet-iad.anycast.uncensoreddns.org unicast.uncensoreddns.dk unicast.uncensoreddns.org dns.unerror.network ines.zfn.uni-bremen.de
+0.0.0.0 galileo.math.unipd.it dns.unitech.company unp.im resolver.unstoppable.io dns.unx.io dns.uplenk.com urology.wiki www.urology.wiki dns.koala.us.to
+0.0.0.0 mcore.us.to us44nas.top adfree.usableprivacy.net usascoot.com www.usascoot.com dns.usualposts.xyz v.recipes cc2.v8er.net vadim.online
+0.0.0.0 dns.vaguthu.mv dns.vaioswolke.xyz doh.valscosmos.com dns.vancrafter.click adguard.vape.ong tor.vasi.li vasiliysoldatkin.ru www.vasiliysoldatkin.ru vasilykumaev.ru
+0.0.0.0 dns.vault81.de server01.vboekel.nl dns.vectorsigma.ru adguard.vegann.space dns.veikus.com dns.vemo.cc securedns.vendorvista.xyz venum.space dns.vietdns.vn
+0.0.0.0 kids.vietdns.vn tls.vietguards.cloud adsl.viettel.vn vik.ro adguard.vik.ro adi.adguard.vik.ro vik-ios.adguard.vik.ro mail.vik.ro ns.vik.ro
+0.0.0.0 www.vik.ro villalazza.stream dns2.vinc.me dns.vinnyp.xyz dns.vinokurov.tk dns.vip-kingstore.xyz z.vipit.one dns.virtual-qr.ir ad.visbran.fr
+0.0.0.0 dns.vk09.ru dns.vkhudyakov.ru vladpro.ru dns.vladpro.ru family.dns.vladpro.ru matvey.dns.vladpro.ru nastya.dns.vladpro.ru noads.dns.vladpro.ru vlad.dns.vladpro.ru
+0.0.0.0 dns.vlo.cc dns.vmisch.tech dns.vod11.xyz httpdns.volcengineapi.com dns.volsap.ovh vpn0109.voodonline.fr vorlif.org dns.voronin.uk vpn.vosjes.cloud
+0.0.0.0 dns.voyager2.space adguard.vozersky.com killads.vpms.xyz vpnhellings.nl www.vpnhellings.nl adguard.vpnkitakitsune.com dns.vps.pw vrehm.fr adguard.vrehm.fr
+0.0.0.0 vtcuong.site vuivn.site ns1.vuivn.site ns2.vuivn.site 45.32.17.58.vultrusercontent.com solution.w10.life dns.w3ctag.org bh.wael.name dns.wael.name
+0.0.0.0 aqua.is.my.waifu.cz darkness.is.my.waifu.cz megumin.is.my.waifu.cz yunyun.is.my.waifu.cz wallpap.eu adguard.wallura.eu lfbn-gre-1-319-7.w90-112.abo.wanadoo.fr dns.wang.art dmit.wangjiaqi.store
+0.0.0.0 wantaquddin.com dns.wargan.io abel.waringer-atg.de dns.warma.me dns.warpnine.de dns.warrior.fr waters888.com domeq.waw.pl waydnes.ru
+0.0.0.0 dns.wdnts.eu dns.engineer.web.id h4g3z1-doh.web.app dns.jsd.web.id panser.web.id s.rafiadinata.web.id doh.this.web.id web-rated.ie pg.web-rated.ie
+0.0.0.0 quadrogramma.vps.webdock.cloud dns.webfork.in doh.webnmail.de zuhause.webteufel.net webteufel-it.solutions nyx.webteufel-it.solutions dns.wechat.com paydns.wechatpay.cn resov.wehao.net
+0.0.0.0 dns.weibo.cn home.weisbrod.me dns.wellstsai.com zhang.wenru.xyz doh.wewitro.net doh-rs.whalebone.io whatcaniplay.com bwh.why4free.top dns.wibenson.cloud
+0.0.0.0 dns1-secure.wifire.it adguard.wifri.space wikimedia-dns.org wikimediadns.org dns-1.wil.cloud dns-2.wil.cloud adguard.willhotard.com dns.wincservices.com tls.windyvale.net
+0.0.0.0 wiqi.app wiqi.top ad.wiqi.app www.wiqi.top adguard.wirimij.nl dns3.wistarip.com vserv.wkind.de dns.wns.watch dnsbk.wns.watch
+0.0.0.0 ag.wntrmute.net woodbridge.club dns.woodyli.dev dds.wpme.pl home.wriedts.de dns.wryhf.com ns2.wuyouss.com ns3.wuyouss.com usatwo.wuyouss.com
+0.0.0.0 adguard.rn.wwb1215.com dns1.wyss.network wyx.cloud ads.x88.in adguard.x88x.xyz adguard.xandersalarie.com adb-home.xaoimoon.fr adb-wan.xaoimoon.fr xbcpb668.com
+0.0.0.0 dns.xcapenet.ru dns2.xcapenet.ru doh.xcom.pro xenergy.cc vsrv15195.customer.xenway.de xfer.au doh.xfinity.com dot.xfinity.com doh2.gslb2.xfinity.com
+0.0.0.0 xiaoxinhui.cn dns.xiaoxinhui.cn mail.xiaoxinhui.cn xie.ke agh.xinfeng16m.top xins.live dns.xins.live dns.xinwujiang.cn dns.xivilay.dev
+0.0.0.0 dns.xlion.tw xmr.land xn--80aecoigf4aatn.xn--p1ai xn--durhre-yxa.de xomadns.com xorbiadns.com doh.xorlet.ru look.xshentx.org dns.xuming.studio
+0.0.0.0 dns.xusqui.com dns.xv.fi dns.xwdmw.xyz v2.xx3210766.live dns.xydustc.me v1.xylto.com dns.y2f.xyz dns.yameenassotally.com 2.dnscrypt-cert.browser.yandex.net
+0.0.0.0 dns.yandex.ru common.dot.dns.yandex.net family.dot.dns.yandex.net safe.dot.dns.yandex.net family.dns.yandex.ru secondary.family.dns.yandex.ru safe.dns.yandex.ru secondary.safe.dns.yandex.ru secondary.dns.yandex.ru
+0.0.0.0 adguard.yare.hk agh-hetzner.yasirafique.com dns.yatima.tv adguardhome.yavuztutcu.net lion.yazilimatolye.com ychen.cf ychen.gq adsfysdfgiuy.ydns.eu vdska-pl.ydns.eu
+0.0.0.0 sg.yepdns.com yeralin.net dns.ygonline.de dns.yingroad.top appart.yoannchappaz.best hk.yoosoo.cc com.you-seen.fr net01.youcef.io adguard.youler.com
+0.0.0.0 dns.youni.win your-dns.run yovbak.com guard.yps.tw ys4.de dus.ysbs.uk dns2.ytpom.ru dns.yu.dev yujunwanwu.cn
+0.0.0.0 www.yujunwanwu.cn adguard.yuki2th.xyz httpdns.yunxindns.com dns.yuu-g.net yuvelirtut.website dns.yuyz.net dns.yuzia.cc httpdns.gslb.yy.com dns.yyaan.com
+0.0.0.0 dns.yyaan.top adg.yybyy.wiki dns.daemon.za.net zabolotskikh.dev dns.zachbosh.com adguard.zachitect.com zakaria.website sdns.zakaria.website akylah.zapto.org
+0.0.0.0 dns.zarchbox.fr zburger.top zdn.ro dns.zemows.industries adguard-kartoffel.zernico.de oraclejp01.zerotorez.com dns.zfsystem.tech d.zhanchuraevv.ru zhengkaiyun.top
+0.0.0.0 dns140.zhhz.cc dns168.zhhz.cc httpdns.zhihu.com doh.zhongbr.uk res.zijji.com adguard01.zitronen-server.de doh.zknt.org dns.zky666.fun xyz2.zmjflow.com
+0.0.0.0 xyz3.zmjflow.com dot-dns.zmy.cloud dns.zoogle.cn online.zotio.ru zougloub.eu d.zscale.gq ztv.su lookup.zucx.net dns.zui.lol
+0.0.0.0 zulkas.top httpdns.zybang.com ams.core.access.zznet.fun hkg.core.access.zznet.fun lax.core.access.zznet.fun nrt.core.access.zznet.fun sin.core.access.zznet.fun syd.core.access.zznet.fun hkg2.edge.access.zznet.fun
+0.0.0.0 sin2.edge.access.zznet.fun dns.zzuhacker.cn 

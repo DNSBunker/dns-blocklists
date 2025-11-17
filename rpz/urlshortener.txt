@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763342940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763371680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 01:29 UTC
-; Version: 2025.1117.0129.07
+; Last modified: 17 Nov 2025 09:28 UTC
+; Version: 2025.1117.0928.57
 ; Syntax: RPZ
-; Number of entries: 19032
+; Number of entries: 19016
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1723,8 +1723,6 @@ tinybit.cc CNAME .
 *.tinybit.cc CNAME .
 tlot.cc CNAME .
 *.tlot.cc CNAME .
-to8.cc CNAME .
-*.to8.cc CNAME .
 topurl.cc CNAME .
 *.topurl.cc CNAME .
 toui.cc CNAME .
@@ -6339,8 +6337,6 @@ supurlman.com CNAME .
 *.supurlman.com CNAME .
 surlgo.com CNAME .
 *.surlgo.com CNAME .
-surlz.com CNAME .
-*.surlz.com CNAME .
 surveyscst.com CNAME .
 *.surveyscst.com CNAME .
 susurl.com CNAME .
@@ -7019,8 +7015,6 @@ app.veryimportantlink.com CNAME .
 *.app.veryimportantlink.com CNAME .
 veshort.com CNAME .
 *.veshort.com CNAME .
-vi-tiktok.com CNAME .
-*.vi-tiktok.com CNAME .
 viahold.com CNAME .
 *.viahold.com CNAME .
 at.vibe.com CNAME .
@@ -9601,8 +9595,6 @@ urlo.in CNAME .
 *.urlo.in CNAME .
 urltamil.in CNAME .
 *.urltamil.in CNAME .
-urlzs.in CNAME .
-*.urlzs.in CNAME .
 userlinks.in CNAME .
 *.userlinks.in CNAME .
 v-it.in CNAME .
@@ -10495,8 +10487,6 @@ stspg.io CNAME .
 *.stspg.io CNAME .
 sual.io CNAME .
 *.sual.io CNAME .
-sujo.io CNAME .
-*.sujo.io CNAME .
 switchy.io CNAME .
 *.switchy.io CNAME .
 t2m.io CNAME .
@@ -12681,8 +12671,6 @@ tiniworkfennies.live CNAME .
 *.tiniworkfennies.live CNAME .
 top-sub-cve-len.live CNAME .
 *.top-sub-cve-len.live CNAME .
-trendingvideo.live CNAME .
-*.trendingvideo.live CNAME .
 truongthanhlen.live CNAME .
 *.truongthanhlen.live CNAME .
 unc.live CNAME .
@@ -15223,8 +15211,6 @@ tulinks.online CNAME .
 *.tulinks.online CNAME .
 upyun.online CNAME .
 *.upyun.online CNAME .
-url88.online CNAME .
-*.url88.online CNAME .
 urlbit.online CNAME .
 *.urlbit.online CNAME .
 vibegaming.online CNAME .
@@ -16103,8 +16089,6 @@ urlshortener.pro CNAME .
 *.urlshortener.pro CNAME .
 urlshot.pro CNAME .
 *.urlshot.pro CNAME .
-urlys.pro CNAME .
-*.urlys.pro CNAME .
 urlyshort.pro CNAME .
 *.urlyshort.pro CNAME .
 vdio.pro CNAME .

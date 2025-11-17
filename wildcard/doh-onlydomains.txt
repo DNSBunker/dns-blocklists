@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 02:34 UTC
-# Version: 2025.1117.0234.01
+# Last modified: 17 Nov 2025 10:32 UTC
+# Version: 2025.1117.1032.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 3361
+# Number of entries: 3360
 #
 ss.0001.xyz
 003153.xyz
@@ -3030,7 +3030,6 @@ jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
 adguard.tigrex.net
-tigrons.ru
 dns.timboeh.me
 timedns.net
 ad.timefine.org

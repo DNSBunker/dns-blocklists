@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 01:29 UTC
-# Version: 2025.1117.0129.07
+# Last modified: 17 Nov 2025 09:28 UTC
+# Version: 2025.1117.0928.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9516
+# Number of entries: 9508
 #
 local=/0.gp/
 local=/00m.in/
@@ -7449,7 +7449,6 @@ local=/sub2unlock.net/
 local=/subxresults.com/
 local=/suc.im/
 local=/suge.blog/
-local=/sujo.io/
 local=/sukatobrut.xyz/
 local=/sulejalan.online/
 local=/sumal.ly/
@@ -7483,7 +7482,6 @@ local=/surl.pk/
 local=/surl.pro/
 local=/surl.ro/
 local=/surlgo.com/
-local=/surlz.com/
 local=/surveyscst.com/
 local=/susurl.com/
 local=/sva.onl/
@@ -7927,7 +7925,6 @@ local=/tnyurl.pro/
 local=/to.lk/
 local=/to.ly/
 local=/to-text.net/
-local=/to8.cc/
 local=/s.tobi.re/
 local=/toclick.link/
 local=/tog.li/
@@ -8016,7 +8013,6 @@ local=/trck.gg/
 local=/trck.me/
 local=/treelinked.com/
 local=/trenddynamo.com/
-local=/trendingvideo.live/
 local=/tres.at/
 local=/treszki.com/
 local=/trezurl.ir/
@@ -8363,7 +8359,6 @@ local=/url6xx.com/
 local=/url724.link/
 local=/url7x.com/
 local=/url84.com/
-local=/url88.online/
 local=/url8x.com/
 local=/url9xx.com/
 local=/urla.ru/
@@ -8544,7 +8539,6 @@ local=/urlxh.com/
 local=/urlxray.com/
 local=/urly.co/
 local=/urly.fi/
-local=/urlys.pro/
 local=/urlyshort.pro/
 local=/urlyte.com/
 local=/urlz.at/
@@ -8558,7 +8552,6 @@ local=/urlzip.io/
 local=/urlzo.org/
 local=/urlzones.com/
 local=/urlzs.com/
-local=/urlzs.in/
 local=/urstoron.com/
 local=/urt.io/
 local=/urto.us/
@@ -8770,7 +8763,6 @@ local=/go.vhost.vn/
 local=/vhs.link/
 local=/vi.sa/
 local=/vi.tc/
-local=/vi-tiktok.com/
 local=/vi2.eu/
 local=/viaalto.me/
 local=/viahold.com/

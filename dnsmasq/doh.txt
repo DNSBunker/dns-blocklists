@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 02:34 UTC
-# Version: 2025.1117.0234.01
+# Last modified: 17 Nov 2025 10:32 UTC
+# Version: 2025.1117.1032.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3361
+# Number of entries: 3360
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3030,7 +3030,6 @@ local=/jp.tiar.app/
 local=/doh.tiarap.org/
 local=/jp.tiarap.org/
 local=/adguard.tigrex.net/
-local=/tigrons.ru/
 local=/dns.timboeh.me/
 local=/timedns.net/
 local=/ad.timefine.org/

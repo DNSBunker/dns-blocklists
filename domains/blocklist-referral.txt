@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 09:16 UTC
-# Version: 2025.1116.0916.00
+# Last modified: 17 Nov 2025 09:15 UTC
+# Version: 2025.1117.0915.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1539
+# Number of entries: 1543
 #
 1-aclk.net
 1aurl.io
@@ -247,6 +247,7 @@ seu2.cleverreach.com
 103149.seu2.cleverreach.com
 131729.seu2.cleverreach.com
 163840.seu2.cleverreach.com
+174192.seu2.cleverreach.com
 192792.seu2.cleverreach.com
 195426.seu2.cleverreach.com
 214747.seu2.cleverreach.com
@@ -667,6 +668,8 @@ trk.flexitrck.com
 track.flexlinkspro.com
 ue.flipboard.com
 eultech.fnac.com
+trk.bc.footlocker.com
+trk.bc.footlocker.de
 fr135.net
 monitor.fraudblocker.com
 link.freshmail.mx
@@ -712,6 +715,7 @@ adservice.google.hr
 adservice.google.ie
 adservice.google.it
 adservice.google.lt
+adservice.google.md
 adservice.google.nl
 adservice.google.no
 adservice.google.pl
