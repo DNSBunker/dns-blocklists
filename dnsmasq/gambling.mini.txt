@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 14:29 UTC
-# Version: 2025.1117.1429.52
+# Last modified: 17 Nov 2025 18:25 UTC
+# Version: 2025.1117.1825.49
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 45716
+# Number of entries: 45714
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -45613,7 +45613,6 @@ local=/zonagioco-casino-it.com/
 local=/zonanyalabetmain.blog/
 local=/zonapaitosdy.lol/
 local=/zonaslots.com/
-local=/zoologicodepiedra.com/
 local=/zooma-11.casino/
 local=/zooma-casino.ru/
 local=/zooma-casino-game.buzz/
@@ -45695,7 +45694,6 @@ local=/zunadoscasino.com/
 local=/zunadoslots.com/
 local=/zupee.com/
 local=/zurmbsun.xyz/
-local=/zwartemarktplaats.com/
 local=/zweeler.com/
 local=/zxs889s.site/
 local=/zyn1.live/

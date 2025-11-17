@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763389920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763404080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 14:32 UTC
-; Version: 2025.1117.1432.22
+; Last modified: 17 Nov 2025 18:28 UTC
+; Version: 2025.1117.1828.42
 ; Syntax: RPZ
-; Number of entries: 155146
+; Number of entries: 155116
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -8102,6 +8102,8 @@ xxxxx.ch CNAME .
 *.xxxxx.ch CNAME .
 yoopies.ch CNAME .
 *.yoopies.ch CNAME .
+youngandwild.ch CNAME .
+*.youngandwild.ch CNAME .
 porno365.channel CNAME .
 *.porno365.channel CNAME .
 sextop1.channel CNAME .
@@ -43000,6 +43002,8 @@ indiansexvideo.it.com CNAME .
 *.indiansexvideo.it.com CNAME .
 indianxxx.it.com CNAME .
 *.indianxxx.it.com CNAME .
+okxxx.it.com CNAME .
+*.okxxx.it.com CNAME .
 itaincontri.com CNAME .
 *.itaincontri.com CNAME .
 italiane-porno.com CNAME .
@@ -71062,8 +71066,6 @@ spankbank.com CNAME .
 *.spankbank.com CNAME .
 spankburg.com CNAME .
 *.spankburg.com CNAME .
-spankedathome.com CNAME .
-*.spankedathome.com CNAME .
 spanking24.com CNAME .
 *.spanking24.com CNAME .
 spankingboysvideo.com CNAME .
@@ -79696,8 +79698,6 @@ webmaxhd.com CNAME .
 *.webmaxhd.com CNAME .
 webnaughty.com CNAME .
 *.webnaughty.com CNAME .
-webnode.com CNAME .
-*.webnode.com CNAME .
 webnudecams.com CNAME .
 *.webnudecams.com CNAME .
 webplaisir.com CNAME .
@@ -83758,8 +83758,6 @@ yespornclips.com CNAME .
 *.yespornclips.com CNAME .
 yespornfree.com CNAME .
 *.yespornfree.com CNAME .
-yespornlove.com CNAME .
-*.yespornlove.com CNAME .
 yespornotube.com CNAME .
 *.yespornotube.com CNAME .
 yespornpics.com CNAME .
@@ -83840,8 +83838,6 @@ yogayeshuastyle.com CNAME .
 *.yogayeshuastyle.com CNAME .
 yogayinasa.com CNAME .
 *.yogayinasa.com CNAME .
-yogaymagiadelago.com CNAME .
-*.yogaymagiadelago.com CNAME .
 yogayouniverse.com CNAME .
 *.yogayouniverse.com CNAME .
 yogayx.com CNAME .
@@ -83876,8 +83872,6 @@ yootoons.com CNAME .
 *.yootoons.com CNAME .
 yosex.com CNAME .
 *.yosex.com CNAME .
-yoshemaletube.com CNAME .
-*.yoshemaletube.com CNAME .
 you-porn.com CNAME .
 *.you-porn.com CNAME .
 you-porn-deutsch.com CNAME .
@@ -83962,14 +83956,10 @@ youngasspics.com CNAME .
 *.youngasspics.com CNAME .
 youngcourtesans.com CNAME .
 *.youngcourtesans.com CNAME .
-youngdig.com CNAME .
-*.youngdig.com CNAME .
 youngdump.com CNAME .
 *.youngdump.com CNAME .
 youngermommy.com CNAME .
 *.youngermommy.com CNAME .
-youngestnudist.com CNAME .
-*.youngestnudist.com CNAME .
 youngestvaginas.com CNAME .
 *.youngestvaginas.com CNAME .
 youngfapporn.com CNAME .
@@ -84016,8 +84006,6 @@ youngselfshots.com CNAME .
 *.youngselfshots.com CNAME .
 youngsexer.com CNAME .
 *.youngsexer.com CNAME .
-youngsexgalore.com CNAME .
-*.youngsexgalore.com CNAME .
 youngsexgirl.com CNAME .
 *.youngsexgirl.com CNAME .
 youngsexparties.com CNAME .
@@ -84068,8 +84056,6 @@ youramateurporn.com CNAME .
 *.youramateurporn.com CNAME .
 youramateurtube.com CNAME .
 *.youramateurtube.com CNAME .
-yourbestsexever.com CNAME .
-*.yourbestsexever.com CNAME .
 yourbrainonporn.com CNAME .
 *.yourbrainonporn.com CNAME .
 yourcamspot.com CNAME .
@@ -84148,8 +84134,6 @@ yoursecrethookup.com CNAME .
 *.yoursecrethookup.com CNAME .
 yoursexcontact1.com CNAME .
 *.yoursexcontact1.com CNAME .
-yoursexeducation.com CNAME .
-*.yoursexeducation.com CNAME .
 yoursexhub.com CNAME .
 *.yoursexhub.com CNAME .
 yoursexstory.com CNAME .
@@ -84350,8 +84334,6 @@ zeige-deine-sexbilder.com CNAME .
 *.zeige-deine-sexbilder.com CNAME .
 zekesexteriorservicescctx.com CNAME .
 *.zekesexteriorservicescctx.com CNAME .
-zemporn.com CNAME .
-*.zemporn.com CNAME .
 zenporn.com CNAME .
 *.zenporn.com CNAME .
 zenxtube.com CNAME .
@@ -84388,8 +84370,6 @@ zfzxxx.com CNAME .
 *.zfzxxx.com CNAME .
 zgay3.com CNAME .
 *.zgay3.com CNAME .
-zgjxxx.com CNAME .
-*.zgjxxx.com CNAME .
 zh-bundesexpert.com CNAME .
 *.zh-bundesexpert.com CNAME .
 zh-tennisexpert.com CNAME .
@@ -84400,8 +84380,6 @@ zhgaysex.com CNAME .
 *.zhgaysex.com CNAME .
 zhiaiheyi.com CNAME .
 *.zhiaiheyi.com CNAME .
-zhorny.com CNAME .
-*.zhorny.com CNAME .
 zhornyhub.com CNAME .
 *.zhornyhub.com CNAME .
 ziadelhiescorts.com CNAME .
@@ -84676,8 +84654,6 @@ zxxxxvideos.com CNAME .
 *.zxxxxvideos.com CNAME .
 zyamy.com CNAME .
 *.zyamy.com CNAME .
-zydusexchange.com CNAME .
-*.zydusexchange.com CNAME .
 zzbabes.com CNAME .
 *.zzbabes.com CNAME .
 zzcartoon.com CNAME .
@@ -119858,6 +119834,8 @@ goblin.porn CNAME .
 *.goblin.porn CNAME .
 green.porn CNAME .
 *.green.porn CNAME .
+guru.porn CNAME .
+*.guru.porn CNAME .
 harpervedder.porn CNAME .
 *.harpervedder.porn CNAME .
 hdteen.porn CNAME .
@@ -124826,8 +124804,6 @@ za-matrasom.ru CNAME .
 *.za-matrasom.ru CNAME .
 zakat.ru CNAME .
 *.zakat.ru CNAME .
-zakon-i.ru CNAME .
-*.zakon-i.ru CNAME .
 zapf-online.ru CNAME .
 *.zapf-online.ru CNAME .
 zavod-sms.ru CNAME .
@@ -132596,8 +132572,6 @@ xxnx.team CNAME .
 *.xxnx.team CNAME .
 xxxx.team CNAME .
 *.xxxx.team CNAME .
-youjizz.team CNAME .
-*.youjizz.team CNAME .
 zazhigayki.team CNAME .
 *.zazhigayki.team CNAME .
 atapornmewd.tech CNAME .
@@ -134378,8 +134352,6 @@ mtxxx.top CNAME .
 *.mtxxx.top CNAME .
 muchx.top CNAME .
 *.muchx.top CNAME .
-mult-xxx.top CNAME .
-*.mult-xxx.top CNAME .
 mushusei.top CNAME .
 *.mushusei.top CNAME .
 mushusei4.top CNAME .
@@ -137448,8 +137420,6 @@ yeusex5.top CNAME .
 *.yeusex5.top CNAME .
 yexxx.top CNAME .
 *.yexxx.top CNAME .
-yezusexy.top CNAME .
-*.yezusexy.top CNAME .
 ygxxx.top CNAME .
 *.ygxxx.top CNAME .
 yhxxx.top CNAME .

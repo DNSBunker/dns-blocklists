@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 13:27 UTC
-# Version: 2025.1117.1327.54
+# Last modified: 17 Nov 2025 17:27 UTC
+# Version: 2025.1117.1727.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14168
+# Number of entries: 14166
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -14143,7 +14143,6 @@ local=/zodernus.com/
 local=/zofita.com/
 local=/zolara.de/
 local=/zollernalb-film.de/
-local=/zonebabyware.com/
 local=/zonnishop.com/
 local=/zookatzeshop.com/
 local=/zoomil.de/
@@ -14161,7 +14160,6 @@ local=/zuhiog.com/
 local=/zuhitz.de/
 local=/zukunftkredit.com/
 local=/zukunftspartner.digital/
-local=/zukunftsspur.com/
 local=/zum-alten-perkeo.de/
 local=/zumaro.de/
 local=/zundschalter.com/

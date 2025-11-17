@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 13:29 UTC
-# Version: 2025.1117.1329.37
+# Last modified: 17 Nov 2025 17:29 UTC
+# Version: 2025.1117.1729.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9507
+# Number of entries: 9506
 #
 local=/0.gp/
 local=/00m.in/
@@ -9326,7 +9326,6 @@ local=/youris.pro/
 local=/yourl.ir/
 local=/yourl.jp/
 local=/yourl.pro/
-local=/yourls.best/
 local=/yourls.ch/
 local=/yourls.info/
 local=/yourls.lu/

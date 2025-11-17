@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 14:29 UTC
-# Version: 2025.1117.1429.18
+# Last modified: 17 Nov 2025 18:25 UTC
+# Version: 2025.1117.1825.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 85902
+# Number of entries: 85897
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -85127,7 +85127,6 @@ local=/yukongold.casino/
 local=/yukongold-casino.nz/
 local=/yukongold-casinos.com/
 local=/yukongoldcasino.us/
-local=/yukongoldcasino.xyz/
 local=/yukongoldcasino-ca.com/
 local=/yukongoldcasino1.com/
 local=/yukongoldcasino2.com/
@@ -85264,7 +85263,6 @@ local=/zercasino-dk.com/
 local=/zergcasino216.com/
 local=/zerkalo-33leonbets.xyz/
 local=/zerkalo-4leonbets.xyz/
-local=/zerkalo-arkada-casino.ru/
 local=/zerkalo-casino-twin.xyz/
 local=/zerkalo-casino1.top/
 local=/zerkalo-casino10.top/
@@ -85671,7 +85669,6 @@ local=/zonapaitosdy.lol/
 local=/zonaslots.com/
 local=/zonatunggal.xyz/
 local=/zondercruks-casino.com/
-local=/zoologicodepiedra.com/
 local=/zoom555-generator.com/
 local=/zooma-11.casino/
 local=/zooma-casino.ru/
@@ -85680,7 +85677,6 @@ local=/zooma-casino-official19.top/
 local=/zooma-casino1.com/
 local=/zooma-casino111.online/
 local=/zooma-casino112.online/
-local=/zooma-casino52.com/
 local=/zooma-casino777.com/
 local=/zooma322.casino/
 local=/zooma41.casino/
@@ -85870,7 +85866,6 @@ local=/zurichplaycasino.icu/
 local=/zurmbsun.xyz/
 local=/zv999c.com/
 local=/zvcasino.com/
-local=/zwartemarktplaats.com/
 local=/zweeler.com/
 local=/zxs889s.site/
 local=/zyn1.live/

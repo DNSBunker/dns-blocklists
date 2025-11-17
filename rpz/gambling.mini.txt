@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763389740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763403900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 14:29 UTC
-; Version: 2025.1117.1429.52
+; Last modified: 17 Nov 2025 18:25 UTC
+; Version: 2025.1117.1825.49
 ; Syntax: RPZ
-; Number of entries: 91432
+; Number of entries: 91428
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -53544,8 +53544,6 @@ zonagioco-casino-it.com CNAME .
 *.zonagioco-casino-it.com CNAME .
 zonaslots.com CNAME .
 *.zonaslots.com CNAME .
-zoologicodepiedra.com CNAME .
-*.zoologicodepiedra.com CNAME .
 zooma-casino1.com CNAME .
 *.zooma-casino1.com CNAME .
 zooma-casino777.com CNAME .
@@ -53586,8 +53584,6 @@ zunadoslots.com CNAME .
 *.zunadoslots.com CNAME .
 zupee.com CNAME .
 *.zupee.com CNAME .
-zwartemarktplaats.com CNAME .
-*.zwartemarktplaats.com CNAME .
 zweeler.com CNAME .
 *.zweeler.com CNAME .
 zyngapoker.com CNAME .

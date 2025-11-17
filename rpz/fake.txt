@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763386020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763400420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 13:27 UTC
-; Version: 2025.1117.1327.54
+; Last modified: 17 Nov 2025 17:27 UTC
+; Version: 2025.1117.1727.53
 ; Syntax: RPZ
-; Number of entries: 28336
+; Number of entries: 28332
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -17566,8 +17566,6 @@ zodernus.com CNAME .
 *.zodernus.com CNAME .
 zofita.com CNAME .
 *.zofita.com CNAME .
-zonebabyware.com CNAME .
-*.zonebabyware.com CNAME .
 zonnishop.com CNAME .
 *.zonnishop.com CNAME .
 zookatzeshop.com CNAME .
@@ -17588,8 +17586,6 @@ zuhiog.com CNAME .
 *.zuhiog.com CNAME .
 zukunftkredit.com CNAME .
 *.zukunftkredit.com CNAME .
-zukunftsspur.com CNAME .
-*.zukunftsspur.com CNAME .
 zundschalter.com CNAME .
 *.zundschalter.com CNAME .
 zunmanned.com CNAME .

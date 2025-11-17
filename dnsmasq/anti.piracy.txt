@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 14:30 UTC
-# Version: 2025.1117.1430.15
+# Last modified: 17 Nov 2025 18:26 UTC
+# Version: 2025.1117.1826.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11531
+# Number of entries: 11528
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -11265,7 +11265,6 @@ local=/yesmovies.media/
 local=/yesmovies.mn/
 local=/yesmovies.mom/
 local=/yesmovies.movie/
-local=/yesmovies.my/
 local=/yesmovies.net/
 local=/yesmovies.org/
 local=/yesmovies.pe/
@@ -11485,7 +11484,6 @@ local=/zippyshare.com/
 local=/zippyshare.day/
 local=/zlib520.online/
 local=/zlib996.online/
-local=/zlibi.top/
 local=/zlibrarya.online/
 local=/zlir.online/
 local=/bt.zlofenix.org/
@@ -11527,7 +11525,6 @@ local=/zoomonlinebd.net/
 local=/zooqle.com/
 local=/zoozle.org/
 local=/zophar.net/
-local=/zorbixdream.live/
 local=/zorox.to/
 local=/zorrostream.org/
 local=/zorrostream.site/

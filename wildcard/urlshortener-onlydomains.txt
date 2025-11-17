@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 13:29 UTC
-# Version: 2025.1117.1329.37
+# Last modified: 17 Nov 2025 17:29 UTC
+# Version: 2025.1117.1729.30
 # Syntax: Domains (without subdomains)
-# Number of entries: 9507
+# Number of entries: 9506
 #
 0.gp
 00m.in
@@ -9326,7 +9326,6 @@ youris.pro
 yourl.ir
 yourl.jp
 yourl.pro
-yourls.best
 yourls.ch
 yourls.info
 yourls.lu

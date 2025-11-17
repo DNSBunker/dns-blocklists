@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763389800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763403960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 14:30 UTC
-; Version: 2025.1117.1430.15
+; Last modified: 17 Nov 2025 18:26 UTC
+; Version: 2025.1117.1826.11
 ; Syntax: RPZ
-; Number of entries: 23062
+; Number of entries: 23056
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -11684,8 +11684,6 @@ yalla-shootv.live CNAME .
 *.yalla-shootv.live CNAME .
 yassflix.live CNAME .
 *.yassflix.live CNAME .
-zorbixdream.live CNAME .
-*.zorbixdream.live CNAME .
 hdmovie2.living CNAME .
 *.hdmovie2.living CNAME .
 tantifilm.living CNAME .
@@ -12714,8 +12712,6 @@ streamcloud.my CNAME .
 *.streamcloud.my CNAME .
 y2meta.my CNAME .
 *.y2meta.my CNAME .
-yesmovies.my CNAME .
-*.yesmovies.my CNAME .
 hdmovie2.nagoya CNAME .
 *.hdmovie2.nagoya CNAME .
 vegamovies.nagoya CNAME .
@@ -20862,8 +20858,6 @@ forum.zannn.top CNAME .
 *.forum.zannn.top CNAME .
 tracker.zhuqiy.top CNAME .
 *.tracker.zhuqiy.top CNAME .
-zlibi.top CNAME .
-*.zlibi.top CNAME .
 altadefinizione.tours CNAME .
 *.altadefinizione.tours CNAME .
 hdmovie2.tours CNAME .
