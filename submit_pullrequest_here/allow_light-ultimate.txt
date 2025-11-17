@@ -1,6 +1,12 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/8056
+bunkr.ru
+
+# https://github.com/hagezi/dns-blocklists/issues/8055
+felvi.hu
+
 # https://github.com/hagezi/dns-blocklists/issues/8026
 t.17track.net
 s.17track.net

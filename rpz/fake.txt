@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763400420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763414820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 17:27 UTC
-; Version: 2025.1117.1727.53
+; Last modified: 17 Nov 2025 21:27 UTC
+; Version: 2025.1117.2127.15
 ; Syntax: RPZ
-; Number of entries: 28332
+; Number of entries: 28336
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -19260,6 +19260,8 @@ energfahrrad.de CNAME .
 *.energfahrrad.de CNAME .
 energie-thuleweit.de CNAME .
 *.energie-thuleweit.de CNAME .
+energieblitz24.de CNAME .
+*.energieblitz24.de CNAME .
 energieheizen.de CNAME .
 *.energieheizen.de CNAME .
 energyhood.de CNAME .
@@ -20064,6 +20066,8 @@ gymnastik-schuhe.de CNAME .
 *.gymnastik-schuhe.de CNAME .
 h.de CNAME .
 *.h.de CNAME .
+hackmann-heizoel.de CNAME .
+*.hackmann-heizoel.de CNAME .
 hagomann.de CNAME .
 *.hagomann.de CNAME .
 halbert-fohrmann-gbr.de CNAME .

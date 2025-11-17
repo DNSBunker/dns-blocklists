@@ -3080,6 +3080,13 @@
       }
     },
     {
+      "PK": "infomax.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "infosec.exchange",
       "action": {
         "do": 1,

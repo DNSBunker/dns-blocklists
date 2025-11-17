@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763404080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763418480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 18:28 UTC
-; Version: 2025.1117.1828.42
+; Last modified: 17 Nov 2025 22:28 UTC
+; Version: 2025.1117.2228.06
 ; Syntax: RPZ
-; Number of entries: 155116
+; Number of entries: 155124
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -2334,6 +2334,8 @@ hdporno5.beauty CNAME .
 *.hdporno5.beauty CNAME .
 hdpornx.beauty CNAME .
 *.hdpornx.beauty CNAME .
+hindisexxxvideos.beauty CNAME .
+*.hindisexxxvideos.beauty CNAME .
 hoststraitsex.beauty CNAME .
 *.hoststraitsex.beauty CNAME .
 hqxxx.beauty CNAME .
@@ -17994,6 +17996,8 @@ bartlemas.com CNAME .
 *.bartlemas.com CNAME .
 barusas.com CNAME .
 *.barusas.com CNAME .
+basaksehirescortbul.com CNAME .
+*.basaksehirescortbul.com CNAME .
 basbogayapi.com CNAME .
 *.basbogayapi.com CNAME .
 base-massage.com CNAME .
@@ -21944,6 +21948,8 @@ callgirlsinmumbaicity.com CNAME .
 *.callgirlsinmumbaicity.com CNAME .
 callgirlsinnoida247.com CNAME .
 *.callgirlsinnoida247.com CNAME .
+callgirlsinpatna.com CNAME .
+*.callgirlsinpatna.com CNAME .
 callgirlsinvisakhapatnam.com CNAME .
 *.callgirlsinvisakhapatnam.com CNAME .
 callgirlsjaipurescorts.com CNAME .
@@ -141138,6 +141144,8 @@ cholitas.us CNAME .
 *.cholitas.us CNAME .
 christianlouboutinoutletstores.us CNAME .
 *.christianlouboutinoutletstores.us CNAME .
+cumslut.us CNAME .
+*.cumslut.us CNAME .
 darksex.us CNAME .
 *.darksex.us CNAME .
 dearlady.us CNAME .
