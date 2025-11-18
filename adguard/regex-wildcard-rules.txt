@@ -1,0 +1,32 @@
+! Ads
+/(^|\.)(0x)?(?=[0-9a-f]*[a-f])(?=[0-9a-f]*[0-9])[0-9a-f]{10,64}\.[a-z]{2,}$/
+
+! Analytics
+/(^|.+\-|.+\.)(piwik|matomo|plausible|posthog|utiq|umami)\d*(\-[^.]+)?\.[^.]+\.[^.]+.*$/
+
+! Popups
+/^94\.242\.247\.(2[0-9]|3[0-2])$/
+/^216\.21\.13\.(14|15)$/
+/^103\.218\.242\.177$/
+
+! Security
+|*0-0-0-0*^
+|*app1e*^
+|*faceb00k*^
+|*faceb0ok*^
+|*facebo0k*^
+|*g00gle*^
+|*g0ogle*^
+|*go0gle*^
+|*inslagram*^
+|*lnslagram*^
+|*lnstagram*^
+|*ipfs*^
+|*off1ce*^
+|*0ff1ce*^
+|*0ffice*^
+|*qltuh*^
+|*tw1tter*^
+|*y0ulube*^
+|*y0utube*^
+|*youlube*^
