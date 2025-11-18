@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763373240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763459640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 09:54 UTC
-; Version: 2025.1117.0954.58
+; Last modified: 18 Nov 2025 09:54 UTC
+; Version: 2025.1118.0954.44
 ; Syntax: RPZ
-; Number of entries: 2652
+; Number of entries: 2672
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -326,12 +326,16 @@ synergize.co CNAME .
 *.81x.com CNAME .
 9k.com CNAME .
 *.9k.com CNAME .
+actifforum.com CNAME .
+*.actifforum.com CNAME .
 admarketlocation.com CNAME .
 *.admarketlocation.com CNAME .
 ag0rcgwjv5.com CNAME .
 *.ag0rcgwjv5.com CNAME .
 ahlamountada.com CNAME .
 *.ahlamountada.com CNAME .
+alboompro.com CNAME .
+*.alboompro.com CNAME .
 amarillozoo.com CNAME .
 *.amarillozoo.com CNAME .
 angelfire.com CNAME .
@@ -574,8 +578,14 @@ flazio.com CNAME .
 *.flazio.com CNAME .
 formbuddy.com CNAME .
 *.formbuddy.com CNAME .
+forum2jeux.com CNAME .
+*.forum2jeux.com CNAME .
 forumactif.com CNAME .
 *.forumactif.com CNAME .
+forumattivo.com CNAME .
+*.forumattivo.com CNAME .
+forumieren.com CNAME .
+*.forumieren.com CNAME .
 forumotion.com CNAME .
 *.forumotion.com CNAME .
 freecities.com CNAME .
@@ -616,6 +626,8 @@ freewha.com CNAME .
 *.freewha.com CNAME .
 freightinternationalservices.com CNAME .
 *.freightinternationalservices.com CNAME .
+frenchboard.com CNAME .
+*.frenchboard.com CNAME .
 friendcircles.com CNAME .
 *.friendcircles.com CNAME .
 gearhostpreview.com CNAME .
@@ -654,6 +666,8 @@ hinerava.com CNAME .
 *.hinerava.com CNAME .
 homemarker.com CNAME .
 *.homemarker.com CNAME .
+homestead.com CNAME .
+*.homestead.com CNAME .
 hostedforfree.com CNAME .
 *.hostedforfree.com CNAME .
 hostingsiteforfree.com CNAME .
@@ -1190,6 +1204,8 @@ for-ladys.de CNAME .
 *.for-ladys.de CNAME .
 forum7.de CNAME .
 *.forum7.de CNAME .
+forumieren.de CNAME .
+*.forumieren.de CNAME .
 fuer-alle.de CNAME .
 *.fuer-alle.de CNAME .
 fuer-profis.de CNAME .
@@ -1948,6 +1964,8 @@ one4u.0lx.net CNAME .
 *.one4u.0lx.net CNAME .
 100webspace.net CNAME .
 *.100webspace.net CNAME .
+1fr1.net CNAME .
+*.1fr1.net CNAME .
 1tt.net CNAME .
 *.1tt.net CNAME .
 1x.net CNAME .
@@ -2342,6 +2360,8 @@ blogspot.se CNAME .
 *.blogspot.se CNAME .
 comhem.se CNAME .
 *.comhem.se CNAME .
+webblogg.se CNAME .
+*.webblogg.se CNAME .
 blogspot.sg CNAME .
 *.blogspot.sg CNAME .
 download.sh CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 09:54 UTC
-# Version: 2025.1117.0954.58
+# Last modified: 18 Nov 2025 09:54 UTC
+# Version: 2025.1118.0954.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1326
+# Number of entries: 1336
 #
 local=/000a.de/
 local=/000space.com/
@@ -52,6 +52,7 @@ local=/1accesshost.com/
 local=/1apps.com/
 local=/1asphost.com/
 local=/1colony.com/
+local=/1fr1.net/
 local=/1freewebspace.com/
 local=/1hwy.com/
 local=/1shop.de/
@@ -147,6 +148,7 @@ local=/absorbiert.de/
 local=/abstellen.de/
 local=/abwechslungsreiches.de/
 local=/ac6.de/
+local=/actifforum.com/
 local=/admarketlocation.com/
 local=/africafull.top/
 local=/ag.gp/
@@ -155,6 +157,7 @@ local=/ahlamountada.com/
 local=/airground.club/
 local=/airself.shop/
 local=/al6.de/
+local=/alboompro.com/
 local=/all.lc/
 local=/allemal.de/
 local=/allpubmusic.my/
@@ -589,10 +592,14 @@ local=/flu.cc/
 local=/for-ladys.de/
 local=/formbuddy.com/
 local=/forum.lc/
+local=/forum2jeux.com/
 local=/forum2x2.ru/
 local=/forum7.de/
 local=/forumactif.com/
 local=/forumactif.org/
+local=/forumattivo.com/
+local=/forumieren.com/
+local=/forumieren.de/
 local=/forumotion.com/
 local=/fotos.lc/
 local=/fr.gp/
@@ -631,6 +638,7 @@ local=/freewebtools.com/
 local=/freewha.com/
 local=/freezoka.net/
 local=/freightinternationalservices.com/
+local=/frenchboard.com/
 local=/friendcircles.com/
 local=/fuer-alle.de/
 local=/fuer-profis.de/
@@ -695,6 +703,7 @@ local=/home.lc/
 local=/homemarker.com/
 local=/homepage.cx/
 local=/homepage.lc/
+local=/homestead.com/
 local=/hop.ru/
 local=/host.sk/
 local=/hostedforfree.com/
@@ -1233,6 +1242,7 @@ local=/webador.com/
 local=/webadorsite.com/
 local=/webatu.com/
 local=/webblog24.de/
+local=/webblogg.se/
 local=/webcindario.com/
 local=/webflow.io/
 local=/webgarden.com/

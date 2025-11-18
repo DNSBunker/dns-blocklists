@@ -7,13 +7,14 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Nov 2025 10:32 UTC
-! Version: 2025.1117.1032.45
+! Last modified: 18 Nov 2025 10:47 UTC
+! Version: 2025.1118.1047.40
 ! Syntax: AdBlock
-! Number of entries: 806
+! Number of entries: 799
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
+||123000123.xyz^
 ||httpdns.music.163.com^
 ||doh.18bit.cn^
 ||cloud.198.games^
@@ -53,11 +54,9 @@
 ||dns-unfiltered.adguard.com^
 ||adguard-dns.com^
 ||ahadns.net^
-||blitz.ahadns.com^
 ||blitz-setup.ahadns.com^
 ||dns.akbxr.com^
 ||dns.albony.xyz^
-||dnsnl.alekberg.net^
 ||httpdns.alicdn.com^
 ||alidns.com^
 ||resolvers-cn.httpdns.aliyuncs.com^
@@ -85,7 +84,6 @@
 ||dandelionsprout.asuscomm.com^
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
-||dohtrial.att.net^
 ||dns.azsopro.net^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
@@ -116,7 +114,6 @@
 ||doh-fi.blahdns.com^
 ||doh-jp.blahdns.com^
 ||doh-sg.blahdns.com^
-||doh1.blahdns.com^
 ||dot-de.blahdns.com^
 ||dot-sg.blahdns.com^
 ||example.doh.blockerdns.com^
@@ -167,13 +164,13 @@
 ||adguard.gbrossi.com.br^
 ||dns.weixin.qq.com.cn^
 ||dns.redhosting.com.ar^
+||doh.viatech.com.tw^
 ||commons.host^
 ||comss.one^
 ||dns1.conne.net^
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
-||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptroute.com^
 ||dns.csa-rz.de^
@@ -190,8 +187,6 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
-||dns.decloudus.com^
-||doh.defaultroutes.de^
 ||adguard.dekonix.ru^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
@@ -199,7 +194,6 @@
 ||digitale-gesellschaft.ch^
 ||dns.digitalsize.net^
 ||doh.disconnect.app^
-||fdns1.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -271,13 +265,11 @@
 ||dnsguard.pub^
 ||dns.dnshome.de^
 ||doh.dnslify.com^
-||b.ns.dnslify.com^
 ||dnslow.me^
 ||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
-||doh.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
 ||doh.beauty^
@@ -311,6 +303,7 @@
 ||adguard.ef67daisuki.club^
 ||dns.electrotm.org^
 ||dns.elemental.software^
+||eliatofani.ovh^
 ||dns.eliv.kr^
 ||adguard.ender.fr^
 ||eth.link^
@@ -319,8 +312,6 @@
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
 ||jp1.f7b6h9.tk^
-||pdns.faelix.net^
-||rdns.faelix.net^
 ||dns.faked.org^
 ||dns.falkenthal.org^
 ||dnsvps.familiamv.net^
@@ -355,6 +346,7 @@
 ||cluster-0.gac.edu^
 ||cluster-1.gac.edu^
 ||dns.gamban.com^
+||adg.geili.me^
 ||getdnsapi.net^
 ||gibblets.top^
 ||dns.ginovs.nl^
@@ -369,7 +361,6 @@
 ||dns.api.test.globuscs.info^
 ||dns.glorydns.com^
 ||moph.go.th^
-||privacydns.go6lab.si^
 ||doh-primary-pool.goodbyegambling.com^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
@@ -462,6 +453,7 @@
 ||us1.dns.lavate.ch^
 ||iterator.lazada.com^
 ||leecurrylawfirm.com^
+||yarp.lefolgoc.net^
 ||lelux.fi^
 ||lewsha.lol^
 ||doh.libredns.gr^
@@ -518,7 +510,6 @@
 ||dns.velyn.my.id^
 ||dns.vmath.my.id^
 ||myadg.ru^
-||adblock.mydns.network^
 ||dns.n23.io^
 ||najiakeji.top^
 ||chungocoai.name.vn^
@@ -542,7 +533,6 @@
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
 ||dns2.nextdns.io^
-||edge.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^
@@ -590,9 +580,7 @@
 ||resolver.dnsprivacy.org.uk^
 ||dns.ours.luxe^
 ||pashagame456.com^
-||i.passcloud.xyz^
 ||dns.pccoach.nl^
-||rpz-public-resolver1.rrdns.pch.net^
 ||dns.peb-schmidt.de^
 ||dns.pernika.net^
 ||darya.persiannit.net^
@@ -634,7 +622,6 @@
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
-||dns13.quad9.net^
 ||dns9.quad9.net^
 ||dns.quickline.ch^
 ||doh.quickline.ch^
@@ -695,8 +682,9 @@
 ||free.shecan.ir^
 ||do.shimul.me^
 ||adguard.shoupperuser.com^
-||dnsovertls.sinodun.com^
 ||sitdns.com^
+||dns.skrep.eu^
+||dns.smartguard.io^
 ||clientdns3.softcom.net^
 ||solaxy.live^
 ||spacedns.org^
@@ -706,15 +694,19 @@
 ||sriedmueadguard.casa^
 ||adguard.sscw.win^
 ||doh.ntu.ssooss.win^
+||dns.stirringphoto.com^
+||dns.stormycloud.org^
 ||strassmair.org^
 ||doh.sublime9.xyz^
 ||doh.suche.org^
+||resolver.sunet.se^
 ||sunnygyl.com^
 ||doh.sunoaki.net^
 ||dns.surfsharkdns.com^
 ||surt.ovh^
 ||dns.switch.ch^
 ||ibksturm.synology.me^
+||doh.sz-dns.com^
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
@@ -777,6 +769,7 @@
 ||megumin.is.my.waifu.cz^
 ||dns.wang.art^
 ||dns.wargan.io^
+||abel.waringer-atg.de^
 ||dns.warma.me^
 ||dns.warpnine.de^
 ||dns.engineer.web.id^
