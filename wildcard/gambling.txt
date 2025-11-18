@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 18:23 UTC
-# Version: 2025.1117.1823.29
+# Last modified: 18 Nov 2025 02:23 UTC
+# Version: 2025.1118.0223.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 202802
+# Number of entries: 202801
 #
 *.0-bdmbet.com
 *.0-bet.com
@@ -62864,7 +62864,6 @@
 *.ban-ca-casino.online
 *.ban-ca-casino.org
 *.ban88.com
-*.ban88a.com
 *.banana.poker
 *.banana5699.top
 *.bananalotto.fr

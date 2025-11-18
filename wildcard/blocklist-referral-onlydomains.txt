@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 09:15 UTC
-# Version: 2025.1117.0915.53
+# Last modified: 18 Nov 2025 01:15 UTC
+# Version: 2025.1118.0115.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 1281
+# Number of entries: 1282
 #
 1-aclk.net
 1aurl.io
@@ -696,6 +696,7 @@ localbusinesses.services
 localbusuiness.com
 localhomeservices.biz
 localrl.com
+affiliate.logitravel.com
 autos.lotlinx.com
 click.e.lowes.com
 t.lt02.net

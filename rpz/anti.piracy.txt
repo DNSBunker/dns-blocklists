@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763403960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763432760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Nov 2025 18:26 UTC
-; Version: 2025.1117.1826.11
+; Last modified: 18 Nov 2025 02:26 UTC
+; Version: 2025.1118.0226.18
 ; Syntax: RPZ
-; Number of entries: 23056
+; Number of entries: 23058
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -10012,6 +10012,8 @@ tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
 tr-zhuqiy-2.dgj055.icu CNAME .
 *.tr-zhuqiy-2.dgj055.icu CNAME .
+tracker-zhuqiy.dgj055.icu CNAME .
+*.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
 *.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .

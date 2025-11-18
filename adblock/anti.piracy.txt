@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Nov 2025 18:26 UTC
-! Version: 2025.1117.1826.11
+! Last modified: 18 Nov 2025 02:26 UTC
+! Version: 2025.1118.0226.18
 ! Syntax: AdBlock
-! Number of entries: 11528
+! Number of entries: 11529
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -2558,6 +2558,7 @@
 ||tr-rh-zhuqiy.dgj055.icu^
 ||tr-zhuqiy-1.dgj055.icu^
 ||tr-zhuqiy-2.dgj055.icu^
+||tracker-zhuqiy.dgj055.icu^
 ||trl-zhuqiy.dgj055.icu^
 ||tracker.zhuqiy.dgj055.icu^
 ||dhakadownload.com^
