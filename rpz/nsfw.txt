@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763562540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763591340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Nov 2025 14:29 UTC
-; Version: 2025.1119.1429.29
+; Last modified: 19 Nov 2025 22:29 UTC
+; Version: 2025.1119.2229.27
 ; Syntax: RPZ
-; Number of entries: 153814
+; Number of entries: 153824
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -42436,6 +42436,8 @@ indianxclips.com CNAME .
 *.indianxclips.com CNAME .
 indianxnxxsex.com CNAME .
 *.indianxnxxsex.com CNAME .
+indianxphoto.com CNAME .
+*.indianxphoto.com CNAME .
 indianxtubes.com CNAME .
 *.indianxtubes.com CNAME .
 indianxxx365.com CNAME .
@@ -44506,6 +44508,8 @@ joingy.com CNAME .
 *.joingy.com CNAME .
 joinlust.com CNAME .
 *.joinlust.com CNAME .
+joinville.com CNAME .
+*.joinville.com CNAME .
 joinwhatsgroup.com CNAME .
 *.joinwhatsgroup.com CNAME .
 jokerlu3.com CNAME .
@@ -101338,6 +101342,8 @@ viptube.me CNAME .
 *.viptube.me CNAME .
 phimsex.vnav.me CNAME .
 *.phimsex.vnav.me CNAME .
+voor.me CNAME .
+*.voor.me CNAME .
 voyeur-house.me CNAME .
 *.voyeur-house.me CNAME .
 voyeurfor.me CNAME .
@@ -120982,6 +120988,8 @@ narodnoeporno.pro CNAME .
 *.narodnoeporno.pro CNAME .
 nastyporn.pro CNAME .
 *.nastyporn.pro CNAME .
+netcraze.pro CNAME .
+*.netcraze.pro CNAME .
 newxxx.pro CNAME .
 *.newxxx.pro CNAME .
 nicesextube.pro CNAME .
@@ -122998,6 +123006,8 @@ brobarbershop.ru CNAME .
 *.brobarbershop.ru CNAME .
 bubblebabachallenge.ru CNAME .
 *.bubblebabachallenge.ru CNAME .
+bunkr.ru CNAME .
+*.bunkr.ru CNAME .
 bur-club.ru CNAME .
 *.bur-club.ru CNAME .
 burand.ru CNAME .

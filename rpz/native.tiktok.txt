@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761739620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763580660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Fingerprinting DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Oct 2025 12:07 UTC
-; Version: 2025.1029.1207.21
+; Last modified: 19 Nov 2025 19:31 UTC
+; Version: 2025.1119.1931.34
 ; Syntax: RPZ
-; Number of entries: 720
+; Number of entries: 728
 ;
 h4g3z1-native.tiktok.web.app CNAME .
 *.h4g3z1-native.tiktok.web.app CNAME .
@@ -96,6 +96,8 @@ log-boot.capcutapi.com CNAME .
 *.log-boot.capcutapi.com CNAME .
 log-sg.capcutapi.com CNAME .
 *.log-sg.capcutapi.com CNAME .
+log-v2-boot.capcutapi.com CNAME .
+*.log-v2-boot.capcutapi.com CNAME .
 log16-normal.capcutapi.com CNAME .
 *.log16-normal.capcutapi.com CNAME .
 log16-normal-sg.capcutapi.com CNAME .
@@ -106,10 +108,14 @@ log32-normal-sg.capcutapi.com CNAME .
 *.log32-normal-sg.capcutapi.com CNAME .
 mcs-normal-sg.capcutapi.com CNAME .
 *.mcs-normal-sg.capcutapi.com CNAME .
+mcs-v2-boot.capcutapi.com CNAME .
+*.mcs-v2-boot.capcutapi.com CNAME .
 mon-boot.capcutapi.com CNAME .
 *.mon-boot.capcutapi.com CNAME .
 mon-sg.capcutapi.com CNAME .
 *.mon-sg.capcutapi.com CNAME .
+mon-v2-boot.capcutapi.com CNAME .
+*.mon-v2-boot.capcutapi.com CNAME .
 mon16-normal-sg.capcutapi.com CNAME .
 *.mon16-normal-sg.capcutapi.com CNAME .
 mon32-normal-sg.capcutapi.com CNAME .
@@ -118,10 +124,14 @@ pc-mon-boot.capcutapi.com CNAME .
 *.pc-mon-boot.capcutapi.com CNAME .
 pc-mon-normal-sg.capcutapi.com CNAME .
 *.pc-mon-normal-sg.capcutapi.com CNAME .
+pc-mon-v2-boot.capcutapi.com CNAME .
+*.pc-mon-v2-boot.capcutapi.com CNAME .
 tnc-boot.capcutapi.com CNAME .
 *.tnc-boot.capcutapi.com CNAME .
 tnc-sg.capcutapi.com CNAME .
 *.tnc-sg.capcutapi.com CNAME .
+tnc-v2-boot.capcutapi.com CNAME .
+*.tnc-v2-boot.capcutapi.com CNAME .
 tnc-va.capcutapi.com CNAME .
 *.tnc-va.capcutapi.com CNAME .
 tnc-va-us-looki.capcutapi.com CNAME .
@@ -538,8 +548,6 @@ tnc100-useast1a.tiktokv.com CNAME .
 *.tnc100-useast1a.tiktokv.com CNAME .
 tnc100-useast2a.tiktokv.com CNAME .
 *.tnc100-useast2a.tiktokv.com CNAME .
-tnc16-normal-ycru.tiktokv.com CNAME .
-*.tnc16-normal-ycru.tiktokv.com CNAME .
 tnc16-normal-zr-alisg.tiktokv.com CNAME .
 *.tnc16-normal-zr-alisg.tiktokv.com CNAME .
 tnc16-normal-zr-useast1a.tiktokv.com CNAME .

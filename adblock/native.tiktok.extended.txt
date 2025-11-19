@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Oct 2025 12:09 UTC
-! Version: 2025.1029.1209.18
+! Last modified: 19 Nov 2025 19:08 UTC
+! Version: 2025.1119.1908.34
 ! Syntax: AdBlock
-! Number of entries: 452
+! Number of entries: 463
 !
 ||frontier.byteoversea.com^
 ||gplog-sg.byteoversea.com^
@@ -53,6 +53,7 @@
 ||xlog-va-useast2a.byteoversea.com^
 ||log-boot.capcutapi.com^
 ||log-sg.capcutapi.com^
+||log-v2-boot.capcutapi.com^
 ||log16-normal.capcutapi.com^
 ||log16-normal-sg.capcutapi.com^
 ||log16-normal-us-ttp.capcutapi.us^
@@ -60,27 +61,37 @@
 ||log32-normal-sg.capcutapi.com^
 ||mcs.capcutapi.us^
 ||mcs-normal-sg.capcutapi.com^
+||mcs-v2-boot.capcutapi.com^
 ||mcs16-normal-us-ttp.capcutapi.us^
 ||mon.capcutapi.us^
 ||mon-boot.capcutapi.com^
 ||mon-sg.capcutapi.com^
+||mon-v2-boot.capcutapi.com^
 ||mon16-normal-sg.capcutapi.com^
 ||mon16-normal-us-ttp.capcutapi.us^
 ||mon32-normal-sg.capcutapi.com^
 ||mssdk.capcutapi.us^
 ||mssdk-boot.capcutapi.com^
 ||mssdk-sg.capcutapi.com^
+||mssdk-v2-boot.capcutapi.com^
+||mssdk16-normal.capcutapi.com^
+||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal-us-ttp.capcutapi.us^
+||mssdk32-normal.capcutapi.com^
+||mssdk32-normal-sg.capcutapi.com^
 ||pc-mon-boot.capcutapi.com^
 ||pc-mon-normal-sg.capcutapi.com^
+||pc-mon-v2-boot.capcutapi.com^
 ||pc-mon16-normal-us-ttp.capcutapi.us^
 ||tnc-boot.capcutapi.com^
 ||tnc-sg.capcutapi.com^
+||tnc-v2-boot.capcutapi.com^
 ||tnc-va.capcutapi.com^
 ||tnc-va-us-looki.capcutapi.com^
 ||tnc16-normal-us-ttp.capcutapi.us^
 ||mon-boot.tiktokv.com.edgekey.net^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net^
+||mon16-normal-no1a.tiktokv.eu.station^
 ||abtest-ch.snssdk.com^
 ||analytics.snssdk.com^
 ||applog.snssdk.com^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Oct 2025 12:09 UTC
-# Version: 2025.1029.1209.18
+# Last modified: 19 Nov 2025 19:08 UTC
+# Version: 2025.1119.1908.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 454
+# Number of entries: 465
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -52,6 +52,7 @@
 0.0.0.0 xlog-va-useast2a.byteoversea.com
 0.0.0.0 log-boot.capcutapi.com
 0.0.0.0 log-sg.capcutapi.com
+0.0.0.0 log-v2-boot.capcutapi.com
 0.0.0.0 log16-normal.capcutapi.com
 0.0.0.0 log16-normal-sg.capcutapi.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
@@ -59,27 +60,37 @@
 0.0.0.0 log32-normal-sg.capcutapi.com
 0.0.0.0 mcs.capcutapi.us
 0.0.0.0 mcs-normal-sg.capcutapi.com
+0.0.0.0 mcs-v2-boot.capcutapi.com
 0.0.0.0 mcs16-normal-us-ttp.capcutapi.us
 0.0.0.0 mon.capcutapi.us
 0.0.0.0 mon-boot.capcutapi.com
 0.0.0.0 mon-sg.capcutapi.com
+0.0.0.0 mon-v2-boot.capcutapi.com
 0.0.0.0 mon16-normal-sg.capcutapi.com
 0.0.0.0 mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 mon32-normal-sg.capcutapi.com
 0.0.0.0 mssdk.capcutapi.us
 0.0.0.0 mssdk-boot.capcutapi.com
 0.0.0.0 mssdk-sg.capcutapi.com
+0.0.0.0 mssdk-v2-boot.capcutapi.com
+0.0.0.0 mssdk16-normal.capcutapi.com
+0.0.0.0 mssdk16-normal-sg.capcutapi.com
 0.0.0.0 mssdk16-normal-us-ttp.capcutapi.us
+0.0.0.0 mssdk32-normal.capcutapi.com
+0.0.0.0 mssdk32-normal-sg.capcutapi.com
 0.0.0.0 pc-mon-boot.capcutapi.com
 0.0.0.0 pc-mon-normal-sg.capcutapi.com
+0.0.0.0 pc-mon-v2-boot.capcutapi.com
 0.0.0.0 pc-mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 tnc-boot.capcutapi.com
 0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-v2-boot.capcutapi.com
 0.0.0.0 tnc-va.capcutapi.com
 0.0.0.0 tnc-va-us-looki.capcutapi.com
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
 0.0.0.0 mon-boot.tiktokv.com.edgekey.net
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
+0.0.0.0 mon16-normal-no1a.tiktokv.eu.station
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 applog.snssdk.com

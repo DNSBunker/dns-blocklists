@@ -1190,6 +1190,13 @@
       }
     },
     {
+      "PK": "*.cm",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "cnyes.cool",
       "action": {
         "do": 1,
@@ -1345,6 +1352,13 @@
     },
     {
       "PK": "crazypanda.games",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "crcon.cc",
       "action": {
         "do": 1,
         "status": 1
@@ -2612,6 +2626,13 @@
     },
     {
       "PK": "google.cf",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "google.cm",
       "action": {
         "do": 1,
         "status": 1

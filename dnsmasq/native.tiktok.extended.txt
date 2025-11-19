@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Oct 2025 12:09 UTC
-# Version: 2025.1029.1209.18
+# Last modified: 19 Nov 2025 19:08 UTC
+# Version: 2025.1119.1908.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 452
+# Number of entries: 463
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -52,6 +52,7 @@ local=/xlog-va.byteoversea.com/
 local=/xlog-va-useast2a.byteoversea.com/
 local=/log-boot.capcutapi.com/
 local=/log-sg.capcutapi.com/
+local=/log-v2-boot.capcutapi.com/
 local=/log16-normal.capcutapi.com/
 local=/log16-normal-sg.capcutapi.com/
 local=/log16-normal-us-ttp.capcutapi.us/
@@ -59,27 +60,37 @@ local=/log32-normal.capcutapi.com/
 local=/log32-normal-sg.capcutapi.com/
 local=/mcs.capcutapi.us/
 local=/mcs-normal-sg.capcutapi.com/
+local=/mcs-v2-boot.capcutapi.com/
 local=/mcs16-normal-us-ttp.capcutapi.us/
 local=/mon.capcutapi.us/
 local=/mon-boot.capcutapi.com/
 local=/mon-sg.capcutapi.com/
+local=/mon-v2-boot.capcutapi.com/
 local=/mon16-normal-sg.capcutapi.com/
 local=/mon16-normal-us-ttp.capcutapi.us/
 local=/mon32-normal-sg.capcutapi.com/
 local=/mssdk.capcutapi.us/
 local=/mssdk-boot.capcutapi.com/
 local=/mssdk-sg.capcutapi.com/
+local=/mssdk-v2-boot.capcutapi.com/
+local=/mssdk16-normal.capcutapi.com/
+local=/mssdk16-normal-sg.capcutapi.com/
 local=/mssdk16-normal-us-ttp.capcutapi.us/
+local=/mssdk32-normal.capcutapi.com/
+local=/mssdk32-normal-sg.capcutapi.com/
 local=/pc-mon-boot.capcutapi.com/
 local=/pc-mon-normal-sg.capcutapi.com/
+local=/pc-mon-v2-boot.capcutapi.com/
 local=/pc-mon16-normal-us-ttp.capcutapi.us/
 local=/tnc-boot.capcutapi.com/
 local=/tnc-sg.capcutapi.com/
+local=/tnc-v2-boot.capcutapi.com/
 local=/tnc-va.capcutapi.com/
 local=/tnc-va-us-looki.capcutapi.com/
 local=/tnc16-normal-us-ttp.capcutapi.us/
 local=/mon-boot.tiktokv.com.edgekey.net/
 local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net/
+local=/mon16-normal-no1a.tiktokv.eu.station/
 local=/abtest-ch.snssdk.com/
 local=/analytics.snssdk.com/
 local=/applog.snssdk.com/

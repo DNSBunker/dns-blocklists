@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Nov 2025 14:29 UTC
-# Version: 2025.1119.1429.29
+# Last modified: 19 Nov 2025 22:29 UTC
+# Version: 2025.1119.2229.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 76907
+# Number of entries: 76912
 #
 local=/000sexxx.com/
 local=/001-adult-toys-n-sex-dolls.com/
@@ -9885,6 +9885,7 @@ local=/bunkbedforadults.com/
 local=/bunkr.ac/
 local=/bunkr.la/
 local=/bunkr.ph/
+local=/bunkr.ru/
 local=/bunkr.sk/
 local=/bunkr-albums.io/
 local=/bunkrr.su/
@@ -32697,6 +32698,7 @@ local=/indianwow.pro/
 local=/indianxclips.com/
 local=/indianxnxx.org/
 local=/indianxnxxsex.com/
+local=/indianxphoto.com/
 local=/indianxporn.net/
 local=/indianxtubes.com/
 local=/indianxxx.best/
@@ -34870,6 +34872,7 @@ local=/joinforjoy.com/
 local=/joingy.com/
 local=/joinlust.com/
 local=/joinmy.fans/
+local=/joinville.com/
 local=/joinwagroups.link/
 local=/joinwhatsgroup.com/
 local=/jokerlu3.com/
@@ -42988,6 +42991,7 @@ local=/br.netbet.com/
 local=/netcams24.com/
 local=/netclo.ru/
 local=/netcraze.link/
+local=/netcraze.pro/
 local=/netfapx.com/
 local=/netfapx.net/
 local=/netflav.com/
@@ -70406,6 +70410,7 @@ local=/vongayrimenkul.com/
 local=/vonixxxx.shop/
 local=/vonnaharper.com/
 local=/voodi.ee/
+local=/voor.me/
 local=/vorbestecumine.com/
 local=/vored.com/
 local=/voreda.live/

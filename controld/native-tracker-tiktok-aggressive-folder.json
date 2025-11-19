@@ -1149,6 +1149,13 @@
       }
     },
     {
+      "PK": "log-v2-boot.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "log-va.tiktokv.com",
       "action": {
         "do": 0,
@@ -1310,6 +1317,13 @@
       }
     },
     {
+      "PK": "mcs-v2-boot.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mcs-va.tiktok.com",
       "action": {
         "do": 0,
@@ -1423,6 +1437,13 @@
     },
     {
       "PK": "mon16-normal-no1a.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon16-normal-no1a.tiktokv.eu.station",
       "action": {
         "do": 0,
         "status": 1
@@ -1730,6 +1751,13 @@
       }
     },
     {
+      "PK": "mon-v2-boot.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon-va.byteoversea.com",
       "action": {
         "do": 0,
@@ -1745,6 +1773,20 @@
     },
     {
       "PK": "mon-va-useast2a.byteoversea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk16-normal.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk16-normal-sg.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1926,6 +1968,20 @@
       }
     },
     {
+      "PK": "mssdk32-normal.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mssdk32-normal-sg.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mssdk32-normal-zr-alisg.tiktokv.com",
       "action": {
         "do": 0,
@@ -2087,6 +2143,13 @@
       }
     },
     {
+      "PK": "mssdk-v2-boot.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mssdk-va.byteoversea.com",
       "action": {
         "do": 0,
@@ -2172,6 +2235,13 @@
     },
     {
       "PK": "pc-mon.snssdk.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon-v2-boot.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2970,6 +3040,13 @@
     },
     {
       "PK": "tnc-sg.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tnc-v2-boot.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1

@@ -1,5 +1,8 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/7968
+tnc16-normal-ycru.tiktokv.com
+
 # https://github.com/hagezi/dns-blocklists/issues/7864
 dd.monidentifiant.sncf
 dd.monidentifiant.sncf.first-party-js.datadome.co

@@ -960,6 +960,13 @@
       }
     },
     {
+      "PK": "crcon.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "crontab.guru",
       "action": {
         "do": 1,
@@ -1829,6 +1836,13 @@
     },
     {
       "PK": "google.cf",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "google.cm",
       "action": {
         "do": 1,
         "status": 1

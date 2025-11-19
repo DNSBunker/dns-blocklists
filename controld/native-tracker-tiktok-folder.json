@@ -1044,6 +1044,13 @@
       }
     },
     {
+      "PK": "log-v2-boot.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "log-va.tiktokv.com",
       "action": {
         "do": 0,
@@ -1164,6 +1171,13 @@
     },
     {
       "PK": "mcs.us.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mcs-v2-boot.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1339,6 +1353,13 @@
     },
     {
       "PK": "mon.us.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon-v2-boot.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1528,6 +1549,13 @@
     },
     {
       "PK": "pc-mon.snssdk.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pc-mon-v2-boot.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2164,13 +2192,6 @@
       }
     },
     {
-      "PK": "tnc16-normal-ycru.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "tnc16-normal-zr-alisg.tiktokv.com",
       "action": {
         "do": 0,
@@ -2326,6 +2347,13 @@
     },
     {
       "PK": "tnc-sg.capcutapi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tnc-v2-boot.capcutapi.com",
       "action": {
         "do": 0,
         "status": 1

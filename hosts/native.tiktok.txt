@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Oct 2025 12:07 UTC
-# Version: 2025.1029.1207.21
+# Last modified: 19 Nov 2025 19:31 UTC
+# Version: 2025.1119.1931.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 362
+# Number of entries: 366
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -52,6 +52,7 @@
 0.0.0.0 xlog-va-useast2a.byteoversea.com
 0.0.0.0 log-boot.capcutapi.com
 0.0.0.0 log-sg.capcutapi.com
+0.0.0.0 log-v2-boot.capcutapi.com
 0.0.0.0 log16-normal.capcutapi.com
 0.0.0.0 log16-normal-sg.capcutapi.com
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
@@ -59,18 +60,22 @@
 0.0.0.0 log32-normal-sg.capcutapi.com
 0.0.0.0 mcs.capcutapi.us
 0.0.0.0 mcs-normal-sg.capcutapi.com
+0.0.0.0 mcs-v2-boot.capcutapi.com
 0.0.0.0 mcs16-normal-us-ttp.capcutapi.us
 0.0.0.0 mon.capcutapi.us
 0.0.0.0 mon-boot.capcutapi.com
 0.0.0.0 mon-sg.capcutapi.com
+0.0.0.0 mon-v2-boot.capcutapi.com
 0.0.0.0 mon16-normal-sg.capcutapi.com
 0.0.0.0 mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 mon32-normal-sg.capcutapi.com
 0.0.0.0 pc-mon-boot.capcutapi.com
 0.0.0.0 pc-mon-normal-sg.capcutapi.com
+0.0.0.0 pc-mon-v2-boot.capcutapi.com
 0.0.0.0 pc-mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 tnc-boot.capcutapi.com
 0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-v2-boot.capcutapi.com
 0.0.0.0 tnc-va.capcutapi.com
 0.0.0.0 tnc-va-us-looki.capcutapi.com
 0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
@@ -313,7 +318,6 @@
 0.0.0.0 tnc16-normal-useast5.tiktokv.us
 0.0.0.0 tnc16-normal-useast8.tiktokv.us
 0.0.0.0 tnc16-normal-useastred.tiktokv.eu
-0.0.0.0 tnc16-normal-ycru.tiktokv.com
 0.0.0.0 tnc16-normal-zr-alisg.tiktokv.com
 0.0.0.0 tnc16-normal-zr-useast1a.tiktokv.com
 0.0.0.0 tnc16-platform-alisg.tiktokv.com
