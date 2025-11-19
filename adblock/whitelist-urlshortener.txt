@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Nov 2025 01:28 UTC
-! Version: 2025.1119.0128.20
+! Last modified: 19 Nov 2025 13:29 UTC
+! Version: 2025.1119.1329.44
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2976,6 +2976,7 @@
 @@||google-url.com^
 @@||goolink.cc^
 @@||goolnk.com^
+@@||gooo.onl^
 @@||gooo.to^
 @@||goose.re^
 @@||gopreply.com^
@@ -3385,12 +3386,14 @@
 @@||ilnk.io^
 @@||ilog.io^
 @@||ilsl.de^
+@@||ilyadin.com^
 @@||imaxl.ink^
 @@||urls.imcompanion.co^
 @@||imdb.to^
 @@||imlcc.link^
 @@||imo.cx^
 @@||imo-call.shop^
+@@||impl.us^
 @@||in.gl^
 @@||in.mt^
 @@||sk.in.rs^
@@ -3952,6 +3955,7 @@
 @@||letsconnect.fun^
 @@||letsharu.cc^
 @@||letsmeetup.world^
+@@||letx.be^
 @@||leuralla.com^
 @@||lexus.tw^
 @@||lf8.info^
@@ -4396,6 +4400,8 @@
 @@||lnk.to^
 @@||lnk.vn^
 @@||lnk-x.com^
+@@||lnk2.im^
+@@||lnk2.ink^
 @@||lnkbits.com^
 @@||lnkd.in^
 @@||lnkdin.link^
@@ -5287,6 +5293,7 @@
 @@||obio.link^
 @@||oblino.com^
 @@||occ.li^
+@@||ocdlink.com^
 @@||ock.cn^
 @@||ocul.us^
 @@||ocurto.com^
@@ -5429,6 +5436,7 @@
 @@||gracepoint.org.au^
 @@||link.hxfb.org.au^
 @@||miniurl.org.in^
+@@||tiny.nextsense.org.au^
 @@||techcaresolution.org.in^
 @@||short.organicweb.top^
 @@||originsprogramme.com^
@@ -6005,6 +6013,7 @@
 @@||r-txt.org^
 @@||r0m.me^
 @@||r2c.one^
+@@||r2c.ovh^
 @@||r303.de^
 @@||r4u.in^
 @@||r8z.cn^
@@ -7428,6 +7437,7 @@
 @@||tapm.ee^
 @@||tapme.ink^
 @@||tapmy.app^
+@@||taps.to^
 @@||tapthelink.cfd^
 @@||tapto.bio^
 @@||my.taptoconnect.app^
@@ -7765,6 +7775,7 @@
 @@||tnyr.me^
 @@||tnyurl.one^
 @@||tnyurl.pro^
+@@||tnyz.at^
 @@||to.lk^
 @@||to.ly^
 @@||to-text.net^

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Nov 2025 01:28 UTC
-# Version: 2025.1119.0128.20
+# Last modified: 19 Nov 2025 13:29 UTC
+# Version: 2025.1119.1329.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9541
+# Number of entries: 9552
 #
 local=/0.gp/
 local=/00m.in/
@@ -3055,6 +3055,7 @@ local=/google-url.com/
 local=/googleidmaps.live/
 local=/goolink.cc/
 local=/goolnk.com/
+local=/gooo.onl/
 local=/gooo.to/
 local=/goose.re/
 local=/gopreply.com/
@@ -3473,12 +3474,14 @@ local=/iln.io/
 local=/ilnk.io/
 local=/ilog.io/
 local=/ilsl.de/
+local=/ilyadin.com/
 local=/imaxl.ink/
 local=/urls.imcompanion.co/
 local=/imdb.to/
 local=/imlcc.link/
 local=/imo.cx/
 local=/imo-call.shop/
+local=/impl.us/
 local=/in.gl/
 local=/in.mt/
 local=/sk.in.rs/
@@ -4054,6 +4057,7 @@ local=/lesterchan.net/
 local=/letsconnect.fun/
 local=/letsharu.cc/
 local=/letsmeetup.world/
+local=/letx.be/
 local=/leuralla.com/
 local=/lexus.tw/
 local=/lf8.info/
@@ -4515,6 +4519,8 @@ local=/lnk.sk/
 local=/lnk.to/
 local=/lnk.vn/
 local=/lnk-x.com/
+local=/lnk2.im/
+local=/lnk2.ink/
 local=/lnkbits.com/
 local=/lnkd.in/
 local=/lnkdin.link/
@@ -5422,6 +5428,7 @@ local=/obdr.it/
 local=/obio.link/
 local=/oblino.com/
 local=/occ.li/
+local=/ocdlink.com/
 local=/ock.cn/
 local=/ocul.us/
 local=/ocurto.com/
@@ -5568,6 +5575,7 @@ local=/dbf.org.in/
 local=/gracepoint.org.au/
 local=/link.hxfb.org.au/
 local=/miniurl.org.in/
+local=/tiny.nextsense.org.au/
 local=/techcaresolution.org.in/
 local=/short.organicweb.top/
 local=/originsprogramme.com/
@@ -6157,6 +6165,7 @@ local=/r-txt.com/
 local=/r-txt.org/
 local=/r0m.me/
 local=/r2c.one/
+local=/r2c.ovh/
 local=/r303.de/
 local=/r4u.in/
 local=/r8z.cn/
@@ -7610,6 +7619,7 @@ local=/taplink.cc/
 local=/tapm.ee/
 local=/tapme.ink/
 local=/tapmy.app/
+local=/taps.to/
 local=/tapthelink.cfd/
 local=/tapto.bio/
 local=/my.taptoconnect.app/
@@ -7953,6 +7963,7 @@ local=/tnyer.com/
 local=/tnyr.me/
 local=/tnyurl.one/
 local=/tnyurl.pro/
+local=/tnyz.at/
 local=/to.lk/
 local=/to.ly/
 local=/to-text.net/

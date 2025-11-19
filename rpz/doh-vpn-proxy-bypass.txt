@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763462820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763562780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Nov 2025 10:47 UTC
-; Version: 2025.1118.1047.47
+; Last modified: 19 Nov 2025 14:33 UTC
+; Version: 2025.1119.1433.46
 ; Syntax: RPZ
-; Number of entries: 13986
+; Number of entries: 14048
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -679,6 +679,8 @@ adguard.ruby.ci CNAME .
 *.adguard.ruby.ci CNAME .
 onion.city CNAME .
 *.onion.city CNAME .
+adadad.adaptor.cl CNAME .
+*.adadad.adaptor.cl CNAME .
 ji.alsarica.cl CNAME .
 *.ji.alsarica.cl CNAME .
 owens-engineering-info.aperture.cl CNAME .
@@ -707,6 +709,8 @@ dnsotls.lab.nic.cl CNAME .
 *.dnsotls.lab.nic.cl CNAME .
 rammerheadblackholenetwork.omniscien.cl CNAME .
 *.rammerheadblackholenetwork.omniscien.cl CNAME .
+bolt.ovaa.cl CNAME .
+*.bolt.ovaa.cl CNAME .
 172.96.141.252doge.quipasur.cl CNAME .
 *.172.96.141.252doge.quipasur.cl CNAME .
 epicgrammar.quipasur.cl CNAME .
@@ -725,6 +729,8 @@ math.swift.cl CNAME .
 *.math.swift.cl CNAME .
 owens-chemistry-tutor-info.topcargoteam.cl CNAME .
 *.owens-chemistry-tutor-info.topcargoteam.cl CNAME .
+andrewnotgay.trustmi.cl CNAME .
+*.andrewnotgay.trustmi.cl CNAME .
 shop.woodworker.cl CNAME .
 *.shop.woodworker.cl CNAME .
 vinnyisbunslol.yao.cl CNAME .
@@ -1231,6 +1237,8 @@ dns.alvosec.com CNAME .
 *.dns.alvosec.com CNAME .
 alwaysvpn.com CNAME .
 *.alwaysvpn.com CNAME .
+bolting.alyaf.com CNAME .
+*.bolting.alyaf.com CNAME .
 amanvpn.com CNAME .
 *.amanvpn.com CNAME .
 ec2-3-139-127-253.us-east-2.compute.amazonaws.com CNAME .
@@ -1345,6 +1353,8 @@ award-vpn.com CNAME .
 *.award-vpn.com CNAME .
 awebproxy.com CNAME .
 *.awebproxy.com CNAME .
+anthony-sam.ax1951.com CNAME .
+*.anthony-sam.ax1951.com CNAME .
 axistechsupport.com CNAME .
 *.axistechsupport.com CNAME .
 vdsn-nl-2.azatmutq.com CNAME .
@@ -1597,6 +1607,10 @@ changemyip.com CNAME .
 *.changemyip.com CNAME .
 adguard.chaudharyarnav.com CNAME .
 *.adguard.chaudharyarnav.com CNAME .
+bolteducation.chiangmaiorganics.com CNAME .
+*.bolteducation.chiangmaiorganics.com CNAME .
+alejandro-made-this-haha.chickenkiller.com CNAME .
+*.alejandro-made-this-haha.chickenkiller.com CNAME .
 coolkidd.chickenkiller.com CNAME .
 *.coolkidd.chickenkiller.com CNAME .
 jordanmadethis.chickenkiller.com CNAME .
@@ -1711,6 +1725,8 @@ coverproxy.com CNAME .
 *.coverproxy.com CNAME .
 covertproxy.com CNAME .
 *.covertproxy.com CNAME .
+104-36-85-232.cprapid.com CNAME .
+*.104-36-85-232.cprapid.com CNAME .
 lmasalaka.crabdance.com CNAME .
 *.lmasalaka.crabdance.com CNAME .
 nrusimha.crabdance.com CNAME .
@@ -2569,6 +2585,8 @@ doh.infotechlibrary.com CNAME .
 *.doh.infotechlibrary.com CNAME .
 infvpn.com CNAME .
 *.infvpn.com CNAME .
+bolt.inglap.com CNAME .
+*.bolt.inglap.com CNAME .
 apidns.kwd.inkuai.com CNAME .
 *.apidns.kwd.inkuai.com CNAME .
 httpdns.kwd.inkuai.com CNAME .
@@ -2867,6 +2885,8 @@ lopana.com CNAME .
 *.lopana.com CNAME .
 deweerd.loseyourip.com CNAME .
 *.deweerd.loseyourip.com CNAME .
+bolt.louis-ip.com CNAME .
+*.bolt.louis-ip.com CNAME .
 ddd.loukky.com CNAME .
 *.ddd.loukky.com CNAME .
 n5.lsasss.com CNAME .
@@ -3159,6 +3179,8 @@ tech.vocab.nucktech.com CNAME .
 *.tech.vocab.nucktech.com CNAME .
 nucleusvpn.com CNAME .
 *.nucleusvpn.com CNAME .
+boltchillzone.nufszone.com CNAME .
+*.boltchillzone.nufszone.com CNAME .
 dns.nullrecon.com CNAME .
 *.dns.nullrecon.com CNAME .
 dns.numerus.com CNAME .
@@ -3765,6 +3787,8 @@ assets-prod-a230.s3.serverwild.com CNAME .
 *.assets-prod-a230.s3.serverwild.com CNAME .
 setupvpn.com CNAME .
 *.setupvpn.com CNAME .
+bolt-private.dmain.sevecom.com CNAME .
+*.bolt-private.dmain.sevecom.com CNAME .
 sf-helper.com CNAME .
 *.sf-helper.com CNAME .
 shadeyouvpn.com CNAME .
@@ -5673,6 +5697,8 @@ tenta.com CNAME .
 *.tenta.com CNAME .
 cloud.tezoi.com CNAME .
 *.cloud.tezoi.com CNAME .
+bigchez.thailandhappiness.com CNAME .
+*.bigchez.thailandhappiness.com CNAME .
 thankvpn.com CNAME .
 *.thankvpn.com CNAME .
 the-cloak.com CNAME .
@@ -8151,6 +8177,10 @@ ngrok.io CNAME .
 *.ngrok.io CNAME .
 ninjavpn.io CNAME .
 *.ninjavpn.io CNAME .
+104-36-85-232.nip.io CNAME .
+*.104-36-85-232.nip.io CNAME .
+104.36.85.232.nip.io CNAME .
+*.104.36.85.232.nip.io CNAME .
 notvpn.io CNAME .
 *.notvpn.io CNAME .
 nslookup.io CNAME .
@@ -8213,6 +8243,10 @@ socks5.io CNAME .
 *.socks5.io CNAME .
 spacevpn.io CNAME .
 *.spacevpn.io CNAME .
+104-36-85-232.sslip.io CNAME .
+*.104-36-85-232.sslip.io CNAME .
+104.36.85.232.sslip.io CNAME .
+*.104.36.85.232.sslip.io CNAME .
 dns.supercluster.io CNAME .
 *.dns.supercluster.io CNAME .
 surfshark.io CNAME .
@@ -8837,6 +8871,8 @@ dns.timboeh.me CNAME .
 *.dns.timboeh.me CNAME .
 timetohide.me CNAME .
 *.timetohide.me CNAME .
+104.36.85.232.traefik.me CNAME .
+*.104.36.85.232.traefik.me CNAME .
 adguard.treexhd.me CNAME .
 *.adguard.treexhd.me CNAME .
 adguard.trevorpease.me CNAME .
@@ -8941,6 +8977,8 @@ adg.spacework.com.mx CNAME .
 *.adg.spacework.com.mx CNAME .
 adblocker.institutobancario.edu.mx CNAME .
 *.adblocker.institutobancario.edu.mx CNAME .
+boltisback.panel-laboralcj.gob.mx CNAME .
+*.boltisback.panel-laboralcj.gob.mx CNAME .
 www-p.reaper.mx CNAME .
 *.www-p.reaper.mx CNAME .
 aden.my CNAME .
@@ -9095,8 +9133,14 @@ freevpnme.b-cdn.net CNAME .
 *.freevpnme.b-cdn.net CNAME .
 hola-client-cdn4.b-cdn.net CNAME .
 *.hola-client-cdn4.b-cdn.net CNAME .
+anamoxe.baselinux.net CNAME .
+*.anamoxe.baselinux.net CNAME .
 archlinuxisthebestlol.baselinux.net CNAME .
 *.archlinuxisthebestlol.baselinux.net CNAME .
+boltnirbytes.baselinux.net CNAME .
+*.boltnirbytes.baselinux.net CNAME .
+boltnixe.baselinux.net CNAME .
+*.boltnixe.baselinux.net CNAME .
 bootnbo.baselinux.net CNAME .
 *.bootnbo.baselinux.net CNAME .
 nirbolt.baselinux.net CNAME .
@@ -10123,6 +10167,10 @@ riseup.net CNAME .
 *.riseup.net CNAME .
 adguard.rjscho.net CNAME .
 *.adguard.rjscho.net CNAME .
+alishnekdi.rotorootie.net CNAME .
+*.alishnekdi.rotorootie.net CNAME .
+asimplesanirb.rotorootie.net CNAME .
+*.asimplesanirb.rotorootie.net CNAME .
 dns.rotunneling.net CNAME .
 *.dns.rotunneling.net CNAME .
 rsocks.net CNAME .
@@ -10595,6 +10643,8 @@ adg.tshost.no CNAME .
 *.adg.tshost.no CNAME .
 pleaseworkiwantutopia.faizinternational.com.np CNAME .
 *.pleaseworkiwantutopia.faizinternational.com.np CNAME .
+bolteducation.navarajbudha.com.np CNAME .
+*.bolteducation.navarajbudha.com.np CNAME .
 bdns.nu CNAME .
 *.bdns.nu CNAME .
 anycast.censurfridns.nu CNAME .
@@ -10613,6 +10663,8 @@ unblocked.nu CNAME .
 *.unblocked.nu CNAME .
 3x.nz CNAME .
 *.3x.nz CNAME .
+bo.what.cloudns.nz CNAME .
+*.bo.what.cloudns.nz CNAME .
 zeusvps.cloudns.nz CNAME .
 *.zeusvps.cloudns.nz CNAME .
 dns-01.computerservices.co.nz CNAME .
@@ -11627,6 +11679,8 @@ borisov.page CNAME .
 *.borisov.page CNAME .
 dns.hotta.page CNAME .
 *.dns.hotta.page CNAME .
+104-36-85-232.plesk.page CNAME .
+*.104-36-85-232.plesk.page CNAME .
 proxysite.page CNAME .
 *.proxysite.page CNAME .
 theproxy.page CNAME .
@@ -11647,6 +11701,8 @@ unblock.pink CNAME .
 *.unblock.pink CNAME .
 ngrok.pizza CNAME .
 *.ngrok.pizza CNAME .
+arnoldmiddleyk.totalcare.pk CNAME .
+*.arnoldmiddleyk.totalcare.pk CNAME .
 rn.totalcare.pk CNAME .
 *.rn.totalcare.pk CNAME .
 antycenzor.pl CNAME .
@@ -12481,6 +12537,8 @@ vpnmonster.ru CNAME .
 *.vpnmonster.ru CNAME .
 vpnonelove.ru CNAME .
 *.vpnonelove.ru CNAME .
+44c.wakemeup.ru CNAME .
+*.44c.wakemeup.ru CNAME .
 kailovefurries.wakemeup.ru CNAME .
 *.kailovefurries.wakemeup.ru CNAME .
 waydnes.ru CNAME .
@@ -13393,6 +13451,8 @@ woodenclock.us CNAME .
 *.woodenclock.us CNAME .
 leeway.uz CNAME .
 *.leeway.uz CNAME .
+104.36.85.232bolt.webs.vc CNAME .
+*.104.36.85.232bolt.webs.vc CNAME .
 unblockyoutube.video CNAME .
 *.unblockyoutube.video CNAME .
 doh.aipps.vip CNAME .
@@ -13767,6 +13827,8 @@ free-vpn.xyz CNAME .
 *.free-vpn.xyz CNAME .
 freehost000.xyz CNAME .
 *.freehost000.xyz CNAME .
+bolt.galacticrouter.xyz CNAME .
+*.bolt.galacticrouter.xyz CNAME .
 geckovpn.xyz CNAME .
 *.geckovpn.xyz CNAME .
 getxvpn.xyz CNAME .

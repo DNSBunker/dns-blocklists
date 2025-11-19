@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763515680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763558940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Nov 2025 01:28 UTC
-; Version: 2025.1119.0128.20
+; Last modified: 19 Nov 2025 13:29 UTC
+; Version: 2025.1119.1329.44
 ; Syntax: RPZ
-; Number of entries: 19082
+; Number of entries: 19104
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -769,6 +769,8 @@ tatt.at CNAME .
 *.tatt.at CNAME .
 links.thetravelbirds.at CNAME .
 *.links.thetravelbirds.at CNAME .
+tnyz.at CNAME .
+*.tnyz.at CNAME .
 tres.at CNAME .
 *.tres.at CNAME .
 twirl.at CNAME .
@@ -827,6 +829,8 @@ gracepoint.org.au CNAME .
 *.gracepoint.org.au CNAME .
 link.hxfb.org.au CNAME .
 *.link.hxfb.org.au CNAME .
+tiny.nextsense.org.au CNAME .
+*.tiny.nextsense.org.au CNAME .
 qrco.au CNAME .
 *.qrco.au CNAME .
 seby.au CNAME .
@@ -889,6 +893,8 @@ krdit.be CNAME .
 *.krdit.be CNAME .
 l-k.be CNAME .
 *.l-k.be CNAME .
+letx.be CNAME .
+*.letx.be CNAME .
 miniurl.be CNAME .
 *.miniurl.be CNAME .
 minu.be CNAME .
@@ -4483,6 +4489,8 @@ ikwer.com CNAME .
 *.ikwer.com CNAME .
 iligstein.com CNAME .
 *.iligstein.com CNAME .
+ilyadin.com CNAME .
+*.ilyadin.com CNAME .
 kutt.inarix.com CNAME .
 *.kutt.inarix.com CNAME .
 incises.com CNAME .
@@ -5349,6 +5357,8 @@ nynko.com CNAME .
 *.nynko.com CNAME .
 oblino.com CNAME .
 *.oblino.com CNAME .
+ocdlink.com CNAME .
+*.ocdlink.com CNAME .
 ocurto.com CNAME .
 *.ocurto.com CNAME .
 odinurl.com CNAME .
@@ -9043,6 +9053,8 @@ l24.im CNAME .
 *.l24.im CNAME .
 little.im CNAME .
 *.little.im CNAME .
+lnk2.im CNAME .
+*.lnk2.im CNAME .
 luis.im CNAME .
 *.luis.im CNAME .
 moo.im CNAME .
@@ -9955,6 +9967,8 @@ linkt.ink CNAME .
 *.linkt.ink CNAME .
 lionl.ink CNAME .
 *.lionl.ink CNAME .
+lnk2.ink CNAME .
+*.lnk2.ink CNAME .
 makemyl.ink CNAME .
 *.makemyl.ink CNAME .
 njfl.ink CNAME .
@@ -15209,6 +15223,8 @@ eby.onl CNAME .
 *.eby.onl CNAME .
 emp.onl CNAME .
 *.emp.onl CNAME .
+gooo.onl CNAME .
+*.gooo.onl CNAME .
 gourl.onl CNAME .
 *.gourl.onl CNAME .
 pin.onl CNAME .
@@ -15761,6 +15777,8 @@ oft.ovh CNAME .
 *.oft.ovh CNAME .
 quickshrink.ovh CNAME .
 *.quickshrink.ovh CNAME .
+r2c.ovh CNAME .
+*.r2c.ovh CNAME .
 rds.ovh CNAME .
 *.rds.ovh CNAME .
 short.ovh CNAME .
@@ -17667,6 +17685,8 @@ sy.to CNAME .
 *.sy.to CNAME .
 tak.to CNAME .
 *.tak.to CNAME .
+taps.to CNAME .
+*.taps.to CNAME .
 temu.to CNAME .
 *.temu.to CNAME .
 theurl.to CNAME .
@@ -18275,6 +18295,8 @@ hook2.us CNAME .
 *.hook2.us CNAME .
 idvip.us CNAME .
 *.idvip.us CNAME .
+impl.us CNAME .
+*.impl.us CNAME .
 incab.us CNAME .
 *.incab.us CNAME .
 iplwin.us CNAME .

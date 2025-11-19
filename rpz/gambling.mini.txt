@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763547840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763562420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Nov 2025 10:24 UTC
-; Version: 2025.1119.1024.18
+; Last modified: 19 Nov 2025 14:27 UTC
+; Version: 2025.1119.1427.14
 ; Syntax: RPZ
-; Number of entries: 87892
+; Number of entries: 87882
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -2296,8 +2296,6 @@ mu88.black CNAME .
 *.8xbet.blog CNAME .
 agen62a.blog CNAME .
 *.agen62a.blog CNAME .
-apex303gaming.blog CNAME .
-*.apex303gaming.blog CNAME .
 articqq123.blog CNAME .
 *.articqq123.blog CNAME .
 asiagaskeunbetrtp.blog CNAME .
@@ -35690,8 +35688,6 @@ mobilecasino9.com CNAME .
 *.mobilecasino9.com CNAME .
 mobilecasinolab.com CNAME .
 *.mobilecasinolab.com CNAME .
-mobilecasinomalaysia.com CNAME .
-*.mobilecasinomalaysia.com CNAME .
 mobilecasinoparty.com CNAME .
 *.mobilecasinoparty.com CNAME .
 mobilecasinoph.com CNAME .
@@ -47376,8 +47372,6 @@ udbetslots.com CNAME .
 *.udbetslots.com CNAME .
 udbetspin.com CNAME .
 *.udbetspin.com CNAME .
-udenlandskeonlinecasinoer.com CNAME .
-*.udenlandskeonlinecasinoer.com CNAME .
 uea8casinos.com CNAME .
 *.uea8casinos.com CNAME .
 uea8gaming.com CNAME .
@@ -71866,8 +71860,6 @@ thefreshcasino.site CNAME .
 *.thefreshcasino.site CNAME .
 tipsmx1001.site CNAME .
 *.tipsmx1001.site CNAME .
-titangaming303.site CNAME .
-*.titangaming303.site CNAME .
 tk88.site CNAME .
 *.tk88.site CNAME .
 to288.site CNAME .
@@ -82532,8 +82524,6 @@ hello-win.vip CNAME .
 *.hello-win.vip CNAME .
 hokiserbu4d.vip CNAME .
 *.hokiserbu4d.vip CNAME .
-hokispin.vip CNAME .
-*.hokispin.vip CNAME .
 idlix.vip CNAME .
 *.idlix.vip CNAME .
 iplwin.vip CNAME .

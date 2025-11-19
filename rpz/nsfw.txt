@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763547960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763562540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Nov 2025 10:26 UTC
-; Version: 2025.1119.1026.55
+; Last modified: 19 Nov 2025 14:29 UTC
+; Version: 2025.1119.1429.29
 ; Syntax: RPZ
-; Number of entries: 153820
+; Number of entries: 153814
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -5104,8 +5104,6 @@ bewlldaosp1dw.buzz CNAME .
 *.bewlldaosp1dw.buzz CNAME .
 bycoo.buzz CNAME .
 *.bycoo.buzz CNAME .
-dyfldh.buzz CNAME .
-*.dyfldh.buzz CNAME .
 eroticlab.buzz CNAME .
 *.eroticlab.buzz CNAME .
 folansexy.buzz CNAME .
@@ -8326,6 +8324,8 @@ pornpics.city CNAME .
 *.pornpics.city CNAME .
 pornvids.city CNAME .
 *.pornvids.city CNAME .
+segfault.city CNAME .
+*.segfault.city CNAME .
 sex-studentki.city CNAME .
 *.sex-studentki.city CNAME .
 sexy.city CNAME .
@@ -12082,8 +12082,6 @@ www2.3wisp.com CNAME .
 *.4based.com CNAME .
 4chan.com CNAME .
 *.4chan.com CNAME .
-4clubcams.com CNAME .
-*.4clubcams.com CNAME .
 4ebyt.com CNAME .
 *.4ebyt.com CNAME .
 4ertic.com CNAME .
@@ -20108,8 +20106,6 @@ blacksonasians.com CNAME .
 *.blacksonasians.com CNAME .
 blacksonblondes.com CNAME .
 *.blacksonblondes.com CNAME .
-blacksonblondescom.com CNAME .
-*.blacksonblondescom.com CNAME .
 blacksonmoms.com CNAME .
 *.blacksonmoms.com CNAME .
 blackstripshows.com CNAME .
@@ -56580,8 +56576,6 @@ patrolxxx.com CNAME .
 *.patrolxxx.com CNAME .
 pattaya-addicts.com CNAME .
 *.pattaya-addicts.com CNAME .
-pattiespage.com CNAME .
-*.pattiespage.com CNAME .
 paulcolichman.com CNAME .
 *.paulcolichman.com CNAME .
 pauli.com CNAME .
@@ -73126,8 +73120,6 @@ teensexdolls.com CNAME .
 *.teensexdolls.com CNAME .
 teensexgold.com CNAME .
 *.teensexgold.com CNAME .
-teensexlive.com CNAME .
-*.teensexlive.com CNAME .
 teensexmania.com CNAME .
 *.teensexmania.com CNAME .
 teensexmovs.com CNAME .
@@ -73400,8 +73392,6 @@ ter.com CNAME .
 *.ter.com CNAME .
 terababes.com CNAME .
 *.terababes.com CNAME .
-teranishikenagaya.com CNAME .
-*.teranishikenagaya.com CNAME .
 terapatrick.com CNAME .
 *.terapatrick.com CNAME .
 terapigayrimenkul.com CNAME .
@@ -94090,6 +94080,8 @@ kavyasharma.in CNAME .
 *.kavyasharma.in CNAME .
 kcfc.in CNAME .
 *.kcfc.in CNAME .
+keisha.in CNAME .
+*.keisha.in CNAME .
 khanika.in CNAME .
 *.khanika.in CNAME .
 kimy.in CNAME .
@@ -97188,6 +97180,8 @@ ff-f.itch.io CNAME .
 *.ff-f.itch.io CNAME .
 fierylion.itch.io CNAME .
 *.fierylion.itch.io CNAME .
+fnia-studios.itch.io CNAME .
+*.fnia-studios.itch.io CNAME .
 fouzi94.itch.io CNAME .
 *.fouzi94.itch.io CNAME .
 frostworks.itch.io CNAME .
@@ -97248,6 +97242,8 @@ jitd.itch.io CNAME .
 *.jitd.itch.io CNAME .
 jonesy75.itch.io CNAME .
 *.jonesy75.itch.io CNAME .
+jonnymelabo.itch.io CNAME .
+*.jonnymelabo.itch.io CNAME .
 josilver.itch.io CNAME .
 *.josilver.itch.io CNAME .
 jubeigames.itch.io CNAME .
@@ -97360,6 +97356,8 @@ mushi.itch.io CNAME .
 *.mushi.itch.io CNAME .
 mystica-erotica.itch.io CNAME .
 *.mystica-erotica.itch.io CNAME .
+nadianova.itch.io CNAME .
+*.nadianova.itch.io CNAME .
 nandibear.itch.io CNAME .
 *.nandibear.itch.io CNAME .
 narurinya.itch.io CNAME .
@@ -99148,8 +99146,6 @@ zrelki.link CNAME .
 *.3xxx.live CNAME .
 4tube.live CNAME .
 *.4tube.live CNAME .
-52yuanwei.live CNAME .
-*.52yuanwei.live CNAME .
 abbdsm.live CNAME .
 *.abbdsm.live CNAME .
 abxxx.live CNAME .
@@ -113098,8 +113094,6 @@ porno-lom.one CNAME .
 *.porno-lom.one CNAME .
 porno-na-telefon.one CNAME .
 *.porno-na-telefon.one CNAME .
-pornofilmy.one CNAME .
-*.pornofilmy.one CNAME .
 pornofotki.one CNAME .
 *.pornofotki.one CNAME .
 pornofoto.one CNAME .
