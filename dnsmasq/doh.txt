@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Nov 2025 14:35 UTC
-# Version: 2025.1117.1435.55
+# Last modified: 20 Nov 2025 10:30 UTC
+# Version: 2025.1120.1030.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3359
+# Number of entries: 3360
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2163,6 +2163,7 @@ local=/agh-jkt.santainetwork.my.id/
 local=/agh1.server.my.id/
 local=/agh2.server.my.id/
 local=/agh3.server.my.id/
+local=/dns1.server.my.id/
 local=/dns.velyn.my.id/
 local=/dns.vmath.my.id/
 local=/vds2380673.my-ihor.ru/

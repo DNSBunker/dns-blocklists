@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Nov 2025 06:32 UTC
-# Version: 2025.1120.0632.41
+# Last modified: 20 Nov 2025 10:31 UTC
+# Version: 2025.1120.1031.26
 # Syntax: Domains (without subdomains)
-# Number of entries: 7022
+# Number of entries: 7023
 #
 ss.0001.xyz
 003153.xyz
@@ -3534,6 +3534,7 @@ agh-jkt.santainetwork.my.id
 agh1.server.my.id
 agh2.server.my.id
 agh3.server.my.id
+dns1.server.my.id
 dns.velyn.my.id
 dns.vmath.my.id
 ssl-proxy.my-addr.com
