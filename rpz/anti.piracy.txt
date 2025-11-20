@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763547840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763619960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Nov 2025 10:24 UTC
-; Version: 2025.1119.1024.41
+; Last modified: 20 Nov 2025 06:26 UTC
+; Version: 2025.1120.0626.13
 ; Syntax: RPZ
 ; Number of entries: 23054
 ;
@@ -8512,8 +8512,6 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
-tracker-de-2.cutie.dating CNAME .
-*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
@@ -19510,6 +19508,8 @@ yts.st CNAME .
 *.yts.st CNAME .
 androeed.store CNAME .
 *.androeed.store CNAME .
+tracker.cloudbase.store CNAME .
+*.tracker.cloudbase.store CNAME .
 guardaserie.store CNAME .
 *.guardaserie.store CNAME .
 tracker.healthcareindia.store CNAME .

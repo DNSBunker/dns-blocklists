@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Nov 2025 22:33 UTC
-# Version: 2025.1119.2233.36
+# Last modified: 20 Nov 2025 06:32 UTC
+# Version: 2025.1120.0632.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7023
+# Number of entries: 7022
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1428,7 +1428,6 @@ local=/doh.denypradana.com/
 local=/adguard.depieri.net/
 local=/deproxyserver.com/
 local=/adguard.dervart.ru/
-local=/desec.io/
 local=/desertsand.us/
 local=/adguard.lege.despagne.net/
 local=/adguard.rennes.despagne.net/

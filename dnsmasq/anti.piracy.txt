@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Nov 2025 10:24 UTC
-# Version: 2025.1119.1024.41
+# Last modified: 20 Nov 2025 06:26 UTC
+# Version: 2025.1120.0626.13
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 11527
 #
@@ -2007,6 +2007,7 @@ local=/clipmovie.org/
 local=/clonebits.org/
 local=/clonehub.org/
 local=/cloudatacdn.com/
+local=/tracker.cloudbase.store/
 local=/cloudblink91.xyz/
 local=/cloudboxes.io/
 local=/cloudtorrents.com/
@@ -2366,7 +2367,6 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
-local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/

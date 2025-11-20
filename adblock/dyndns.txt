@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Nov 2025 10:29 UTC
-! Version: 2025.1119.1029.58
+! Last modified: 20 Nov 2025 06:31 UTC
+! Version: 2025.1120.0631.20
 ! Syntax: AdBlock
-! Number of entries: 1471
+! Number of entries: 1472
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -281,6 +281,7 @@
 ||dedyn.io^
 ||demosoftonline.com^
 ||demoteam.ch^
+||desec.io^
 ||dh3.com^
 ||dhcp.biz^
 ||dhis.org^
