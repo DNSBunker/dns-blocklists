@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 19 Nov 2025 10:30 UTC
-! Version: 2025.1119.1030.47
+! Last modified: 21 Nov 2025 10:32 UTC
+! Version: 2025.1121.1032.20
 ! Syntax: AdBlock
-! Number of entries: 796
+! Number of entries: 794
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -349,7 +349,6 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
-||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -530,7 +529,6 @@
 ||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
-||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^

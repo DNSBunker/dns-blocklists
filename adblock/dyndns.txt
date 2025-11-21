@@ -6,8 +6,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Nov 2025 06:31 UTC
-! Version: 2025.1120.0631.20
+! Last modified: 21 Nov 2025 10:31 UTC
+! Version: 2025.1121.1031.17
 ! Syntax: AdBlock
 ! Number of entries: 1472
 !
@@ -413,6 +413,7 @@
 ||dyndns-free.com^
 ||dyndns-home.com^
 ||dyndns-ip.com^
+||dyndns-ip.org^
 ||dyndns-mail.com^
 ||dyndns-office.com^
 ||dyndns-pics.com^
@@ -1126,7 +1127,6 @@
 ||planetdns.ca^
 ||planetdns.net^
 ||play.ai^
-||plex.direct^
 ||plwgroup.com^
 ||pntl.tl^
 ||podzone.net^

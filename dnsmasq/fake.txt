@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Nov 2025 09:26 UTC
-# Version: 2025.1119.0926.38
+# Last modified: 21 Nov 2025 09:27 UTC
+# Version: 2025.1121.0927.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14180
+# Number of entries: 14183
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -111,7 +111,6 @@ local=/acastleinthesun.com/
 local=/accbulk.com/
 local=/accelerateg.com/
 local=/acceleratet.com/
-local=/acceptablt.com/
 local=/log.acces-btpanda.com/
 local=/access-eurnxt.com/
 local=/accessoiresrabatt.com/
@@ -1267,6 +1266,7 @@ local=/bemyo.xyz/
 local=/bender-baumarkt.com/
 local=/bendoffice.com/
 local=/beneathk.com/
+local=/beneficialx.com/
 local=/benefitw.com/
 local=/benettonaustria.at/
 local=/benjamin-scheuer.de/
@@ -2634,6 +2634,7 @@ local=/pellet-bio.company.site/
 local=/pellet-ecos.company.site/
 local=/comparatiq.com/
 local=/comparisonp.com/
+local=/compensair.com/
 local=/competitiog.com/
 local=/compixa-shop.de/
 local=/complemeny.com/
@@ -2750,7 +2751,6 @@ local=/cozygea.shop/
 local=/cozyhoome.com/
 local=/cozyixe.com/
 local=/cozysleepzone.com/
-local=/cp24.pl/
 local=/cpket.com/
 local=/cpopnow.com/
 local=/cqqodsports.com/
@@ -2859,6 +2859,7 @@ local=/cutcy.com/
 local=/cutlerymarkets.com/
 local=/cutterfarm.de/
 local=/cvc-capital-partners.com/
+local=/cvmaker.de/
 local=/cvneed.com/
 local=/cwl-experts.org/
 local=/cyber-haus.de/
@@ -6223,6 +6224,7 @@ local=/huck24.com/
 local=/hudyrc.com/
 local=/huelstamoebelhaus.com/
 local=/huewi.xyz/
+local=/hugetsky.com/
 local=/hugfirst.com/
 local=/hugoverkauf.de/
 local=/huiiltn.shop/
@@ -6615,6 +6617,7 @@ local=/iuzero.com/
 local=/ivacuum.de/
 local=/ivannd.com/
 local=/ivaramode.com/
+local=/ivyever.com/
 local=/ix-consulting.de/
 local=/ixdoh.shop/
 local=/ixxen.com/

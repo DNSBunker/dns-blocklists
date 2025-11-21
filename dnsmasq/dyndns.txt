@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Nov 2025 06:31 UTC
-# Version: 2025.1120.0631.20
+# Last modified: 21 Nov 2025 10:31 UTC
+# Version: 2025.1121.1031.17
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1472
 #
@@ -412,6 +412,7 @@ local=/dyndns-blog.com/
 local=/dyndns-free.com/
 local=/dyndns-home.com/
 local=/dyndns-ip.com/
+local=/dyndns-ip.org/
 local=/dyndns-mail.com/
 local=/dyndns-office.com/
 local=/dyndns-pics.com/
@@ -1125,7 +1126,6 @@ local=/pixelfucker.com/
 local=/planetdns.ca/
 local=/planetdns.net/
 local=/play.ai/
-local=/plex.direct/
 local=/plwgroup.com/
 local=/pntl.tl/
 local=/podzone.net/

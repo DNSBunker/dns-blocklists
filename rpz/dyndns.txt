@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763620260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763721060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Nov 2025 06:31 UTC
-; Version: 2025.1120.0631.20
+; Last modified: 21 Nov 2025 10:31 UTC
+; Version: 2025.1121.1031.17
 ; Syntax: RPZ
 ; Number of entries: 2944
 ;
@@ -1588,8 +1588,6 @@ xddns.de CNAME .
 *.xddns.de CNAME .
 myaddr.dev CNAME .
 *.myaddr.dev CNAME .
-plex.direct CNAME .
-*.plex.direct CNAME .
 joe.dj CNAME .
 *.joe.dj CNAME .
 dyndns.dk CNAME .
@@ -2394,6 +2392,8 @@ dynalias.org CNAME .
 *.dynalias.org CNAME .
 dyndns.org CNAME .
 *.dyndns.org CNAME .
+dyndns-ip.org CNAME .
+*.dyndns-ip.org CNAME .
 dynip.org CNAME .
 *.dynip.org CNAME .
 dynserv.org CNAME .

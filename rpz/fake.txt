@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763544360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763717220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Nov 2025 09:26 UTC
-; Version: 2025.1119.0926.38
+; Last modified: 21 Nov 2025 09:27 UTC
+; Version: 2025.1121.0927.30
 ; Syntax: RPZ
-; Number of entries: 28360
+; Number of entries: 28366
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1770,8 +1770,6 @@ accelerateg.com CNAME .
 *.accelerateg.com CNAME .
 acceleratet.com CNAME .
 *.acceleratet.com CNAME .
-acceptablt.com CNAME .
-*.acceptablt.com CNAME .
 log.acces-btpanda.com CNAME .
 *.log.acces-btpanda.com CNAME .
 access-eurnxt.com CNAME .
@@ -3104,6 +3102,8 @@ bendoffice.com CNAME .
 *.bendoffice.com CNAME .
 beneathk.com CNAME .
 *.beneathk.com CNAME .
+beneficialx.com CNAME .
+*.beneficialx.com CNAME .
 benefitw.com CNAME .
 *.benefitw.com CNAME .
 benzinkanistertrichter.com CNAME .
@@ -4602,6 +4602,8 @@ comparatiq.com CNAME .
 *.comparatiq.com CNAME .
 comparisonp.com CNAME .
 *.comparisonp.com CNAME .
+compensair.com CNAME .
+*.compensair.com CNAME .
 competitiog.com CNAME .
 *.competitiog.com CNAME .
 complemeny.com CNAME .
@@ -8576,6 +8578,8 @@ hudyrc.com CNAME .
 *.hudyrc.com CNAME .
 huelstamoebelhaus.com CNAME .
 *.huelstamoebelhaus.com CNAME .
+hugetsky.com CNAME .
+*.hugetsky.com CNAME .
 hugfirst.com CNAME .
 *.hugfirst.com CNAME .
 huismeubilair.com CNAME .
@@ -9016,6 +9020,8 @@ ivannd.com CNAME .
 *.ivannd.com CNAME .
 ivaramode.com CNAME .
 *.ivaramode.com CNAME .
+ivyever.com CNAME .
+*.ivyever.com CNAME .
 ixxen.com CNAME .
 *.ixxen.com CNAME .
 izidiscount.com CNAME .
@@ -18756,6 +18762,8 @@ curvedream.de CNAME .
 *.curvedream.de CNAME .
 cutterfarm.de CNAME .
 *.cutterfarm.de CNAME .
+cvmaker.de CNAME .
+*.cvmaker.de CNAME .
 cyber-haus.de CNAME .
 *.cyber-haus.de CNAME .
 cz-parts.de CNAME .
@@ -25978,8 +25986,6 @@ baseballoutlet.pl CNAME .
 *.baseballoutlet.pl CNAME .
 butyveja.pl CNAME .
 *.butyveja.pl CNAME .
-cp24.pl CNAME .
-*.cp24.pl CNAME .
 ctbike.pl CNAME .
 *.ctbike.pl CNAME .
 eccooutletsklep.pl CNAME .
