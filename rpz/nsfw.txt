@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763752440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763764140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Nov 2025 19:14 UTC
-; Version: 2025.1121.1914.02
+; Last modified: 21 Nov 2025 22:29 UTC
+; Version: 2025.1121.2229.47
 ; Syntax: RPZ
-; Number of entries: 152246
+; Number of entries: 152242
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -76660,8 +76660,6 @@ upskirtcollection.com CNAME .
 *.upskirtcollection.com CNAME .
 upskirts.com CNAME .
 *.upskirts.com CNAME .
-upskirtsmania.com CNAME .
-*.upskirtsmania.com CNAME .
 upslut.com CNAME .
 *.upslut.com CNAME .
 upspermits.com CNAME .
@@ -112320,8 +112318,6 @@ voyeurporn.one CNAME .
 *.voyeurporn.one CNAME .
 webcam-telefonsex.one CNAME .
 *.webcam-telefonsex.one CNAME .
-weightlossjourney.one CNAME .
-*.weightlossjourney.one CNAME .
 wwwxnxxcom.one CNAME .
 *.wwwxnxxcom.one CNAME .
 xart.one CNAME .
@@ -132216,8 +132212,6 @@ undresswith.tools CNAME .
 *.3401020waxsexcntr733.top CNAME .
 3indo3gp.top CNAME .
 *.3indo3gp.top CNAME .
-4jpg.top CNAME .
-*.4jpg.top CNAME .
 4kporn.top CNAME .
 *.4kporn.top CNAME .
 4vid.top CNAME .
@@ -138424,6 +138418,8 @@ allstarsescorts.co.uk CNAME .
 *.allstarsescorts.co.uk CNAME .
 almaescorts.co.uk CNAME .
 *.almaescorts.co.uk CNAME .
+amateurhour.co.uk CNAME .
+*.amateurhour.co.uk CNAME .
 ameliesartwestsussex.co.uk CNAME .
 *.ameliesartwestsussex.co.uk CNAME .
 amourmassage.co.uk CNAME .

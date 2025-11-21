@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Nov 2025 18:51 UTC
-# Version: 2025.1121.1851.38
+# Last modified: 21 Nov 2025 22:05 UTC
+# Version: 2025.1121.2205.22
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 88412
+# Number of entries: 88436
 #
 0.0.0.0 00055edc1917.com
 0.0.0.0 000free.us
@@ -22920,7 +22920,6 @@
 0.0.0.0 bbd-tag.de
 0.0.0.0 bbe9fd3a5b168a04.top
 0.0.0.0 bbelements.com
-0.0.0.0 eu.bbelements.com
 0.0.0.0 bbf0eece76.com
 0.0.0.0 bbfa2a26bb.top
 0.0.0.0 bbj3nb.ru
@@ -30137,6 +30136,7 @@
 0.0.0.0 catmos99.com
 0.0.0.0 yf.catoniclukemia.top
 0.0.0.0 catpchat-bot.site
+0.0.0.0 catpchatbots.space
 0.0.0.0 catptchat-bots.online
 0.0.0.0 catschickens.com
 0.0.0.0 catsnbootsncats2020.com
@@ -31797,6 +31797,7 @@
 0.0.0.0 cntxcdm.com
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
+0.0.0.0 cnwucnf.top
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 ei.cnzz.com
@@ -35941,6 +35942,7 @@
 0.0.0.0 deep.bi
 0.0.0.0 api.deep.bi
 0.0.0.0 scoring.deep.bi
+0.0.0.0 deep-crash.com
 0.0.0.0 telemetry.deeparc.net
 0.0.0.0 deeperregardingcontend.com
 0.0.0.0 analytics.deepfakeporn.net
@@ -42725,6 +42727,7 @@
 0.0.0.0 easysexe.com
 0.0.0.0 detectca.easysol.net
 0.0.0.0 easytomessage.com
+0.0.0.0 eatcells.com
 0.0.0.0 eatnlqrmbmky.com
 0.0.0.0 securetracking.eaton.com
 0.0.0.0 target.eaton.com
@@ -45065,7 +45068,6 @@
 0.0.0.0 fidel-itybilci.shop
 0.0.0.0 fidel-itydydis.shop
 0.0.0.0 fidel-ityreukl.shop
-0.0.0.0 fideliltyadvicb.cyou
 0.0.0.0 fctms.fidelity.com
 0.0.0.0 metrics.fidelity.com
 0.0.0.0 fidelity-media.com
@@ -45120,6 +45122,7 @@
 0.0.0.0 filasofighit.com
 0.0.0.0 file-file-host4.com
 0.0.0.0 www.file-file-host4.com
+0.0.0.0 file480102.icu
 0.0.0.0 filecamedistrustuldistrustul.com
 0.0.0.0 smetrics.filemaker.com
 0.0.0.0 analytics.filen.io
@@ -47149,6 +47152,7 @@
 0.0.0.0 analytics.getlimy.ai
 0.0.0.0 posthog-prod.getlimy.ai
 0.0.0.0 analytics.getlisten2it.com
+0.0.0.0 getlowdown.com
 0.0.0.0 getmacos.org
 0.0.0.0 tracking.getmailbird.com
 0.0.0.0 getmari.com
@@ -49634,6 +49638,7 @@
 0.0.0.0 ahtas.guess.com
 0.0.0.0 guesswhatnews.com
 0.0.0.0 guest-globalpend.com
+0.0.0.0 guest-housecheck.com
 0.0.0.0 guest495813-hotel.com
 0.0.0.0 jrucbb.guestreservations.com
 0.0.0.0 gufteerdom.net
@@ -51658,6 +51663,7 @@
 0.0.0.0 id-visitors.com
 0.0.0.0 frontend.id-visitors.com
 0.0.0.0 id-ward.com
+0.0.0.0 id4891021.icu
 0.0.0.0 id5-sync.com
 0.0.0.0 api.id5-sync.com
 0.0.0.0 cdn.id5-sync.com
@@ -54398,6 +54404,7 @@
 0.0.0.0 www.jkozcaswi.com
 0.0.0.0 jkshb.su
 0.0.0.0 www.jkshb.su
+0.0.0.0 jkt338.top
 0.0.0.0 jl368.cn
 0.0.0.0 jl63v3fp1.com
 0.0.0.0 jlbwdhnrmm.space
@@ -55045,7 +55052,6 @@
 0.0.0.0 yxsu5ufd2m.kameleoon.eu
 0.0.0.0 yz29dh2uhe.kameleoon.eu
 0.0.0.0 z58zc7lpsv.kameleoon.eu
-0.0.0.0 zp97jbfxnv.kameleoon.eu
 0.0.0.0 ztaayjgdzf.kameleoon.eu
 0.0.0.0 kamianlworaider.com
 0.0.0.0 kaminari.space
@@ -55645,8 +55651,11 @@
 0.0.0.0 kqxomdlv.com
 0.0.0.0 kqyjyxyjpuiqr.website
 0.0.0.0 tracking-live.kr3m.com
+0.0.0.0 kra---45-----cc.ru
 0.0.0.0 kra-43-cc-c.ru
 0.0.0.0 kra4-4cc.ru
+0.0.0.0 kra43----------cc.ru
+0.0.0.0 kra44-at-at.ru
 0.0.0.0 kra44-cc-general.ru
 0.0.0.0 kra44-cc-yandex.ru
 0.0.0.0 kra45--c-c.ru
@@ -57076,6 +57085,7 @@
 0.0.0.0 app.livechatoo.com
 0.0.0.0 liveclicker.net
 0.0.0.0 sc.liveclicker.net
+0.0.0.0 livecongquyo.digital
 0.0.0.0 livedarknet.com
 0.0.0.0 counter2.blog.livedoor.com
 0.0.0.0 t.blog.livedoor.jp
@@ -57514,6 +57524,7 @@
 0.0.0.0 lqmnwoq.cc
 0.0.0.0 lqnmanyvddqmikh.com
 0.0.0.0 lqsuuke.cc
+0.0.0.0 lqyumiiv8zph9l2b169kjhlbyruprlhb.rest
 0.0.0.0 lr-in.com
 0.0.0.0 cdn.lr-in.com
 0.0.0.0 r.lr-in.com
@@ -57744,6 +57755,7 @@
 0.0.0.0 lvnskin.com
 0.0.0.0 www.lvnskin.com
 0.0.0.0 lvojjaymerayy.top
+0.0.0.0 lvq3m854zb6mjk4ey9f7j8bitk2wjpxv4izrxp.cfd
 0.0.0.0 lvturbo.com
 0.0.0.0 lvyrokjbvvylq.top
 0.0.0.0 lwadm.com
@@ -62729,6 +62741,7 @@
 0.0.0.0 nightlifemumbai.club
 0.0.0.0 www.nightlifemumbai.club
 0.0.0.0 nightsclotheshazardous.com
+0.0.0.0 nihyfao.com
 0.0.0.0 events.niit-mts.com
 0.0.0.0 nik.io
 0.0.0.0 fc.nikauunchurn.top
@@ -64617,6 +64630,7 @@
 0.0.0.0 analytics.onlinekhabar.com
 0.0.0.0 onlineporno.fun
 0.0.0.0 onlinepuonline.com
+0.0.0.0 onlineragged.com
 0.0.0.0 onlinesalespro.com
 0.0.0.0 onlinesucces.nl
 0.0.0.0 onlinetopchoice.com
@@ -66552,6 +66566,11 @@
 0.0.0.0 utiq.pcgameshardware.de
 0.0.0.0 piwik.pcgamingwiki.com
 0.0.0.0 pcgjhkjh.com
+0.0.0.0 pchelpsoft.com
+0.0.0.0 cloud.pchelpsoft.com
+0.0.0.0 inapp.pchelpsoft.com
+0.0.0.0 offers.pchelpsoft.com
+0.0.0.0 www.pchelpsoft.com
 0.0.0.0 pcixo.com
 0.0.0.0 pcjiami.cn
 0.0.0.0 pckyyzvwavrqa.site
@@ -71025,7 +71044,6 @@
 0.0.0.0 reliz.com
 0.0.0.0 imp.reliz.com
 0.0.0.0 relmaxtop.com
-0.0.0.0 reloaday.com
 0.0.0.0 reluctantlygracefulcabinet.com
 0.0.0.0 remainmother.com
 0.0.0.0 remarketstats.com
@@ -73463,6 +73481,8 @@
 0.0.0.0 9145.searchmagnified.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 tracking.searchmarketing.com
+0.0.0.0 searchmarquis.com
+0.0.0.0 www.searchmarquis.com
 0.0.0.0 searchmaven.co
 0.0.0.0 searchnowexpert.com
 0.0.0.0 searchresultsworld.com
@@ -74251,6 +74271,7 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
+0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shephazigry.com
@@ -77307,7 +77328,6 @@
 0.0.0.0 steadfastsystem.com
 0.0.0.0 analytics.stealthcopter.com
 0.0.0.0 steam-account.ru
-0.0.0.0 steam-auth.ru
 0.0.0.0 steamabundanceslope.com
 0.0.0.0 steamconmunmity.cfd
 0.0.0.0 steamproxy.net
@@ -78453,6 +78473,7 @@
 0.0.0.0 sgtm.talkspace.com
 0.0.0.0 ads.talksport.com
 0.0.0.0 tallatesics.top
+0.0.0.0 talonedveldman.rest
 0.0.0.0 tame-discount.pro
 0.0.0.0 tamedia.click
 0.0.0.0 tamgrt.com
@@ -82675,7 +82696,6 @@
 0.0.0.0 update-whatsapp.app
 0.0.0.0 updatechromeday.info
 0.0.0.0 updatedevice-trezor.com
-0.0.0.0 updateinfonovemberidguest.com
 0.0.0.0 updatemetod.com
 0.0.0.0 updatephone.club
 0.0.0.0 updaterputty.com
@@ -83288,6 +83308,8 @@
 0.0.0.0 analytics.vbb.de
 0.0.0.0 vbcojhroxkoaf.online
 0.0.0.0 vbdsipuitffzm.store
+0.0.0.0 vbeeeleyevway.top
+0.0.0.0 vbellr.icu
 0.0.0.0 vbetua1.com
 0.0.0.0 vbgozauquju.store
 0.0.0.0 vboro.de
@@ -83581,6 +83603,8 @@
 0.0.0.0 www.viagogo.se
 0.0.0.0 viagrasamplesfrompfizer.com
 0.0.0.0 viagrawinner.com
+0.0.0.0 vialotadom.com
+0.0.0.0 ak.vialotadom.com
 0.0.0.0 vialsxcvpe.xyz
 0.0.0.0 vianboaegiaed.website
 0.0.0.0 viantinc.com
@@ -86108,6 +86132,7 @@
 0.0.0.0 workplaceanticipatedtribe.com
 0.0.0.0 workplacecakefaculty.com
 0.0.0.0 workroomnimble.com
+0.0.0.0 workshopinfocollection.com
 0.0.0.0 workshopmodforge.com
 0.0.0.0 workshopmodsrelease.com
 0.0.0.0 workshopskinforge.com
@@ -87660,7 +87685,6 @@
 0.0.0.0 yudvl.org
 0.0.0.0 yufazdblrfsjvrfeonui.space
 0.0.0.0 yufxt.top
-0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com
