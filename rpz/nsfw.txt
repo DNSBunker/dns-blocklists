@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763764140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763778540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Nov 2025 22:29 UTC
-; Version: 2025.1121.2229.47
+; Last modified: 22 Nov 2025 02:29 UTC
+; Version: 2025.1122.0229.28
 ; Syntax: RPZ
-; Number of entries: 152242
+; Number of entries: 152236
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -28812,8 +28812,6 @@ editionsdespetitsexplorateurs.com CNAME .
 *.editionsdespetitsexplorateurs.com CNAME .
 edmedsale.com CNAME .
 *.edmedsale.com CNAME .
-edpodolak.com CNAME .
-*.edpodolak.com CNAME .
 edpowers.com CNAME .
 *.edpowers.com CNAME .
 educacaosexualnaescola.com CNAME .
@@ -81678,8 +81676,6 @@ xxxclubporn.com CNAME .
 *.xxxclubporn.com CNAME .
 xxxcollision.com CNAME .
 *.xxxcollision.com CNAME .
-xxxcom1.com CNAME .
-*.xxxcom1.com CNAME .
 xxxcomicsporn.com CNAME .
 *.xxxcomicsporn.com CNAME .
 xxxcongresoaseguradores.com CNAME .
@@ -99424,6 +99420,8 @@ adultsearch.me CNAME .
 *.adultsearch.me CNAME .
 ahacdn.me CNAME .
 *.ahacdn.me CNAME .
+alinha.me CNAME .
+*.alinha.me CNAME .
 allgirlsflash.me CNAME .
 *.allgirlsflash.me CNAME .
 alohaporn.me CNAME .
@@ -111702,8 +111700,6 @@ bussexpressen.no CNAME .
 *.bussexpressen.no CNAME .
 catpeople.no CNAME .
 *.catpeople.no CNAME .
-cha.no CNAME .
-*.cha.no CNAME .
 dios.no CNAME .
 *.dios.no CNAME .
 eskortejenter.no CNAME .
@@ -143926,8 +143922,6 @@ cnhub.xyz CNAME .
 *.cnhub.xyz CNAME .
 cnia.xyz CNAME .
 *.cnia.xyz CNAME .
-coinbasex.xyz CNAME .
-*.coinbasex.xyz CNAME .
 coinsexchange.xyz CNAME .
 *.coinsexchange.xyz CNAME .
 collectiblesexchange.xyz CNAME .

@@ -55,6 +55,7 @@ https://hosts.tweedge.net/malicious.txt
 https://lists.cyberhost.uk/malware.txt
 https://nsfw.oisd.nl
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+https://phish.co.za/latest/phishing-domains-ACTIVE.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing-filter.pages.dev/phishing-filter-hosts.txt
 https://phish.sinking.yachts/v2/text

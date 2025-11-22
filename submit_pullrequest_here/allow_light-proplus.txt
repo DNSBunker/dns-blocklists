@@ -1,5 +1,8 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/8079
+ssai.gumgum.com
+
 # https://github.com/hagezi/dns-blocklists/issues/7968
 tnc16-normal-ycru.tiktokv.com
 
