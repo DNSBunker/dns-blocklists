@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763893560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763922300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Nov 2025 10:26 UTC
-; Version: 2025.1123.1026.25
+; Last modified: 23 Nov 2025 18:25 UTC
+; Version: 2025.1123.1825.54
 ; Syntax: RPZ
-; Number of entries: 22710
+; Number of entries: 22708
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6574,8 +6574,6 @@ ryjer.com CNAME .
 *.ryjer.com CNAME .
 ryuanime.com CNAME .
 *.ryuanime.com CNAME .
-s-telecharger.com CNAME .
-*.s-telecharger.com CNAME .
 s0ft4pc.com CNAME .
 *.s0ft4pc.com CNAME .
 s4softwares.com CNAME .

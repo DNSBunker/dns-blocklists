@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763908140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763922420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Nov 2025 14:29 UTC
-; Version: 2025.1123.1429.50
+; Last modified: 23 Nov 2025 18:27 UTC
+; Version: 2025.1123.1827.57
 ; Syntax: RPZ
-; Number of entries: 151594
+; Number of entries: 151588
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -2484,6 +2484,8 @@ mamashki.best CNAME .
 *.mamashki.best CNAME .
 mexicanas.best CNAME .
 *.mexicanas.best CNAME .
+pinayflix.best CNAME .
+*.pinayflix.best CNAME .
 piss.best CNAME .
 *.piss.best CNAME .
 porn300.best CNAME .
@@ -52720,8 +52722,6 @@ nastycarsex.com CNAME .
 *.nastycarsex.com CNAME .
 nastydirectory.com CNAME .
 *.nastydirectory.com CNAME .
-nastygayporn.com CNAME .
-*.nastygayporn.com CNAME .
 nastyhookups.com CNAME .
 *.nastyhookups.com CNAME .
 nastykinkpigs.com CNAME .
@@ -72996,8 +72996,6 @@ theductsexperts.com CNAME .
 *.theductsexperts.com CNAME .
 thedunamisexperience.com CNAME .
 *.thedunamisexperience.com CNAME .
-theemosex.com CNAME .
-*.theemosex.com CNAME .
 theenglishmansion.com CNAME .
 *.theenglishmansion.com CNAME .
 theenhancedmale.com CNAME .
@@ -81744,8 +81742,6 @@ xxxhotwife.com CNAME .
 *.xxxhotwife.com CNAME .
 xxxhub123.com CNAME .
 *.xxxhub123.com CNAME .
-xxxi69.com CNAME .
-*.xxxi69.com CNAME .
 xxxified.com CNAME .
 *.xxxified.com CNAME .
 xxxignitions.com CNAME .
@@ -83678,6 +83674,8 @@ bokepsin.cv CNAME .
 *.bokepsin.cv CNAME .
 drbokep.cv CNAME .
 *.drbokep.cv CNAME .
+pinayflix.cv CNAME .
+*.pinayflix.cv CNAME .
 subjav.cv CNAME .
 *.subjav.cv CNAME .
 brunettes.cx CNAME .
@@ -86356,8 +86354,6 @@ soulvalencia.es CNAME .
 *.soulvalencia.es CNAME .
 sweetcollection.es CNAME .
 *.sweetcollection.es CNAME .
-tabloide.es CNAME .
-*.tabloide.es CNAME .
 tatuadas.es CNAME .
 *.tatuadas.es CNAME .
 thaispamassage.es CNAME .
@@ -87998,8 +87994,6 @@ doramy.fun CNAME .
 *.doramy.fun CNAME .
 dropmms.fun CNAME .
 *.dropmms.fun CNAME .
-ebunok.fun CNAME .
-*.ebunok.fun CNAME .
 emdasexpressogoias.fun CNAME .
 *.emdasexpressogoias.fun CNAME .
 emitirguiasexpressago.fun CNAME .
