@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Nov 2025 10:31 UTC
-# Version: 2025.1121.1031.17
+# Last modified: 23 Nov 2025 02:32 UTC
+# Version: 2025.1123.0232.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1472
+# Number of entries: 1468
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -288,7 +288,6 @@ local=/dhs.org/
 local=/didns.ru/
 local=/digikabel.hu/
 local=/digitalgroupe.com/
-local=/dip.jp/
 local=/ditchyourip.com/
 local=/divx.se/
 local=/diyplans.org/
@@ -388,7 +387,6 @@ local=/dynalias.org/
 local=/dynamai.com/
 local=/dynamic.domains/
 local=/dynamic-dns.net/
-local=/dynamic-dns.us/
 local=/dynamic-m.com/
 local=/dynamic-site.net/
 local=/dynamicdns.biz/
@@ -701,7 +699,6 @@ local=/hunnur.com/
 local=/iamallama.com/
 local=/ics.tw/
 local=/ideasciviles.com/
-local=/idigo.org/
 local=/idleplay.net/
 local=/4040.idv.tw/
 local=/ieserver.net/
@@ -1192,7 +1189,6 @@ local=/rwbcode.com/
 local=/ryointernational.com/
 local=/sandmeiers.ch/
 local=/sannon-stamm.com/
-local=/sarah-lai.com/
 local=/saves-the-whales.com/
 local=/scay.net/
 local=/scieron.com/

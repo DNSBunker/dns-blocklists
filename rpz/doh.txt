@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763634600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763865180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 20 Nov 2025 10:30 UTC
-; Version: 2025.1120.1030.54
+; Last modified: 23 Nov 2025 02:33 UTC
+; Version: 2025.1123.0233.04
 ; Syntax: RPZ
-; Number of entries: 6720
+; Number of entries: 6708
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1063,8 +1063,6 @@ dvgarm.com CNAME .
 *.dvgarm.com CNAME .
 roucious.dyndns-remote.com CNAME .
 *.roucious.dyndns-remote.com CNAME .
-resolver2.dyndnsinternetguide.com CNAME .
-*.resolver2.dyndnsinternetguide.com CNAME .
 rafi.dynns.com CNAME .
 *.rafi.dynns.com CNAME .
 oostelbos.dynu.com CNAME .
@@ -3323,8 +3321,6 @@ intertop.link CNAME .
 *.intertop.link CNAME .
 s2.littlebr.link CNAME .
 *.s2.littlebr.link CNAME .
-ns3.link CNAME .
-*.ns3.link CNAME .
 dns.pmxu.link CNAME .
 *.dns.pmxu.link CNAME .
 adguard.ihatemy.live CNAME .
@@ -4667,8 +4663,6 @@ adgrm.duckdns.org CNAME .
 *.adgrm.duckdns.org CNAME .
 adguardpi.duckdns.org CNAME .
 *.adguardpi.duckdns.org CNAME .
-aduma15.duckdns.org CNAME .
-*.aduma15.duckdns.org CNAME .
 andryk111.duckdns.org CNAME .
 *.andryk111.duckdns.org CNAME .
 armm.duckdns.org CNAME .
@@ -4747,10 +4741,6 @@ wisehomeguard.duckdns.org CNAME .
 *.wisehomeguard.duckdns.org CNAME .
 workcavestl.duckdns.org CNAME .
 *.workcavestl.duckdns.org CNAME .
-x-o-x.duckdns.org CNAME .
-*.x-o-x.duckdns.org CNAME .
-x861g.duckdns.org CNAME .
-*.x861g.duckdns.org CNAME .
 test.zkwg.duckdns.org CNAME .
 *.test.zkwg.duckdns.org CNAME .
 akhilkalwakurthy.dyndns.org CNAME .
@@ -4909,8 +4899,6 @@ fwgw.orangepipc.mywire.org CNAME .
 *.fwgw.orangepipc.mywire.org CNAME .
 nelsonleung.org CNAME .
 *.nelsonleung.org CNAME .
-dns.neutopia.org CNAME .
-*.dns.neutopia.org CNAME .
 dns.ninhs.org CNAME .
 *.dns.ninhs.org CNAME .
 vpn.nnip.org CNAME .

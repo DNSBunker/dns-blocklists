@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 22 Nov 2025 10:34 UTC
-! Version: 2025.1122.1034.19
+! Last modified: 23 Nov 2025 02:33 UTC
+! Version: 2025.1123.0233.30
 ! Syntax: AdBlock
-! Number of entries: 795
+! Number of entries: 793
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -525,7 +525,6 @@
 ||httpdns.n.netease.com^
 ||httpdns-sdk.n.netease.com^
 ||cube.neubsi.at^
-||dns.neutopia.org^
 ||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
@@ -544,7 +543,6 @@
 ||dns1.nordvpn.com^
 ||dns.notjakob.com^
 ||ns3.com^
-||ns3.link^
 ||ntwrkh.pro^
 ||dns.nullgate.net^
 ||ns.nwps.fi^

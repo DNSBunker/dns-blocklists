@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Nov 2025 10:30 UTC
-# Version: 2025.1120.1030.54
+# Last modified: 23 Nov 2025 02:33 UTC
+# Version: 2025.1123.0233.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3360
+# Number of entries: 3354
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1107,7 +1107,6 @@ local=/yukito.duanzx.top/
 local=/ad1guard.duckdns.org/
 local=/adgrm.duckdns.org/
 local=/adguardpi.duckdns.org/
-local=/aduma15.duckdns.org/
 local=/andryk111.duckdns.org/
 local=/armm.duckdns.org/
 local=/blamb.duckdns.org/
@@ -1147,8 +1146,6 @@ local=/vpich.duckdns.org/
 local=/wired-guardian.duckdns.org/
 local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/
-local=/x-o-x.duckdns.org/
-local=/x861g.duckdns.org/
 local=/test.zkwg.duckdns.org/
 local=/duii.de/
 local=/dukun.de/
@@ -1161,7 +1158,6 @@ local=/dns.dyn1.de/
 local=/akhilkalwakurthy.dyndns.org/
 local=/ueni.dyndns.org/
 local=/roucious.dyndns-remote.com/
-local=/resolver2.dyndnsinternetguide.com/
 local=/rafi.dynns.com/
 local=/ccadguard.dynu.net/
 local=/adguard.ekhozie.dynu.net/
@@ -2284,7 +2280,6 @@ local=/resolv2.nettplus.net/
 local=/dns.netvpn.net/
 local=/cube.neubsi.at/
 local=/dns.neubsi.at/
-local=/dns.neutopia.org/
 local=/katherine-dns.newcore.cl/
 local=/doh.nexen.cloud/
 local=/doh.luigi.nexific.it/
@@ -2357,7 +2352,6 @@ local=/ns.cd/
 local=/xpen.ns01.info/
 local=/x.ns1net.com/
 local=/ns3.com/
-local=/ns3.link/
 local=/dnscache0.ns71.net/
 local=/dns.ntr.lol/
 local=/ntwrkh.pro/

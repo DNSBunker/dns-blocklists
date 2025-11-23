@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Nov 2025 09:54 UTC
-# Version: 2025.1118.0954.44
+# Last modified: 23 Nov 2025 01:56 UTC
+# Version: 2025.1123.0156.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1336
+# Number of entries: 1329
 #
 local=/000a.de/
 local=/000space.com/
@@ -315,7 +315,6 @@ local=/bravehost.com/
 local=/bravenet.com/
 local=/bravepages.com/
 local=/bravesites.com/
-local=/brazilbill.shop/
 local=/brizy.site/
 local=/bugs3.com/
 local=/builderall.net/
@@ -542,7 +541,6 @@ local=/es.gp/
 local=/es-bbvacliente-movil.com/
 local=/es-caixamovil-clientes.com/
 local=/esel.in/
-local=/eshop-ya.life/
 local=/eu.cm/
 local=/eu.cr/
 local=/eu.gg/
@@ -742,7 +740,6 @@ local=/igg.biz/
 local=/ij2.de/
 local=/il.gp/
 local=/im-internet.eu/
-local=/imtokne.vip/
 local=/imweb.me/
 local=/in.gp/
 local=/in24.de/
@@ -858,7 +855,6 @@ local=/majesticbank.de/
 local=/malltree.shop/
 local=/manfeature.club/
 local=/mapsweight.shop/
-local=/marshost.info/
 local=/mashstaffing.com/
 local=/mdtwo.top/
 local=/me.gp/
@@ -1048,7 +1044,6 @@ local=/s.gp/
 local=/sa.com/
 local=/sa.gp/
 local=/safe-girogate.com/
-local=/safwhatsapp.top/
 local=/schmust.de/
 local=/schoolrack.com/
 local=/scienceontheweb.net/
@@ -1101,7 +1096,6 @@ local=/soundtrue.club/
 local=/soup.io/
 local=/space.lc/
 local=/spaceplay.top/
-local=/spaintrade.shop/
 local=/sport-pro.de/
 local=/sportsontheweb.net/
 local=/spruz.com/
@@ -1286,7 +1280,6 @@ local=/webzdarma.cz/
 local=/weebly.com/
 local=/weeblysite.com/
 local=/welt.tl/
-local=/wentiso.top/
 local=/wiki.lc/
 local=/will-dich.eu/
 local=/wixsite.com/

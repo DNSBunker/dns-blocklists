@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763459640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763862960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 18 Nov 2025 09:54 UTC
-; Version: 2025.1118.0954.44
+; Last modified: 23 Nov 2025 01:56 UTC
+; Version: 2025.1123.0156.30
 ; Syntax: RPZ
-; Number of entries: 2672
+; Number of entries: 2658
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1674,8 +1674,6 @@ kilu.info CNAME .
 *.kilu.info CNAME .
 lhosting.info CNAME .
 *.lhosting.info CNAME .
-marshost.info CNAME .
-*.marshost.info CNAME .
 profis.info CNAME .
 *.profis.info CNAME .
 seite.info CNAME .
@@ -1884,8 +1882,6 @@ blogspot.li CNAME .
 *.blogspot.li CNAME .
 flf.li CNAME .
 *.flf.li CNAME .
-eshop-ya.life CNAME .
-*.eshop-ya.life CNAME .
 ewp.live CNAME .
 *.ewp.live CNAME .
 blogspot.lt CNAME .
@@ -2384,8 +2380,6 @@ bizmovie.shop CNAME .
 *.bizmovie.shop CNAME .
 boundpeter.shop CNAME .
 *.boundpeter.shop CNAME .
-brazilbill.shop CNAME .
-*.brazilbill.shop CNAME .
 clubstrack.shop CNAME .
 *.clubstrack.shop CNAME .
 crossurl.shop CNAME .
@@ -2452,8 +2446,6 @@ rubberphone.shop CNAME .
 *.rubberphone.shop CNAME .
 shohu.shop CNAME .
 *.shohu.shop CNAME .
-spaintrade.shop CNAME .
-*.spaintrade.shop CNAME .
 teenradio.shop CNAME .
 *.teenradio.shop CNAME .
 tokusi.shop CNAME .
@@ -2576,16 +2568,12 @@ moneyash.top CNAME .
 *.moneyash.top CNAME .
 moneylower.top CNAME .
 *.moneylower.top CNAME .
-safwhatsapp.top CNAME .
-*.safwhatsapp.top CNAME .
 spaceplay.top CNAME .
 *.spaceplay.top CNAME .
 tokyoca.top CNAME .
 *.tokyoca.top CNAME .
 wapka.top CNAME .
 *.wapka.top CNAME .
-wentiso.top CNAME .
-*.wentiso.top CNAME .
 blogspot.com.tr CNAME .
 *.blogspot.com.tr CNAME .
 blogspot.tw CNAME .
@@ -2652,8 +2640,6 @@ bgydnb.vip CNAME .
 *.bgydnb.vip CNAME .
 gg123.vip CNAME .
 *.gg123.vip CNAME .
-imtokne.vip CNAME .
-*.imtokne.vip CNAME .
 webnode.vn CNAME .
 *.webnode.vn CNAME .
 m.vu CNAME .

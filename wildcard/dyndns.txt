@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Nov 2025 10:31 UTC
-# Version: 2025.1121.1031.17
+# Last modified: 23 Nov 2025 02:32 UTC
+# Version: 2025.1123.0232.38
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1472
+# Number of entries: 1468
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -288,7 +288,6 @@
 *.didns.ru
 *.digikabel.hu
 *.digitalgroupe.com
-*.dip.jp
 *.ditchyourip.com
 *.divx.se
 *.diyplans.org
@@ -388,7 +387,6 @@
 *.dynamai.com
 *.dynamic.domains
 *.dynamic-dns.net
-*.dynamic-dns.us
 *.dynamic-m.com
 *.dynamic-site.net
 *.dynamicdns.biz
@@ -701,7 +699,6 @@
 *.iamallama.com
 *.ics.tw
 *.ideasciviles.com
-*.idigo.org
 *.idleplay.net
 *.4040.idv.tw
 *.ieserver.net
@@ -1192,7 +1189,6 @@
 *.ryointernational.com
 *.sandmeiers.ch
 *.sannon-stamm.com
-*.sarah-lai.com
 *.saves-the-whales.com
 *.scay.net
 *.scieron.com

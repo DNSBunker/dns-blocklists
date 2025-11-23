@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763558940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763861400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 19 Nov 2025 13:29 UTC
-; Version: 2025.1119.1329.44
+; Last modified: 23 Nov 2025 01:30 UTC
+; Version: 2025.1123.0130.26
 ; Syntax: RPZ
-; Number of entries: 19104
+; Number of entries: 19082
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2051,8 +2051,6 @@ match-heaven.club CNAME .
 *.match-heaven.club CNAME .
 oplink.club CNAME .
 *.oplink.club CNAME .
-shorturl.club CNAME .
-*.shorturl.club CNAME .
 sms.club CNAME .
 *.sms.club CNAME .
 tuch.club CNAME .
@@ -9571,8 +9569,6 @@ app.smler.in CNAME .
 *.app.smler.in CNAME .
 sngkt.in CNAME .
 *.sngkt.in CNAME .
-snipit.in CNAME .
-*.snipit.in CNAME .
 socx.in CNAME .
 *.socx.in CNAME .
 solink.in CNAME .
@@ -10693,8 +10689,6 @@ zubbit.io CNAME .
 *.20l.ir CNAME .
 2ad.ir CNAME .
 *.2ad.ir CNAME .
-2wo.ir CNAME .
-*.2wo.ir CNAME .
 301l.ir CNAME .
 *.301l.ir CNAME .
 4eq.ir CNAME .
@@ -12795,8 +12789,6 @@ csj.lol CNAME .
 *.csj.lol CNAME .
 cutt.lol CNAME .
 *.cutt.lol CNAME .
-dbox.lol CNAME .
-*.dbox.lol CNAME .
 diato.lol CNAME .
 *.diato.lol CNAME .
 fvglvsex.lol CNAME .
@@ -12823,8 +12815,6 @@ rxe.lol CNAME .
 *.rxe.lol CNAME .
 seogilak.lol CNAME .
 *.seogilak.lol CNAME .
-tdy.lol CNAME .
-*.tdy.lol CNAME .
 tik.lol CNAME .
 *.tik.lol CNAME .
 your.ls CNAME .
@@ -13155,8 +13145,6 @@ wb.md CNAME .
 *.30t.me CNAME .
 4ty.me CNAME .
 *.4ty.me CNAME .
-88link.me CNAME .
-*.88link.me CNAME .
 99link.me CNAME .
 *.99link.me CNAME .
 9lick.me CNAME .
@@ -13253,8 +13241,6 @@ bslm.me CNAME .
 *.bslm.me CNAME .
 bstk.me CNAME .
 *.bstk.me CNAME .
-btly.me CNAME .
-*.btly.me CNAME .
 buk.me CNAME .
 *.buk.me CNAME .
 burl.me CNAME .
@@ -13333,8 +13319,6 @@ direct.me CNAME .
 *.direct.me CNAME .
 dlink.me CNAME .
 *.dlink.me CNAME .
-dntl.me CNAME .
-*.dntl.me CNAME .
 dos.me CNAME .
 *.dos.me CNAME .
 drinks.me CNAME .
@@ -18641,8 +18625,6 @@ thesocial.vip CNAME .
 *.thesocial.vip CNAME .
 tuwaga.vip CNAME .
 *.tuwaga.vip CNAME .
-warung.vip CNAME .
-*.warung.vip CNAME .
 rbit.vision CNAME .
 *.rbit.vision CNAME .
 1url.vn CNAME .
@@ -18917,8 +18899,6 @@ aficlicktrack.xyz CNAME .
 *.aficlicktrack.xyz CNAME .
 akunjpvip.xyz CNAME .
 *.akunjpvip.xyz CNAME .
-alldomainwhois.xyz CNAME .
-*.alldomainwhois.xyz CNAME .
 answ.xyz CNAME .
 *.answ.xyz CNAME .
 axonn.xyz CNAME .
@@ -19089,8 +19069,6 @@ y30.xyz CNAME .
 *.y30.xyz CNAME .
 url.yousufraissi.xyz CNAME .
 *.url.yousufraissi.xyz CNAME .
-z-der.xyz CNAME .
-*.z-der.xyz CNAME .
 zeroshort.xyz CNAME .
 *.zeroshort.xyz CNAME .
 zonearcad.xyz CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Nov 2025 13:29 UTC
-# Version: 2025.1119.1329.44
+# Last modified: 23 Nov 2025 01:30 UTC
+# Version: 2025.1123.0130.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9552
+# Number of entries: 9541
 #
 local=/0.gp/
 local=/00m.in/
@@ -199,7 +199,6 @@ local=/2u.lc/
 local=/2u.pw/
 local=/2ur.jp/
 local=/2vu.me/
-local=/2wo.ir/
 local=/2wsb.tv/
 local=/2ww.me/
 local=/2x0.net/
@@ -360,7 +359,6 @@ local=/7vd.cn/
 local=/8.ly/
 local=/8591.tw/
 local=/888df.com/
-local=/88link.me/
 local=/88nb.cc/
 local=/88win.link/
 local=/89bet69.cc/
@@ -635,7 +633,6 @@ local=/alisys.it/
 local=/all-link.me/
 local=/allamericanpatriots.com/
 local=/allbio.link/
-local=/alldomainwhois.xyz/
 local=/alli.pub/
 local=/allinonetab.com/
 local=/alllinks.in/
@@ -1341,7 +1338,6 @@ local=/btf.st/
 local=/bti.ninja/
 local=/btiliy.com/
 local=/btly.cc/
-local=/btly.me/
 local=/btm.li/
 local=/s.bts-ev.de/
 local=/btty.in/
@@ -2103,7 +2099,6 @@ local=/dbfuk.org/
 local=/dblp.org/
 local=/dbolc.com/
 local=/dbolink.com/
-local=/dbox.lol/
 local=/dbricks.co/
 local=/go.dbs.com/
 local=/dcbspage.org/
@@ -2233,7 +2228,6 @@ local=/dmvrenew.com/
 local=/dn303.online/
 local=/dna360.tw/
 local=/dnt.st/
-local=/dntl.me/
 local=/do.co/
 local=/do.my/
 local=/doaistri.com/
@@ -6951,7 +6945,6 @@ local=/shorturl.best/
 local=/shorturl.biz/
 local=/shorturl.bond/
 local=/shorturl.click/
-local=/shorturl.club/
 local=/shorturl.com/
 local=/shorturl.dev/
 local=/shorturl.fm/
@@ -7279,7 +7272,6 @@ local=/snip.ly/
 local=/snip.ng/
 local=/snipify.net/
 local=/snipio.co/
-local=/snipit.in/
 local=/snipitx.com/
 local=/sniplify.me/
 local=/sniplnk.co/
@@ -7652,7 +7644,6 @@ local=/tdi2u.com/
 local=/tdotly.com/
 local=/tdrive.li/
 local=/tdv-adm.live/
-local=/tdy.lol/
 local=/tdy.sg/
 local=/teachselfgov.com/
 local=/teamenoch.co/
@@ -8972,7 +8963,6 @@ local=/wapp.to/
 local=/warby.me/
 local=/warp.plus/
 local=/wartsi.ly/
-local=/warung.vip/
 local=/wasap.is/
 local=/wats.ir/
 local=/watti.me/
@@ -9409,7 +9399,6 @@ local=/yx.si/
 local=/yycdigitalworld.com/
 local=/yyv.co/
 local=/d.yzh.li/
-local=/z-der.xyz/
 local=/z-url.com/
 local=/z1.tl/
 local=/z20.su/

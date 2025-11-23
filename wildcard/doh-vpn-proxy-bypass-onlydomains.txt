@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Nov 2025 10:34 UTC
-# Version: 2025.1122.1034.29
+# Last modified: 23 Nov 2025 02:33 UTC
+# Version: 2025.1123.0233.37
 # Syntax: Domains (without subdomains)
-# Number of entries: 6236
+# Number of entries: 6200
 #
 ss.0001.xyz
 003153.xyz
@@ -512,7 +512,6 @@ vps.avc.cx
 adguard.avdkishore.dev
 avira-vpn.com
 avira-vpn.net
-avoidance.info
 awabo.com
 award-vpn.com
 awebproxy.com
@@ -1141,7 +1140,6 @@ dns.codarbyte.de
 dns.code66.de
 dns.coderoria.com
 coinsite.info
-coinweb.info
 4y5t.coke0.cc
 jpdns.cola16.app
 krdns.cola16.app
@@ -1296,7 +1294,6 @@ dns.csa-rz.de
 dns.csaonline.de
 r8gjg2-8000.csb.app
 a5135324.csie.io
-pltw.csproject.org
 dns.csswg.org
 ct-vpn.com
 webdav.cubecloud.win
@@ -1482,7 +1479,6 @@ fdns1.dismail.de
 fdns2.dismail.de
 districtnewyork.com
 divalane.com
-divaloo.com
 coolgams.dk-condos.com
 f4ckdns.dl4mt.dev
 dns.dlinders.nl
@@ -1774,7 +1770,6 @@ duba.net
 ad1guard.duckdns.org
 adgrm.duckdns.org
 adguardpi.duckdns.org
-aduma15.duckdns.org
 andryk111.duckdns.org
 armm.duckdns.org
 bitly-galatikx.duckdns.org
@@ -1816,8 +1811,6 @@ vpich.duckdns.org
 wired-guardian.duckdns.org
 wisehomeguard.duckdns.org
 workcavestl.duckdns.org
-x-o-x.duckdns.org
-x861g.duckdns.org
 test.zkwg.duckdns.org
 georgetown.duia.us
 duii.de
@@ -1835,7 +1828,6 @@ dns.dyn1.de
 akhilkalwakurthy.dyndns.org
 ueni.dyndns.org
 roucious.dyndns-remote.com
-resolver2.dyndnsinternetguide.com
 adbox-v9.dynipv6.de
 rafi.dynns.com
 ccadguard.dynu.net
@@ -2050,7 +2042,6 @@ fastfoxvpn.com
 fastfreeproxy.info
 fastp.org
 adh.fastpacefixit.info
-fastpro.info
 fastproxy.nl
 fastproxy.org
 fastproxynetwork.com
@@ -2233,7 +2224,6 @@ freeproxyupdate.com
 freeproxyweb.net
 freesafeip.com
 freesupervpn.com
-freesurfproxy.com
 freetrialvpn.com
 freetunnel.net
 freeukvpn.com
@@ -2442,7 +2432,6 @@ grass.io
 gratisproxy.nl
 gratisvpn.com
 graveofhope.ru
-greatestfreeproxy.com
 dns.green-ping.lol
 adguard.green1052.com
 c00lkiddtech.ut.greenaudio.ch
@@ -2556,7 +2545,6 @@ hfgx.shop
 hg8.asia
 hgrps.eu
 dns.sgp.hicn.site
-hiddendigital.info
 hiddendragon.site
 hide.me
 hide.mn
@@ -2696,7 +2684,6 @@ dnsguard.hte.vn
 html.cafe
 www.pleaseinput.html-5.me
 httpdns.pro
-httpdserver.info
 dns3.hu10us22.win
 dns.huanmave.cc
 dns.huas.me
@@ -2740,11 +2727,6 @@ beepboopbop.iamadeveloper.dev
 dns.iamanuragh.in
 dns.iamninja.ru
 sec.iamninja.ru
-link-five.ibewlocalzero.com
-link-four.ibewlocalzero.com
-link-one.ibewlocalzero.com
-link-three.ibewlocalzero.com
-link-two.ibewlocalzero.com
 dns.iblockads.net
 dns-us.ibmcloud.top
 ibvpn.com
@@ -3559,11 +3541,6 @@ nas-scheiben34.myasustor.com
 zanty123456.myasustor.com
 mycelium.site
 nyc.mycityulife.com
-abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
-example.myclarevision.com
-freelearn.myclarevision.com
-i.myclarevision.com
-learn.myclarevision.com
 thisismathteach.myclarevision.com
 adguard.myddns.org
 adguard-home.myddns.me
@@ -3717,7 +3694,6 @@ dns.netvpn.net
 scienceisfun11.networkguru.com
 cube.neubsi.at
 dns.neubsi.at
-dns.neutopia.org
 itrsa.nevuer.com
 study-math.nevuer.com
 katherine-dns.newcore.cl
@@ -3799,7 +3775,6 @@ ttag.dns.nomu.pw
 kiri.nonexiste.net
 agh.nonocan.com
 dns.nonomi.cc
-noodlevpn.com
 nop.mobi
 nordaccount.com
 nordcdn.com
@@ -3835,7 +3810,6 @@ ns.cd
 xpen.ns01.info
 x.ns1net.com
 ns3.com
-ns3.link
 dnscache0.ns71.net
 ns8469rfvth42.xyz
 nslookup.io
@@ -3907,7 +3881,6 @@ doh-pure.onedns.net
 oneproxy.biz
 oneproxy.xyz
 onestreaming.org
-onevpn.com
 onion.am
 onion.cab
 onion.casa
@@ -4295,7 +4268,6 @@ proxtube.com
 proxy.am
 proxy.cc
 proxy.gd
-proxy.lol
 proxy.nu
 proxy.org
 proxy.red
@@ -4309,7 +4281,6 @@ proxy-best.com
 proxy-bypass.com
 proxy-cheap.com
 proxy-german.de
-proxy-internet.info
 proxy-list.download
 proxy-n-vpn.com
 proxy-search.com
@@ -4420,7 +4391,6 @@ proxythis.info
 proxytime.net
 proxytitan.com
 proxyturbo.com
-proxyunblock.site
 proxyunblocker.org
 proxyvpn.eu
 proxyvpnserver.com
@@ -4526,7 +4496,6 @@ dns.ramansarda.com
 drpepperisbetter.ramonmedina.net
 randn.ru
 rapidprivacy.com
-rapidproxy.org
 rapidproxy.us
 rapidvpn.com
 thiscopyofartclassisnotgenuine.rare1k.space
@@ -4856,7 +4825,6 @@ dns.silen.org
 dns.silentlybren.com
 dns2.sillav.dev
 simplevpn.info
-simplevpn.net
 dns.simplylinux.ch
 dns.sindominio.net
 dns.sineone.icu
@@ -4978,7 +4946,6 @@ speedproxy.online
 speedshare.app
 speedssh.com
 speedyth.com
-spicevpn.com
 spidervpn.org
 dns.spirio.fr
 sportsballhub.com
@@ -5593,7 +5560,6 @@ unblockit.meme
 unblockit.one
 unblockit.onl
 unblockit.pro
-unblockit.rsvp
 unblockit.uno
 unblockmate.com
 unblockme.us
@@ -5953,13 +5919,11 @@ db.webmdee.com
 doh.webnmail.de
 weboproxy.com
 webpro.xyz
-webproxy.best
 webproxy.club
 webproxy.com
 webproxy.online
 webproxy.to
 webproxyfree.net
-webproxyusa.com
 scienceclasswork.webredirect.org
 scientist.webredirect.org
 shark-pan.webredirect.org

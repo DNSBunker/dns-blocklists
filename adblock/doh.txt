@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 20 Nov 2025 10:30 UTC
-! Version: 2025.1120.1030.54
+! Last modified: 23 Nov 2025 02:33 UTC
+! Version: 2025.1123.0233.04
 ! Syntax: AdBlock
-! Number of entries: 3360
+! Number of entries: 3354
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1108,7 +1108,6 @@
 ||ad1guard.duckdns.org^
 ||adgrm.duckdns.org^
 ||adguardpi.duckdns.org^
-||aduma15.duckdns.org^
 ||andryk111.duckdns.org^
 ||armm.duckdns.org^
 ||blamb.duckdns.org^
@@ -1148,8 +1147,6 @@
 ||wired-guardian.duckdns.org^
 ||wisehomeguard.duckdns.org^
 ||workcavestl.duckdns.org^
-||x-o-x.duckdns.org^
-||x861g.duckdns.org^
 ||test.zkwg.duckdns.org^
 ||duii.de^
 ||dukun.de^
@@ -1162,7 +1159,6 @@
 ||akhilkalwakurthy.dyndns.org^
 ||ueni.dyndns.org^
 ||roucious.dyndns-remote.com^
-||resolver2.dyndnsinternetguide.com^
 ||rafi.dynns.com^
 ||ccadguard.dynu.net^
 ||adguard.ekhozie.dynu.net^
@@ -2285,7 +2281,6 @@
 ||dns.netvpn.net^
 ||cube.neubsi.at^
 ||dns.neubsi.at^
-||dns.neutopia.org^
 ||katherine-dns.newcore.cl^
 ||doh.nexen.cloud^
 ||doh.luigi.nexific.it^
@@ -2358,7 +2353,6 @@
 ||xpen.ns01.info^
 ||x.ns1net.com^
 ||ns3.com^
-||ns3.link^
 ||dnscache0.ns71.net^
 ||dns.ntr.lol^
 ||ntwrkh.pro^

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Nov 2025 10:30 UTC
-# Version: 2025.1120.1030.54
+# Last modified: 23 Nov 2025 02:33 UTC
+# Version: 2025.1123.0233.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3836
+# Number of entries: 3830
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1330,7 +1330,6 @@
 0.0.0.0 ad1guard.duckdns.org
 0.0.0.0 adgrm.duckdns.org
 0.0.0.0 adguardpi.duckdns.org
-0.0.0.0 aduma15.duckdns.org
 0.0.0.0 andryk111.duckdns.org
 0.0.0.0 armm.duckdns.org
 0.0.0.0 blamb.duckdns.org
@@ -1370,8 +1369,6 @@
 0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
-0.0.0.0 x-o-x.duckdns.org
-0.0.0.0 x861g.duckdns.org
 0.0.0.0 test.zkwg.duckdns.org
 0.0.0.0 duii.de
 0.0.0.0 dukun.de
@@ -1385,7 +1382,6 @@
 0.0.0.0 akhilkalwakurthy.dyndns.org
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 roucious.dyndns-remote.com
-0.0.0.0 resolver2.dyndnsinternetguide.com
 0.0.0.0 rafi.dynns.com
 0.0.0.0 ccadguard.dynu.net
 0.0.0.0 adguard.ekhozie.dynu.net
@@ -2638,7 +2634,6 @@
 0.0.0.0 dns.netvpn.net
 0.0.0.0 cube.neubsi.at
 0.0.0.0 dns.neubsi.at
-0.0.0.0 dns.neutopia.org
 0.0.0.0 katherine-dns.newcore.cl
 0.0.0.0 doh.nexen.cloud
 0.0.0.0 doh.luigi.nexific.it
@@ -2736,7 +2731,6 @@
 0.0.0.0 xpen.ns01.info
 0.0.0.0 x.ns1net.com
 0.0.0.0 ns3.com
-0.0.0.0 ns3.link
 0.0.0.0 dnscache0.ns71.net
 0.0.0.0 dns.ntr.lol
 0.0.0.0 ntwrkh.pro

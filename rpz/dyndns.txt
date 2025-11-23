@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763721060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763865120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Nov 2025 10:31 UTC
-; Version: 2025.1121.1031.17
+; Last modified: 23 Nov 2025 02:32 UTC
+; Version: 2025.1123.0232.38
 ; Syntax: RPZ
-; Number of entries: 2944
+; Number of entries: 2936
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1242,8 +1242,6 @@ ryointernational.com CNAME .
 *.ryointernational.com CNAME .
 sannon-stamm.com CNAME .
 *.sannon-stamm.com CNAME .
-sarah-lai.com CNAME .
-*.sarah-lai.com CNAME .
 saves-the-whales.com CNAME .
 *.saves-the-whales.com CNAME .
 scieron.com CNAME .
@@ -1788,8 +1786,6 @@ soon.it CNAME .
 *.soon.it CNAME .
 undo.it CNAME .
 *.undo.it CNAME .
-dip.jp CNAME .
-*.dip.jp CNAME .
 dob.jp CNAME .
 *.dob.jp CNAME .
 gally.jp CNAME .
@@ -2470,8 +2466,6 @@ hopto.org CNAME .
 *.hopto.org CNAME .
 https443.org CNAME .
 *.https443.org CNAME .
-idigo.org CNAME .
-*.idigo.org CNAME .
 iownyour.org CNAME .
 *.iownyour.org CNAME .
 is-a-bruinsfan.org CNAME .
@@ -2902,8 +2896,6 @@ dubya.us CNAME .
 *.dubya.us CNAME .
 duia.us CNAME .
 *.duia.us CNAME .
-dynamic-dns.us CNAME .
-*.dynamic-dns.us CNAME .
 freeddns.us CNAME .
 *.freeddns.us CNAME .
 global-instr.us CNAME .
