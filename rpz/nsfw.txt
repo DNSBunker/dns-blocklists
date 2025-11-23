@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763893680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763908140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Nov 2025 10:28 UTC
-; Version: 2025.1123.1028.33
+; Last modified: 23 Nov 2025 14:29 UTC
+; Version: 2025.1123.1429.50
 ; Syntax: RPZ
-; Number of entries: 151614
+; Number of entries: 151594
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -52,8 +52,6 @@ billion.adult CNAME .
 *.billion.adult CNAME .
 blackfriday.adult CNAME .
 *.blackfriday.adult CNAME .
-block.adult CNAME .
-*.block.adult CNAME .
 candy.adult CNAME .
 *.candy.adult CNAME .
 cannotescape.adult CNAME .
@@ -8720,8 +8718,6 @@ sexmoms.click CNAME .
 *.sexmoms.click CNAME .
 sexohota.click CNAME .
 *.sexohota.click CNAME .
-sexphoto.click CNAME .
-*.sexphoto.click CNAME .
 sexporno.click CNAME .
 *.sexporno.click CNAME .
 sexpornosfilmi.click CNAME .
@@ -9880,8 +9876,6 @@ zoya.club CNAME .
 *.zoya.club CNAME .
 zrelieporno.club CNAME .
 *.zrelieporno.club CNAME .
-xvideos.cm CNAME .
-*.xvideos.cm CNAME .
 44csext.cn CNAME .
 *.44csext.cn CNAME .
 522gay.cn CNAME .
@@ -10984,8 +10978,6 @@ punbb.123flashchat.com CNAME .
 *.19hdporn.com CNAME .
 19hdsex.com CNAME .
 *.19hdsex.com CNAME .
-19match.com CNAME .
-*.19match.com CNAME .
 19yoporn.com CNAME .
 *.19yoporn.com CNAME .
 1anime2024.com CNAME .
@@ -25536,8 +25528,6 @@ datemypet.com CNAME .
 *.datemypet.com CNAME .
 datenchat.com CNAME .
 *.datenchat.com CNAME .
-dateonlinesingles.com CNAME .
-*.dateonlinesingles.com CNAME .
 datereviewers.com CNAME .
 *.datereviewers.com CNAME .
 datesgern.com CNAME .
@@ -26634,8 +26624,6 @@ dirty4x4.com CNAME .
 *.dirty4x4.com CNAME .
 dirty4x4garage.com CNAME .
 *.dirty4x4garage.com CNAME .
-dirty77.com CNAME .
-*.dirty77.com CNAME .
 dirty8thirty.com CNAME .
 *.dirty8thirty.com CNAME .
 dirty96gr.com CNAME .
@@ -32264,8 +32252,6 @@ findhotmilf.com CNAME .
 *.findhotmilf.com CNAME .
 findhussies.com CNAME .
 *.findhussies.com CNAME .
-findikzadekadin.com CNAME .
-*.findikzadekadin.com CNAME .
 findlocalhookup.com CNAME .
 *.findlocalhookup.com CNAME .
 findlocalmilfs.com CNAME .
@@ -57950,8 +57936,6 @@ pornbod.com CNAME .
 *.pornbod.com CNAME .
 pornbondage.com CNAME .
 *.pornbondage.com CNAME .
-pornboner.com CNAME .
-*.pornboner.com CNAME .
 pornboob.com CNAME .
 *.pornboob.com CNAME .
 pornbooru.com CNAME .
@@ -58208,8 +58192,6 @@ porndudegirls.com CNAME .
 *.porndudegirls.com CNAME .
 porndum.com CNAME .
 *.porndum.com CNAME .
-porndunk.com CNAME .
-*.porndunk.com CNAME .
 porndvdstream.com CNAME .
 *.porndvdstream.com CNAME .
 porndw.com CNAME .
@@ -59002,8 +58984,6 @@ pornnomoremovement.com CNAME .
 *.pornnomoremovement.com CNAME .
 pornnrop.com CNAME .
 *.pornnrop.com CNAME .
-pornnsfw.com CNAME .
-*.pornnsfw.com CNAME .
 pornnubiles.com CNAME .
 *.pornnubiles.com CNAME .
 pornny.com CNAME .
@@ -120286,6 +120266,8 @@ milfolhas.pt CNAME .
 *.milfolhas.pt CNAME .
 oje.pt CNAME .
 *.oje.pt CNAME .
+platanomelon.pt CNAME .
+*.platanomelon.pt CNAME .
 playboy.pt CNAME .
 *.playboy.pt CNAME .
 pornolegendado.pt CNAME .
@@ -122850,8 +122832,6 @@ sizok.ru CNAME .
 *.sizok.ru CNAME .
 skamschat.ru CNAME .
 *.skamschat.ru CNAME .
-skfundament63.ru CNAME .
-*.skfundament63.ru CNAME .
 skilos.ru CNAME .
 *.skilos.ru CNAME .
 skrf1.ru CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763893560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1763908020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 23 Nov 2025 10:26 UTC
-; Version: 2025.1123.1026.02
+; Last modified: 23 Nov 2025 14:27 UTC
+; Version: 2025.1123.1427.12
 ; Syntax: RPZ
-; Number of entries: 90480
+; Number of entries: 90458
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -996,8 +996,6 @@ guruslotsmile.beauty CNAME .
 *.guruslotsmile.beauty CNAME .
 indorajapoker.beauty CNAME .
 *.indorajapoker.beauty CNAME .
-msglow.beauty CNAME .
-*.msglow.beauty CNAME .
 pandagendut.beauty CNAME .
 *.pandagendut.beauty CNAME .
 terataii168.beauty CNAME .
@@ -3418,8 +3416,6 @@ zerkalo-leonbets-9abj.buzz CNAME .
 *.zerkalo-leonbets-9abj.buzz CNAME .
 zerkalo-leonbets-avkc.buzz CNAME .
 *.zerkalo-leonbets-avkc.buzz CNAME .
-zerkalo-leonbets-bnjt.buzz CNAME .
-*.zerkalo-leonbets-bnjt.buzz CNAME .
 zerkalo-leonbets-pm3cw.buzz CNAME .
 *.zerkalo-leonbets-pm3cw.buzz CNAME .
 zerkalo-leonbets-vph9b.buzz CNAME .
@@ -15416,8 +15412,6 @@ arabcasinohex.com CNAME .
 *.arabcasinohex.com CNAME .
 arabgamble.com CNAME .
 *.arabgamble.com CNAME .
-arabianbets.com CNAME .
-*.arabianbets.com CNAME .
 arabianbetting.com CNAME .
 *.arabianbetting.com CNAME .
 arabonlinecasino.com CNAME .
@@ -41046,8 +41040,6 @@ patroasbet.com CNAME .
 *.patroasbet.com CNAME .
 pau4d.com CNAME .
 *.pau4d.com CNAME .
-paulcasino.com CNAME .
-*.paulcasino.com CNAME .
 paulpetrea.com CNAME .
 *.paulpetrea.com CNAME .
 paulpokeroom.com CNAME .
@@ -64244,8 +64236,6 @@ uniquecasino-de.net CNAME .
 *.uniquecasino-de.net CNAME .
 universalslots.net CNAME .
 *.universalslots.net CNAME .
-upaaa.net CNAME .
-*.upaaa.net CNAME .
 upoker.net CNAME .
 *.upoker.net CNAME .
 upspinzcasino.net CNAME .
@@ -65992,8 +65982,6 @@ dgcasino.online CNAME .
 *.dgcasino.online CNAME .
 digislotsr.online CNAME .
 *.digislotsr.online CNAME .
-dis88th.online CNAME .
-*.dis88th.online CNAME .
 dj77.online CNAME .
 *.dj77.online CNAME .
 doggycasinoz.online CNAME .
@@ -70168,8 +70156,6 @@ slots-djs.pl CNAME .
 *.slots-djs.pl CNAME .
 slotsdj-pl.pl CNAME .
 *.slotsdj-pl.pl CNAME .
-slotsonline.pl CNAME .
-*.slotsonline.pl CNAME .
 slotsvaders.pl CNAME .
 *.slotsvaders.pl CNAME .
 slottica-casino-bonus.pl CNAME .
@@ -72350,8 +72336,6 @@ casinoaplay.ru CNAME .
 *.casinoaplay.ru CNAME .
 casinoaufofficial.ru CNAME .
 *.casinoaufofficial.ru CNAME .
-casinoazartaplay.ru CNAME .
-*.casinoazartaplay.ru CNAME .
 casinoazinoplay.ru CNAME .
 *.casinoazinoplay.ru CNAME .
 casinobabloplays.ru CNAME .
@@ -72430,8 +72414,6 @@ casinorealmoneyplay.ru CNAME .
 *.casinorealmoneyplay.ru CNAME .
 casinoroyal-tg.ru CNAME .
 *.casinoroyal-tg.ru CNAME .
-casinos-game.ru CNAME .
-*.casinos-game.ru CNAME .
 casinos-vavada.ru CNAME .
 *.casinos-vavada.ru CNAME .
 casinos2026.ru CNAME .
@@ -74360,8 +74342,6 @@ pokerdomcasino878.ru CNAME .
 *.pokerdomcasino878.ru CNAME .
 pokerdomcasinoplayers.ru CNAME .
 *.pokerdomcasinoplayers.ru CNAME .
-pokerdores.ru CNAME .
-*.pokerdores.ru CNAME .
 pokerok-frirolly-sayt.ru CNAME .
 *.pokerok-frirolly-sayt.ru CNAME .
 pokerok-oficialnyy-sayt.ru CNAME .
@@ -75552,8 +75532,6 @@ valhalla-casino.se CNAME .
 *.valhalla-casino.se CNAME .
 verajohn.se CNAME .
 *.verajohn.se CNAME .
-verdecasino.se CNAME .
-*.verdecasino.se CNAME .
 wunderino.se CNAME .
 *.wunderino.se CNAME .
 xn--utlndskacasinomedbankid-x7b.se CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Nov 2025 10:25 UTC
-# Version: 2025.1123.1025.27
+# Last modified: 23 Nov 2025 14:26 UTC
+# Version: 2025.1123.1426.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 89532
+# Number of entries: 89521
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -9648,7 +9648,6 @@ local=/arab-casino-bonuses.com/
 local=/arabcasinohex.com/
 local=/arabcasinostarsa.com/
 local=/arabgamble.com/
-local=/arabianbets.com/
 local=/arabianbetting.com/
 local=/arabianslots.xyz/
 local=/arabic-onlinecasino.org/
@@ -20794,7 +20793,6 @@ local=/casinoavellaneda.online/
 local=/casinoavis.net/
 local=/casinoavisfr.click/
 local=/casinoavrupa.com/
-local=/casinoazartaplay.ru/
 local=/casinoazino777pay.ru/
 local=/casinoazinoplay.ru/
 local=/casinob0nus.com/
@@ -23862,7 +23860,6 @@ local=/casinos-en-linea.mx/
 local=/casinos-eu.top/
 local=/casinos-forums.com/
 local=/casinos-francais-en-ligne.com/
-local=/casinos-game.ru/
 local=/casinos-gold.top/
 local=/casinos-gold.xyz/
 local=/casinos-hellspin.com/
@@ -32491,7 +32488,6 @@ local=/directorboard.info/
 local=/directorycasino.org/
 local=/directtablewareproducts.com/
 local=/dirtyriverpoker.com/
-local=/dis88th.online/
 local=/discasino.com/
 local=/discocds.info/
 local=/discount-casino.co/
@@ -57309,7 +57305,6 @@ local=/ms77bet.org/
 local=/msbetserver.com/
 local=/mscasino.de/
 local=/msgaming.xyz/
-local=/msglow.beauty/
 local=/msglow.id/
 local=/msk.casino/
 local=/msl.ua/
@@ -62006,7 +62001,6 @@ local=/pattaya-two.xyz/
 local=/pattigoldpokerv.com/
 local=/pattimuralive.xyz/
 local=/pau4d.com/
-local=/paulcasino.com/
 local=/paulhalliday.io/
 local=/paulpetrea.com/
 local=/paulpokeroom.com/
@@ -66570,7 +66564,6 @@ local=/pokerdonkey.net/
 local=/pokerdonkey.store/
 local=/pokerdons.com/
 local=/pokerdoom.net/
-local=/pokerdores.ru/
 local=/pokerdorme.com/
 local=/pokerdrops.net/
 local=/pokerduit.com/
@@ -75659,7 +75652,6 @@ local=/slotsofvegast.com/
 local=/slotsokbet.com/
 local=/slotsolution1.com/
 local=/slotsoni.com/
-local=/slotsonline.pl/
 local=/slotsonside.com/
 local=/slotsontario.com/
 local=/slotsources.com/
@@ -82239,7 +82231,6 @@ local=/up-x7.casino/
 local=/up7.xyz/
 local=/up777.top/
 local=/up777slots.com/
-local=/upaaa.net/
 local=/upacarakehadiran.xyz/
 local=/upallnightpresents.com/
 local=/upbet.com/
@@ -83687,7 +83678,6 @@ local=/verde-casinopl.pl/
 local=/verde-casinos-de.com/
 local=/verdecasino.com/
 local=/verdecasino.org/
-local=/verdecasino.se/
 local=/verdecasino.us/
 local=/verdecasino-deutschland.net/
 local=/verdecasino-eu.com/
@@ -88982,7 +88972,6 @@ local=/zerkalo-leonbets-acl9d.club/
 local=/zerkalo-leonbets-as8sa.pro/
 local=/zerkalo-leonbets-avkc.buzz/
 local=/zerkalo-leonbets-b2wz.buzz/
-local=/zerkalo-leonbets-bnjt.buzz/
 local=/zerkalo-leonbets-buhp2.life/
 local=/zerkalo-leonbets-c79k.buzz/
 local=/zerkalo-leonbets-de76m.club/
