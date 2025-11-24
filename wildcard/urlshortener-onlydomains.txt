@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Nov 2025 01:30 UTC
-# Version: 2025.1123.0130.26
+# Last modified: 24 Nov 2025 09:30 UTC
+# Version: 2025.1124.0930.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 9541
+# Number of entries: 9542
 #
 0.gp
 00m.in
@@ -4974,6 +4974,7 @@ molok.link
 go-admin.momen.app
 momo.dm
 static.monactive.net
+trackingservice.monday.com
 mondoagram.com
 monghaiba.life
 monghaibon.live

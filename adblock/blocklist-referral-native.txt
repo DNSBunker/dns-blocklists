@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Nov 2025 09:17 UTC
-! Version: 2025.1123.0917.41
+! Last modified: 24 Nov 2025 09:17 UTC
+! Version: 2025.1124.0917.16
 ! Syntax: AdBlock
-! Number of entries: 1290
+! Number of entries: 1291
 !
 ||1-aclk.net^
 ||1aurl.io^
@@ -598,6 +598,7 @@
 ||go.hotmart.com^
 ||click.instantink.hpsmart.com^
 ||href.li^
+||sites.hscoscdn-ap1.net^
 ||sites.hscoscdn-eu1.net^
 ||sites.hscoscdn-na2.net^
 ||sites.hscoscdn00.net^

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 23 Nov 2025 10:32 UTC
-! Version: 2025.1123.1032.29
+! Last modified: 24 Nov 2025 10:30 UTC
+! Version: 2025.1124.1030.56
 ! Syntax: AdBlock
-! Number of entries: 798
+! Number of entries: 818
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -54,9 +54,11 @@
 ||dns-unfiltered.adguard.com^
 ||adguard-dns.com^
 ||ahadns.net^
+||blitz.ahadns.com^
 ||blitz-setup.ahadns.com^
 ||dns.akbxr.com^
 ||dns.albony.xyz^
+||dnsnl.alekberg.net^
 ||httpdns.alicdn.com^
 ||alidns.com^
 ||resolvers-cn.httpdns.aliyuncs.com^
@@ -172,6 +174,7 @@
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
+||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptroute.com^
 ||dns.csa-rz.de^
@@ -189,6 +192,7 @@
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
 ||dns.decloudus.com^
+||doh.defaultroutes.de^
 ||adguard.dekonix.ru^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
@@ -196,6 +200,8 @@
 ||digitale-gesellschaft.ch^
 ||dns.digitalsize.net^
 ||doh.disconnect.app^
+||fdns1.dismail.de^
+||fdns2.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -267,11 +273,14 @@
 ||dnsguard.pub^
 ||dns.dnshome.de^
 ||doh.dnslify.com^
+||a.ns.dnslify.com^
+||b.family.ns.dnslify.com^
 ||dnslow.me^
 ||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
+||doh.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
 ||doh.beauty^
@@ -314,6 +323,8 @@
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
 ||jp1.f7b6h9.tk^
+||pdns.faelix.net^
+||rdns.faelix.net^
 ||dns.faked.org^
 ||dns.falkenthal.org^
 ||dnsvps.familiamv.net^
@@ -353,6 +364,7 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
+||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -362,6 +374,7 @@
 ||dns.api.test.globuscs.info^
 ||dns.glorydns.com^
 ||moph.go.th^
+||privacydns.go6lab.si^
 ||doh-primary-pool.goodbyegambling.com^
 ||dns.google.com^
 ||google-public-dns-a.google.com^
@@ -376,6 +389,7 @@
 ||adguard.haneulo.com^
 ||dns.hanmey.de^
 ||adguard.hartley.cloud^
+||query.hdns.io^
 ||ordns.he.net^
 ||dns.hellozhao.com^
 ||httpdns.ocloud.heytapmobi.com^
@@ -511,6 +525,7 @@
 ||dns.velyn.my.id^
 ||dns.vmath.my.id^
 ||myadg.ru^
+||adblock.mydns.network^
 ||dns.n23.io^
 ||najiakeji.top^
 ||chungocoai.name.vn^
@@ -533,6 +548,7 @@
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
 ||dns2.nextdns.io^
+||edge.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^
@@ -579,6 +595,7 @@
 ||resolver.dnsprivacy.org.uk^
 ||dns.ours.luxe^
 ||pashagame456.com^
+||i.passcloud.xyz^
 ||dns.pccoach.nl^
 ||rpz-public-resolver1.rrdns.pch.net^
 ||dns.peb-schmidt.de^
@@ -622,6 +639,7 @@
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
+||dns13.quad9.net^
 ||dns9.quad9.net^
 ||dns.quickline.ch^
 ||doh.quickline.ch^
@@ -682,6 +700,7 @@
 ||free.shecan.ir^
 ||do.shimul.me^
 ||adguard.shoupperuser.com^
+||dnsovertls3.sinodun.com^
 ||sitdns.com^
 ||dns.skrep.eu^
 ||dns.smartguard.io^
@@ -710,6 +729,7 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
+||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^

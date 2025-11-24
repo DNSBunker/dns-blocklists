@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Nov 2025 09:28 UTC
-# Version: 2025.1123.0928.41
+# Last modified: 24 Nov 2025 09:28 UTC
+# Version: 2025.1124.0928.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13847
+# Number of entries: 13840
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -274,7 +274,6 @@ local=/akj-crypto.com/
 local=/akku-laden.at/
 local=/akku-staubsauger.eu/
 local=/akkuschrauber-heinrich.com/
-local=/akkusmir.de/
 local=/akkusnotebook.at/
 local=/akronreia.com/
 local=/akselinvest.pro/
@@ -3425,7 +3424,6 @@ local=/dtabgmbh.de/
 local=/dualsuns.com/
 local=/dualtronpower.shop/
 local=/duavital.com/
-local=/dubaihoteluae.com/
 local=/ducherower.de/
 local=/duckflix.de/
 local=/duft-blumen.de/
@@ -7360,7 +7358,6 @@ local=/lh-crypto.com/
 local=/lhk-group.com/
 local=/lhvw-profis.de/
 local=/li-me.com/
-local=/liabilis.com/
 local=/liaopo.top/
 local=/liberalm.com/
 local=/liberalw.com/
@@ -8953,7 +8950,6 @@ local=/northvapeusa.com/
 local=/northwaveoff.com/
 local=/northwavestore.com/
 local=/norvatix.io/
-local=/norwayhotel.net/
 local=/not-bad.shop/
 local=/not-schlosser.at/
 local=/notationi.com/
@@ -9036,7 +9032,6 @@ local=/obozboots.com/
 local=/obroker.com/
 local=/ocayo.de/
 local=/occasionak.com/
-local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -13290,7 +13285,6 @@ local=/wbecrisfro.com/
 local=/wealth-phantom.com/
 local=/wearablemerch.com/
 local=/wearblis.com/
-local=/wearbreeze.de/
 local=/wearebrew-en.com/
 local=/wearekinglife.com/
 local=/weareturbo.io/
@@ -13541,7 +13535,6 @@ local=/woodeu.de/
 local=/woodoclock.de/
 local=/woodstand-at.com/
 local=/woofgear.de/
-local=/woofz.academy/
 local=/woofz.com/
 local=/wooljacket-shop.com/
 local=/woolyroots.com/
