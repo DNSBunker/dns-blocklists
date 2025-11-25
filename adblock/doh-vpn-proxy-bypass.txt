@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Nov 2025 10:34 UTC
-! Version: 2025.1125.1034.07
+! Last modified: 25 Nov 2025 22:32 UTC
+! Version: 2025.1125.2232.58
 ! Syntax: AdBlock
-! Number of entries: 7000
+! Number of entries: 7001
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -3020,6 +3020,7 @@
 ||kind-fox-975.k12biology.com^
 ||proteomics.k12biology.com^
 ||pure-cloud-838.k12biology.com^
+||warm-cloud.k12biology.com^
 ||truealgebra.k22.su^
 ||k2vpn.io^
 ||k3n.pw^

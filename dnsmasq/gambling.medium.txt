@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Nov 2025 10:26 UTC
-# Version: 2025.1125.1026.30
+# Last modified: 25 Nov 2025 22:25 UTC
+# Version: 2025.1125.2225.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 93423
+# Number of entries: 93415
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -44074,7 +44074,6 @@ local=/hkcasino365.com/
 local=/hkdcasino.com/
 local=/hkfuncasinoonline.com/
 local=/bet.hkjc.com/
-local=/hkonlinepoker.com/
 local=/hkpools1.com/
 local=/hktoto88.net/
 local=/hl888.casino/
@@ -55720,7 +55719,6 @@ local=/m-j9-livecasino.com/
 local=/m-kaiyun-livecasino.com/
 local=/m-lordcasino497.com/
 local=/m-maltcasino715.com/
-local=/m-nesinecasino469.vip/
 local=/m-pasacasino520.com/
 local=/m-pasacasino521.com/
 local=/m-pasacasino530.com/
@@ -61325,13 +61323,11 @@ local=/nesinecasino-girisi.com/
 local=/nesinecasino-guncel.com/
 local=/nesinecasino-tr.org/
 local=/nesinecasino1000.com/
-local=/nesinecasino467.vip/
 local=/nesinecasinoerisimi.today/
 local=/nesinecasinoresmi.com/
 local=/nesinecasinoresmi.today/
 local=/nesinecasinoresmierisim.pro/
 local=/nesinecasinotr.com/
-local=/nesniecasino469.vip/
 local=/nessinecasinogiris.com/
 local=/1win-casino.net.ci/
 local=/2kcasino.net.ua/
@@ -69387,7 +69383,6 @@ local=/poker88gg.us/
 local=/poker88idr.page/
 local=/poker88qq123.com/
 local=/poker88qqteam.com/
-local=/poker9.kr/
 local=/poker9.win/
 local=/poker9.xyz/
 local=/poker9-1.asia/
@@ -70054,7 +70049,6 @@ local=/pokerenlignefrance.poker/
 local=/pokerensuisse.ch/
 local=/pokeresin.com/
 local=/pokeresinart.com/
-local=/pokeresources.online/
 local=/pokerestan.com/
 local=/pokerestimates.com/
 local=/pokeretcheval.bet/
@@ -72073,7 +72067,6 @@ local=/r7-casino539.top/
 local=/r7-casino55.store/
 local=/r7-casino64.online/
 local=/r7-casino715.top/
-local=/r7-casinor7.ru/
 local=/r7-casinos.store/
 local=/r7-online-casino1187.top/
 local=/r7-r7-r7.casino/
@@ -83629,7 +83622,6 @@ local=/thestrat.com/
 local=/thestuffyougottawatch.com/
 local=/thesunplaycasino.com/
 local=/theta.casino/
-local=/thetackleshack.biz/
 local=/thetechsnap.com/
 local=/thetexaspokerclub.com/
 local=/thethao88.bet/

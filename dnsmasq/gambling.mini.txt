@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Nov 2025 10:27 UTC
-# Version: 2025.1125.1027.03
+# Last modified: 25 Nov 2025 22:26 UTC
+# Version: 2025.1125.2226.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 50145
+# Number of entries: 50137
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -24494,7 +24494,6 @@ local=/hjulslottet.casino/
 local=/hk157.com/
 local=/hkcasino365.com/
 local=/bet.hkjc.com/
-local=/hkonlinepoker.com/
 local=/hkpools1.com/
 local=/hlbet.click/
 local=/hls-slots.com/
@@ -30661,7 +30660,6 @@ local=/m-casinowon663.com/
 local=/m-casinowon664.com/
 local=/m-forces.com/
 local=/m-maltcasino715.com/
-local=/m-nesinecasino469.vip/
 local=/m-pasacasino520.com/
 local=/m-pasacasino530.com/
 local=/m-pasacasino536.com/
@@ -33791,12 +33789,10 @@ local=/nesinecasino-giris2025.vip/
 local=/nesinecasino-girisi.com/
 local=/nesinecasino-guncel.com/
 local=/nesinecasino-tr.org/
-local=/nesinecasino467.vip/
 local=/nesinecasinoerisimi.today/
 local=/nesinecasinoresmi.com/
 local=/nesinecasinoresmi.today/
 local=/nesinecasinotr.com/
-local=/nesniecasino469.vip/
 local=/nessinecasinogiris.com/
 local=/1win-casino.net.ci/
 local=/2kcasino.net.ua/
@@ -38016,7 +38012,6 @@ local=/poker88gg.us/
 local=/poker88idr.page/
 local=/poker88qq123.com/
 local=/poker88qqteam.com/
-local=/poker9.kr/
 local=/poker90jili.com/
 local=/poker999jili.com/
 local=/poker99jp.online/
@@ -38289,7 +38284,6 @@ local=/pokerealm.in/
 local=/pokerelite.bet/
 local=/pokeremas.org/
 local=/pokeren.nl/
-local=/pokeresources.online/
 local=/pokerestan.com/
 local=/pokeretoile.com/
 local=/pokerface.pl/
@@ -39337,7 +39331,6 @@ local=/r7-casino537.top/
 local=/r7-casino538.top/
 local=/r7-casino539.top/
 local=/r7-casino64.online/
-local=/r7-casinor7.ru/
 local=/r7-casinos.store/
 local=/r7-r7-r7.casino/
 local=/r71911.casino/
@@ -44838,7 +44831,6 @@ local=/thestrat.com/
 local=/thestuffyougottawatch.com/
 local=/thesunplaycasino.com/
 local=/theta.casino/
-local=/thetackleshack.biz/
 local=/thetechsnap.com/
 local=/thetexaspokerclub.com/
 local=/thethao88.bet/

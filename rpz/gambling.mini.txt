@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764066420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764109560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 25 Nov 2025 10:27 UTC
-; Version: 2025.1125.1027.03
+; Last modified: 25 Nov 2025 22:26 UTC
+; Version: 2025.1125.2226.01
 ; Syntax: RPZ
-; Number of entries: 100290
+; Number of entries: 100274
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -2320,8 +2320,6 @@ surfcasino1.biz CNAME .
 *.surfcasino1.biz CNAME .
 temizmi.biz CNAME .
 *.temizmi.biz CNAME .
-thetackleshack.biz CNAME .
-*.thetackleshack.biz CNAME .
 top-online-slots.biz CNAME .
 *.top-online-slots.biz CNAME .
 topgamebai.biz CNAME .
@@ -33032,8 +33030,6 @@ hkcasino365.com CNAME .
 *.hkcasino365.com CNAME .
 bet.hkjc.com CNAME .
 *.bet.hkjc.com CNAME .
-hkonlinepoker.com CNAME .
-*.hkonlinepoker.com CNAME .
 hkpools1.com CNAME .
 *.hkpools1.com CNAME .
 hls-slots.com CNAME .
@@ -62112,8 +62108,6 @@ livecasino.kr CNAME .
 *.livecasino.kr CNAME .
 mrcasino.kr CNAME .
 *.mrcasino.kr CNAME .
-poker9.kr CNAME .
-*.poker9.kr CNAME .
 pokerly.kr CNAME .
 *.pokerly.kr CNAME .
 thegamblingchamp.kr CNAME .
@@ -70936,8 +70930,6 @@ pokerdomcasino878.online CNAME .
 *.pokerdomcasino878.online CNAME .
 pokerdomzerkalo.online CNAME .
 *.pokerdomzerkalo.online CNAME .
-pokeresources.online CNAME .
-*.pokeresources.online CNAME .
 pokerking.online CNAME .
 *.pokerking.online CNAME .
 poland-slots777.online CNAME .
@@ -81504,8 +81496,6 @@ r7-casino-sfx2.ru CNAME .
 *.r7-casino-sfx2.ru CNAME .
 r7-casino-ytdd1.ru CNAME .
 *.r7-casino-ytdd1.ru CNAME .
-r7-casinor7.ru CNAME .
-*.r7-casinor7.ru CNAME .
 ramenbet-casino-kkjx.ru CNAME .
 *.ramenbet-casino-kkjx.ru CNAME .
 ramenbetcasinoo.ru CNAME .
@@ -96064,8 +96054,6 @@ luckyhaul-casino.vip CNAME .
 *.luckyhaul-casino.vip CNAME .
 luckyhaulcasino.vip CNAME .
 *.luckyhaulcasino.vip CNAME .
-m-nesinecasino469.vip CNAME .
-*.m-nesinecasino469.vip CNAME .
 man88.vip CNAME .
 *.man88.vip CNAME .
 marinabaysands-casino.vip CNAME .
@@ -96106,10 +96094,6 @@ nado777.vip CNAME .
 *.nado777.vip CNAME .
 nesinecasino-giris2025.vip CNAME .
 *.nesinecasino-giris2025.vip CNAME .
-nesinecasino467.vip CNAME .
-*.nesinecasino467.vip CNAME .
-nesniecasino469.vip CNAME .
-*.nesniecasino469.vip CNAME .
 new8844.vip CNAME .
 *.new8844.vip CNAME .
 new8866.vip CNAME .
