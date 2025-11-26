@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Nov 2025 21:17 UTC
-# Version: 2025.1125.2117.29
+# Last modified: 26 Nov 2025 09:17 UTC
+# Version: 2025.1126.0917.02
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1557
+# Number of entries: 1560
 #
 1-aclk.net
 1aurl.io
@@ -257,6 +257,7 @@ seu2.cleverreach.com
 222270.seu2.cleverreach.com
 226547.seu2.cleverreach.com
 227080.seu2.cleverreach.com
+227421.seu2.cleverreach.com
 229280.seu2.cleverreach.com
 237609.seu2.cleverreach.com
 245176.seu2.cleverreach.com
@@ -379,6 +380,7 @@ el2.convertkit-mail3.com
 convertkit-mail4.com
 click.convertkit-mail4.com
 el2.convertkit-mail4.com
+open.convertkit-mail4.com
 preferences.convertkit-mail4.com
 preview.convertkit-mail4.com
 unsubscribe.convertkit-mail4.com
@@ -396,6 +398,7 @@ click.mc.crimsontrace.com
 crm-measure.com
 links.email.crunchbase.com
 bcp.crwdcntrl.net
+m-6pyms.custobar.com
 m-fqlpo.custobar.com
 m-gzmk5.custobar.com
 track.customer.io

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 25 Nov 2025 10:34 UTC
-! Version: 2025.1125.1034.00
+! Last modified: 26 Nov 2025 10:34 UTC
+! Version: 2025.1126.1034.22
 ! Syntax: AdBlock
-! Number of entries: 798
+! Number of entries: 792
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -41,7 +41,6 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
-||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
@@ -84,7 +83,6 @@
 ||dandelionsprout.asuscomm.com^
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
-||dohtrial.att.net^
 ||dns.azsopro.net^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
@@ -188,7 +186,6 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
-||dns.decloudus.com^
 ||adguard.dekonix.ru^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
@@ -268,7 +265,6 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
-||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
@@ -532,7 +528,6 @@
 ||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
-||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^
@@ -709,7 +704,6 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
-||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Nov 2025 21:28 UTC
-# Version: 2025.1125.2128.52
+# Last modified: 26 Nov 2025 09:28 UTC
+# Version: 2025.1126.0928.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13849
+# Number of entries: 13853
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -740,7 +740,6 @@ local=/artosnomics.com/
 local=/artourose.com/
 local=/artovitel.com/
 local=/installateur.artpro-24.pro/
-local=/artvibe-wellness.com/
 local=/arvato-entertainment.de/
 local=/arwibon.us/
 local=/arzi.de/
@@ -3045,6 +3044,7 @@ local=/del.de/
 local=/delebensmittel.com/
 local=/delegacar.com/
 local=/delhihurricanes.com/
+local=/delicioush.com/
 local=/delightsky.store/
 local=/delishpetfoodde.com/
 local=/parcel.deliv.com/
@@ -3801,6 +3801,7 @@ local=/enormous.shop/
 local=/enrichor.com/
 local=/ensemble4cyclisme.com/
 local=/entermusic.it/
+local=/entertainl.com/
 local=/enthusiastichaic.com/
 local=/enthusiastip.com/
 local=/entornobanoes.com/
@@ -4384,6 +4385,7 @@ local=/firat-handel24.de/
 local=/firat-shopping.de/
 local=/firegemss.com/
 local=/firewood-versand.de/
+local=/firmadmire.com/
 local=/firmeneintrag.net/
 local=/first-bikes.de/
 local=/first-investcapital.com/
@@ -4601,6 +4603,7 @@ local=/free-maket.com/
 local=/freeacnevs.xyz/
 local=/freeacy.com/
 local=/freemobile24.de/
+local=/freeseem.com/
 local=/freesmarttools.com/
 local=/freeteck.shop/
 local=/freiemarkt.de/
@@ -6093,6 +6096,7 @@ local=/huck24.com/
 local=/hudyrc.com/
 local=/huelstamoebelhaus.com/
 local=/huewi.xyz/
+local=/hugetsky.com/
 local=/hugfirst.com/
 local=/hugoverkauf.de/
 local=/huiiltn.shop/
@@ -6144,6 +6148,7 @@ local=/hxuenb.shop/
 local=/hybridfahrrader.com/
 local=/hydrip.de/
 local=/hygienecleanshop.com/
+local=/hyip.com/
 local=/hype-handel.de/
 local=/hype-hoodies.com/
 local=/hypelaced.co/
@@ -7157,7 +7162,6 @@ local=/laites.shop/
 local=/de.lajondo.com/
 local=/lakihair.com/
 local=/lakuwa24.de/
-local=/lalamise.com/
 local=/laltraveu.org/
 local=/lamario.de/
 local=/lamena.de/
