@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 10:25 UTC
-# Version: 2025.1128.1025.35
+# Last modified: 28 Nov 2025 18:00 UTC
+# Version: 2025.1128.1800.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 94374
+# Number of entries: 94371
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -3031,7 +3031,6 @@ local=/22niceph.co/
 local=/22onlinegames.com/
 local=/22phcasino.com/
 local=/22ricky-casino-australia.com/
-local=/22rickycasino.net/
 local=/22rickycasinoewallet.com/
 local=/22rickycasinologin.com/
 local=/22takabet.com/
@@ -8614,7 +8613,6 @@ local=/aibetsolutions.com/
 local=/aibonuscasino.com/
 local=/aicasino.bot/
 local=/aicasino.today/
-local=/aicasinohack.com/
 local=/aicasinos.tech/
 local=/aiccblog.com/
 local=/aifi.se/
@@ -13172,6 +13170,7 @@ local=/bestonlinecasino-australia.org/
 local=/bestonlinecasino-br.com/
 local=/bestonlinecasinoau.online/
 local=/bestonlinecasinoaustraliafastpayouts.site/
+local=/bestonlinecasinocanada.com/
 local=/bestonlinecasinocanada24x.com/
 local=/bestonlinecasinoddesk.com/
 local=/bestonlinecasinogambling.co/
@@ -15578,6 +15577,7 @@ local=/betsz777.com/
 local=/betszinos.com/
 local=/betszireg.org/
 local=/betszmbets.com/
+local=/bett2you.org/
 local=/bettabets.africa/
 local=/bettabets.ai/
 local=/bettabets.app/
@@ -29033,7 +29033,6 @@ local=/charliedontsurfmag.com/
 local=/charlscasino.live/
 local=/charmariebycharity.store/
 local=/charmcasino.cyou/
-local=/charmix.site/
 local=/charrispublicidad.com/
 local=/chat-567slots.com/
 local=/chatbets.app/
@@ -40414,7 +40413,6 @@ local=/gacor108slot.net/
 local=/gacor1995.top/
 local=/gacor199pro.site/
 local=/gacor3.org/
-local=/gacor33.top/
 local=/gacor388.top/
 local=/gacor5000s.com/
 local=/gacor66site.online/
@@ -44136,6 +44134,7 @@ local=/heapsofwins-casinos.org/
 local=/heapsofwinscasinonz.com/
 local=/heapsofwinslive.com/
 local=/heapsofwinsplay.com/
+local=/heartbreakslotserpent.com/
 local=/heatscasino.bet/
 local=/heatscasino.ca/
 local=/heatscasino-fr.com/
@@ -77599,7 +77598,6 @@ local=/satriabetrune.xyz/
 local=/satriabetversus.xyz/
 local=/satta.casino/
 local=/sattabetss.com/
-local=/sattacasino.com/
 local=/satu277.net/
 local=/satu277.shop/
 local=/satu277-top1.shop/
@@ -87159,7 +87157,6 @@ local=/vagabets.info/
 local=/vaganzapoker.net/
 local=/vagbets.com/
 local=/vaidebet.com/
-local=/vairalnews.site/
 local=/vajinadaralticikrem.com/
 local=/vak88casino.com/
 local=/vak88casino.org/

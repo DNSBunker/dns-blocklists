@@ -1415,6 +1415,13 @@
       }
     },
     {
+      "PK": "maws-aax-fe-sin.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "maws-aax-us-east-rtb-adx.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -2046,6 +2053,13 @@
     },
     {
       "PK": "vfwm.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vfwm-us.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764325560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764352800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Nov 2025 10:26 UTC
-; Version: 2025.1128.1026.08
+; Last modified: 28 Nov 2025 18:00 UTC
+; Version: 2025.1128.1800.38
 ; Syntax: RPZ
-; Number of entries: 97782
+; Number of entries: 97776
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -15016,8 +15016,6 @@ aibetsolutions.com CNAME .
 *.aibetsolutions.com CNAME .
 aibonuscasino.com CNAME .
 *.aibonuscasino.com CNAME .
-aicasinohack.com CNAME .
-*.aicasinohack.com CNAME .
 aiinbets.com CNAME .
 *.aiinbets.com CNAME .
 aiinsportsbets.com CNAME .
@@ -17082,6 +17080,8 @@ bestonlinebookmakers.com CNAME .
 *.bestonlinebookmakers.com CNAME .
 bestonlinecasino.com CNAME .
 *.bestonlinecasino.com CNAME .
+bestonlinecasinocanada.com CNAME .
+*.bestonlinecasinocanada.com CNAME .
 bestonlinecasinocanada24x.com CNAME .
 *.bestonlinecasinocanada24x.com CNAME .
 bestonlinecasinoddesk.com CNAME .
@@ -32106,6 +32106,8 @@ heapsofwinslive.com CNAME .
 *.heapsofwinslive.com CNAME .
 heapsofwinsplay.com CNAME .
 *.heapsofwinsplay.com CNAME .
+heartbreakslotserpent.com CNAME .
+*.heartbreakslotserpent.com CNAME .
 heatscasino-fr.com CNAME .
 *.heatscasino-fr.com CNAME .
 heavencasinov.com CNAME .
@@ -46608,8 +46610,6 @@ satospins-casino.com CNAME .
 *.satospins-casino.com CNAME .
 sattabetss.com CNAME .
 *.sattabetss.com CNAME .
-sattacasino.com CNAME .
-*.sattacasino.com CNAME .
 saucedwilmington.com CNAME .
 *.saucedwilmington.com CNAME .
 saudagardevelopers.com CNAME .
@@ -62816,8 +62816,6 @@ vulkanoriginals.name CNAME .
 *.2288bet.net CNAME .
 22bet1.net CNAME .
 *.22bet1.net CNAME .
-22rickycasino.net CNAME .
-*.22rickycasino.net CNAME .
 23phwin.net CNAME .
 *.23phwin.net CNAME .
 24casino.net CNAME .
@@ -70408,6 +70406,8 @@ betsyrice.org CNAME .
 *.betsyrice.org CNAME .
 betszireg.org CNAME .
 *.betszireg.org CNAME .
+bett2you.org CNAME .
+*.bett2you.org CNAME .
 betway-official-india.org CNAME .
 *.betway-official-india.org CNAME .
 betwayafrica.org CNAME .
@@ -80754,8 +80754,6 @@ championslots7.site CNAME .
 *.championslots7.site CNAME .
 championslots8.site CNAME .
 *.championslots8.site CNAME .
-charmix.site CNAME .
-*.charmix.site CNAME .
 chickencasino.site CNAME .
 *.chickencasino.site CNAME .
 citislotsplayku.site CNAME .
@@ -81468,8 +81466,6 @@ gg.ulti700.site CNAME .
 *.gg.ulti700.site CNAME .
 usbtogel.site CNAME .
 *.usbtogel.site CNAME .
-vairalnews.site CNAME .
-*.vairalnews.site CNAME .
 vavada-casino1.site CNAME .
 *.vavada-casino1.site CNAME .
 vavadanumberonecasino.site CNAME .
@@ -84730,8 +84726,6 @@ ga88.top CNAME .
 *.ga88.top CNAME .
 gacor1995.top CNAME .
 *.gacor1995.top CNAME .
-gacor33.top CNAME .
-*.gacor33.top CNAME .
 gacor388.top CNAME .
 *.gacor388.top CNAME .
 gacor955.top CNAME .

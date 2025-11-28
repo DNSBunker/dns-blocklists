@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Nov 2025 18:09 UTC
-# Version: 2025.1121.1809.03
+# Last modified: 28 Nov 2025 18:09 UTC
+# Version: 2025.1128.1809.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 196
+# Number of entries: 197
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -119,6 +119,7 @@ images.ssbusiness.samsung.com
 bigdata.ssp.samsung.com
 target-us.samsung.com
 samsungacr.com
+samsungadhub.com
 samsungads.com
 samsungallstore.com
 ureca.samsungapps.com
