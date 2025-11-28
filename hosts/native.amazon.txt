@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Nov 2025 18:02 UTC
-# Version: 2025.1121.1802.00
+# Last modified: 28 Nov 2025 18:02 UTC
+# Version: 2025.1128.1802.36
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 618
+# Number of entries: 620
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -288,7 +288,6 @@
 0.0.0.0 device-metrics-us-ud.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 dra.amazon-adsystem.com
-0.0.0.0 dub.stv.event-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 endpoint.prod.eu-west-1.forester.a2z.com
 0.0.0.0 endpoint.prod.us-east-1.forester.a2z.com
 0.0.0.0 endpoint.prod.us-west-2.forester.a2z.com
@@ -397,6 +396,7 @@
 0.0.0.0 maws-aax-apse-rtb.amazon-adsystem.com
 0.0.0.0 maws-aax-eu-rtb-adx.amazon-adsystem.com
 0.0.0.0 maws-aax-eu-rtb.amazon-adsystem.com
+0.0.0.0 maws-aax-fe-sin.amazon-adsystem.com
 0.0.0.0 maws-aax-us-east-rtb-adx.amazon-adsystem.com
 0.0.0.0 maws-aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 maws-aax-us-east-test4.amazon-adsystem.com
@@ -496,6 +496,7 @@
 0.0.0.0 strategicpub.eu-west.aps.axp.amazon-adsystem.com
 0.0.0.0 strategicpub.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 strategicpub.us-west.aps.axp.amazon-adsystem.com
+0.0.0.0 stv.bid-eu.ads.aps.amazon-adsystem.com
 0.0.0.0 stv.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 stv.bid-na.ads.aps.amazon-adsystem.com
@@ -585,6 +586,7 @@
 0.0.0.0 vfw-us-west.amazon-adsystem.com
 0.0.0.0 vfw-us.amazon-adsystem.com
 0.0.0.0 vfw.amazon-adsystem.com
+0.0.0.0 vfwm-us.amazon-adsystem.com
 0.0.0.0 vfwm.amazon-adsystem.com
 0.0.0.0 vfws.amazon-adsystem.com
 0.0.0.0 video-ads.a2z.com

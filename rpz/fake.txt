@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764322080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764353400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Nov 2025 09:28 UTC
-; Version: 2025.1128.0928.08
+; Last modified: 28 Nov 2025 18:10 UTC
+; Version: 2025.1128.1810.39
 ; Syntax: RPZ
-; Number of entries: 27852
+; Number of entries: 27884
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1538,6 +1538,8 @@ germanyremote.co CNAME .
 *.germanyremote.co CNAME .
 globalcryptorcv.co CNAME .
 *.globalcryptorcv.co CNAME .
+gmmplatform.co CNAME .
+*.gmmplatform.co CNAME .
 guardianinvest.co CNAME .
 *.guardianinvest.co CNAME .
 haso.co CNAME .
@@ -1582,6 +1584,8 @@ nat-s.co CNAME .
 *.nat-s.co CNAME .
 neuleben.co CNAME .
 *.neuleben.co CNAME .
+nexberg-ag.co CNAME .
+*.nexberg-ag.co CNAME .
 on-on.co CNAME .
 *.on-on.co CNAME .
 www.buy-bitcoin.pagedemo.co CNAME .
@@ -1594,6 +1598,8 @@ pressl.co CNAME .
 *.pressl.co CNAME .
 profititerra.co CNAME .
 *.profititerra.co CNAME .
+q-solutions.co CNAME .
+*.q-solutions.co CNAME .
 quantacapital.co CNAME .
 *.quantacapital.co CNAME .
 quantumbumex.co CNAME .
@@ -1864,6 +1870,8 @@ adihilfe.com CNAME .
 *.adihilfe.com CNAME .
 adjoningtem.com CNAME .
 *.adjoningtem.com CNAME .
+adler-ch.com CNAME .
+*.adler-ch.com CNAME .
 admiral-markets.com CNAME .
 *.admiral-markets.com CNAME .
 admiralmarketsltd.com CNAME .
@@ -2106,6 +2114,8 @@ aloyogadeutschlande.com CNAME .
 *.aloyogadeutschlande.com CNAME .
 aloyogasdeutschland.com CNAME .
 *.aloyogasdeutschland.com CNAME .
+alpacamining.com CNAME .
+*.alpacamining.com CNAME .
 alpbeat.com CNAME .
 *.alpbeat.com CNAME .
 alpenrose-mode.com CNAME .
@@ -2114,6 +2124,8 @@ alphabetk.com CNAME .
 *.alphabetk.com CNAME .
 alphabetw.com CNAME .
 *.alphabetw.com CNAME .
+alphaconnectcapital.com CNAME .
+*.alphaconnectcapital.com CNAME .
 alphaforgood.com CNAME .
 *.alphaforgood.com CNAME .
 alphaletesuomi.com CNAME .
@@ -4032,6 +4044,8 @@ capital-coins.com CNAME .
 *.capital-coins.com CNAME .
 capital-diamond.com CNAME .
 *.capital-diamond.com CNAME .
+capital-rvg.com CNAME .
+*.capital-rvg.com CNAME .
 capitalcourtage.com CNAME .
 *.capitalcourtage.com CNAME .
 capitalfxs.com CNAME .
@@ -4480,6 +4494,8 @@ coinmoh.com CNAME .
 *.coinmoh.com CNAME .
 coinspayworld.com CNAME .
 *.coinspayworld.com CNAME .
+coinvestor-ai.com CNAME .
+*.coinvestor-ai.com CNAME .
 colbertcap.com CNAME .
 *.colbertcap.com CNAME .
 coldeez.com CNAME .
@@ -5600,6 +5616,8 @@ eaepp.com CNAME .
 *.eaepp.com CNAME .
 eafengrowkniveshub.com CNAME .
 *.eafengrowkniveshub.com CNAME .
+eaglegloballp.com CNAME .
+*.eaglegloballp.com CNAME .
 earlynoon.com CNAME .
 *.earlynoon.com CNAME .
 earringtset.com CNAME .
@@ -6214,6 +6232,8 @@ exclusiveskis.com CNAME .
 *.exclusiveskis.com CNAME .
 exclusivewears.com CNAME .
 *.exclusivewears.com CNAME .
+exivara24.com CNAME .
+*.exivara24.com CNAME .
 exklusivendesign.com CNAME .
 *.exklusivendesign.com CNAME .
 exo-marketing.com CNAME .
@@ -11850,6 +11870,8 @@ oliviachic.com CNAME .
 *.oliviachic.com CNAME .
 omecyer.com CNAME .
 *.omecyer.com CNAME .
+omega-cap.com CNAME .
+*.omega-cap.com CNAME .
 omegafxoptions.com CNAME .
 *.omegafxoptions.com CNAME .
 omrontechils.com CNAME .
@@ -16428,6 +16450,10 @@ verkehrsbande.com CNAME .
 *.verkehrsbande.com CNAME .
 verkettet-dogs.com CNAME .
 *.verkettet-dogs.com CNAME .
+vermoegenmeister.com CNAME .
+*.vermoegenmeister.com CNAME .
+vermoegensvermittler.com CNAME .
+*.vermoegensvermittler.com CNAME .
 veroshell.com CNAME .
 *.veroshell.com CNAME .
 versandpharma.com CNAME .
@@ -24456,6 +24482,8 @@ enlightenera.ltd CNAME .
 *.enlightenera.ltd CNAME .
 infinitytrade.ltd CNAME .
 *.infinitytrade.ltd CNAME .
+investing-in.ltd CNAME .
+*.investing-in.ltd CNAME .
 mirainvestments.ltd CNAME .
 *.mirainvestments.ltd CNAME .
 pacificgroup.ltd CNAME .
@@ -24600,6 +24628,8 @@ capital888.net CNAME .
 *.capital888.net CNAME .
 carharttchile.net CNAME .
 *.carharttchile.net CNAME .
+casoum.net CNAME .
+*.casoum.net CNAME .
 caterpillarbootscanada.net CNAME .
 *.caterpillarbootscanada.net CNAME .
 ccs-consulting.net CNAME .
@@ -25708,6 +25738,8 @@ velvezev.ru CNAME .
 *.velvezev.ru CNAME .
 wholesalefactory.ru CNAME .
 *.wholesalefactory.ru CNAME .
+auresthiqan.sbs CNAME .
+*.auresthiqan.sbs CNAME .
 okwave.taxenough.sbs CNAME .
 *.okwave.taxenough.sbs CNAME .
 celago.se CNAME .

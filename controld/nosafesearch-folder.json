@@ -666,13 +666,6 @@
       }
     },
     {
-      "PK": "search.xcloud.live",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "search.zeroish.xyz",
       "action": {
         "do": 0,
@@ -919,13 +912,6 @@
     },
     {
       "PK": "searx.netzspielplatz.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "searxng.diadz.de",
       "action": {
         "do": 0,
         "status": 1

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1763748540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764353340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Samsung Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 21 Nov 2025 18:09 UTC
-; Version: 2025.1121.1809.03
+; Last modified: 28 Nov 2025 18:09 UTC
+; Version: 2025.1128.1809.44
 ; Syntax: RPZ
-; Number of entries: 392
+; Number of entries: 394
 ;
 h4g3z1-native.samsung.web.app CNAME .
 *.h4g3z1-native.samsung.web.app CNAME .
@@ -128,6 +128,8 @@ target-us.samsung.com CNAME .
 *.target-us.samsung.com CNAME .
 samsungacr.com CNAME .
 *.samsungacr.com CNAME .
+samsungadhub.com CNAME .
+*.samsungadhub.com CNAME .
 samsungads.com CNAME .
 *.samsungads.com CNAME .
 samsungallstore.com CNAME .

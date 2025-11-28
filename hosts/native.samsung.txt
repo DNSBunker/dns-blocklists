@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Nov 2025 18:09 UTC
-# Version: 2025.1121.1809.03
+# Last modified: 28 Nov 2025 18:09 UTC
+# Version: 2025.1128.1809.44
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 264
+# Number of entries: 269
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -168,6 +168,10 @@
 0.0.0.0 log-ingestion-v2-ap2.samsungacr.com
 0.0.0.0 s3-config.samsungacr.com
 0.0.0.0 www.samsungacr.com
+0.0.0.0 samsungadhub.com
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 ww25.ad.samsungadhub.com
+0.0.0.0 www.samsungadhub.com
 0.0.0.0 samsungads.com
 0.0.0.0 ad-server.samsungads.com
 0.0.0.0 ads.samsungads.com
@@ -241,6 +245,7 @@
 0.0.0.0 business.samsungusa.com
 0.0.0.0 app.business.samsungusa.com
 0.0.0.0 images.business.samsungusa.com
+0.0.0.0 mail01.business.samsungusa.com
 0.0.0.0 api-samsung.swypeconnect.com
 0.0.0.0 lbs-samsung.swypeconnect.com
 0.0.0.0 samsungau.api.useinsider.com

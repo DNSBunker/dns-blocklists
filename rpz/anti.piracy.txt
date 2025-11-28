@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764325560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764352560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Nov 2025 10:26 UTC
-; Version: 2025.1128.1026.31
+; Last modified: 28 Nov 2025 17:56 UTC
+; Version: 2025.1128.1756.27
 ; Syntax: RPZ
-; Number of entries: 22714
+; Number of entries: 22718
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5784,6 +5784,8 @@ mystresser.com CNAME .
 *.mystresser.com CNAME .
 myunblock.com CNAME .
 *.myunblock.com CNAME .
+myvidplay.com CNAME .
+*.myvidplay.com CNAME .
 mywarez.com CNAME .
 *.mywarez.com CNAME .
 nabtor.com CNAME .
@@ -13808,6 +13810,8 @@ putlockers.net CNAME .
 *.putlockers.net CNAME .
 pwtorrents.net CNAME .
 *.pwtorrents.net CNAME .
+quantumbooter.net CNAME .
+*.quantumbooter.net CNAME .
 quantumstress.net CNAME .
 *.quantumstress.net CNAME .
 quebec-team.net CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 10:26 UTC
-# Version: 2025.1128.1026.31
+# Last modified: 28 Nov 2025 17:56 UTC
+# Version: 2025.1128.1756.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11357
+# Number of entries: 11359
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -6622,6 +6622,7 @@ local=/mytorento.ru/
 local=/mytracker.ru/
 local=/myunblock.com/
 local=/myvi.tv/
+local=/myvidplay.com/
 local=/rfc5746.mywaifu.best/
 local=/tracker.mywaifu.best/
 local=/mywarez.com/
@@ -7727,6 +7728,7 @@ local=/qoob.name/
 local=/qqdl.site/
 local=/qtstm32fan.ru/
 local=/tracker.qu.ax/
+local=/quantumbooter.net/
 local=/quantumstress.net/
 local=/quantus.tv/
 local=/quebec-partage.com/
