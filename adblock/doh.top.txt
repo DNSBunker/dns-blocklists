@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Nov 2025 10:33 UTC
-! Version: 2025.1127.1033.09
+! Last modified: 28 Nov 2025 06:33 UTC
+! Version: 2025.1128.0633.43
 ! Syntax: AdBlock
-! Number of entries: 794
+! Number of entries: 795
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -192,6 +192,7 @@
 ||mainframe.dewed.de^
 ||digitale-gesellschaft.ch^
 ||dns.digitalsize.net^
+||dingdangnao.com^
 ||doh.disconnect.app^
 ||dns.google^
 ||dns.pub^

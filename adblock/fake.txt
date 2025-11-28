@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Nov 2025 13:27 UTC
-! Version: 2025.1127.1327.56
+! Last modified: 28 Nov 2025 05:28 UTC
+! Version: 2025.1128.0528.07
 ! Syntax: AdBlock
-! Number of entries: 13923
+! Number of entries: 13924
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2877,6 +2877,7 @@
 ||danggood.de^
 ||dangotech.de^
 ||daniel-grilling.com^
+||danielius-rogovas.com^
 ||danmarkpotenspiller.com^
 ||dannerboots.de^
 ||dannerbootsfrance.net^

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Nov 2025 14:31 UTC
-! Version: 2025.1127.1431.29
+! Last modified: 28 Nov 2025 06:33 UTC
+! Version: 2025.1128.0633.49
 ! Syntax: AdBlock
-! Number of entries: 6220
+! Number of entries: 6256
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -69,6 +69,7 @@
 ||123ultraproxy.com^
 ||123unblocked.com^
 ||12vpx.com^
+||hkali.13142233.xyz^
 ||usxui.13142233.xyz^
 ||dns.13evl.com^
 ||dns1.13evl.com^
@@ -158,6 +159,7 @@
 ||alidns.51top.info^
 ||520ily.cn^
 ||dns.52306.org^
+||dns-hk.524228.xyz^
 ||www-vpn.52oupa.com^
 ||adguard2.546413.xyz^
 ||bwg.559299366.xyz^
@@ -316,6 +318,7 @@
 ||dns.airmaxcloud.uk^
 ||dns.airns.net^
 ||airvpn.org^
+||dns.aixxycode.id^
 ||adguard.ajinga.net^
 ||rdjdns.ajraspi.xyz^
 ||dns.akbxr.com^
@@ -767,6 +770,7 @@
 ||browserling.com^
 ||home.bruckmoser.it^
 ||81.brudnowski.eu^
+||81xyz.brudnowski.eu^
 ||sabine.bruno2000.link^
 ||help.brynlewis.com^
 ||adguard.bse4792.site^
@@ -913,6 +917,7 @@
 ||stella.clae.net^
 ||dns.clanless.ovh^
 ||dns.clanto.cloud^
+||myagh.claptrap.me^
 ||classicpen.us^
 ||adguard.clawsucht.eu^
 ||prdot.cldsrv.es^
@@ -1114,6 +1119,7 @@
 ||quickproxy.co.uk^
 ||dns.rawalker.co.nz^
 ||rfastvpn.co.cc^
+||rmdns26.co.uk^
 ||sbdns.co.in^
 ||secvpnproxy.co.cc^
 ||dns.skuy.co.id^
@@ -1325,6 +1331,7 @@
 ||cybertunnel.org^
 ||dns2.cybrespace.net^
 ||dns.cynthialabs.net^
+||nextcloud.d-alahmad.de^
 ||dns.d365.in^
 ||s2.d3mik.ru^
 ||s3.d3mik.ru^
@@ -1474,8 +1481,7 @@
 ||diglet.org^
 ||eka.dilli.dev^
 ||dns.dimantus.com^
-||code.dingdangnao.com^
-||t.dingdangnao.com^
+||dingdangnao.com^
 ||dns.dionperera.com^
 ||s6.dipper315.tech^
 ||directoryproxy.info^
@@ -1537,10 +1543,13 @@
 ||akl01.dnscry.pt^
 ||ams01.dnscry.pt^
 ||ams02.dnscry.pt^
+||ams03.dnscry.pt^
+||aqx01.dnscry.pt^
 ||ath01.dnscry.pt^
 ||atl01.dnscry.pt^
 ||bcn01.dnscry.pt^
 ||bei01.dnscry.pt^
+||bkk01.dnscry.pt^
 ||blr01.dnscry.pt^
 ||bne01.dnscry.pt^
 ||bog01.dnscry.pt^
@@ -1614,6 +1623,7 @@
 ||mel01.dnscry.pt^
 ||mia01.dnscry.pt^
 ||mil01.dnscry.pt^
+||mnl01.dnscry.pt^
 ||moe01.dnscry.pt^
 ||mow01.dnscry.pt^
 ||mrs01.dnscry.pt^
@@ -1801,6 +1811,7 @@
 ||kalwat.duckdns.org^
 ||kiwifunke.duckdns.org^
 ||kolobok2.duckdns.org^
+||krafty31.duckdns.org^
 ||krtekvpn.duckdns.org^
 ||ldaman.duckdns.org^
 ||leoadguard.duckdns.org^
@@ -1859,6 +1870,7 @@
 ||dnscache.e-utp.net^
 ||proxy.e2encrypted.com^
 ||doh.e7.work^
+||safe.eaccelera.com^
 ||earnapp.com^
 ||earth-vpn.net^
 ||earthvpn.com^
@@ -1959,6 +1971,7 @@
 ||dns.internal.espresso-tasse.de^
 ||essentiallyjay.com^
 ||deepcs.estiloescencial.cl^
+||ns.etalk.ai^
 ||eth.link^
 ||opennic1.eth-services.de^
 ||proxy.eti.pw^
@@ -1968,6 +1981,7 @@
 ||adguard-dns.eu.org^
 ||arashi.eu.org^
 ||armorrush.eu.org^
+||2.baiyue.eu.org^
 ||beautifullife.eu.org^
 ||beautifulthings.eu.org^
 ||jp.dns.bliod.eu.org^
@@ -2281,6 +2295,7 @@
 ||doh.futa.gg^
 ||futurearts.cc^
 ||dns.futuredns.me^
+||dns.fxdc.ru^
 ||g-a-y.pro^
 ||vpn.g-s-a.me^
 ||adg.g3.monster^
@@ -2305,11 +2320,13 @@
 ||gclouddns.com^
 ||gecko.fun^
 ||geckovpn.xyz^
+||dns.geekbyte.de^
 ||geekproxy.com^
 ||adg.geili.me^
 ||nodes.gen4.ninja^
 ||genmirror.com^
 ||genscorp.es^
+||dns.geohide.ru^
 ||adfree-games-at.geometry-games.online^
 ||browser.geometry-games.online^
 ||play-games-at.geometry-games.online^
@@ -2777,8 +2794,10 @@
 ||ikhebdorst.nl^
 ||iksde.com^
 ||ilinhy.com^
+||ilmxs.com^
 ||ilumu.com^
 ||ilysk.lol^
+||ad.imblien.com^
 ||noads.imbuffering.com^
 ||dns.imchristian.de^
 ||dns1.imkvq.com^
@@ -3041,6 +3060,7 @@
 ||dns.k3nny.fr^
 ||kaandikec.com^
 ||kaiwu.xyz^
+||kallemarc.de^
 ||adguard.kalyanmudumby.com^
 ||dns.kamilszczepanski.com^
 ||adguard.kantinyoyok.xyz^
@@ -3066,6 +3086,7 @@
 ||doh.kekew.info^
 ||doh.kekew.racing^
 ||doh3.kekew.info^
+||kekv.fun^
 ||doh.kel.pe^
 ||kellerbier-home.com^
 ||dns.kellys.pw^
@@ -3307,6 +3328,7 @@
 ||orau.lz0724.com^
 ||orjp4.lz0724.com^
 ||addns1.m-it.ro^
+||ag.m0fo.com^
 ||mabuktogel.builders^
 ||mabuktogel.business^
 ||mabuktogel.cards^
@@ -3458,6 +3480,7 @@
 ||guard.miracloud.fr^
 ||miskoss.fun^
 ||netcup.mismat.ch^
+||mistasinresolver.ru^
 ||mitmproxy.org^
 ||httpdns.browser.miui.com^
 ||dns.miyun1.com^
@@ -3537,6 +3560,7 @@
 ||dns.mikrotikrumahan.my.id^
 ||c1.msocportal.my.id^
 ||math.netlab.my.id^
+||doh.oco-lae.my.id^
 ||dns.pnh.my.id^
 ||dns.ramsky.my.id^
 ||agh-jkt.santainetwork.my.id^
@@ -4444,6 +4468,7 @@
 ||qaiik.info^
 ||qaz.tw^
 ||home.qbak.net^
+||adk.qcloud.work^
 ||qingmo.vip^
 ||doh.qis.io^
 ||dns.qkc.fr^
@@ -4650,6 +4675,7 @@
 ||doq.sa-sa.eu^
 ||scienceforkids.saahee.cn^
 ||adguard.app.sabino.pro^
+||sabzipolobamahi.nl^
 ||sacarino.es^
 ||math.sachhot.com^
 ||pns2.sadraidc.com^
@@ -4680,6 +4706,7 @@
 ||mobile.development.sanluix.org^
 ||tools.development.sanluix.org^
 ||lol.sanluix.org^
+||dns.sansetsafe.ru^
 ||saoudiproxy.info^
 ||router.sapib.ca^
 ||dns.sarak.as^
@@ -5078,6 +5105,7 @@
 ||resolver.sunet.se^
 ||sunnygyl.com^
 ||doh.sunoaki.net^
+||agha.sunryu.site^
 ||sunvpn.net^
 ||bigbugpoppearblack.super-modding.quest^
 ||kadowaki.super-modding.quest^
@@ -5424,6 +5452,7 @@
 ||swe.try-dns.com^
 ||dns.tryk.app^
 ||arxthegoat.ts0880.es^
+||dns.server2.tschoerner.eu^
 ||adg.tshost.no^
 ||seible.tsurukawa.org^
 ||net.tt6.net^
@@ -5757,6 +5786,7 @@
 ||dns.vinokurov.tk^
 ||dns.vip-kingstore.xyz^
 ||z.vipit.one^
+||alina.virttec.net^
 ||virtual-browser.com^
 ||dns.virtual-qr.ir^
 ||virtualshield.com^
@@ -5843,6 +5873,7 @@
 ||vpnme.me^
 ||vpnmentor.com^
 ||vpnmonster.ru^
+||vpnmy.ru^
 ||vpnneo.com^
 ||vpnoneclick.com^
 ||vpnonelove.ru^
@@ -5921,6 +5952,7 @@
 ||domeq.waw.pl^
 ||waydnes.ru^
 ||dns.wdnts.eu^
+||dns6.web.id^
 ||dns.engineer.web.id^
 ||h4g3z1-doh-vpn-proxy-bypass.web.app^
 ||mathematics.hana.web.id^
@@ -5962,6 +5994,7 @@
 ||webtunnel.org^
 ||webtunnelx.com^
 ||webxify.com^
+||adg.webyfa.ir^
 ||webypass.info^
 ||dns.wechat.com^
 ||paydns.wechatpay.cn^
@@ -6047,6 +6080,7 @@
 ||wyx.cloud^
 ||ads.x88.in^
 ||adguard.x88x.xyz^
+||mydns.x96maxultra.ru^
 ||x9fnzrtl4x8pynsf.com^
 ||adguard.xandersalarie.com^
 ||adb-home.xaoimoon.fr^
@@ -6089,6 +6123,7 @@
 ||xvbelink.com^
 ||xvpn.io^
 ||dns.xwdmw.xyz^
+||dns.xwu.us^
 ||v2.xx3210766.live^
 ||dns.xydustc.me^
 ||v1.xylto.com^
@@ -6115,6 +6150,7 @@
 ||sg.yepdns.com^
 ||yeralin.net^
 ||dns.ygonline.de^
+||ns6.ygy.ru^
 ||dns.yingroad.top^
 ||ylink.info^
 ||appart.yoannchappaz.best^

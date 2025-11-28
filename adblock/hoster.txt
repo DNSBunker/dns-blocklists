@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 27 Nov 2025 21:56 UTC
-! Version: 2025.1127.2156.39
+! Last modified: 28 Nov 2025 05:56 UTC
+! Version: 2025.1128.0556.33
 ! Syntax: AdBlock
-! Number of entries: 1328
+! Number of entries: 1327
 !
 ||000a.de^
 ||000space.com^
@@ -967,7 +967,6 @@
 ||pancake.run^
 ||parknhost.com^
 ||party.lc^
-||payhip.com^
 ||pc.lc^
 ||pcbusiness.club^
 ||pcriot.com^

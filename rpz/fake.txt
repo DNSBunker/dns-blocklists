@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764250020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764307680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 27 Nov 2025 13:27 UTC
-; Version: 2025.1127.1327.56
+; Last modified: 28 Nov 2025 05:28 UTC
+; Version: 2025.1128.0528.07
 ; Syntax: RPZ
-; Number of entries: 27846
+; Number of entries: 27848
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4894,6 +4894,8 @@ dangelapanelli.com CNAME .
 *.dangelapanelli.com CNAME .
 daniel-grilling.com CNAME .
 *.daniel-grilling.com CNAME .
+danielius-rogovas.com CNAME .
+*.danielius-rogovas.com CNAME .
 danmarkpotenspiller.com CNAME .
 *.danmarkpotenspiller.com CNAME .
 dannerwandelschoen.com CNAME .
