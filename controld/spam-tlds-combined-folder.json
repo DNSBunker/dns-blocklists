@@ -3472,6 +3472,13 @@
       }
     },
     {
+      "PK": "lanparty.house",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.lat",
       "action": {
         "do": 0,

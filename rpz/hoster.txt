@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764323760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764367020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Nov 2025 09:56 UTC
-; Version: 2025.1128.0956.04
+; Last modified: 28 Nov 2025 21:57 UTC
+; Version: 2025.1128.2157.03
 ; Syntax: RPZ
-; Number of entries: 2656
+; Number of entries: 2658
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2198,6 +2198,8 @@ securebankinggroup.org CNAME .
 *.securebankinggroup.org CNAME .
 srv1.org CNAME .
 *.srv1.org CNAME .
+telrock.org CNAME .
+*.telrock.org CNAME .
 tuxfamily.org CNAME .
 *.tuxfamily.org CNAME .
 ucoz.org CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764353400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764365280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Nov 2025 18:10 UTC
-; Version: 2025.1128.1810.39
+; Last modified: 28 Nov 2025 21:28 UTC
+; Version: 2025.1128.2128.46
 ; Syntax: RPZ
-; Number of entries: 27884
+; Number of entries: 27914
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -8076,6 +8076,10 @@ heizoel-station.com CNAME .
 *.heizoel-station.com CNAME .
 heizoelblitz.com CNAME .
 *.heizoelblitz.com CNAME .
+heizoelhanse.com CNAME .
+*.heizoelhanse.com CNAME .
+heizoelnord.com CNAME .
+*.heizoelnord.com CNAME .
 heizoelonline24.com CNAME .
 *.heizoelonline24.com CNAME .
 heizoelsolutions.com CNAME .
@@ -11796,6 +11800,30 @@ odlorabatt.com CNAME .
 *.odlorabatt.com CNAME .
 odmorvila.com CNAME .
 *.odmorvila.com CNAME .
+oel24x.com CNAME .
+*.oel24x.com CNAME .
+oelfast.com CNAME .
+*.oelfast.com CNAME .
+oelhanse.com CNAME .
+*.oelhanse.com CNAME .
+oelhub.com CNAME .
+*.oelhub.com CNAME .
+oelify.com CNAME .
+*.oelify.com CNAME .
+oelline.com CNAME .
+*.oelline.com CNAME .
+oellogistik.com CNAME .
+*.oellogistik.com CNAME .
+oelmobil.com CNAME .
+*.oelmobil.com CNAME .
+oelnow.com CNAME .
+*.oelnow.com CNAME .
+oelone.com CNAME .
+*.oelone.com CNAME .
+oelrun.com CNAME .
+*.oelrun.com CNAME .
+oeltiger.com CNAME .
+*.oeltiger.com CNAME .
 oesterreichischeapotheke.com CNAME .
 *.oesterreichischeapotheke.com CNAME .
 ofendeutschland.com CNAME .
@@ -13072,6 +13100,8 @@ quickdna.com CNAME .
 *.quickdna.com CNAME .
 quickiex.com CNAME .
 *.quickiex.com CNAME .
+quickoel.com CNAME .
+*.quickoel.com CNAME .
 quiksilveraustria.com CNAME .
 *.quiksilveraustria.com CNAME .
 quotationi.com CNAME .

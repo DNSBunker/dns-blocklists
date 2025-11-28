@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 28 Nov 2025 18:10 UTC
-! Version: 2025.1128.1810.39
+! Last modified: 28 Nov 2025 21:28 UTC
+! Version: 2025.1128.2128.46
 ! Syntax: AdBlock
-! Number of entries: 13942
+! Number of entries: 13957
 !
 ||01broker.com^
 ||01crypto.com^
@@ -5761,11 +5761,13 @@
 ||heizoelbp.de^
 ||heizoelfit.de^
 ||heizoelgo.de^
+||heizoelhanse.com^
 ||heizoelit.de^
 ||heizoelitx.de^
 ||heizoelix.de^
 ||heizoeljet.de^
 ||heizoellieferung.de^
+||heizoelnord.com^
 ||heizoelo.de^
 ||heizoelonline24.com^
 ||heizoelport.de^
@@ -9119,20 +9121,32 @@
 ||odmorvila.com^
 ||mkt.oeamtc.at^
 ||oel-direkt.de^
+||oel24x.com^
+||oelfast.com^
 ||oelflix.de^
 ||oelgo.de^
+||oelhanse.com^
 ||oelheizung24.de^
+||oelhub.com^
+||oelify.com^
 ||oelino.de^
 ||oelit.de^
 ||oelity.de^
 ||oeljet.de^
 ||oeljetzt.de^
+||oelline.com^
+||oellogistik.com^
 ||oelman.de^
+||oelmobil.com^
 ||oelnet.de^
+||oelnow.com^
+||oelone.com^
 ||oelonlineshop.de^
 ||oelora.de^
 ||oelpilot.de^
 ||oelpreisfinder.de^
+||oelrun.com^
+||oeltiger.com^
 ||oeltix.de^
 ||oeluno.de^
 ||oelup.de^
@@ -10191,6 +10205,7 @@
 ||quick-kredit.com^
 ||quickdna.com^
 ||quickiex.com^
+||quickoel.com^
 ||quiker.shop^
 ||quiksilveraustria.com^
 ||quordlepuzzles.de^

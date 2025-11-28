@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764357120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764368940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 28 Nov 2025 19:12 UTC
-; Version: 2025.1128.1912.13
+; Last modified: 28 Nov 2025 22:29 UTC
+; Version: 2025.1128.2229.17
 ; Syntax: RPZ
-; Number of entries: 156140
+; Number of entries: 156136
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -38562,8 +38562,6 @@ hk0na.com CNAME .
 *.hk0na.com CNAME .
 hkadultstore.com CNAME .
 *.hkadultstore.com CNAME .
-hkstarphoto.com CNAME .
-*.hkstarphoto.com CNAME .
 hlebo.com CNAME .
 *.hlebo.com CNAME .
 hlyyxxxcciawwow.com CNAME .
@@ -60190,8 +60188,6 @@ prostitutkihelp.com CNAME .
 *.prostitutkihelp.com CNAME .
 prostitutkilove.com CNAME .
 *.prostitutkilove.com CNAME .
-prostitutkimoskvybar.com CNAME .
-*.prostitutkimoskvybar.com CNAME .
 prostitutkimoskvycity.com CNAME .
 *.prostitutkimoskvycity.com CNAME .
 prostitutkimoskvysite.com CNAME .

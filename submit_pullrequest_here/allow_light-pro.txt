@@ -1,5 +1,8 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/8146
+analytics.home-assistant.io
+
 # https://github.com/hagezi/dns-blocklists/issues/8108
 receive-lp1.dg.srv.nintendo.net
 receive-lp1.er.srv.nintendo.net

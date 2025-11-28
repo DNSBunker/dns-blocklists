@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 18:10 UTC
-# Version: 2025.1128.1810.39
+# Last modified: 28 Nov 2025 21:28 UTC
+# Version: 2025.1128.2128.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13942
+# Number of entries: 13957
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -5760,11 +5760,13 @@ local=/heizoelblitz.de/
 local=/heizoelbp.de/
 local=/heizoelfit.de/
 local=/heizoelgo.de/
+local=/heizoelhanse.com/
 local=/heizoelit.de/
 local=/heizoelitx.de/
 local=/heizoelix.de/
 local=/heizoeljet.de/
 local=/heizoellieferung.de/
+local=/heizoelnord.com/
 local=/heizoelo.de/
 local=/heizoelonline24.com/
 local=/heizoelport.de/
@@ -9118,20 +9120,32 @@ local=/odlorabatt.com/
 local=/odmorvila.com/
 local=/mkt.oeamtc.at/
 local=/oel-direkt.de/
+local=/oel24x.com/
+local=/oelfast.com/
 local=/oelflix.de/
 local=/oelgo.de/
+local=/oelhanse.com/
 local=/oelheizung24.de/
+local=/oelhub.com/
+local=/oelify.com/
 local=/oelino.de/
 local=/oelit.de/
 local=/oelity.de/
 local=/oeljet.de/
 local=/oeljetzt.de/
+local=/oelline.com/
+local=/oellogistik.com/
 local=/oelman.de/
+local=/oelmobil.com/
 local=/oelnet.de/
+local=/oelnow.com/
+local=/oelone.com/
 local=/oelonlineshop.de/
 local=/oelora.de/
 local=/oelpilot.de/
 local=/oelpreisfinder.de/
+local=/oelrun.com/
+local=/oeltiger.com/
 local=/oeltix.de/
 local=/oeluno.de/
 local=/oelup.de/
@@ -10190,6 +10204,7 @@ local=/quendora.com/
 local=/quick-kredit.com/
 local=/quickdna.com/
 local=/quickiex.com/
+local=/quickoel.com/
 local=/quiker.shop/
 local=/quiksilveraustria.com/
 local=/quordlepuzzles.de/
