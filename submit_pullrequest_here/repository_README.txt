@@ -870,11 +870,13 @@ HaGeZi DNS provides free, non-commercial public resolvers for Europe, combining 
 
 For details, visit the [project repository](https://github.com/hagezi/dns-servers).                
 
-| Location           | Protocols     | Endpoint/URL                          | Apple<br>Config        | Good<br>EU Latency    |
+| Location           | Protocols     | Endpoint/URL                          | Apple<br>Config        | Recommended for    |
 |--------------------|---------------|-------------------------------------|-----------------------|-------------------------|
-| Germany, Falkenstein| DoH/DoH3      | `https://root.hagezi.org/dns-query`   | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/root-hagezi-org.mobileconfig) [QR](/mobileconfig/root-hagezi-org.mobileconfig.png)    | DE, PL, CZ, AT, NL, DK, FR, LU, BE |
+| Germany, Falkenstein| DoH/DoH3      | `https://root.hagezi.org/dns-query`   | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/root-hagezi-org.mobileconfig) [QR](/mobileconfig/root-hagezi-org.mobileconfig.png)    | AT, BE, BG, CZ, DK, FR, DE, HU, IT, LU, NL, PL, SK, SI | 
 |                    | DoT/QUIC      | `root.hagezi.org`                     |                       |                         |
-| Finland, Helsinki   | DoH/DoH3      | `https://juuri.hagezi.org/dns-query`  | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/juuri-hagezi-org.mobileconfig) [QR](/mobileconfig/juuri-hagezi-org.mobileconfig.png)    | FI, EE, SE, LV, LT, PL, DK |
+| Germany, Nuremberg| DoH/DoH3      | `https://wurzn.hagezi.org/dns-query`   | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/wurzn-hagezi-org.mobileconfig) [QR](/mobileconfig/wurzn-hagezi-org.mobileconfig.png)    | AT, BE, HR, CZ, DK, FR, DE, HU, IT, LU, NL, PL, RO, SK, SI | 
+|                    | DoT/QUIC      | `wurzn.hagezi.org`                     |                       |                         |
+| Finland, Helsinki   | DoH/DoH3      | `https://juuri.hagezi.org/dns-query`  | [Link](https://raw.githubusercontent.com/hagezi/dns-servers/refs/heads/main/mobileconfig/juuri-hagezi-org.mobileconfig) [QR](/mobileconfig/juuri-hagezi-org.mobileconfig.png)    | DK, EE, FI, LV, LT, SE | 
 |                    | DoT/QUIC      | `juuri.hagezi.org`                    |                       |                         |
 
 #### :department_store: **DNSBUNKER.org (Germany) - free** <a name="dnsbunker"></a>
