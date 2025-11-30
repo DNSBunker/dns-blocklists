@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Nov 2025 09:16 UTC
-! Version: 2025.1130.0916.46
+! Last modified: 30 Nov 2025 17:17 UTC
+! Version: 2025.1130.1717.20
 ! Syntax: AdBlock
-! Number of entries: 1296
+! Number of entries: 1297
 !
 @@||1-aclk.net^
 @@||1aurl.io^
@@ -592,6 +592,7 @@
 @@||ck.hdm3.in^
 @@||healthresources.co^
 @@||healthservices.help^
+@@||api.heylink.com^
 @@||d.hodes.com^
 @@||click.holidayinnclubemail.com^
 @@||homeresource.online^

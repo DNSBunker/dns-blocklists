@@ -841,6 +841,13 @@
       }
     },
     {
+      "PK": "api.heylink.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "api*.hubapi.com",
       "action": {
         "do": 1,

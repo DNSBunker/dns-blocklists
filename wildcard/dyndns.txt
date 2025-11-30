@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 23 Nov 2025 02:32 UTC
-# Version: 2025.1123.0232.38
+# Last modified: 30 Nov 2025 18:32 UTC
+# Version: 2025.1130.1832.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1468
+# Number of entries: 1467
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -280,7 +280,6 @@
 *.dedyn.io
 *.demosoftonline.com
 *.demoteam.ch
-*.desec.io
 *.dh3.com
 *.dhcp.biz
 *.dhis.org

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Nov 2025 09:27 UTC
-# Version: 2025.1130.0927.44
+# Last modified: 30 Nov 2025 17:28 UTC
+# Version: 2025.1130.1728.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14025
+# Number of entries: 14028
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1825,6 +1825,7 @@ local=/brennholzboersch.com/
 local=/brennholzdge.com/
 local=/brennholzdirekt.com/
 local=/brennholzdoeg.com/
+local=/brennholzededgar.com/
 local=/brennholzforheat.com/
 local=/brennholzgo.de/
 local=/brennholzkamin.de/
@@ -5998,6 +5999,7 @@ local=/hoferwien.com/
 local=/hoff-de.com/
 local=/hoffmannwelpen.de/
 local=/hofinger-modehaus.com/
+local=/hofman.com/
 local=/hofmann23.de/
 local=/hofmannmode.de/
 local=/hofnergraz.at/
@@ -7043,6 +7045,7 @@ local=/kleidungsmarkt.com/
 local=/klein-shop.de/
 local=/kleinegeschende.com/
 local=/kleinwien.at/
+local=/kleversholz.com/
 local=/kleverzins.de/
 local=/klimmotorrad.com/
 local=/klingerdirndl.com/
