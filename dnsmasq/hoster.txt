@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Nov 2025 09:56 UTC
-# Version: 2025.1129.0956.08
+# Last modified: 30 Nov 2025 09:55 UTC
+# Version: 2025.1130.0955.10
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1328
 #
@@ -28,6 +28,7 @@ local=/0fees.us/
 local=/0hna.com/
 local=/one4u.0lx.net/
 local=/0pe.kr/
+local=/0pi.com/
 local=/1.vg/
 local=/10001mb.com/
 local=/100freemb.com/
@@ -1097,7 +1098,6 @@ local=/spaceplay.top/
 local=/sport-pro.de/
 local=/sportsontheweb.net/
 local=/spruz.com/
-local=/square.site/
 local=/square7.ch/
 local=/srv1.org/
 local=/start.lc/

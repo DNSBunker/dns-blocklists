@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764408480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764494820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Nov 2025 09:28 UTC
-; Version: 2025.1129.0928.01
+; Last modified: 30 Nov 2025 09:27 UTC
+; Version: 2025.1130.0927.44
 ; Syntax: RPZ
-; Number of entries: 28030
+; Number of entries: 28050
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2354,6 +2354,8 @@ apkwell.com CNAME .
 *.apkwell.com CNAME .
 aplschuhe.com CNAME .
 *.aplschuhe.com CNAME .
+apollus24.com CNAME .
+*.apollus24.com CNAME .
 apotek-no24.com CNAME .
 *.apotek-no24.com CNAME .
 apotek-norge24.com CNAME .
@@ -4532,6 +4534,8 @@ colourwarm.com CNAME .
 *.colourwarm.com CNAME .
 columbiashoesmalaysia.com CNAME .
 *.columbiashoesmalaysia.com CNAME .
+apollus24.com.com CNAME .
+*.apollus24.com.com CNAME .
 combitranslogistics.com CNAME .
 *.combitranslogistics.com CNAME .
 combojoy.com CNAME .
@@ -5714,6 +5718,8 @@ econosavecenter.com CNAME .
 *.econosavecenter.com CNAME .
 ecoooc.com CNAME .
 *.ecoooc.com CNAME .
+ecoreichholz.com CNAME .
+*.ecoreichholz.com CNAME .
 ecosilkroad.com CNAME .
 *.ecosilkroad.com CNAME .
 ecovadisnaowk.com CNAME .
@@ -8386,6 +8392,8 @@ holzheimersdorf.com CNAME .
 *.holzheimersdorf.com CNAME .
 holzliefer.com CNAME .
 *.holzliefer.com CNAME .
+holzlieferung.com CNAME .
+*.holzlieferung.com CNAME .
 holzpuzzlez.com CNAME .
 *.holzpuzzlez.com CNAME .
 holzraun.com CNAME .
@@ -8896,6 +8904,8 @@ introducek.com CNAME .
 *.introducek.com CNAME .
 introductiont.com CNAME .
 *.introductiont.com CNAME .
+inumerabl.com CNAME .
+*.inumerabl.com CNAME .
 invaluablte.com CNAME .
 *.invaluablte.com CNAME .
 platform.invesco-trading.com CNAME .
@@ -10252,6 +10262,8 @@ luminousw.com CNAME .
 *.luminousw.com CNAME .
 lumisvea.com CNAME .
 *.lumisvea.com CNAME .
+lumnz.com CNAME .
+*.lumnz.com CNAME .
 smartphonepeak.lunakebe.com CNAME .
 *.smartphonepeak.lunakebe.com CNAME .
 lunevio.com CNAME .
@@ -13468,6 +13480,8 @@ reubenco.com CNAME .
 *.reubenco.com CNAME .
 reveilove.com CNAME .
 *.reveilove.com CNAME .
+revenuescompany.com CNAME .
+*.revenuescompany.com CNAME .
 revoltmode.com CNAME .
 *.revoltmode.com CNAME .
 revolutionracecam.com CNAME .
@@ -16492,6 +16506,8 @@ vavaplay.com CNAME .
 *.vavaplay.com CNAME .
 m.vbridal.com CNAME .
 *.m.vbridal.com CNAME .
+vcwholzpellets.com CNAME .
+*.vcwholzpellets.com CNAME .
 vdbgarage.com CNAME .
 *.vdbgarage.com CNAME .
 vddeals.com CNAME .
@@ -24402,6 +24418,8 @@ airnext.io CNAME .
 *.airnext.io CNAME .
 areatrading.io CNAME .
 *.areatrading.io CNAME .
+autoalpha.io CNAME .
+*.autoalpha.io CNAME .
 besteuhren.io CNAME .
 *.besteuhren.io CNAME .
 bitcoindecode.io CNAME .
@@ -27932,6 +27950,8 @@ investingideas.world CNAME .
 *.investingideas.world CNAME .
 quaerocapital.world CNAME .
 *.quaerocapital.world CNAME .
+quantum-banc.world CNAME .
+*.quantum-banc.world CNAME .
 thermomix.world CNAME .
 *.thermomix.world CNAME .
 spotiifyprimesnova.ct.ws CNAME .

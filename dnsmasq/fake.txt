@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Nov 2025 09:28 UTC
-# Version: 2025.1129.0928.01
+# Last modified: 30 Nov 2025 09:27 UTC
+# Version: 2025.1130.0927.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14015
+# Number of entries: 14025
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -612,6 +612,7 @@ local=/apharmacie.com/
 local=/apkwell.com/
 local=/aplschuhe.at/
 local=/aplschuhe.com/
+local=/apollus24.com/
 local=/apotek-no24.com/
 local=/apotek-norge24.com/
 local=/apoteket.to/
@@ -871,6 +872,7 @@ local=/autmaxx.com/
 local=/auto-logik.de/
 local=/auto-partshome.com/
 local=/autoabdeckungsfabrik.com/
+local=/autoalpha.io/
 local=/autobahn88shop.com/
 local=/autobahnfahrschule.at/
 local=/autochromatic.com/
@@ -2486,6 +2488,7 @@ local=/columbiashoesmalaysia.com/
 local=/airjordan.com.de/
 local=/allbirds.com.de/
 local=/alternativamoveisltda.com.br/
+local=/apollus24.com.com/
 local=/aradia.com.br/
 local=/arquetiposhop.com.br/
 local=/artigosmatheus.com.br/
@@ -3583,6 +3586,7 @@ local=/economix.io/
 local=/economizesses.xyz/
 local=/econosavecenter.com/
 local=/ecoooc.com/
+local=/ecoreichholz.com/
 local=/ecosilkroad.com/
 local=/ecovadisnaowk.com/
 local=/ecs-solutions.net/
@@ -6037,6 +6041,7 @@ local=/holzharry.shop/
 local=/holzhaven.de/
 local=/holzheimersdorf.com/
 local=/holzliefer.com/
+local=/holzlieferung.com/
 local=/holzmarkte.de/
 local=/holzonly.de/
 local=/holzpuzzlez.com/
@@ -6491,6 +6496,7 @@ local=/intoheair.com/
 local=/intonationu.com/
 local=/introducek.com/
 local=/introductiont.com/
+local=/inumerabl.com/
 local=/invaluablte.com/
 local=/platform.invesco-trading.com/
 local=/investbook.fr/
@@ -7754,6 +7760,7 @@ local=/luminara-mode.de/
 local=/luminaraofficial.de/
 local=/luminousw.com/
 local=/lumisvea.com/
+local=/lumnz.com/
 local=/lumori.de/
 local=/smartphonepeak.lunakebe.com/
 local=/lunarelleberlin.de/
@@ -10222,6 +10229,7 @@ local=/quantacapital.co/
 local=/quantum-ai.at/
 local=/quantum-ai.io/
 local=/quantum-ai-be.com/
+local=/quantum-banc.world/
 local=/quantumai.fr/
 local=/quantumaiplatform.com/
 local=/quantumbumex.co/
@@ -10513,6 +10521,7 @@ local=/retrowinegeschaft.com/
 local=/retter-de.shop/
 local=/reubenco.com/
 local=/reveilove.com/
+local=/revenuescompany.com/
 local=/reviewpunt.nl/
 local=/revitaprost.eu/
 local=/revoltmode.com/
@@ -13033,6 +13042,7 @@ local=/vayco.de/
 local=/vbarefootkaufen.de/
 local=/vbpu.top/
 local=/m.vbridal.com/
+local=/vcwholzpellets.com/
 local=/vdbgarage.com/
 local=/vddae.pro/
 local=/vddeals.com/

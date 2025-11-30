@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Nov 2025 10:31 UTC
-! Version: 2025.1129.1031.55
+! Last modified: 30 Nov 2025 10:31 UTC
+! Version: 2025.1130.1031.17
 ! Syntax: AdBlock
-! Number of entries: 805
+! Number of entries: 804
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -135,8 +135,7 @@
 ||dns.cctld.kg^
 ||httpdns.c.cdnhwc2.com^
 ||httpdns1.cc.cdnhwc5.com^
-||deic-lgb.anycast.censurfridns.dk^
-||deic-ore.anycast.censurfridns.dk^
+||anycast.censurfridns.dk^
 ||unicast.censurfridns.dk^
 ||dns.cert.ee^
 ||cfdjb.org^
@@ -540,7 +539,6 @@
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
 ||dns2.nextdns.io^
-||edge.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^
@@ -718,6 +716,7 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
+||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^
