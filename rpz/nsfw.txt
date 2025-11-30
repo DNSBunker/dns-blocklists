@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764527400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764541680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Nov 2025 18:30 UTC
-; Version: 2025.1130.1830.13
+; Last modified: 30 Nov 2025 22:28 UTC
+; Version: 2025.1130.2228.02
 ; Syntax: RPZ
-; Number of entries: 155722
+; Number of entries: 155736
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -784,6 +784,8 @@ sex-shop-olivos.com.ar CNAME .
 *.sex-shop-olivos.com.ar CNAME .
 sexshopargentino.com.ar CNAME .
 *.sexshopargentino.com.ar CNAME .
+sexshopdelenceria.com.ar CNAME .
+*.sexshopdelenceria.com.ar CNAME .
 sexshopimportados.com.ar CNAME .
 *.sexshopimportados.com.ar CNAME .
 sexshopsdevoto.com.ar CNAME .
@@ -28900,6 +28902,8 @@ esboss.com CNAME .
 *.esboss.com CNAME .
 escandala.com CNAME .
 *.escandala.com CNAME .
+escapefromquarantine.com CNAME .
+*.escapefromquarantine.com CNAME .
 escapegayrimenkul.com CNAME .
 *.escapegayrimenkul.com CNAME .
 escasaerotica.com CNAME .
@@ -67268,6 +67272,8 @@ soakporn.com CNAME .
 *.soakporn.com CNAME .
 soamadorasbr.com CNAME .
 *.soamadorasbr.com CNAME .
+soapcosmos.com CNAME .
+*.soapcosmos.com CNAME .
 soaprope.com CNAME .
 *.soaprope.com CNAME .
 soapslut.com CNAME .
@@ -94022,6 +94028,8 @@ thecam.life CNAME .
 *.thecam.life CNAME .
 themysweetsexy.life CNAME .
 *.themysweetsexy.life CNAME .
+tkb7sm.life CNAME .
+*.tkb7sm.life CNAME .
 toa.life CNAME .
 *.toa.life CNAME .
 truyenhentaivn.life CNAME .
@@ -115826,6 +115834,8 @@ cartoonnetwork.pt CNAME .
 *.cartoonnetwork.pt CNAME .
 clix.pt CNAME .
 *.clix.pt CNAME .
+clubin.pt CNAME .
+*.clubin.pt CNAME .
 fleshlight.com.pt CNAME .
 *.fleshlight.com.pt CNAME .
 conviviocm.pt CNAME .
@@ -116420,6 +116430,8 @@ adult69.ro CNAME .
 *.adult69.ro CNAME .
 bulentduagi.ro CNAME .
 *.bulentduagi.ro CNAME .
+cleomasaj.ro CNAME .
+*.cleomasaj.ro CNAME .
 porno.com.ro CNAME .
 *.porno.com.ro CNAME .
 xxx.com.ro CNAME .
@@ -141620,6 +141632,8 @@ tantaly.co.uk CNAME .
 *.tantaly.co.uk CNAME .
 tarandchipsussex.co.uk CNAME .
 *.tarandchipsussex.co.uk CNAME .
+tenerifeapartments.co.uk CNAME .
+*.tenerifeapartments.co.uk CNAME .
 the-wild-west.co.uk CNAME .
 *.the-wild-west.co.uk CNAME .
 thebondgirls.co.uk CNAME .
